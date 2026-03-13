@@ -1,0 +1,139 @@
+# Sesi 01: Mengenal Jati Diri — Siapakah Aku?
+
+> *"Dan (ingatlah) ketika Tuhanmu berfirman kepada para malaikat, 'Sesungguhnya Aku hendak menjadikan seorang khalifah di muka bumi.'"* (QS. Al-Baqarah: 30)
+
+**Level:** 1 — Mubtadi (Pemula)
+**Durasi:** 120 menit
+**Peserta:** Mahasiswa baru dalam lingkaran dakwah kampus
+
+---
+
+## Tujuan Pembelajaran
+
+Setelah mengikuti sesi ini, peserta diharapkan mampu:
+
+1. **Mengartikulasikan** makna identitas Muslim secara sadar — bukan sekadar warisan budaya, melainkan pilihan hidup yang penuh kesadaran.
+2. **Mengidentifikasi** krisis identitas yang melanda generasi muda Muslim Indonesia dan memahami akar penyebabnya.
+3. **Menghayati** peran sebagai khalifah di muka bumi dan menghubungkannya dengan kehidupan sehari-hari di kampus.
+4. **Menuliskan** komitmen pribadi sebagai langkah awal perjalanan pengenalan diri yang lebih dalam.
+
+---
+
+## Pembukaan & Ice Breaker (10 menit)
+
+### Aktivitas: "Tiga Kata Tentang Aku"
+
+Fasilitator membuka dengan salam dan basmalah, lalu meminta setiap peserta menuliskan **tiga kata** yang paling menggambarkan diri mereka di selembar kertas kecil. Tanpa nama.
+
+Kertas dikumpulkan, diacak, lalu dibacakan satu per satu. Peserta menebak siapa pemiliknya.
+
+**Refleksi singkat dari fasilitator:**
+
+*"Perhatikan — kebanyakan dari kita mendefinisikan diri dengan jurusan, hobi, atau sifat. Tapi berapa banyak yang menulis 'hamba Allah' atau 'Muslim'? Hari ini kita akan bicara tentang siapa kita sebenarnya — di balik semua label yang dunia tempelkan pada kita."*
+
+---
+
+## Materi Inti 1: Identitas sebagai Muslim — Apa Maknanya? (20 menit)
+
+Menjadi Muslim di Indonesia sering terasa *default*. Kita lahir di keluarga Muslim, punya KTP bertuliskan Islam, ikut shalat Jumat — tapi pernahkah kita **memilih** Islam dengan kesadaran penuh?
+
+Ada perbedaan mendasar antara **Islam warisan** dan **Islam kesadaran**. Islam warisan berkata: *"Aku Muslim karena orangtuaku Muslim."* Islam kesadaran berkata: *"Aku Muslim karena aku telah mengenal Allah, dan aku memilih untuk tunduk kepada-Nya."*
+
+Ibrahim 'alaihissalam tidak mewarisi tauhid dari ayahnya — justru ayahnya penyembah berhala. Ia **menemukan** Allah melalui perenungan mendalam terhadap langit, bulan, dan matahari (QS. Al-An'am: 75-79). Imannya adalah hasil pencarian, bukan warisan.
+
+**Pertanyaan untuk direnungkan:** Jika Islam dihapus dari KTP-mu, dari kebiasaan keluargamu, dari lingkunganmu — apakah kamu masih akan memilih Islam? Jika ya, mengapa?
+
+Syahadat yang kita ucapkan bukan sekadar kalimat seremonial. Ia adalah **pernyataan politik eksistensial** — deklarasi bahwa tidak ada otoritas tertinggi selain Allah. Tidak tren, tidak budaya populer, tidak tekanan sosial. Hanya Allah.
+
+Menjadi Muslim berarti memiliki **identitas yang melampaui zaman dan geografi**. Kita tersambung dengan Ibrahim, Musa, Isa, dan Muhammad — shallallahu 'alaihim wasallam. Kita bagian dari ummah yang merentang dari Maroko hingga Mindanao, dari abad ke-7 hingga hari ini.
+
+---
+
+## Materi Inti 2: Krisis Identitas Pemuda Muslim Indonesia (20 menit)
+
+Mari jujur: generasi muda Muslim Indonesia sedang mengalami krisis identitas yang serius.
+
+Di satu sisi, ada tarikan **sekularisme** yang mengatakan agama adalah urusan pribadi — simpan di rumah, jangan bawa ke kampus, jangan bicara di ruang publik. Di sisi lain, ada tarikan **radikalisme** yang mereduksi Islam menjadi kemarahan dan kebencian terhadap yang berbeda.
+
+Di antara dua kutub itu, kebanyakan dari kita **terombang-ambing**. Kita merasa terlalu religius untuk pergaulan mainstream, tapi terlalu "liberal" untuk kelompok yang sangat ketat. Kita tidak punya pijakan yang kokoh.
+
+Tambahkan lagi: media sosial yang membombardir kita dengan standar hidup yang materialistis. Algoritma yang menjual kebahagiaan semu. Budaya kampus yang mengukur keberhasilan dari IPK dan magang di perusahaan besar — bukan dari kedekatan dengan Allah atau kontribusi pada umat.
+
+Hasilnya? Generasi yang **galau secara eksistensial**. Yang shalat tapi tidak tahu mengapa. Yang puasa tapi tidak merasakan apa-apa. Yang memakai identitas Islam di permukaan, tapi kosong di kedalaman.
+
+Ini bukan salah mereka sepenuhnya. Ini adalah **produk dari sistem** yang memisahkan ilmu dari iman, dunia dari akhirat, akal dari hati. Dan tugas kita — sebagai orang yang sudah mulai *sadar* — adalah memulai perjalanan pulang.
+
+---
+
+## Materi Inti 3: Menemukan Kembali Tujuan — Engkau adalah Khalifah (20 menit)
+
+Allah tidak menciptakan manusia secara kebetulan. Sebelum kita lahir, sebelum bumi ini ada, Allah sudah mengumumkan kepada para malaikat: *"Sesungguhnya Aku hendak menjadikan khalifah di muka bumi."*
+
+**Khalifah** — bukan sekadar penghuni. Bukan turis. Bukan penumpang. Khalifah: wakil Allah, pengelola bumi, penjaga amanah.
+
+Ini berarti setiap aspek hidupmu memiliki makna:
+- Kuliahmu adalah **ibadah** jika diniatkan untuk menguasai ilmu yang bermanfaat bagi umat.
+- Organisasimu adalah **jihad** jika dijalankan untuk menegakkan kebaikan dan keadilan.
+- Bahkan istirahatmu adalah **amanah** — karena tubuhmu punya hak atasmu.
+
+Rasulullah shallallahu 'alaihi wasallam bersabda: *"Setiap kalian adalah pemimpin, dan setiap kalian akan dimintai pertanggungjawaban atas kepemimpinannya."* (HR. Bukhari & Muslim)
+
+Kamu tidak perlu menunggu jadi presiden untuk menjadi khalifah. Kamu sudah menjadi khalifah **sekarang** — di kamar kosmu, di kelas kuliahmu, di circle pertemananmu. Pertanyaannya bukan apakah kamu khalifah, tapi **khalifah macam apa.**
+
+---
+
+## Diskusi Kelompok (20 menit)
+
+Bagi peserta menjadi kelompok kecil (4-5 orang). Setiap kelompok mendiskusikan pertanyaan berikut:
+
+1. **Kapan terakhir kali kalian benar-benar merasa "ini aku, ini identitasku sebagai Muslim" — bukan karena lingkungan, tapi karena pilihan sadar?** Ceritakan momennya.
+
+2. **Apa tekanan terbesar yang kalian rasakan di kampus yang membuat identitas keislaman terasa sulit untuk dihidupi?** Bagaimana kalian menghadapinya selama ini?
+
+3. **Jika kalian benar-benar menghayati bahwa kalian adalah khalifah Allah di kampus ini, apa satu hal konkret yang akan kalian lakukan berbeda mulai minggu depan?**
+
+Setiap kelompok memilih satu perwakilan untuk menyampaikan ringkasan diskusi (masing-masing 2-3 menit).
+
+---
+
+## Refleksi & Penulisan Komitmen Pribadi (15 menit)
+
+Fasilitator meminta peserta mengambil waktu hening. Matikan ponsel. Tutup mata sejenak.
+
+Lalu, masing-masing menulis di buku catatan mereka — **hanya untuk diri sendiri, tidak akan dikumpulkan** — tiga hal:
+
+1. **Satu hal yang aku sadari hari ini** tentang diriku dan identitasku.
+2. **Satu kebiasaan lama** yang ingin aku tinggalkan karena tidak sesuai dengan jati diriku sebagai Muslim.
+3. **Satu langkah kecil** yang akan aku mulai minggu ini sebagai bentuk kesadaranku bahwa aku adalah khalifah Allah.
+
+*Fasilitator mengingatkan: "Tulisan ini adalah janji antara kamu dan Allah. Bukan untuk dipamerkan. Bukan untuk dinilai. Simpan, dan baca kembali sebulan dari sekarang."*
+
+---
+
+## Penutup, Doa, dan Tugas (15 menit)
+
+### Doa Penutup
+
+Fasilitator memimpin doa bersama, memohon kepada Allah agar:
+- Diberikan kejelasan identitas dan keteguhan di jalan-Nya.
+- Dijadikan khalifah yang layak di muka bumi-Nya.
+- Disatukan hati para peserta dalam ukhuwwah yang tulus.
+
+### Tugas untuk Sesi Berikutnya
+
+1. **Baca** QS. Al-Baqarah ayat 30-39 beserta tafsirnya (gunakan Tafsir Ibnu Katsir atau Tafsir Al-Misbah). Renungkan: apa yang Allah ceritakan tentang penciptaan manusia dan misi kekhalifahan?
+
+2. **Tulis refleksi singkat** (1 paragraf) menjawab pertanyaan: *"Apa yang berubah dalam cara aku memandang diriku setelah sesi ini?"*
+
+3. **Tantangan praktis:** Pilih satu shalat wajib dalam sehari, dan lakukan dengan **penuh kesadaran** — dari wudhu hingga salam. Rasakan setiap gerakan. Hayati setiap bacaan. Catat pengalamanmu.
+
+---
+
+## Referensi untuk Pendalaman
+
+- **Al-Qur'an**, khususnya QS. Al-Baqarah: 30-39, QS. Al-An'am: 75-79, QS. Adz-Dzariyat: 56
+- **Muhammad Al-Ghazali**, *Jaddid Hayatak* (Perbarui Hidupmu) — tentang membangun kesadaran diri Islami
+- **Said Hawwa**, *Al-Mustakhlash fi Tazkiyatil Anfus* — panduan tazkiyah an-nafs yang komprehensif
+- **Tariq Ramadan**, *Western Muslims and the Future of Islam* — tentang identitas Muslim di dunia modern
+- **Hasan Al-Banna**, *Risalah Pergerakan* — tentang pembentukan karakter dai muda
+- **Hamka**, *Tasawuf Modern* — tentang pencarian jati diri dalam tradisi Islam Nusantara
