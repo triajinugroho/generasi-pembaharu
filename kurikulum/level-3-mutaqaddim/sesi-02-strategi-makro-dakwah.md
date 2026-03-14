@@ -103,6 +103,16 @@ Walisongo tidak membawa pasukan. Mereka membawa gamelan, wayang, dan arsitektur.
 - Maka strategi ideal menggabungkan keduanya: taghyir an-nafs (perubahan diri) + taghyir al-mujtama' (perubahan masyarakat) secara simultan →
 - Inilah model Nabawi: tarbiyah (kultural) + bina' ad-daulah (struktural) berjalan paralel
 
+**Hadits tentang Gradualisme Strategis:**
+
+> *"Mudahkanlah dan jangan mempersulit. Berilah kabar gembira dan jangan membuat orang lari."*
+> — HR. Bukhari dan Muslim dari Anas bin Malik
+
+> *"Sesungguhnya agama ini kuat. Maka masukilah ia dengan kelembutan. Karena orang yang menempuh perjalanan jauh tanpa istirahat tidak akan sampai tujuan dan tidak pula menyelamatkan kendaraannya."*
+> — Riwayat dari Anas, dinukil oleh Al-Baihaqi
+
+Prinsip tadarruj (gradualisme) ini berlaku juga dalam strategi makro: jangan mencoba mengubah segalanya sekaligus. Rasulullah ﷺ sendiri membutuhkan 23 tahun — dengan tahapan yang terencana. Alkohol tidak diharamkan sekaligus. Riba tidak dihapus dalam satu hari. Perubahan yang bertahan adalah perubahan yang bertahap tapi konsisten.
+
 ### 3. Materi Inti B — Membaca Konteks Indonesia (20 menit)
 
 - Peta kekuatan sosial-politik umat Islam Indonesia:
