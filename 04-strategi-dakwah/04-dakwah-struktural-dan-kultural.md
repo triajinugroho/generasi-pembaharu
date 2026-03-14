@@ -232,6 +232,23 @@ Namun perlu ditekankan bahwa umat Islam membutuhkan lebih banyak "profesional da
 
 Umat membutuhkan kader dakwah di setiap sektor kehidupan — inilah esensi dakwah kultural yang sesungguhnya. Seperti yang pernah dikatakan oleh salah seorang pemikir Islam: *"Berdakwahlah di mana kau berdiri, dengan apa yang kau miliki, dan sebisa yang kau mampu."* Tidak semua orang harus menjadi da'i di atas mimbar — kebanyakan dari kita dipanggil untuk menjadi da'i di laboratorium, di ruang operasi, di ruang sidang, di lapangan, di pasar, dan di mana saja kita berada.
 
+**Rantai Logika Tauhid: Dakwah Komprehensif sebagai Tuntutan Rububiyyah**
+- Allah adalah Rabb (Pemelihara) seluruh aspek kehidupan — bukan hanya aspek ritual, tapi juga sosial, politik, ekonomi, budaya, dan intelektual — QS. Al-Fatihah: 2 →
+- Maka Islam yang diturunkan oleh Rabb al-'Alamin pasti mencakup seluruh dimensi kehidupan — bukan hanya ibadah mahdhah, tapi juga muamalah, siyasah, dan tamaddun →
+- Maka dakwah yang hanya menyentuh dimensi ritual tanpa menyentuh struktur sosial, kebijakan publik, dan budaya masyarakat adalah dakwah yang tidak utuh — ia mereduksi Islam menjadi lebih kecil dari yang dikehendaki oleh Rabb yang Maha Komprehensif →
+- Maka integrasi dakwah struktural dan kultural bukan sekadar strategi — ia adalah konsekuensi dari keyakinan bahwa Allah adalah Rabb atas seluruh aspek kehidupan, dan dakwah harus hadir di setiap aspek yang di-rububiyyahi-Nya
+
+---
+
+> ### Titik Refleksi
+>
+> 1. Walisongo mengislamkan Jawa tanpa menghancurkan budaya Jawa — apakah pendekatan dakwahmu di kampus lebih banyak "menghancurkan" budaya yang ada (mengkritik, menolak, membuat tandingan) atau "mentransformasi" dari dalam (masuk, memahami, mengisi dengan nilai Islam)?
+> 2. KH Ahmad Dahlan membangun Muhammadiyah sebagai respons terhadap masalah nyata umat — apa masalah nyata terbesar yang dihadapi mahasiswa Muslim di kampusmu saat ini, dan apakah organisasi dakwahmu sudah memberikan solusi konkret untuknya?
+> 3. Sejarah menunjukkan bahwa kader dakwah yang masuk politik sering terkooptasi oleh kekuasaan — jika kau kelak menduduki posisi struktural (politisi, birokrat, pejabat), apa "garis merah" yang tidak akan pernah kau langgar, dan siapa yang akan mengingatkanmu jika kau mulai melanggarnya?
+> 4. Apakah visi dakwahmu melampaui masa kuliah — sudahkah kau memikirkan jalur mana (struktural atau kultural) yang akan kau tempuh setelah lulus, dan kompetensi apa yang harus kau bangun dari sekarang?
+
+---
+
 ## Refleksi & Aksi
 
 Bab ini telah membahas dua jalur besar dakwah — struktural dan kultural — beserta model-model yang telah dipraktikkan di Indonesia. Kuncinya bukan memilih salah satu, melainkan memahami keduanya dan menemukan posisi terbaikmu di antara keduanya.

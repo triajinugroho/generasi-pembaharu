@@ -37,6 +37,13 @@ Ekosistem yang sehat memiliki karakteristik:
 - **Adaptasi** — mampu beradaptasi dengan perubahan lingkungan tanpa kehilangan esensi.
 - **Keberlanjutan** — berjalan lintas generasi, bukan hanya selama satu periode kepengurusan.
 
+> **Mental Model: Rasulullah SAW — Ekosistem Madinah**
+> 1. Bangun institusi pusat terlebih dahulu — Rasulullah mendirikan Masjid Nabawi sebagai *hub* multifungsi (ibadah, pendidikan, pemerintahan, sosial) sebelum melakukan apa pun lainnya di Madinah
+> 2. Ciptakan jaringan sosial-ekonomi yang saling menopang — ikatan Muhajirin-Anshar bukan sekadar "persaudaraan" simbolis, tapi sistem redistribusi ekonomi di mana Anshar berbagi rumah, harta, dan akses pasar dengan Muhajirin
+> 3. Bangun *suffah* sebagai pusat ilmu — kelompok Ahlus Suffah adalah "lembaga kaderisasi" yang menampung mereka yang sepenuhnya fokus belajar, didanai oleh komunitas
+> 4. Atur hubungan dengan pihak luar melalui kontrak yang jelas — Piagam Madinah adalah "MoU" pertama yang mengatur koeksistensi Muslim dengan non-Muslim, memastikan ekosistem dakwah berjalan dalam konteks pluralitas
+> *Aplikasi: Di kampus, terapkan model Madinah: jadikan masjid kampus sebagai hub multifungsi (bukan hanya tempat shalat), bangun sistem saling bantu antar-kader (tutoring, sharing resources), bentuk kelompok studi intensif (model Suffah), dan bangun hubungan baik dengan organisasi lain melalui kesepakatan yang jelas.*
+
 ### 2. Pilar 1: Kaderisasi Berkelanjutan
 
 Kaderisasi adalah jantung ekosistem dakwah. Tanpa kader yang berkualitas dan terus bertambah, semua komponen lain tidak akan berarti. Kaderisasi berkelanjutan memiliki beberapa elemen kunci:
@@ -100,6 +107,13 @@ Beberapa organisasi dakwah yang sukses dalam membangun tradisi infaq melakukan l
 - Mengaitkan infaq dengan program konkret — "Infaq bulan ini untuk perpustakaan baru" lebih memotivasi daripada infaq tanpa tujuan yang jelas.
 - Membangun budaya bahwa berinfaq adalah investasi akhirat, bukan biaya — perubahan mindset ini sangat penting.
 - Memberikan apresiasi (bukan dalam bentuk materi) kepada kontributor rutin — ucapan terima kasih dan doa yang tulus.
+
+> **Mental Model: Said Hawwa — Jundullah (Tentara Allah)**
+> 1. Kader dakwah bukan sekadar "anggota organisasi" — ia adalah *jundullah* (tentara Allah) yang memiliki misi suci dan disiplin tinggi; kesadaran ini mengubah motivasi dari sekadar partisipasi menjadi dedikasi total
+> 2. Setiap jundi membutuhkan tarbiyah yang mencakup tiga dimensi secara seimbang: ruhiyah (spiritualitas), fikriyah (intelektualitas), dan jasadiyah (fisik) — ekosistem yang hanya membina salah satu akan melahirkan kader yang timpang
+> 3. Organisasi dakwah harus memiliki *nizham* (sistem) yang tidak bergantung pada individu — Said Hawwa menekankan bahwa gerakan yang bergantung pada satu tokoh akan kolaps ketika tokoh itu tiada
+> 4. Solidaritas antar-kader (*tarabbuth*) harus dibangun melalui pengalaman bersama yang nyata — bukan sekadar slogan persaudaraan, tapi berbagi kesulitan, bekerja bahu-membahu, dan saling menanggung beban
+> *Aplikasi: Bangun ekosistem yang membina kader secara holistik — bukan hanya halaqah (ruhiyah), tapi juga diskusi ilmiah (fikriyah) dan kegiatan fisik bersama seperti olahraga atau outbound (jasadiyah). Dan pastikan semua ini berjalan dalam sistem yang terdokumentasi, bukan bergantung pada ingatan satu orang.*
 
 ### 4. Pilar 3: Infrastruktur Ilmu
 

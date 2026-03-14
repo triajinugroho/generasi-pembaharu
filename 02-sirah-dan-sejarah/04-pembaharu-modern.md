@@ -232,6 +232,21 @@ Ia pernah berkata:
 Pelajaran Natsir bagi aktivis dakwah kampus Indonesia sangat langsung: kontribusi tertinggi dakwah adalah membangun peradaban bangsa.
 Aktivis dakwah harus menjadi warga negara terbaik — berkontribusi nyata bagi bangsa, bukan hanya sibuk dengan urusan internal kelompok.
 
+**Rantai Logika Tauhid: Dari Kebangkitan ke Keragaman Metode**
+- Allah menurunkan Islam sebagai rahmat bagi seluruh alam (QS. Al-Anbiya [21]: 107) — maka dakwah Islam harus menjangkau seluruh dimensi kehidupan manusia →
+- Konteks zaman dan tempat yang berbeda menuntut pendekatan yang berbeda pula — sebagaimana para nabi diutus dengan metode yang sesuai kaumnya →
+- Maka keragaman pendekatan pembaharu modern (politik Al-Afghani, pemikiran Abduh, organisasi Al-Banna, tulisan Nursi, kenegarawanan Natsir) bukan kontradiksi — melainkan manifestasi dari universalitas Islam itu sendiri →
+- Maka aktivis dakwah kampus harus menghindari klaim bahwa hanya satu pendekatan yang benar — dan sebaliknya, membangun sinergi antar-pendekatan yang saling melengkapi demi kemaslahatan umat
+
+> **Titik Refleksi**
+>
+> Tujuh pembaharu modern ini mewakili spektrum yang luas. Sebelum masuk ke aksi, renungkan:
+>
+> 1. Al-Afghani membangunkan kesadaran, Abduh mereformasi pemikiran, Al-Banna membangun organisasi, Nursi menulis, Natsir memimpin negara. Dari semua pendekatan ini, mana yang paling cocok dengan potensimu — dan apakah kamu sudah mengembangkan potensi itu secara serius?
+> 2. Hasan Al-Banna memulai gerakan di usia 22 tahun dengan 6 orang pekerja. Apa alasanmu untuk menunda memulai sesuatu yang bermakna — dan apakah alasan itu valid di hadapan Allah?
+> 3. Setiap pembaharu modern juga memiliki kelemahan dan kontroversi. Apakah kamu mampu mengambil yang terbaik dari setiap tokoh tanpa menjadikan satu pun di antara mereka sebagai "nabi kedua" yang tidak boleh dikritisi?
+> 4. Mohammad Natsir berkata: "Kami bukan orang yang meninggalkan dunia untuk agama, bukan pula yang meninggalkan agama untuk dunia." Di mana posisimu di antara dua kutub itu — dan apakah kamu sedang bergerak ke arah yang benar?
+
 ## Refleksi & Aksi
 
 Tujuh tokoh pembaharu modern yang dibahas di bab ini mewakili spektrum pendekatan pembaharuan yang sangat luas.

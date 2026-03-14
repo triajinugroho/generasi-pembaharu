@@ -70,6 +70,13 @@ Muhammadiyah menjadi gerakan modernisasi Islam terbesar di Indonesia, dengan rib
 
 Model Muhammadiyah membuktikan bahwa dakwah paling efektif ketika ia menawarkan solusi nyata untuk masalah umat — bukan hanya ceramah dan kritik, tetapi layanan konkret.
 
+> **Mental Model: KH Ahmad Dahlan — Tajdid Amal (Pembaharuan melalui Aksi Nyata)**
+> 1. Mulai dari yang konkret dan terdekat: Ahmad Dahlan memulai dari hal sederhana — meluruskan arah kiblat masjid — sebelum membangun gerakan besar
+> 2. Jawab kebutuhan riil umat: mendirikan sekolah, rumah sakit, panti asuhan — dakwah yang menyentuh kebutuhan nyata lebih efektif dari dakwah yang hanya bicara
+> 3. Integrasikan ilmu agama dan ilmu modern: terobosan revolusioner yang menolak dikotomi antara "sekolah agama" dan "sekolah umum"
+> 4. Bangun institusi yang berkelanjutan: organisasi yang bertahan lebih dari satu abad membuktikan bahwa sistem lebih penting dari karisma individual
+> *Aplikasi: Di kampusmu, apa kebutuhan riil mahasiswa yang belum terjawab — bimbingan akademik, bantuan ekonomi, kesehatan mental? Jadikan itu pintu masuk dakwah yang relevan dan berdampak.*
+
 **Nahdlatul Ulama (NU)**, didirikan pada 31 Januari 1926 di Surabaya oleh KH. Hasyim Asy'ari bersama para ulama pesantren, mengambil posisi yang berbeda: menjaga tradisi keagamaan dan membangun jaringan pesantren sebagai benteng kultural Islam.
 
 NU menekankan pentingnya bermazhab, menghargai tradisi, dan peran sentral ulama (*kyai*) dalam kepemimpinan umat.
@@ -109,6 +116,13 @@ Ia sempat dipenjara selama dua tahun di era Orde Lama, dan justru di penjara itu
 
 Pelajaran dari era ini: dakwah dan politik bisa berjalan bersama, tetapi memerlukan hikmah yang tinggi.
 Keterlibatan politik membuka peluang besar, tetapi juga membawa risiko fragmentasi, pragmatisme, dan kooptasi kekuasaan.
+
+> **Mental Model: Mohammad Natsir — Negarawan-Dai**
+> 1. Kuasai dua arena sekaligus: Natsir menguasai ilmu agama dari Ahmad Hassan (Persis) dan ilmu modern dari pendidikan Barat — aktivis dakwah harus kompeten di kedua dunia
+> 2. Artikulasikan visi Islam dalam bahasa universal: pidato Natsir di Konstituante menyampaikan aspirasi Islam dalam kerangka ketatanegaraan modern — bukan eksklusif, tapi inklusif
+> 3. Ketika satu pintu tertutup, buka pintu lain: setelah jalur politik tertutup, Natsir mendirikan DDII dan memfokuskan energi pada dakwah dan pendidikan — fleksibilitas strategis tanpa kehilangan visi
+> 4. Kontribusi terbaik bagi dakwah adalah kontribusi terbaik bagi bangsa: Natsir menolak dikotomi antara "kepentingan Islam" dan "kepentingan nasional"
+> *Aplikasi: Aktivis dakwah kampus yang ingin berdampak besar harus menguasai bidang studinya secara excellent, memahami isu-isu nasional, dan mampu mengartikulasikan kontribusi Islam bagi bangsa — bukan hanya berbicara kepada kalangan sendiri.*
 
 ### 4. Era Orde Baru: Dakwah di Bawah Tekanan (1966-1998)
 
@@ -186,6 +200,12 @@ Pelajaran dari era reformasi: kebebasan tanpa persatuan visi menghasilkan fragme
 QS. Ali Imran [3]: 103 mengingatkan:
 
 > *"Dan berpeganglah kamu semuanya kepada tali (agama) Allah, dan janganlah kamu bercerai berai."*
+
+**Rantai Logika Tauhid: Dari Sejarah Lokal ke Misi Universal**
+- Islam datang ke Nusantara melalui dakwah kultural yang kontekstual — bukan penaklukan — membuktikan bahwa metode dakwah harus disesuaikan dengan konteks (QS. Ibrahim [14]: 4: "Kami tidak mengutus seorang rasul pun melainkan dengan bahasa kaumnya") →
+- Maka dakwah di Indonesia memiliki karakter khas yang tidak bisa sekadar mengimpor model dari Timur Tengah, Mesir, atau mana pun →
+- Maka keragaman pendekatan (Muhammadiyah, NU, Persis, gerakan dakwah kampus) adalah kekuatan, bukan kelemahan — selama berpegang pada prinsip tauhid yang sama →
+- Maka aktivis dakwah kampus Indonesia harus membangun gerakan yang berakar pada konteks lokal, terhubung dengan warisan sejarah pergerakan Islam Indonesia, dan sekaligus bervisi universal — menjadi rahmat bagi seluruh alam
 
 ### 6. Gerakan Dakwah Kampus: Potret dan Evaluasi
 
