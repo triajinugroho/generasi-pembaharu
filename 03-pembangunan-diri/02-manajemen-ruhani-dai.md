@@ -21,9 +21,17 @@ Ada sebuah ironi yang menyakitkan dalam dunia dakwah kampus: orang-orang yang pa
 
 Shalat berjamaah di masjid kampus menjadi formalitas — hadir secara fisik, tapi pikiran sudah di rapat berikutnya. Tilawah harian menjadi target statistik yang dikejar demi laporan halaqah, bukan demi interaksi dengan Kalamullah. Dzikir pagi-petang terlewat karena scrolling media sosial yang tidak disadari sudah memakan tiga puluh menit pertama pagi.
 
-Lalu datanglah *burnout* spiritual — kondisi di mana seorang aktivis merasa jenuh, kehilangan makna, bahkan mulai meragukan jalan yang ia tempuh. Ia masih hadir di setiap kegiatan, masih tersenyum di depan mad'u, tapi di dalam hatinya ada kekosongan yang menganga. Ibnu Qayyim al-Jauziyyah menyebut kondisi ini sebagai *maut al-qalb* — matinya hati — yang lebih berbahaya dari matinya badan, karena pemiliknya sering tidak menyadarinya.
+Fenomena ini bukan eksklusif zaman kita. Hasan al-Bashri *rahimahullah* — seorang tabi'in agung yang hidup di masa kejayaan Islam — sudah memperingatkan:
+
+> *"Iman bukan dengan berangan-angan dan berhias diri, tapi iman adalah apa yang bersemayam di hati dan dibuktikan oleh amal perbuatan."*
+
+Lalu datanglah *burnout* spiritual — kondisi di mana seorang aktivis merasa jenuh, kehilangan makna, bahkan mulai meragukan jalan yang ia tempuh. Ia masih hadir di setiap kegiatan, masih tersenyum di depan mad'u, tapi di dalam hatinya ada kekosongan yang menganga.
+
+Ibnu Qayyim al-Jauziyyah menyebut kondisi ini sebagai *maut al-qalb* — matinya hati — yang lebih berbahaya dari matinya badan, karena pemiliknya sering tidak menyadarinya. Dalam *Ighatsat al-Lahfan*, beliau menggambarkan tanda-tandanya: malas beribadah, tidak merasakan nikmat ketaatan, tidak merasa sakit ketika bermaksiat, dan merasa berat ketika harus bermunajat kepada Allah.
 
 Ini bukan aib. Ini adalah realitas yang harus dihadapi dengan jujur. Langkah pertama penyembuhan adalah mengakui bahwa ada yang perlu disembuhkan. Maka bertanyalah pada dirimu dengan tulus: *kapan terakhir kali aku benar-benar merasakan manisnya iman dalam ibadahku?*
+
+Rasulullah SAW bersabda: *"Sesungguhnya iman itu bisa usang di dalam dada kalian sebagaimana pakaian bisa usang. Maka mintalah kepada Allah agar Dia memperbarui iman di dalam hati kalian"* (HR. Hakim). Iman butuh diperbarui. Ruhani butuh dirawat. Dan itulah esensi manajemen ruhani.
 
 ## 2. Shalat sebagai Pusat Kehidupan
 
