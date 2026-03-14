@@ -22,6 +22,13 @@
 - Setiap peserta berbagi: momen paling berdampak selama program
 - Apa yang sudah berubah? Apa yang masih sulit?
 
+> **Mental Model: Nuh AS — Kegigihan Tanpa Syarat Hasil**
+> 1. Sampaikan pesan dengan setiap metode yang tersedia (siang-malam, diam-diam dan terang-terangan)
+> 2. Jangan ukur keberhasilan dari respons manusia
+> 3. Ketika respons negatif, evaluasi METODE bukan MISI — misi tidak berubah
+> 4. 950 tahun = buktikan bahwa istiqamah lebih berharga dari popularitas
+> *Aplikasi: Jika setelah satu semester berdakwah belum ada yang "berubah," evaluasi caramu, bukan semangatmu — dan ingat Nuh yang 950 tahun tidak pernah berhenti.*
+
 ## Evaluasi Diri (25 menit)
 
 ### Formulir Evaluasi
@@ -40,6 +47,12 @@ Peserta mengisi evaluasi diri untuk setiap aspek:
 - Apa 3 pelajaran terpenting yang kau dapat?
 - Apa 1 perubahan terbesar yang sudah terjadi?
 - Apa tantangan terbesar yang masih kau hadapi?
+
+**Rantai Logika Tauhid:**
+- Allah adalah Al-Hayy Al-Qayyum (Maha Hidup dan Berdiri Sendiri) — Dia tidak pernah lelah atau berhenti memelihara →
+- Maka hamba yang bertauhid meneladani konsistensi-Nya dalam skala manusia →
+- Maka berhenti berdakwah karena tidak melihat hasil = mengasumsikan bahwa usaha kita sia-sia, yang berarti meragukan janji Allah →
+- Maka istiqamah adalah bukti iman, dan berhenti adalah tanda kelemahan tauhid
 
 ## Komitmen dan Ikrar (25 menit)
 

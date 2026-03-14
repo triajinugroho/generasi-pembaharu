@@ -13,11 +13,24 @@
 
 ## Materi Inti
 
+**Rantai Logika Tauhid:**
+- Allah adalah Al-Quddus (Maha Suci) dan As-Salam (sumber keselamatan) →
+- Maka hamba-Nya yang bertauhid harus memancarkan kesucian dan keselamatan dalam interaksi →
+- Maka dai yang kasar, sombong, atau manipulatif sedang menampilkan sifat yang bertentangan dengan Tuhannya →
+- Maka perbaikan akhlak bukan sekadar etika sosial — ia adalah konsekuensi langsung dari tauhid
+
 ### Bagian 1: Akhlak sebagai Dakwah (20 menit)
 - Orang lebih melihat perilakumu daripada mendengar ceramahmu
 - Akhlak yang buruk menolak orang dari dakwah
 - QS. Ali Imran: 159 — kelembutan Nabi sebagai rahmat
 - Studi kasus: bagaimana akhlak mengubah hati orang
+
+> **Mental Model: Yusuf AS — Integritas di Bawah Tekanan**
+> 1. Ketika ditawari jalan pintas yang populer tapi salah, tolak secara tegas ("ma'adzallah")
+> 2. Terima konsekuensi penolakan (penjara) daripada kompromi prinsip
+> 3. Di dalam kesulitan, tetap tunjukkan kebaikan kepada orang lain (menafsirkan mimpi sesama tahanan)
+> 4. Allah akan membuka jalan yang tidak pernah terbayangkan — tapi hanya jika integritasmu utuh
+> *Aplikasi: Ketika ditawari jalan pintas akademik (mencontek, plagiat, titip absen), tolak dengan tegas — reputasi integritasmu lebih berharga dari nilai sempurna.*
 
 ### Bagian 2: Adab-adab Utama Da'i (30 menit)
 - **Ikhlas**: beramal untuk Allah, bukan untuk pujian
@@ -26,6 +39,13 @@
 - **Shidq**: jujur dalam ucapan dan perbuatan
 - **Amanah**: bisa dipercaya dalam janji dan tanggung jawab
 - **Rahmah**: menyayangi mad'u, bukan menghakimi
+
+> **Mental Model: Luqman Al-Hakim — Nasihat Berbasis Relasi**
+> 1. Bangun cinta dan kepercayaan terlebih dahulu ("Ya bunayya" — panggilan sayang)
+> 2. Mulai dari fondasi terpenting (tauhid), bukan dari larangan
+> 3. Sampaikan alasan di balik setiap nasihat, bukan sekadar perintah
+> 4. Selipkan kerendahan hati — kamu juga sedang belajar
+> *Aplikasi: Ketika menasihati teman, mulai dengan menunjukkan kepedulian tulus, baru sampaikan isi nasihat — urutan ini tidak boleh dibalik.*
 
 ### Bagian 3: Penyakit yang Harus Diwaspadai (20 menit)
 - Riya: beramal agar dilihat manusia

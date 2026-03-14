@@ -28,6 +28,13 @@
 
 #### 2. Materi Inti A — Prinsip Manajemen Proyek Dakwah (20 menit)
 
+> **Mental Model: Nabi Muhammad SAW — Arsitek Masjid Quba dan Nabawi**
+> 1. Mulai dari FONDASI (Rasulullah meletakkan batu pertama sendiri)
+> 2. Libatkan semua orang — pemimpin bekerja bersama tim, bukan hanya memberi perintah
+> 3. Proyek memiliki tujuan ganda: output fisik + pembinaan ruhani peserta
+> 4. Setiap tahapan dimulai dengan niat, diakhiri dengan evaluasi
+> *Aplikasi: Di proyek dakwah kampus, jangan hanya jadi "manajer yang mendelegasi" — turun tangan langsung dan jadikan prosesnya sebagai sarana tarbiyah tim.*
+
 - Mengapa proyek, bukan sekadar kegiatan:
   - Proyek: punya tujuan jelas, batas waktu, output terukur
   - Kegiatan: bisa repetitif tanpa target spesifik
@@ -44,6 +51,12 @@
   - **Relevant** (relevan): sesuai kebutuhan mad'u dan visi dakwah
   - **Time-bound** (ada batas waktu): ada deadline
   - Ditambah: **Mukhlis** (ikhlas) — niat karena Allah, bukan sekadar tugas
+
+**Rantai Logika Tauhid:**
+- Allah adalah Al-Mutqin (Maha Menyempurnakan) — segala ciptaan-Nya sempurna dan presisi →
+- Maka hamba yang bertauhid meneladani kesempurnaan-Nya dalam bekerja →
+- Maka mengerjakan proyek dakwah secara asal-asalan = tidak meneladani sifat Tuhannya →
+- Maka profesionalisme dalam proyek dakwah bukan "meniru Barat" — ia adalah ibadah dan manifestasi tauhid
 
 #### 3. Materi Inti B — Komponen Proposal Proyek (15 menit)
 
@@ -68,6 +81,13 @@
   - Workshop keterampilan + sisipan tarbiyah untuk anak jalanan atau yatim
   - Serial podcast dakwah mini (5-10 episode)
   - Proyek terjemahan atau penerbitan konten Islami
+
+> **Mental Model: Utsman bin Affan — Investasi Strategis untuk Umat**
+> 1. Identifikasi kebutuhan umat yang paling mendesak (sumur Rumah untuk air, memperluas masjid)
+> 2. Investasikan sumber daya terbaikmu, bukan sisa-sisanya
+> 3. Jangan harapkan return duniawi — return-nya di akhirat
+> 4. Proyek terbaik adalah yang dampaknya berlanjut setelah kamu pergi (sadaqah jariyah)
+> *Aplikasi: Pilih proyek dakwah yang dampaknya bertahan lama (sistem mentoring, perpustakaan Islam digital) daripada yang sekali jalan lalu selesai.*
 
 #### 5. Workshop Perencanaan (45 menit)
 

@@ -33,6 +33,14 @@
   - Teladan Nabi ﷺ: menjahit sandal sendiri, membangun masjid bersama sahabat, melayani tamu
   - Teladan Umar bin Khattab: menggendong tepung untuk rakyat
   - Prinsip: pemimpin ada untuk melayani, bukan dilayani
+
+> **Mental Model: Umar bin Al-Khattab — Pemimpin yang Turun ke Jalan**
+> 1. Kumpulkan informasi langsung dari lapangan, bukan hanya dari laporan bawahan (Umar menyamar keliling kota malam hari)
+> 2. Jika rakyat/anggota menderita, maka kamu yang pertama harus merasakan (tidak makan daging saat rakyat lapar)
+> 3. Gunakan kekerasan terhadap dirimu sendiri, kelembutan terhadap orang lain
+> 4. Akuntabilitas dimulai dari atas — pemimpin dihisab lebih berat
+> *Aplikasi: Sebagai ketua organisasi kampus, jangan hanya baca laporan — turun langsung ke kegiatan anggota, rasakan apa yang mereka rasakan.*
+
 - Sifat-sifat pemimpin dakwah:
   - Shiddiq (jujur dan kredibel)
   - Amanah (dapat dipercaya)
@@ -46,11 +54,26 @@
 
 ### 3. Materi Inti B — Syura: Pengambilan Keputusan Kolektif (20 menit)
 
+**Rantai Logika Tauhid:**
+- Allah adalah Al-Malik (Maha Raja) — otoritas absolut hanya milik-Nya →
+- Maka tidak ada manusia yang berhak atas ketaatan mutlak dari manusia lain →
+- Maka syura bukan opsional tapi wajib, karena absolutisme = mengklaim sifat yang hanya milik Allah →
+- Maka pemimpin dakwah yang otoriter bukan sekadar melanggar etika kepemimpinan — dia melanggar tauhid →
+- Maka mekanisme syura dalam organisasi dakwah adalah PENJAGA TAUHID, bukan sekadar prosedur manajemen
+
 - Dalil syura: QS. Asy-Syura: 38, QS. Ali Imran: 159
 - Syura dalam praktik Nabi ﷺ:
   - Perang Badr: mendengar pendapat Al-Hubab bin Mundzir tentang posisi strategis
   - Perang Uhud: mengikuti pendapat mayoritas meski berbeda dengan pandangan beliau
   - Perang Khandaq: menerima ide Salman Al-Farisi menggali parit
+
+> **Mental Model: Salman Al-Farisi — Inovasi dari Luar Tradisi**
+> 1. Hargai ide dari tradisi manapun (parit = strategi Persia, bukan Arab)
+> 2. Jangan tolak gagasan karena sumbernya "asing"
+> 3. Filter ide baru dengan prinsip, bukan dengan asal-usulnya
+> 4. Pemimpin terbaik mengumpulkan hikmah dari banyak sumber
+> *Aplikasi: Jangan tolak metode manajemen modern hanya karena "dari Barat" — filter dengan prinsip Islam, ambil yang bermanfaat.*
+
 - Prinsip-prinsip syura:
   - Siapa yang diajak syura (ahlu al-hall wa al-'aqd)
   - Kapan syura wajib dan kapan opsional

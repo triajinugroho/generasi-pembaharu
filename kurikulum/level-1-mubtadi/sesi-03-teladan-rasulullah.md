@@ -18,6 +18,13 @@
 - Kontemplasi di Gua Hira: pentingnya refleksi sebelum aksi
 - Pelajaran: seorang da'i harus membangun kepercayaan dulu
 
+> **Mental Model: Muhammad SAW — Karakter Sebelum Klaim**
+> 1. Bangun reputasi (Al-Amin) sebelum menyampaikan pesan
+> 2. Biarkan orang mengenal integritasmu sebelum mendengar ajakanmu
+> 3. Ketika ajakanmu ditolak, reputasimu akan terus bicara
+> 4. Jangan pernah mengorbankan karakter demi hasil jangka pendek
+> *Aplikasi: Di kampus, bangun reputasi sebagai mahasiswa yang jujur dan amanah sebelum mengajak orang ke halaqah atau kajian.*
+
 ### Bagian 2: Fase-fase Dakwah Nabi (30 menit)
 - Dakwah sirriyah: membangun inti (Dar al-Arqam)
 - Dakwah jahriyah: menghadapi penolakan dengan keteguhan
@@ -25,11 +32,24 @@
 - Madinah: membangun peradaban, bukan hanya protes
 - Ringkasan: tahapan dakwah sebagai blueprint
 
+> **Mental Model: Muhammad SAW — Eskalasi Bertahap (Tadarruj)**
+> 1. Mulai dari lingkaran terdekat dan paling dipercaya (sirriyah)
+> 2. Perluas hanya ketika fondasi kuat (jahriyah)
+> 3. Jika lingkungan tidak mendukung, cari lingkungan baru (hijrah strategis)
+> 4. Di lingkungan baru, bangun sistem, bukan sekadar protes (Madinah)
+> *Aplikasi: Mulai dakwah dari teman sekamar/sekelas yang paling dekat, baru perluas ke fakultas dan universitas ketika tim inti sudah solid.*
+
 ### Bagian 3: Akhlak Rasulullah dalam Dakwah (20 menit)
 - Lemah lembut: tidak pernah kasar meski disakiti
 - Pemaaf: Fathu Makkah — "Pergilah, kalian bebas"
 - Peduli: menjenguk yang sakit, membantu yang lemah
 - Humoris: beliau juga bercanda, tapi tidak pernah berbohong
+
+**Rantai Logika Tauhid:**
+- Allah adalah Ar-Rabb (yang memelihara dengan tahapan) →
+- Maka metode-Nya dalam mendidik manusia selalu bertahap (Al-Qur'an turun 23 tahun, bukan sekaligus) →
+- Maka dakwah yang memaksa perubahan instan melanggar sunnatullah →
+- Maka kesabaran dalam dakwah bukan kelemahan, tapi keselarasan dengan cara Allah mendidik makhluk-Nya
 
 ## Diskusi Kelompok (20 menit)
 1. Di fase mana dakwah di kampusmu sekarang? (sirriyah/jahriyah/membangun)

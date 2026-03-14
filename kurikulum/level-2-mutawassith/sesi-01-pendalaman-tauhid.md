@@ -34,6 +34,13 @@
   - Keyakinan bahwa hasil di tangan Allah, proses di tangan kita
   - Menghindari sikap "bermain Tuhan" dalam organisasi
 
+> **Mental Model: Ibrahim AS — Uji Ketaatan Bertingkat**
+> 1. Tauhid bukan hanya menolak yang salah, tapi menerima yang berat (perintah menyembelih Ismail)
+> 2. Ketika logika bertentangan dengan perintah Allah, uji: apakah ini benar dari Allah?
+> 3. Jika benar, laksanakan — meski akal belum memahami hikmahnya
+> 4. Allah selalu menyediakan jalan keluar bagi yang taat (QS. Ash-Shaffat: 107)
+> *Aplikasi: Ketika perintah agama terasa "tidak populer" di lingkungan kampus, tanya: apakah ini memang perintah Allah? Jika ya, laksanakan dengan yakin.*
+
 ### 3. Materi Inti B — Tauhid Uluhiyyah dan Implikasinya (20 menit)
 
 - Definisi tauhid uluhiyyah: mengesakan Allah dalam ibadah
@@ -46,6 +53,13 @@
   - Ikhlas sebagai fondasi amal
   - Ubudiyyah sebagai identitas utama, bukan aktivisme
   - Menjaga niat di tengah keberhasilan dan kegagalan
+
+> **Mental Model: Umar bin Al-Khattab — Audit Internal Radikal**
+> 1. Periksa niatmu SEBELUM bertindak (Umar sering berdiri di cermin dan berkata "kamu hanyalah Umar")
+> 2. Ukur dirimu dengan standar tertinggi, bukan perbandingan sesama manusia
+> 3. Jika menemukan penyimpangan, koreksi segera — tanpa pembenaran
+> 4. Minta orang lain mengkritikmu ("Jika kalian melihat saya menyimpang, luruskan saya")
+> *Aplikasi: Sebelum posting konten dakwah di media sosial, tanya dulu: "Ini untuk Allah atau untuk likes?" — audit internal ala Umar.*
 
 ### 4. Materi Inti C — Tauhid Asma wa Sifat dan Implikasinya (20 menit)
 
@@ -61,6 +75,13 @@
 ### 5. Diskusi Kelompok (20 menit)
 
 - Bagi peserta menjadi 3-4 kelompok
+**Rantai Logika Tauhid:**
+- Allah adalah Al-Wahid (Maha Esa) — tidak ada yang setara dengan-Nya →
+- Maka setiap pengagungan berlebihan terhadap makhluk melanggar prinsip keesaan →
+- Maka kultus individu terhadap ketua organisasi dakwah = menyerahkan sifat ma'shum (terjaga dari salah) yang hanya milik nabi kepada manusia biasa →
+- Maka organisasi dakwah yang sehat harus memiliki mekanisme kritik internal (muhasabah kolektif) sebagai penjaga tauhid →
+- Maka absennya kritik dalam organisasi bukan tanda solidaritas, tapi tanda syirik halus terhadap kepemimpinan
+
 - Setiap kelompok mendapat satu studi kasus:
   - Kasus 1: Seorang aktivis yang burnout karena merasa semua bergantung pada dirinya
   - Kasus 2: Tim dakwah yang terpecah karena kultus individu terhadap ketua

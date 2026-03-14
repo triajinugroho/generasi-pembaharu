@@ -32,6 +32,13 @@
 - Alat analisis sederhana: Konteks → Keputusan → Hasil → Pelajaran
 - Pentingnya memahami konteks sosial-politik Arab saat itu
 
+> **Mental Model: Rasulullah SAW — Kalkulasi Strategis Tiga Lapis**
+> 1. Baca KONTEKS: apa kekuatan dan kelemahan saat ini? (Makkah vs Madinah, kita vs mereka)
+> 2. Pilih MODE: sirriyah jika lemah, jahriyah jika kuat, hijrah jika lingkungan tidak bisa diubah
+> 3. Prioritaskan INTI sebelum ekspansi: 40 sahabat terbaik di Darul Arqam sebelum dakwah massal
+> 4. Selalu siapkan PLAN B: Habasyah ketika Makkah tidak tertanggung, Madinah ketika Habasyah bukan solusi permanen
+> *Aplikasi: Sebelum membuat program dakwah kampus, analisis dulu: apa konteks kita, mode apa yang tepat, siapa tim inti, dan apa plan B jika gagal.*
+
 ### 3. Materi Inti B — Fase Makkah: Strategi Dakwah dalam Tekanan (25 menit)
 
 - **Dakwah Sirriyyah (sembunyi-sembunyi):**
@@ -65,10 +72,25 @@
   - Konteks: posisi kuat tapi belum cukup untuk konfrontasi total
   - Strategi: negosiasi damai yang tampak "kalah" tapi strategis jangka panjang
   - Pelajaran: berpikir jangka panjang, menahan ego demi kemaslahatan besar
+
+> **Mental Model: Rasulullah SAW — Kemenangan Jangka Panjang (Hudaibiyyah)**
+> 1. Bedakan antara kemenangan EGO dan kemenangan STRATEGIS
+> 2. Terima kompromi taktis jika menghasilkan keuntungan strategis
+> 3. Tahan tekanan internal (sahabat yang marah) dengan visi yang lebih jauh
+> 4. Hasil: Hudaibiyyah disebut "fath" (kemenangan) oleh Al-Qur'an meski tampak seperti kekalahan
+> *Aplikasi: Kadang "mengalah" dalam rapat organisasi bukan kekalahan — jika strategimu menghasilkan kemenangan jangka panjang, itu adalah fath yang sesungguhnya.*
+
 - **Fath Makkah:**
   - Konteks: superioritas moral dan militer
   - Strategi: pembebasan tanpa balas dendam, amnesti umum
   - Pelajaran: kemenangan sejati adalah memenangkan hati
+
+**Rantai Logika Tauhid:**
+- Allah adalah Al-Mudabbir (Maha Pengatur) — segala sesuatu terjadi dengan izin-Nya →
+- Maka strategi manusia adalah ikhtiar, bukan penentu hasil →
+- Maka kegagalan strategis bukan berarti Allah tidak bersama kita (Uhud tetap dalam rencana Allah) →
+- Maka seorang strategis Muslim bekerja seolah segalanya bergantung pada usahanya, tapi yakin seolah segalanya ada di tangan Allah →
+- Inilah makna "i'qilha wa tawakkal" (ikat untamu, lalu bertawakkal)
 
 ### 5. Diskusi Kelompok (25 menit)
 

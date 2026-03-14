@@ -27,6 +27,12 @@
 
 ### 2. Materi Inti A — Peta Gerakan Dakwah di Indonesia (25 menit)
 
+**Rantai Logika Tauhid:**
+- Allah adalah Al-Hakim (Maha Bijaksana) yang menciptakan keragaman sebagai sunnatullah →
+- Maka keragaman gerakan dakwah bisa jadi bagian dari hikmah-Nya untuk menjangkau segmen umat yang berbeda →
+- Maka memonopoli kebenaran untuk satu gerakan saja = membatasi hikmah Allah pada satu wadah →
+- Maka sikap yang benar bukan "gerakan kami satu-satunya yang benar" tapi "gerakan kami salah satu dari banyak ikhtiar menuju Allah"
+
 - Pengantar sejarah singkat: gerakan Islam di Nusantara dari masa pra-kemerdekaan
 - Klasifikasi gerakan berdasarkan pendekatan:
   - **Gerakan Tarbiyah dan Kaderisasi:**
@@ -52,6 +58,13 @@
     - Karakteristik: memanfaatkan teknologi, bahasa populer, menyasar anak muda
     - Kekuatan: jangkauan luas, relevan dengan budaya pemuda
     - Kelemahan: kadang dangkal, potensi komodifikasi agama, kurang pembinaan lanjutan
+
+> **Mental Model: Rasulullah SAW — Hilful Fudhul (Kolaborasi Prinsipil)**
+> 1. Nilai sebuah gerakan dari TUJUANNYA, bukan dari LABELNYA
+> 2. Berkolaborasi pada kebenaran meski datang dari kelompok yang "berbeda"
+> 3. Hargai kebaikan masa lalu (Rasulullah menghargai Hilful Fudhul meski itu perjanjian jahiliyah)
+> 4. Batas kolaborasi: kemaslahatan bersama. Batas penolakan: pelanggaran prinsip aqidah
+> *Aplikasi: Di kampus, jangan tolak ajakan kolaborasi dari organisasi lain hanya karena "beda manhaj" — kolaborasi pada kebaikan bersama adalah sunnah Nabi.*
 
 ### 3. Materi Inti B — Framework Analisis Gerakan (15 menit)
 
@@ -88,6 +101,13 @@
   - Konsistensi ilmiah dari gerakan salafi
   - Kedalaman spiritual dari tradisi sufi
   - Relevansi dan kreativitas dari gerakan kontemporer
+> **Mental Model: Imam Syafi'i — Belajar dari Semua Guru**
+> 1. Pergi ke sumber langsung, jangan menilai dari jauh (Syafi'i belajar dari Imam Malik di Madinah DAN dari murid Abu Hanifah di Iraq)
+> 2. Ambil yang terbaik dari setiap tradisi tanpa kehilangan prinsipmu sendiri
+> 3. Hargai lawanmu: "Pendapatku benar tapi mungkin salah, pendapat orang lain salah tapi mungkin benar"
+> 4. Sintesis yang matang lebih kuat dari purisme yang kaku
+> *Aplikasi: Jangan hanya baca tentang gerakan lain dari buku kritik — datangi langsung, dengarkan, dan ambil pelajaran berharga dari setiap tradisi.*
+
 - Posisi kita: bukan menggabungkan semua secara eklektik, tapi mengambil hikmah dengan landasan ilmu yang kuat
 - Visi Generasi Pembaharu: menjadi generasi yang menghargai keragaman gerakan sambil tetap berpegang pada prinsip
 

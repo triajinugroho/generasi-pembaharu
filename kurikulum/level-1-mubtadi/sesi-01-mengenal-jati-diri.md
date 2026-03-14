@@ -41,6 +41,13 @@ Ada perbedaan mendasar antara **Islam warisan** dan **Islam kesadaran**. Islam w
 
 Ibrahim 'alaihissalam tidak mewarisi tauhid dari ayahnya — justru ayahnya penyembah berhala. Ia **menemukan** Allah melalui perenungan mendalam terhadap langit, bulan, dan matahari (QS. Al-An'am: 75-79). Imannya adalah hasil pencarian, bukan warisan.
 
+> **Mental Model: Ibrahim AS — Dekonstruksi Kritis**
+> 1. Pertanyakan semua asumsi yang diterima tanpa bukti
+> 2. Uji dengan logika dan observasi langsung
+> 3. Tolak yang tidak lolos uji, walau mayoritas menentang
+> 4. Serahkan konsekuensinya kepada Allah
+> *Aplikasi: Ketika menghadapi "Islam warisan" vs "Islam kesadaran," gunakan model Ibrahim — periksa kembali keyakinanmu bukan karena ragu, tapi karena ingin memilih dengan sadar.*
+
 **Pertanyaan untuk direnungkan:** Jika Islam dihapus dari KTP-mu, dari kebiasaan keluargamu, dari lingkunganmu — apakah kamu masih akan memilih Islam? Jika ya, mengapa?
 
 Syahadat yang kita ucapkan bukan sekadar kalimat seremonial. Ia adalah **pernyataan politik eksistensial** — deklarasi bahwa tidak ada otoritas tertinggi selain Allah. Tidak tren, tidak budaya populer, tidak tekanan sosial. Hanya Allah.
@@ -63,6 +70,12 @@ Hasilnya? Generasi yang **galau secara eksistensial**. Yang shalat tapi tidak ta
 
 Ini bukan salah mereka sepenuhnya. Ini adalah **produk dari sistem** yang memisahkan ilmu dari iman, dunia dari akhirat, akal dari hati. Dan tugas kita — sebagai orang yang sudah mulai *sadar* — adalah memulai perjalanan pulang.
 
+**Rantai Logika Tauhid:**
+- Allah menciptakan manusia dengan tujuan (QS. Adz-Dzariyat: 56, QS. Al-Baqarah: 30) →
+- Maka hidup manusia tidak mungkin tanpa makna (nihilisme bertentangan dengan tauhid) →
+- Maka setiap mahasiswa Muslim memiliki misi ilahiah yang melampaui ijazah →
+- Maka krisis identitas adalah akibat dari terputusnya manusia dari tujuan penciptaannya, bukan masalah psikologis semata
+
 ---
 
 ## Materi Inti 3: Menemukan Kembali Tujuan — Engkau adalah Khalifah (20 menit)
@@ -79,6 +92,13 @@ Ini berarti setiap aspek hidupmu memiliki makna:
 Rasulullah shallallahu 'alaihi wasallam bersabda: *"Setiap kalian adalah pemimpin, dan setiap kalian akan dimintai pertanggungjawaban atas kepemimpinannya."* (HR. Bukhari & Muslim)
 
 Kamu tidak perlu menunggu jadi presiden untuk menjadi khalifah. Kamu sudah menjadi khalifah **sekarang** — di kamar kosmu, di kelas kuliahmu, di circle pertemananmu. Pertanyaannya bukan apakah kamu khalifah, tapi **khalifah macam apa.**
+
+> **Mental Model: Adam AS — Pengakuan dan Bangkit**
+> 1. Terima bahwa kamu bisa dan akan berbuat salah
+> 2. Akui segera tanpa menyalahkan orang lain (berbeda dari Iblis yang menyalahkan Allah)
+> 3. Minta pertolongan langsung dari Sumber (taubat)
+> 4. Bangkit dan lanjutkan misi
+> *Aplikasi: Ketika merasa tidak layak menjadi khalifah karena dosa, gunakan model Adam — bukan menyerah, tapi mengakui, bertaubat, dan melangkah lagi.*
 
 ---
 

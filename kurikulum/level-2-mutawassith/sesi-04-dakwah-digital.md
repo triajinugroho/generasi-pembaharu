@@ -40,6 +40,13 @@
   - Echo chamber dan polarisasi
   - Fitnah, hoaks, dan manipulasi informasi
 
+> **Mental Model: Nabi Sulaiman AS — Penguasaan Teknologi untuk Misi Ilahiah**
+> 1. Kuasai teknologi terkini di zamanmu (Sulaiman menguasai jin, angin, burung sebagai "teknologi" zamannya)
+> 2. Gunakan teknologi untuk memperluas jangkauan dakwah (surat untuk Ratu Balqis via burung Hud-hud)
+> 3. Jangan tunduk pada teknologi — buat teknologi tunduk pada misimu
+> 4. Kekuatan teknologis harus diimbangi dengan syukur dan kerendahan hati ("Ini dari karunia Tuhanku")
+> *Aplikasi: Kuasai algoritma media sosial bukan untuk viral semata, tapi untuk memaksimalkan jangkauan pesan kebenaran — dan selalu ingat bahwa kemampuan ini dari Allah.*
+
 ### 3. Materi Inti B — Strategi Kreasi Konten Dakwah (25 menit)
 
 - Prinsip dasar konten dakwah yang efektif:
@@ -67,6 +74,12 @@
 
 ### 4. Materi Inti C — Etika Dakwah Online (20 menit)
 
+**Rantai Logika Tauhid:**
+- Allah adalah Al-'Alim dan Ar-Raqib (Maha Mengetahui dan Maha Mengawasi) →
+- Maka setiap postingan, komentar, dan share tercatat meski akun anonim →
+- Maka membuat konten clickbait yang menyesatkan demi views = bersaksi palsu (syahadah az-zur) di hadapan jutaan orang →
+- Maka content creator dakwah memikul tanggung jawab lebih berat dari dai mimbar, karena jangkauannya lebih luas dan jejaknya lebih permanen
+
 - Prinsip etika dari Al-Qur'an dan Sunnah:
   - Tabayyun (verifikasi): QS. Al-Hujurat: 6 — jangan sebar tanpa verifikasi
   - Qaulan sadidan (perkataan benar): QS. An-Nisa: 9
@@ -78,6 +91,14 @@
   - Tidak memancing perdebatan sia-sia (jidal yang tidak produktif)
   - Menjaga adab ikhtilaf: boleh berbeda, harus beradab
   - Konsistensi antara persona online dan kehidupan nyata
+
+> **Mental Model: Ashhab Al-Ukhdud — Konten yang Rela Mati Untuknya**
+> 1. Pesan yang benar lebih kuat dari mesin propaganda manapun (anak kecil mengalahkan tukang sihir raja)
+> 2. Autentisitas mengalahkan produksi mahal (kesaksian jujur > konten viral kosong)
+> 3. Jangan takut platform dimatikan — kebenaran selalu menemukan jalan baru
+> 4. Impact sejati diukur oleh perubahan hati, bukan metrics
+> *Aplikasi: Lebih baik satu konten jujur yang mengubah hati 10 orang daripada konten clickbait yang di-view jutaan tapi tidak meninggalkan bekas.*
+
 - Menjaga kesehatan mental digital:
   - Bahaya membandingkan metrics dengan orang lain
   - Screen time dan keseimbangan hidup
