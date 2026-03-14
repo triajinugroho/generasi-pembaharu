@@ -227,6 +227,24 @@ Berikut contoh rencana pembangunan ekosistem untuk LDK yang baru memulai:
 | Tahun 2 | 3 jenjang kaderisasi berjalan | Unit usaha menguntungkan | Perpustakaan + arsip digital | Kolaborasi dengan 2 ormas | Badan hukum (jika dibutuhkan) |
 | Tahun 3-5 | Suksesi kepemimpinan lancar | Kemandirian finansial 70%+ | Pusat kajian kampus | Jaringan alumni aktif | Tata kelola profesional |
 
+**Rantai Logika Tauhid: Ekosistem Dakwah sebagai Manifestasi Tauhid Kolektif**
+- Allah berfirman: *"Sesungguhnya orang-orang beriman itu bersaudara"* — QS. Al-Hujurat: 10 — dan Rasulullah SAW menggambarkan umat Islam sebagai *jasad wahid* (satu tubuh) di mana jika satu anggota sakit, seluruh tubuh merasakan demam dan insomnia →
+- Maka tauhid tidak hanya menuntut hubungan vertikal individu-Allah, tetapi juga menuntut hubungan horizontal antar-individu yang saling menopang — karena umat yang bertauhid kepada Tuhan yang satu harus menjadi satu tubuh yang utuh →
+- Maka organisasi dakwah yang terfragmentasi, saling bersaing secara destruktif, dan enggan berkolaborasi sedang mempraktikkan *tafarruq* (perpecahan) yang justru dilarang oleh Tuhan yang mereka esakan →
+- Maka membangun ekosistem dakwah yang integratif — di mana kader, institusi, ilmu, ekonomi, media, dan jaringan saling menopang — bukan sekadar manajemen organisasi, melainkan implementasi tauhid di level sosial: satu Tuhan, satu umat, satu ekosistem yang saling menghidupi
+
+---
+
+> ### Titik Refleksi
+>
+> 1. Rasulullah SAW membangun ekosistem Madinah yang bertahan berabad-abad setelah beliau wafat — jika kau meninggalkan organisasi dakwahmu besok, apakah ia akan tetap berjalan dengan baik, atau akan kolaps karena bergantung padamu? Apa yang harus kau bangun agar ekosistem itu tidak bergantung pada individu mana pun?
+> 2. Said Hawwa menekankan bahwa *jundullah* membutuhkan tarbiyah yang holistik (ruhiyah, fikriyah, jasadiyah) — mana dari tiga dimensi ini yang paling terabaikan dalam pembinaan kader di organisasimu, dan apa dampaknya?
+> 3. Banyak alumni dakwah kampus yang "menghilang" setelah lulus — apakah ekosistem dakwah kampusmu memiliki mekanisme untuk tetap mengikat dan melibatkan alumni, atau hubungan terputus di gerbang wisuda?
+> 4. Jika kau diminta merancang "ekosistem dakwah ideal" untuk kampusmu 10 tahun dari sekarang, seperti apa bentuknya — dan langkah pertama apa yang harus diambil *minggu ini* untuk menuju ke sana?
+> 5. Nabi SAW bersabda: *"Jika hari kiamat datang sementara di tanganmu ada bibit tanaman, maka tanamlah"* — apakah kau sudah menanam "bibit ekosistem" yang hasilnya mungkin baru dinikmati generasi setelahmu, atau kau hanya mengerjakan hal-hal yang hasilnya langsung terlihat di masa jabatanmu?
+
+---
+
 ## Refleksi & Aksi
 
 Membangun ekosistem dakwah adalah marathon, bukan sprint. Ia membutuhkan visi jangka panjang, kerja keras yang konsisten, dan kesabaran yang luar biasa. Tidak ada ekosistem yang bisa dibangun dalam satu semester atau satu periode kepengurusan — ia adalah proyek lintas generasi yang dimulai oleh satu generasi dan disempurnakan oleh generasi berikutnya.

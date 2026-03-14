@@ -239,6 +239,15 @@ Generasi baru aktivis dakwah kampus — yang tumbuh di era digital, terpapar inf
 
 Syaratnya adalah mereka harus belajar dari sejarah — mengambil yang terbaik dari setiap generasi sebelumnya sambil berani berinovasi sesuai konteks.
 
+> **Titik Refleksi**
+>
+> Sejarah pergerakan Islam Indonesia adalah cermin untuk generasi ini. Berhenti dan renungkan:
+>
+> 1. KH Ahmad Dahlan memulai dari hal sederhana — meluruskan kiblat. Mohammad Natsir memulai dari pendidikan diri yang serius. Apa "langkah pertama" yang sudah kamu ambil — dan apakah itu cukup bermakna, atau kamu masih menunggu "momen besar" yang mungkin tidak akan datang?
+> 2. Sejarah menunjukkan bahwa fragmentasi melemahkan umat. Di kampusmu, berapa banyak kelompok dakwah yang saling curiga atau tidak berkomunikasi? Apa yang secara konkret bisa kamu lakukan untuk membangun jembatan — bukan sekadar berharap orang lain yang memulai?
+> 3. Gerakan dakwah kampus lahir di era tekanan Orde Baru — justru tekanan itu yang memperkuat solidaritas. Di era kebebasan ini, apakah organisasi dakwahmu justru melemah karena tidak ada "musuh bersama"? Bagaimana mempertahankan semangat tanpa bergantung pada tekanan eksternal?
+> 4. Apakah gerakan dakwah di kampusmu masih relevan bagi mahasiswa generasi Z — yang tumbuh di era digital, pragmatis, dan memiliki rentang perhatian yang pendek? Jika tidak, apa yang harus berubah — dan apa yang harus tetap?
+
 ## Refleksi & Aksi
 
 Sejarah pergerakan Islam Indonesia adalah warisan yang terlalu berharga untuk diabaikan.
