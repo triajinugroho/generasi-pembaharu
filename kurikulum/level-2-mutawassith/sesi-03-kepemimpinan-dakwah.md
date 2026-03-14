@@ -156,6 +156,13 @@ Sebuah LDK memiliki 5 departemen. Ketua baru dilantik dan memutuskan untuk mende
   - "Takut mereka gagal" → kegagalan adalah proses belajar
   - "Nanti mereka lebih hebat dariku" → itulah tujuan kaderisasi
 
+**Hadits tentang Delegasi Nabi ﷺ kepada Mu'adz:**
+
+> *Ketika Rasulullah ﷺ mengutus Mu'adz bin Jabal ke Yaman, beliau bertanya: "Dengan apa engkau memutuskan perkara?" Mu'adz menjawab: "Dengan Kitab Allah." Beliau bertanya: "Jika tidak engkau temukan?" Mu'adz menjawab: "Dengan Sunnah Rasulullah." Beliau bertanya: "Jika tidak engkau temukan?" Mu'adz menjawab: "Aku berijtihad dengan pendapatku." Rasulullah ﷺ menepuk dada Mu'adz dan berkata: "Segala puji bagi Allah yang telah menyelaraskan utusan Rasulullah dengan apa yang diridhai Rasulullah."*
+> — HR. Abu Dawud dan At-Tirmidzi
+
+Inilah delegasi sempurna: Rasulullah ﷺ tidak memberikan manual prosedur yang detail — beliau memastikan Mu'adz memiliki prinsip yang benar, lalu memberinya kebebasan berijtihad. Seorang naqib dalam halaqah tarbiyah seharusnya melakukan hal yang sama: membekali mutarabbi dengan prinsip, lalu memberi ruang untuk tumbuh.
+
 ### 5. Simulasi dan Praktik (25 menit)
 
 - **Simulasi Syura (15 menit):**
