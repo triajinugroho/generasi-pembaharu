@@ -15,6 +15,8 @@ Yusuf Al-Qaradhawi, salah satu ulama kontemporer yang paling banyak menulis tent
 
 Bab ini membahas lima cabang fiqh dakwah yang sangat relevan untuk aktivis dakwah kampus Indonesia: fiqh prioritas, fiqh realitas, fiqh perbedaan, fiqh tahapan, dan fiqh keseimbangan. Ditutup dengan studi kasus penerapannya di konteks kampus Indonesia.
 
+Kelima cabang fiqh ini saling terkait. Fiqh prioritas tidak bisa diterapkan tanpa fiqh realitas — karena kita tidak bisa menentukan prioritas tanpa memahami realitas. Fiqh tahapan tidak bisa berjalan tanpa fiqh keseimbangan — karena setiap tahapan membutuhkan keseimbangan yang berbeda. Dan semua cabang fiqh ini harus berjalan dalam koridor fiqh ikhtilaf — karena perbedaan pendapat tentang prioritas, realitas, dan strategi adalah keniscayaan yang harus dikelola dengan bijak.
+
 ### 1. Fiqh Prioritas (*Fiqh al-Awlawiyyat*)
 
 Tidak semua isu sama pentingnya — harus ada skala prioritas. Inilah inti dari fiqh prioritas yang dikembangkan secara sistematis oleh Yusuf Al-Qaradhawi dalam karyanya *Fi Fiqh al-Awlawiyyat*. Al-Qaradhawi mengkritik fenomena yang ia sebut sebagai "penyakit terbaliknya prioritas" — ketika umat Islam ribut tentang perkara cabang (*furu'*) sementara mengabaikan perkara pokok (*ushul*), sibuk mempersoalkan hal-hal kecil sementara melupakan hal-hal besar.
@@ -186,6 +188,15 @@ Pelajaran utamanya: fiqh dakwah kontemporer bukan kemewahan intelektual — ia a
 5. **Audit Keseimbangan** — Evaluasi keseimbangan dakwah di organisasimu. Apakah terlalu banyak tarbiyah dan kurang tanfidz, atau sebaliknya? Apakah terlalu idealis atau terlalu pragmatis? Apakah terlalu ruhiyah atau terlalu fikriyah? Identifikasi ketidakseimbangan dan rancang solusinya.
 
 6. **Survei Kebutuhan** — Lakukan survei sederhana kepada mahasiswa di kampusmu — bukan hanya anggota organisasi, tapi mahasiswa umum. Tanyakan apa kebutuhan mereka, apa masalah mereka, dan apa harapan mereka terhadap kelompok dakwah. Jadikan hasil survei ini sebagai dasar merancang program semester depan.
+
+7. **Studi Banding** — Kunjungi atau hubungi LDK di kampus lain yang dikenal berhasil. Pelajari apa yang mereka lakukan berbeda. Jangan meng-*copy-paste* — adaptasi sesuai konteksmu. Ini adalah implementasi nyata dari fiqh realitas.
+
+8. **Baca Karya Al-Qaradhawi** — Untuk pendalaman, baca buku-buku Al-Qaradhawi tentang fiqh dakwah: *Fi Fiqh al-Awlawiyyat*, *Al-Shahwah al-Islamiyyah bayn al-Juhud wa al-Tatharruf*, dan *Awlawiyyat al-Harakah al-Islamiyyah*. Buku-buku ini memberikan kerangka berpikir yang sangat matang tentang bagaimana menjalankan dakwah secara cerdas dan bijak.
+
+> *"Tidaklah seorang hamba diberi sesuatu yang lebih baik dan lebih luas dari kesabaran."*
+> — HR. Bukhari dan Muslim
+
+Fiqh dakwah kontemporer mengajarkan kita bahwa dakwah yang cerdas bukan berarti dakwah yang rumit. Ia berarti dakwah yang tepat sasaran, tepat waktu, tepat cara, dan tepat ukuran. Dengan memahami lima cabang fiqh dakwah ini — prioritas, realitas, perbedaan, tahapan, dan keseimbangan — seorang aktivis dakwah kampus memiliki perangkat intelektual yang dibutuhkan untuk menjalankan dakwah secara efektif di era kontemporer.
 
 ---
 
