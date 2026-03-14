@@ -21,6 +21,14 @@
 
 - Tilawah: QS. Al-Baqarah: 30 — "Sesungguhnya Aku hendak menjadikan khalifah di muka bumi"
 - Tilawah: QS. Hud: 117 — "Dan Tuhanmu tidak akan membinasakan negeri-negeri secara zalim, sedang penduduknya adalah orang-orang yang berbuat kebaikan (mushlihun)"
+**Rantai Logika Tauhid:**
+- Allah menciptakan manusia untuk ibadah (QS. Adz-Dzariyat: 56) dan kekhalifahan (QS. Al-Baqarah: 30) →
+- Ibadah = penghambaan total; khalifah = pengelolaan aktif →
+- Maka visi hidup seorang Muslim harus mengintegrasikan keduanya: vertikal (hubungan dengan Allah) dan horizontal (kontribusi di bumi) →
+- Maka hidup tanpa visi = mengkhianati amanah penciptaan →
+- Maka menyusun rencana hidup bukan "terlalu ambisius" — ia adalah KEWAJIBAN bagi yang memahami mengapa dirinya diciptakan →
+- Maka sesi ini bukan akhir — ia adalah AWAL dari pelaksanaan amanah kekhalifahan yang sesungguhnya
+
 - Pengantar: ini adalah sesi penutup dan sekaligus sesi pembukaan — penutup Level 3, pembukaan babak baru kehidupan sebagai pembaharu
 - Suasana: khidmat, reflektif, penuh harapan
 
@@ -47,6 +55,15 @@
   - **Skala dampak:** lingkup yang ingin dijangkau (lokal, nasional, global)
   - **Kompetensi inti:** kekuatan unik yang Allah titipkan padaku
   - **Legacy:** apa yang ingin dikenang dariku setelah aku tiada?
+
+> **Mental Model: Muhammad Iqbal — Khudi (Ego Kreatif Ilahiah)**
+> 1. Kamu bukan pecahan debu tanpa makna — kamu adalah khalifah yang diberi potensi kreatif oleh Allah
+> 2. Temukan "khudi"-mu (jati diri spiritual) melalui pengenalan diri dan pengenalan Allah
+> 3. Khudi yang kuat = tidak takut pada dunia, tidak tunduk pada selain Allah
+> 4. Gunakan khudi untuk MEMBANGUN, bukan untuk menghancurkan
+> 5. Visi hidup terbesar: menjadi "mard-e-mu'min" (manusia beriman yang sempurna) yang mengubah dunia
+> *Aplikasi: Jangan biarkan siapapun — termasuk lingkungan kampus yang materialis — mendefinisikan siapa dirimu. Temukan khudi-mu: jati diri spiritual yang menjadikanmu khalifah yang kreatif dan berani.*
+
 - Workshop individual (10 menit):
   - Setiap peserta mengisi lembar "Kanvas Visi Pembaharu":
     1. Peran utamaku di dunia ini adalah...
@@ -86,6 +103,14 @@
   - **Karier dan profesionalisme:**
     - Profesi apa yang ditarget?
     - Bagaimana profesi ini menjadi ladang dakwah?
+
+> **Mental Model: Mohammad Natsir — Negarawan-Dai (Integrasi Total)**
+> 1. Jangan pisahkan karier dan dakwah — jadikan profesimu sebagai ladang dakwah terbesar
+> 2. Kuasai bidangmu sampai level tertinggi (Natsir jadi PM), lalu gunakan posisi itu untuk kemaslahatan Islam
+> 3. Ketika posisi menuntut kompromi prinsip, mundur dengan terhormat
+> 4. Legacy tertinggi bukan jabatan yang pernah dijabat, tapi generasi yang dilahirkan
+> *Aplikasi: Apapun jurusanmu — teknik, kedokteran, hukum, ekonomi — kuasai sampai level tertinggi lalu jadikan profesimu ladang dakwah yang paling otentik.*
+
   - **Jaringan dan kolaborasi:**
     - Siapa yang perlu dihubungi dan diajak kerja sama?
     - Mentor siapa yang akan dicari?

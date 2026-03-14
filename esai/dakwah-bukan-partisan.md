@@ -22,6 +22,10 @@ Perhatikan — ayat ini menyebut "segolongan umat" (*ummah*), bukan "satu organi
 
 Ketika dakwah direduksi menjadi proyek partisan — di mana keberhasilan diukur dari pertumbuhan anggota organisasi, bukan pertumbuhan keimanan umat — maka kita sudah mengkhianati esensi dakwah itu sendiri.
 
+Dan jika kita renungkan lebih dalam, partisanisme dakwah bukan sekadar masalah strategis — ia menyentuh inti tauhid itu sendiri. La ilaha illallah berarti loyalitas tertinggi seorang mukmin hanya kepada Allah, bukan kepada bendera organisasi manapun. Maka ketika loyalitas kepada kelompok mulai melebihi loyalitas kepada kebenaran — ketika kita membela kesalahan organisasi sendiri demi "solidaritas," ketika kita menutup mata terhadap kebenaran yang datang dari pihak lain — sesungguhnya kita sedang terjebak dalam bentuk syirik khafi yang halus: mendahulukan hawa nafsu kelompok di atas kebenaran Allah.
+
+Karena itulah, setiap organisasi dakwah yang sehat harus memiliki budaya yang tegas: "kebenaran lebih kami cintai daripada loyalitas kelompok." Seruan "dakwah bukan partisan" bukanlah sekadar strategi agar gerakan lebih efektif — ia adalah konsekuensi logis dari tauhid yang benar. Siapa pun yang benar-benar menghayati La ilaha illallah, ia akan menolak menjadikan organisasinya sebagai "tuhan kecil" yang menuntut kesetiaan buta. Dakwah milik Allah, dan hanya kepada standar-Nya kita mengembalikan segala perkara.
+
 ## Keragaman Manhaj: Rahmat, Bukan Laknat
 
 Islam punya tradisi keragaman pemikiran yang sangat kaya. Empat mazhab fiqih besar berdiri bukan karena para imamnya saling bermusuhan, melainkan karena mereka saling menghormati sambil berbeda pendapat.
@@ -29,6 +33,13 @@ Islam punya tradisi keragaman pemikiran yang sangat kaya. Empat mazhab fiqih bes
 Imam Syafi'i berkata tentang gurunya Imam Malik: *"Jika disebut para ulama, maka Malik adalah bintangnya."* Dan tentang Imam Abu Hanifah, beliau berkata: *"Manusia seluruhnya bergantung pada Abu Hanifah dalam fiqih."*
 
 Mereka berbeda — kadang sangat tajam — tapi tidak saling mengkafirkan, tidak saling menghancurkan, tidak saling boikot.
+
+> **Mental Model: Imam Syafi'i — Ikhtilaf yang Beradab**
+> 1. Bedakan antara orang dan pendapatnya — kamu boleh menolak pendapat tanpa menolak orangnya
+> 2. Selalu akui kelebihan lawanmu sebelum mengkritik kelemahannya
+> 3. Jadikan ikhtilaf sebagai alat PENCARIAN kebenaran, bukan alat perang
+> 4. "Ra'yi shawab yahtamil al-khatha', wa ra'yu ghairi khatha' yahtamil ash-shawab"
+> *Aplikasi: Dalam diskusi antar-organisasi dakwah, mulai dengan mengakui kontribusi pihak lain sebelum menyampaikan perbedaan — ini bukan kelemahan, tapi adab ilmiah tertinggi.*
 
 Bandingkan dengan kondisi dakwah kampus hari ini. Berapa banyak LDK yang retak karena perebutan pengaruh antar manhaj? Berapa banyak mahasiswa yang bingung karena masing-masing kelompok mengklaim monopoli kebenaran? Berapa banyak energi yang terbuang untuk pertengkaran internal sementara tantangan eksternal menumpuk?
 

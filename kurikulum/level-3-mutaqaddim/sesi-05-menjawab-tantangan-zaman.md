@@ -26,6 +26,13 @@
 
 ### 2. Materi Inti A — Tantangan Liberalisme dan Sekularisme (20 menit)
 
+**Rantai Logika Tauhid:**
+- Allah adalah Rabb Al-'Alamin (Tuhan seluruh alam) — bukan Tuhan satu era saja →
+- Maka Islam yang diturunkan-Nya harus mampu menjawab setiap zaman (shalih li kulli zaman wa makan) →
+- Maka jika kita gagal menjawab tantangan zaman, yang bermasalah bukan Islam-nya, tapi PEMAHAMAN kita yang belum cukup mendalam →
+- Maka respons terhadap tantangan zaman bukan defensif ("Islam diserang!") tapi proaktif ("Bagaimana Islam menerangi masalah ini?") →
+- Maka kewajiban intelektual Muslim di setiap zaman adalah IJTIHAD — menggali prinsip Islam yang relevan untuk realitas baru
+
 - Definisi dan akar historis:
   - Liberalisme: kebebasan individu sebagai nilai tertinggi
   - Sekularisme: pemisahan agama dari ruang publik
@@ -42,6 +49,14 @@
   - Membangun narasi positif: Islam sebagai rahmat, bukan ancaman
   - Memproduksi intelektual Muslim yang mampu berdialog di level akademis
   - Menunjukkan alternatif Islam melalui contoh nyata (proof of concept)
+
+> **Mental Model: Badiuzzaman Said Nursi — Perlawanan Melalui Pembuktian Iman**
+> 1. Identifikasi serangan TERDALAM musuh — bukan pada politik atau ekonomi, tapi pada IMAN
+> 2. Lawan di level yang sama: jika serangan bersifat intelektual, respons harus intelektual
+> 3. Gunakan bahasa zamanmu — jangan bicara dalam idiom yang tidak dipahami generasimu
+> 4. Pena lebih kuat dari pedang — satu tulisan yang meyakinkan lebih berdampak dari seribu demonstrasi
+> 5. Kerja dalam tekanan (penjara, pengasingan) justru memurnikan niat
+> *Aplikasi: Hadapi tantangan intelektual di kampus dengan respons intelektual yang setara — tulis paper, buat forum diskusi, terbitkan jurnal — bukan dengan emosi atau demonstrasi kosong.*
 
 ### 3. Materi Inti B — Tantangan Post-Truth dan Disinformasi (20 menit)
 
@@ -97,6 +112,13 @@
   - **Hiwar (dialog):** bangun kemampuan dialog yang cerdas dan beradab
   - **Ibda' (kreativitas):** ciptakan alternatif, bukan hanya menolak
   - **Qudwah (keteladanan):** tunjukkan bahwa Islam punya jawaban melalui contoh hidup
+> **Mental Model: Ibn Rushd — Kebenaran Tidak Bertentangan dengan Kebenaran**
+> 1. Jangan takut pada pertanyaan sulit — Islam punya jawaban jika kita berpikir cukup keras
+> 2. Jika tampak ada kontradiksi antara akal dan wahyu, yang salah adalah PEMAHAMAN kita, bukan akal atau wahyu
+> 3. Gunakan bahasa dan metode lawanmu untuk membela posisimu (Ibn Rushd menggunakan filsafat Aristoteles untuk membela Islam)
+> 4. Bangun jembatan, bukan tembok — dialog lebih efektif dari isolasi
+> *Aplikasi: Ketika ada mahasiswa yang mempertanyakan Islam dengan argumen sains atau filsafat, jangan langsung menolak — pelajari argumennya, lalu tunjukkan bahwa Islam justru punya jawaban yang lebih komprehensif.*
+
 - Prinsip wasathiyyah (moderasi):
   - Tidak menolak semua hal baru secara membabi buta (jumud)
   - Tidak menerima semua hal baru tanpa filter (inbihar)
