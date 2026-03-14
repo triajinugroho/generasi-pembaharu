@@ -65,6 +65,11 @@ Panduan praktis dakwah fardiyah (person to person). Teknis, aplikatif, dan teruj
 Kumpulan risalah pendiri Ikhwanul Muslimin tentang visi, misi, dan strategi dakwah. Visioner dan menginspirasi, perlu kontekstualisasi untuk zaman sekarang.
 **Mengapa penting:** Memahami akar pemikiran gerakan dakwah kontemporer yang paling luas pengaruhnya.
 
+### Jundullah (Tentara Allah)
+**Penulis:** Said Hawwa (w. 1989)
+Panduan pembinaan karakter aktivis dakwah yang menggabungkan dimensi spiritual, intelektual, dan gerakan. Sistematis dan mendalam dalam membahas kualitas-kualitas yang harus dimiliki seorang pejuang dakwah.
+**Mengapa penting:** Memberikan cetak biru pembentukan kader dakwah yang utuh — dari kebersihan jiwa hingga kesiapan bergerak di medan nyata.
+
 ### Dakwah Kampus
 **Penulis:** Abu Ridha
 Panduan dakwah kampus dalam konteks Indonesia. Praktis dan kontekstual untuk aktivis LDK.
@@ -88,6 +93,26 @@ Fondasi ilmu sosial dan sejarah. Analisis tentang bangkit dan runtuhnya peradaba
 **Penulis:** Alija Izetbegovic (w. 2003)
 Presiden Bosnia yang filsuf. Membedah tiga worldview — materialisme, agama murni, dan Islam sebagai sintesis. Orisinal dan mendalam.
 **Mengapa penting:** Memberikan kerangka berpikir untuk memahami posisi Islam di tengah pertarungan ideologi modern.
+
+### Madarij al-Salikin
+**Penulis:** Ibnu Qayyim al-Jauziyah (w. 751 H)
+Penjelasan mendalam tentang tahapan-tahapan perjalanan spiritual menuju Allah. Ibnu Qayyim mensyarah kitab *Manazil al-Sa'irin* karya Al-Harawi dengan pendekatan yang memadukan tasawuf dan dalil syar'i secara seimbang.
+**Mengapa penting:** Peta perjalanan spiritual yang paling komprehensif — membantu aktivis dakwah memahami dimensi batin perjuangannya dan menjaga keikhlasan di setiap tahapan.
+
+### Al-Hikam
+**Penulis:** Ibnu Atha'illah al-Iskandari (w. 709 H)
+Kumpulan aforisme spiritual yang memadukan kedalaman makrifat dengan kejelasan bahasa. Setiap hikmah adalah mutiara kebijaksanaan tentang hubungan hamba dengan Tuhannya — tentang tawakkal, ikhlas, syukur, dan taubat.
+**Mengapa penting:** Menjadi pengingat spiritual yang ringkas namun sangat dalam — cocok untuk aktivis yang sibuk bergerak agar tidak kehilangan dimensi batinnya.
+
+### Rekonstruksi Pemikiran Keagamaan dalam Islam
+**Penulis:** Muhammad Iqbal (w. 1938)
+Upaya berani untuk memperbarui pemikiran Islam dari dalam — memadukan kedalaman tradisi keilmuan Islam dengan tantangan filsafat modern. Iqbal menyerukan ijtihad baru yang tetap berakar pada tauhid namun mampu merespons pertanyaan-pertanyaan kontemporer.
+**Mengapa penting:** Mengajarkan bahwa pembaruan pemikiran bukan bid'ah melainkan keharusan — dan bahwa tauhid adalah mata air yang tidak pernah kering, bukan museum yang dijaga.
+
+### Syurut al-Nahdhah (Syarat-syarat Kebangkitan)
+**Penulis:** Malik Bennabi (w. 1973)
+Analisis mendalam tentang syarat-syarat kebangkitan peradaban Islam. Bennabi menolak menyalahkan faktor eksternal semata dan menggali akar kelemahan internal umat — dari kekosongan ide spiritual hingga apa yang ia sebut *qabiliyyah lil-isti'mar* (kesiapan untuk dijajah).
+**Mengapa penting:** Memaksa kita melihat ke dalam diri sendiri sebelum menyalahkan pihak luar — fondasi penting bagi setiap gerakan kebangkitan yang serius.
 
 ### Wawasan Al-Quran
 **Penulis:** M. Quraish Shihab

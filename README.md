@@ -51,6 +51,7 @@ Repo ini hadir untuk menjawab ketiganya. Secara holistik. Secara mendalam. Secar
 | 4 | [Strategi Dakwah](./04-strategi-dakwah/) | Metodologi dakwah dari prinsip Qurani hingga era digital |
 | 5 | [Titik Temu Gerakan](./05-titik-temu-gerakan/) | Menyatukan yang terpecah, membangun kolaborasi |
 | 6 | [Tantangan Kontemporer](./06-tantangan-kontemporer/) | Menjawab liberalisme, post-truth, AI, dan kebangsaan |
+| 7 | [Penutup](./07-penutup/) | Epilog surat untuk generasi mendatang dan doa penutup |
 
 ### Kurikulum Training
 
@@ -66,12 +67,23 @@ Repo ini hadir untuk menjawab ketiganya. Secara holistik. Secara mendalam. Secar
 - [Dakwah Bukan Partisan](./esai/dakwah-bukan-partisan.md)
 - [Intelektual yang Shalih](./esai/intelektual-yang-shalih.md)
 - [Surat untuk Aktivis Kampus](./esai/surat-untuk-aktivis-kampus.md)
+- [Perempuan Pembaharu](./esai/perempuan-pembaharu.md)
+- [Ekonomi Umat dan Kemandirian](./esai/ekonomi-umat-dan-kemandirian.md)
+- [Spiritualitas di Era Digital](./esai/spiritualitas-di-era-digital.md)
+- [Dari Halaqah ke Peradaban](./esai/dari-halaqah-ke-peradaban.md)
+- [Kritik Diri Gerakan Dakwah](./esai/kritik-diri-gerakan-dakwah.md)
 
 ### Referensi
 
 - [Kitab & Buku Wajib](./referensi/kitab-wajib.md)
 - [Tokoh Inspirasi](./referensi/tokoh-inspirasi.md)
 - [Glosarium](./referensi/glosarium.md)
+
+### Lampiran
+
+- [Panduan Fasilitator](./lampiran/panduan-fasilitator.md)
+- [Peta Bacaan Bertahap](./lampiran/peta-bacaan-bertahap.md)
+- [Template Evaluasi](./lampiran/template-evaluasi.md)
 
 ## Cara Menggunakan
 

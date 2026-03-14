@@ -94,8 +94,14 @@ Kebijaksanaan. Salah satu metode dakwah yang disebutkan dalam QS. An-Nahl: 125. 
 
 ### I
 
+**I'tidal** (اعتدال)
+Tegak lurus, proporsional, adil. Salah satu prinsip dasar Nahdlatul Ulama bersama tawassuth, tawazun, dan tasamuh. I'tidal menuntut sikap yang proporsional dalam setiap penilaian dan tindakan — tidak berlebihan dan tidak pula mengurangi.
+
 **Ihsan** (إحسان)
 Berbuat sebaik-baiknya. Dalam hadits Jibril: "Beribadah kepada Allah seolah-olah kamu melihat-Nya." Tingkat keberagamaan tertinggi setelah Islam dan Iman.
+
+**Ikhtilaf** (اختلاف)
+Perbedaan pendapat, keragaman pandangan. Dalam tradisi keilmuan Islam, ikhtilaf dalam masalah furu' (cabang) dipandang sebagai rahmat. Fiqh al-ikhtilaf mengajarkan adab dalam berbeda pendapat — menghormati dalil pihak lain tanpa mengorbankan prinsip.
 
 **Ijtihad** (اجتهاد)
 Upaya sungguh-sungguh seorang ulama untuk menggali hukum dari sumber-sumber syariah. Ijtihad adalah mesin dinamika Islam — tanpanya, Islam menjadi kaku dan tidak mampu menjawab tantangan zaman baru.
@@ -122,6 +128,9 @@ Kelompok, komunitas. Dalam konteks dakwah: organisasi atau kelompok yang bergera
 **Kader** (كادر)
 Individu yang telah dibina dan dipersiapkan untuk memikul tanggung jawab dakwah. Proses pengkaderan (*tarbiyah*) adalah investasi jangka panjang setiap gerakan.
 
+**Khudi** (خودی)
+Ego kreatif, diri yang otentik. Konsep kunci dalam filsafat Muhammad Iqbal — diri yang dinamis dan berkembang melalui hubungan yang hidup dengan Tuhan. Khudi bukan egoisme, melainkan kesadaran akan potensi diri yang harus diaktualisasikan untuk tujuan Ilahi.
+
 **Khasyah** (خشية)
 Takut kepada Allah yang disertai pengetahuan dan pengagungan. Berbeda dari sekadar takut biasa — khasyah lahir dari ma'rifatullah (pengenalan mendalam terhadap Allah).
 
@@ -135,17 +144,29 @@ Organisasi dakwah di tingkat universitas di Indonesia. Menjadi wadah utama bagi 
 
 ### M
 
+**Mad'u** (مدعو)
+Objek dakwah, orang yang menjadi sasaran seruan dakwah. Memahami kondisi, kebutuhan, dan karakteristik mad'u adalah bagian dari fiqh al-waqi' (pemahaman terhadap realitas) yang menentukan efektivitas dakwah.
+
 **Manhaj** (منهج)
 Metode, pendekatan, jalan. Dalam konteks dakwah: pendekatan atau aliran pemikiran yang dianut oleh suatu kelompok dalam memahami dan mengamalkan Islam.
 
 **Ma'rifatullah** (معرفة الله)
 Pengenalan mendalam terhadap Allah — mengenal nama-nama, sifat-sifat, dan perbuatan-Nya. Puncak dari ilmu dan tujuan akhir dari seluruh perjalanan spiritual.
 
+**Maqashid al-Syariah** (مقاصد الشريعة)
+Tujuan-tujuan syariat. Kerangka untuk memahami hikmah di balik hukum-hukum Islam. Lima maqashid utama (*dharuriyyat al-khams*) adalah perlindungan agama, jiwa, akal, keturunan, dan harta. Memahami maqashid membantu da'i menjelaskan *mengapa* Islam mengatur sesuatu, bukan hanya *bahwa* Islam mengaturnya.
+
+**Maslahah** (مصلحة)
+Kemaslahatan, kebaikan umum. Salah satu pertimbangan utama dalam pengambilan keputusan hukum Islam. Fiqh muwazanat mengajarkan cara menimbang antara maslahah dan mafsadah (kerusakan) dalam setiap keputusan dakwah dan gerakan.
+
 **Mujaddid** (مجدد)
 Pembaharu, orang yang memperbarui pemahaman dan pengamalan agama di zamannya. Setiap abad diharapkan melahirkan mujaddid sesuai hadits Nabi.
 
 **Murabbi** (مربي)
 Pembina, pendidik dalam konteks tarbiyah. Murabbi bukan sekadar guru yang menyampaikan ilmu — dia adalah teladan hidup yang membimbing secara holistik.
+
+**Murunah** (مرونة)
+Fleksibilitas, kelenturan. Dalam konteks dakwah, murunah adalah kemampuan untuk fleksibel dalam hal-hal taktis tanpa mengorbankan prinsip-prinsip strategis. Al-Qaradhawi menyebut ini sebagai ruang antara *al-tsawabit* (yang tetap) dan *al-mutaghayyirat* (yang bisa berubah).
 
 **Mutarabbi** (متربي)
 Orang yang sedang dibina dalam proses tarbiyah, peserta halaqah.
@@ -157,6 +178,12 @@ Jiwa, diri. Al-Qur'an menyebut tiga tingkatan nafs: *ammarah* (yang memerintahka
 
 ### Q
 
+**Qabiliyyah lil-Isti'mar** (قابلية للاستعمار)
+Kesiapan untuk dijajah. Konsep Malik Bennabi yang menjelaskan bahwa penjajahan tidak hanya terjadi karena kekuatan penjajah, tetapi juga karena kerentanan internal umat yang kehilangan vitalitas spiritual dan peradabannya. Kondisi ini lahir dari kekosongan ide spiritual yang seharusnya menjadi motor peradaban.
+
+**Qath'i dan Zhanni** (قطعي وظني)
+Dua kategori dalil dalam ushul fiqh. *Qath'i* adalah dalil yang pasti dan tidak membuka ruang interpretasi — seperti kewajiban shalat dan keharaman zina. *Zhanni* adalah dalil yang terbuka untuk interpretasi dan ijtihad. Fiqh ikhtilaf mengajarkan bahwa perbedaan dalam masalah zhanni harus dihormati, sementara masalah qath'i tidak boleh dikompromikan.
+
 **Qudwah** (قدوة)
 Keteladanan. Dakwah paling efektif bukan melalui kata-kata, tapi melalui teladan hidup. Nabi adalah *uswah hasanah* (teladan terbaik) — dan setiap da'i harus berusaha menjadi qudwah di lingkungannya.
 
@@ -165,6 +192,9 @@ Keteladanan. Dakwah paling efektif bukan melalui kata-kata, tapi melalui teladan
 **Riba** (ربا)
 Bunga, rente — tambahan atas pinjaman yang disyaratkan. Diharamkan secara tegas dalam Al-Qur'an. Isu riba menjadi salah satu tantangan kontemporer terbesar bagi umat Islam di tengah sistem ekonomi global.
 
+**Riddah** (ردة)
+Kemurtadan, keluar dari Islam. Al-Attas mengembangkan konsep *riddah* epistemologis — perpindahan loyalitas intelektual dari wahyu ke akal manusia semata — yang bisa terjadi bahkan pada seseorang yang secara formal masih menjalankan ritual Islam.
+
 **Rohis** (Rohani Islam)
 Organisasi kerohanian Islam di tingkat sekolah menengah di Indonesia. Bersama LDK, menjadi salah satu wadah pembinaan generasi muda muslim.
 
@@ -172,6 +202,9 @@ Organisasi kerohanian Islam di tingkat sekolah menengah di Indonesia. Bersama LD
 Dimensi spiritual, aspek kejiwaan. Pembinaan ruhiyah mencakup ibadah, dzikir, muhasabah, dan segala hal yang mendekatkan hati kepada Allah.
 
 ### S
+
+**Suhbah** (صحبة)
+Persahabatan, kebersamaan. Metode pembinaan melalui persahabatan yang intensif sebagaimana dipraktikkan Rasulullah dengan para sahabat. Para sahabat belajar Islam bukan hanya dari ceramah, tetapi dari kehadiran dan teladan hidup Nabi secara langsung.
 
 **Shalih** (صالح)
 Baik, benar, layak. Orang shalih adalah orang yang hidup selaras dengan kehendak Allah — lahir maupun batin. Dalam konteks repositori ini: intelektual yang shalih adalah cendekiawan yang kecerdasan akalnya seimbang dengan kebersihan hatinya.
@@ -187,17 +220,35 @@ Musyawarah, konsultasi. Prinsip pengambilan keputusan dalam Islam yang menekanka
 
 ### T
 
+**Ta'dib** (تأديب)
+Pendidikan yang membentuk adab — kemampuan menempatkan segala sesuatu pada tempatnya yang tepat. Konsep Al-Attas yang membedakan ta'dib dari sekadar *ta'lim* (pengajaran). Ta'dib membentuk manusia yang memahami hierarki ilmu, nilai, dan realitas sebagaimana ditetapkan Islam.
+
 **Tafsir** (تفسير)
 Penjelasan dan penafsiran Al-Qur'an. Ilmu tafsir adalah ilmu yang paling mulia karena berkaitan langsung dengan pemahaman firman Allah.
 
 **Tajdid** (تجديد)
 Pembaruan, revitalisasi. Memperbarui pemahaman dan pengamalan agama agar tetap segar dan relevan — bukan mengubah substansi, tapi menghidupkan kembali ruhnya.
 
+**Tanfidz** (تنفيذ)
+Pelaksanaan, eksekusi program. Dalam konteks dakwah kampus, tanfidz merujuk pada program-program eksternal yang memperluas dampak dakwah — menjangkau mahasiswa yang belum terjangkau dan memberikan kontribusi nyata kepada kampus dan masyarakat. Keseimbangan antara tarbiyah (pembinaan internal) dan tanfidz adalah kunci kesehatan organisasi dakwah.
+
+**Tasamuh** (تسامح)
+Toleransi, sikap lapang dada. Salah satu prinsip dasar Nahdlatul Ulama. Tasamuh bukan berarti menerima segala sesuatu tanpa filter, melainkan sikap menghormati perbedaan dalam koridor yang dibenarkan syariat.
+
+**Tasawwur** (تصور)
+Konsepsi, pandangan menyeluruh terhadap realitas. Sayyid Quthb mengembangkan konsep *tasawwur Islami* — cara pandang komprehensif terhadap kehidupan, alam semesta, dan manusia yang bersumber dari tauhid. Tasawwur yang jernih adalah prasyarat bagi efektivitas gerakan dakwah.
+
+**Tawassuth** (توسط)
+Sikap tengah, moderat. Salah satu prinsip dasar Nahdlatul Ulama bersama tawazun, tasamuh, dan i'tidal. Tawassuth bukan berarti tidak punya pendirian, melainkan menghindari sikap ekstrem dalam memahami dan mengamalkan ajaran Islam.
+
 **Tarbiyah** (تربية)
 Pembinaan, pendidikan yang menyeluruh. Bukan sekadar transfer ilmu, tapi pembentukan manusia seutuhnya — akal, hati, dan perilaku. Sistem tarbiyah biasanya berbasis halaqah dengan kurikulum terstruktur dan hubungan murabbi-mutarabbi yang intensif.
 
 **Tauhid** (توحيد)
 Mengesakan Allah. Inti dari seluruh ajaran Islam dan fondasi dari seluruh bangunan peradaban Islam. Tauhid bukan sekadar doktrin teologis — ia adalah prinsip pembebasan manusia dari segala bentuk penghambaan selain kepada Allah.
+
+**Tsawabit wa Mutaghayyirat** (الثوابت والمتغيرات)
+Yang tetap dan yang berubah. Kerangka penting dalam fiqh dakwah kontemporer. *Tsawabit* mencakup prinsip-prinsip tauhid, ibadah pokok, dan hukum qath'i yang tidak bisa dinegosiasikan. *Mutaghayyirat* mencakup metode, strategi, dan aplikasi yang bisa disesuaikan dengan konteks zaman dan tempat.
 
 **Tazkiyatun Nafs** (تزكية النفس)
 Penyucian jiwa. Proses membersihkan hati dari penyakit-penyakit spiritual (hasad, riya, ujub, kibr, dll.) dan mengisinya dengan sifat-sifat terpuji. Al-Qur'an menyatakan: "Sungguh beruntung orang yang menyucikan jiwanya" (QS. Al-Syams: 9).

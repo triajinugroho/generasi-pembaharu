@@ -76,4 +76,4 @@ Maka mari bergerak. Bukan dengan tergesa-gesa, tapi dengan ilmu. Bukan sendirian
 
 ---
 
-*Lanjut ke: [Level 1 — Asas →](../01-asas/README.md)*
+*Lanjut ke: [Fondasi Aqidah →](../01-fondasi-aqidah/)*

@@ -90,3 +90,7 @@ Generasi Pembaharu, abad ke-21
 Dari bumi Nusantara — untuk kalian, di mana pun dan kapan pun kalian berada.
 
 *Wassalamu'alaikum warahmatullahi wabarakatuh.*
+
+---
+
+*Selanjutnya: [Doa Penutup](./02-doa-penutup.md)*

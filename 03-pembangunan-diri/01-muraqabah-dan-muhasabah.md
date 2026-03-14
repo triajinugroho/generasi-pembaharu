@@ -193,3 +193,7 @@ Pertanyaannya bukan apakah Allah dekat. Pertanyaannya adalah: **apakah kita hadi
 Muraqabah dan muhasabah adalah jalan untuk hadir. Untuk kembali. Untuk pulang.
 
 Mulailah malam ini.
+
+---
+
+*Selanjutnya: [Manajemen Ruhani Da'i](./02-manajemen-ruhani-dai.md)*

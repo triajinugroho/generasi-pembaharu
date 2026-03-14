@@ -64,6 +64,12 @@ Navigasi lengkap seluruh materi dalam repo **Generasi Pembaharu**.
 - [AI, Teknologi, dan Masa Depan](./06-tantangan-kontemporer/03-ai-teknologi-dan-masa-depan.md)
 - [Islam dan Kebangsaan Indonesia](./06-tantangan-kontemporer/04-islam-dan-kebangsaan-indonesia.md)
 
+## Bab 7: Penutup
+
+- [Pengantar Penutup](./07-penutup/)
+- [Epilog: Surat untuk Generasi Mendatang](./07-penutup/01-epilog-surat-untuk-generasi-mendatang.md)
+- [Doa Penutup](./07-penutup/02-doa-penutup.md)
+
 ## Kurikulum Training
 
 ### Level 1: Mubtadi (Pemula)
@@ -98,9 +104,20 @@ Navigasi lengkap seluruh materi dalam repo **Generasi Pembaharu**.
 - [Dakwah Bukan Partisan](./esai/dakwah-bukan-partisan.md)
 - [Intelektual yang Shalih](./esai/intelektual-yang-shalih.md)
 - [Surat untuk Aktivis Kampus](./esai/surat-untuk-aktivis-kampus.md)
+- [Perempuan Pembaharu](./esai/perempuan-pembaharu.md)
+- [Ekonomi Umat dan Kemandirian](./esai/ekonomi-umat-dan-kemandirian.md)
+- [Spiritualitas di Era Digital](./esai/spiritualitas-di-era-digital.md)
+- [Dari Halaqah ke Peradaban](./esai/dari-halaqah-ke-peradaban.md)
+- [Kritik Diri Gerakan Dakwah](./esai/kritik-diri-gerakan-dakwah.md)
 
 ## Referensi
 
 - [Kitab & Buku Wajib](./referensi/kitab-wajib.md)
 - [Tokoh Inspirasi](./referensi/tokoh-inspirasi.md)
 - [Glosarium](./referensi/glosarium.md)
+
+## Lampiran
+
+- [Panduan Fasilitator](./lampiran/panduan-fasilitator.md)
+- [Peta Bacaan Bertahap](./lampiran/peta-bacaan-bertahap.md)
+- [Template Evaluasi](./lampiran/template-evaluasi.md)

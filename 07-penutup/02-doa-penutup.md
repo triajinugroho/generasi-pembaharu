@@ -97,3 +97,7 @@ Rasulullah shallallahu 'alaihi wasallam membaca doa ini setiap pagi setelah shal
 ---
 
 *Amin. Amin. Amin ya Rabbal 'Aalamiin.*
+
+---
+
+*Kembali ke: [Daftar Isi](../DAFTAR_ISI.md)*

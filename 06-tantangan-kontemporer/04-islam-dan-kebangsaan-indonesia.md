@@ -282,4 +282,6 @@ Allah berfirman: *"Kamu adalah umat terbaik yang dilahirkan untuk manusia, menyu
 
 ---
 
+*Selanjutnya: [Penutup — Epilog: Surat untuk Generasi Mendatang](../07-penutup/01-epilog-surat-untuk-generasi-mendatang.md)*
+
 *Kembali ke: [Daftar Isi](../DAFTAR_ISI.md)*

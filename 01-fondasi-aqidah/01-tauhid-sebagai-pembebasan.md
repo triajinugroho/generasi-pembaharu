@@ -156,3 +156,7 @@ Luangkan waktu untuk merenungkan pertanyaan-pertanyaan ini — bukan dijawab den
 Ayat ini menggunakan kata ***fa'lam*** — maka **ketahuilah**. Perintah aktif. Bukan sekadar percaya, tapi menggali, memahami, menghayati, dan menghidupi. Tauhid bukan titik akhir — ia adalah perjalanan pembebasan yang tidak pernah berhenti selama kita masih bernapas.
 
 Dan perjalanan itu dimulai sekarang.
+
+---
+
+*Selanjutnya: [Aqidah yang Menggerakkan](./02-aqidah-yang-menggerakkan.md)*
