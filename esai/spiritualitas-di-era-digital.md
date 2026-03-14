@@ -26,6 +26,10 @@ Rasulullah bersabda: *"Ketahuilah, di dalam tubuh ada segumpal daging. Jika ia b
 
 Hati — *qalb* — adalah pusat segalanya dalam tradisi Islam. Dan hati ini sedang diserang dari segala arah oleh teknologi yang bahkan tidak kita sadari dampaknya.
 
+Nabi juga bersabda: *"Fitnah-fitnah itu ditawarkan kepada hati seperti tikar yang dianyam, sehelai demi sehelai. Hati mana saja yang menyerapnya, maka akan ditandai dengan satu titik hitam. Dan hati mana saja yang menolaknya, maka akan ditandai dengan satu titik putih. Hingga menjadi dua jenis hati: hati yang putih bersih seperti batu licin — tidak ada fitnah yang bisa membahayakannya selama langit dan bumi masih ada. Dan hati yang hitam keabu-abuan seperti cangkir yang terbalik — tidak mengenal kebaikan dan tidak mengingkari kemungkaran."* (HR. Muslim).
+
+Setiap scroll, setiap konten yang kamu konsumsi tanpa saringan, setiap jam yang terbuang dalam lautan digital — itu semua sedang menganyam titik-titik pada hatimu. Pertanyaannya: titik putih atau titik hitam?
+
 ---
 
 ## Gejala yang Perlu Kita Kenali
@@ -54,7 +58,33 @@ Uzlah — menyendiri untuk mendekat kepada Allah — adalah sunnah yang diprakti
 
 Prinsipnya sama: ada saat-saat di mana hati butuh **keheningan** untuk bisa mendengar. Dan di era digital, keheningan itu semakin langka dan semakin mahal.
 
+Dan dalam hadits lain, beliau bersabda:
+
+*"Sesungguhnya hati-hati itu berkarat sebagaimana besi berkarat."*
+
+Para sahabat bertanya: "Apa pembersihnya, ya Rasulullah?"
+
+Beliau menjawab: *"Banyak mengingat kematian dan membaca Al-Qur'an."* (HR. Al-Baihaqi).
+
+Di era digital, karat hati datang lebih cepat dan lebih halus dari generasi mana pun sebelumnya. Dan pembersihnya tetap sama: dzikrul maut — mengingat kematian — dan tilawah Al-Qur'an. Bukan aplikasi mindfulness. Bukan teknik pernapasan. Dzikir dan Qur'an.
+
+Kapan terakhir kali kamu benar-benar memikirkan kematian? Bukan secara teoritis — tapi benar-benar membayangkan: hari ini bisa jadi hari terakhirku. Dan jika memang demikian, apakah tiga jam yang kuhabiskan di media sosial tadi malam adalah cara yang layak untuk menghabiskan penggalan terakhir hidupku? Dzikrul maut bukan pesimisme — ia adalah **kejujuran paling radikal** yang bisa kamu praktikkan di era distraksi.
+
+Imam Al-Ghazali menulis dalam *Ihya Ulumiddin*:
+
+*"Hati itu ibarat cermin, dan hawa nafsu ibarat karat yang menutupinya. Ketika cermin itu dibersihkan dari karat, ia akan memantulkan hakikat segala sesuatu sebagaimana adanya."*
+
+Di era digital, karat itu datang dalam bentuk infinite scroll, konten clickbait, dan dopamine hit dari notifikasi. Setiap kali kamu memilih Qur'an di atas TikTok, kamu sedang membersihkan cermin hatimu.
+
 Tapi uzlah bukan berarti membuang ponselmu ke laut dan pindah ke gunung. Itu tidak realistis dan bukan yang diajarkan Islam. Yang dibutuhkan adalah **disiplin yang cerdas** — kemampuan untuk menjadi tuan atas teknologimu, bukan budaknya.
+
+Berikut panduan praktis berbasis sunnah untuk menjaga hatimu di tengah badai digital:
+
+**Sunnah Pagi — Benteng Sebelum Badai.** Rasulullah bersabda: *"Ya Allah, berkahilah umatku di waktu paginya."* (HR. Tirmidzi). Tiga puluh menit pertama setelah Subuh adalah waktu paling strategis. Jika kamu menyerahkannya kepada algoritma, kamu sudah kalah sebelum hari dimulai. Jadikan waktu ini untukmu dan Allah: tilawah, dzikir pagi, tafakkur. Ponsel tidak boleh menyentuh tanganmu sebelum hatimu menyentuh Al-Qur'an.
+
+**Sunnah Sore — Evaluasi Sebelum Gelap.** Antara Ashar dan Maghrib, luangkan sepuluh menit untuk muhasabah digital: berapa jam hari ini kuhabiskan di layar? Apa yang kulihat? Apa yang kurasa setelahnya? Umar bin Khattab berkata: *"Hisablah dirimu sebelum kamu dihisab."* Terapkan ini untuk konsumsi digitalmu.
+
+**Sunnah Malam — Kembali ke Keheningan.** Sepertiga malam terakhir — waktu ketika Allah turun ke langit dunia dan bertanya: *"Adakah yang meminta kepada-Ku, niscaya Aku beri? Adakah yang beristighfar kepada-Ku, niscaya Aku ampuni?"* (HR. Bukhari-Muslim). Di waktu ini, layar harus mati dan hati harus hidup.
 
 > **Framework Praktis: Disiplin Digital Islami**
 > 1. **Zona bebas ponsel di waktu-waktu kunci**: antara adzan dan selesai shalat, tiga puluh menit pertama setelah bangun tidur, dan tiga puluh menit sebelum tidur.
@@ -77,6 +107,10 @@ Imam Al-Ghazali, jauh sebelum era digital, sudah memperingatkan tentang bahaya h
 
 Maka pekerjaan spiritual kita di era ini lebih berat dari generasi mana pun sebelumnya — bukan karena godaan dosa yang lebih besar, tapi karena **distraksi yang lebih halus**. Kamu bisa menghabiskan seluruh hari tanpa melakukan satu pun dosa besar, tapi juga tanpa satu pun momen kehadiran penuh bersama Allah. Dan itulah bahaya sesungguhnya: bukan kemaksiatan yang terang-terangan, tapi **kekosongan ruhani yang tersembunyi di balik kesibukan digital**.
 
+Ibnul Qayyim Al-Jauziyyah — murid Ibnu Taimiyyah yang menulis dengan kedalaman luar biasa tentang penyakit dan obat hati — berkata: *"Di dalam hati ada kekosongan yang tidak bisa diisi kecuali dengan kedekatan kepada Allah. Di dalamnya ada kesedihan yang tidak bisa dihilangkan kecuali dengan kebahagiaan mengenal-Nya. Di dalamnya ada kegelisahan yang tidak bisa ditenangkan kecuali dengan berkumpul kepada-Nya dan berlari dari-Nya kepada-Nya."* Ketika kita merasa gelisah tanpa sebab yang jelas — setelah berjam-jam di layar, setelah mengonsumsi ratusan konten — itu bukan anxiety disorder yang butuh terapi semata. Itu adalah hati yang merindukan Tuhannya dan tidak menemukan-Nya di antara scroll dan swipe.
+
+Dan Al-Ghazali menambahkan perspektif yang lebih tajam: *"Dunia ini penjara bagi mukmin dan surga bagi orang kafir."* Di era digital, penjara itu berwujud halus — bukan jeruji besi, tapi layar kaca berukuran enam inci yang mengurung perhatianmu, mengurung hatimu, mengurung hubunganmu dengan Allah. Mukmin yang sadar adalah mukmin yang menolak dikurung. Yang memilih kebebasan sejati — kebebasan dari ketergantungan pada dopamine digital, kebebasan untuk hadir sepenuhnya dalam shalat, kebebasan untuk merasakan manisnya munajat tanpa otak yang gelisah mencari notifikasi berikutnya.
+
 ---
 
 ## Penutup: Siapa yang Menguasai Perhatianmu, Menguasai Hatimu
@@ -89,11 +123,25 @@ Ini bukan soal anti-teknologi. Ini soal **kedaulatan hati**. Hati yang merdeka a
 
 Jagalah hatimu. Di era ketika semua orang berlomba merebut perhatianmu, berikan perhatian terbaikmu hanya kepada Dzat yang menciptakan hati itu.
 
-Dan ketahuilah: perjuangan ini tidak mudah. Kamu akan gagal berkali-kali. Kamu akan membuka ponsel ketika seharusnya membuka Al-Qur'an. Kamu akan terjebak scroll ketika seharusnya sedang berdzikir. Itu manusiawi. Yang penting bukan kesempurnaan — yang penting adalah **kamu terus kembali**. Setiap kali jatuh, kembali. Setiap kali lalai, kembali. Karena Allah tidak menuntut kita untuk tidak pernah terjatuh — Allah menuntut kita untuk tidak pernah berhenti bangkit.
+Dan ketahuilah: perjuangan ini tidak mudah.
+
+Kamu akan gagal berkali-kali. Kamu akan membuka ponsel ketika seharusnya membuka Al-Qur'an. Kamu akan terjebak scroll ketika seharusnya sedang berdzikir.
+
+Itu manusiawi.
+
+Yang penting bukan kesempurnaan — yang penting adalah **kamu terus kembali**. Setiap kali jatuh, kembali. Setiap kali lalai, kembali.
+
+Rasulullah bersabda: *"Setiap anak Adam pasti berbuat salah, dan sebaik-baik orang yang berbuat salah adalah yang banyak bertaubat."* (HR. Tirmidzi).
+
+Karena Allah tidak menuntut kita untuk tidak pernah terjatuh — Allah menuntut kita untuk tidak pernah berhenti bangkit.
 
 > *"Orang-orang yang beriman dan hati mereka menjadi tenteram dengan mengingat Allah. Ingatlah, hanya dengan mengingat Allah hati menjadi tenteram."* — QS. Ar-Ra'd: 28
 
 Di tengah semua kebisingan digital ini, ketentraman itu masih tersedia. Tapi kamu harus memilihnya. Setiap hari. Setiap saat.
+
+Dan izinkan aku menutup dengan tantangan yang jujur: **hitung berapa jam kamu menghabiskan waktu di layar hari ini, lalu bandingkan dengan berapa menit kamu menghabiskan waktu bersama Al-Qur'an.** Jika angka pertama mengalahkan angka kedua dengan telak — dan bagi kebanyakan dari kita, termasuk aku, jawabannya menyakitkan — maka kita tahu di mana masalahnya. Bukan di teori. Di praktik. Di kebiasaan sehari-hari yang membentuk hati kita tanpa kita sadari.
+
+Rasulullah bersabda: *"Dua nikmat yang banyak manusia tertipu di dalamnya: kesehatan dan waktu luang."* (HR. Bukhari). Di era digital, waktu luang kita tidak benar-benar luang — ia dicuri oleh algoritma yang kita biarkan masuk tanpa perlawanan. Rebut kembali waktumu. Rebut kembali hatimu. Karena siapa yang menguasai perhatianmu, menguasai hatimu — dan hanya Ada satu Dzat yang layak menguasai hati itu.
 
 ---
 

@@ -19,8 +19,15 @@
 
 ### 1. Pembukaan (10 menit)
 
+*Suatu malam, khalifah Umar bin Al-Khattab berjalan menyamar di lorong-lorong kota Madinah. Ia mendengar tangisan anak kecil. Didekatinya sebuah rumah miskin — seorang ibu sedang merebus batu dalam panci agar anak-anaknya mengira makanan sedang dimasak, sehingga mereka tertidur sambil menunggu. Umar menangis. Ia berlari ke Baitul Mal, menggendong karung tepung di punggungnya sendiri, dan membawa makanan ke rumah itu. Pelayannya berkata: "Biar saya yang bawa, wahai Amirul Mukminin." Umar menjawab: "Apakah kamu yang akan memikul dosaku di hari kiamat?" Inilah pemimpin. Bukan yang duduk di singgasana — tapi yang berlari ke arah tangisan rakyatnya.*
+
 - Tilawah: QS. Ali Imran: 159
-- Hadits pembuka: "Sayyidul qaum khadimuhum" (Pemimpin kaum adalah pelayan mereka)
+
+**Hadits Pembuka:**
+
+> *"Pemimpin suatu kaum adalah pelayan mereka."*
+> — HR. Abu Dawud (sayyidul qaum khadimuhum)
+
 - Pertanyaan pemantik: "Siapa pemimpin dakwah yang paling menginspirasimu dan mengapa?"
 - Penyampaian alur sesi
 
@@ -28,11 +35,26 @@
 
 - Kepemimpinan sebagai amanah, bukan privilege
   - QS. An-Nisa: 58 — perintah menunaikan amanah
-  - Hadits: "Kullukum ra'in wa kullukum mas'ulun 'an ra'iyyatihi"
+  - Hadits: "Kullukum ra'in wa kullukum mas'ulun 'an ra'iyyatihi" (HR. Bukhari dan Muslim)
+
+**Hadits tentang Beratnya Amanah Kepemimpinan:**
+
+> *"Sesungguhnya kepemimpinan itu adalah amanah, dan pada Hari Kiamat ia adalah kehinaan dan penyesalan, kecuali bagi yang mengambilnya dengan haknya dan menunaikan kewajibannya."*
+> — HR. Muslim dari Abu Dzar
+
+> *Abu Dzar berkata: "Wahai Rasulullah, tidakkah engkau mengangkatku sebagai pemimpin?" Rasulullah ﷺ menepuk pundaknya dan berkata: "Wahai Abu Dzar, sesungguhnya engkau lemah, dan sesungguhnya jabatan itu adalah amanah..."*
+> — HR. Muslim
+
 - Servant leadership dalam Islam:
   - Teladan Nabi ﷺ: menjahit sandal sendiri, membangun masjid bersama sahabat, melayani tamu
   - Teladan Umar bin Khattab: menggendong tepung untuk rakyat
   - Prinsip: pemimpin ada untuk melayani, bukan dilayani
+
+**Atsar Umar bin Al-Khattab tentang Kepemimpinan:**
+
+> *"Seandainya seekor keledai tergelincir di tepian sungai Eufrat (Iraq), aku takut Allah akan menanyaiku mengapa aku tidak meratakan jalan untuknya."*
+
+> *"Aku tidak mengutus para gubernurku untuk memukul kulit kalian dan merampas harta kalian. Aku mengutus mereka untuk mengajari kalian agama dan sunnah Nabi kalian. Barangsiapa diperlakukan selain itu, hendaklah ia laporkan kepadaku. Demi Dzat yang jiwaku di tangan-Nya, sungguh aku akan menghukumnya."*
 
 > **Mental Model: Umar bin Al-Khattab — Pemimpin yang Turun ke Jalan**
 > 1. Kumpulkan informasi langsung dari lapangan, bukan hanya dari laporan bawahan (Umar menyamar keliling kota malam hari)
@@ -46,11 +68,21 @@
   - Amanah (dapat dipercaya)
   - Tabligh (komunikatif)
   - Fathanah (cerdas dan visioner)
+
+**Hadits tentang Kepemimpinan Muda:**
+
+> *Rasulullah ﷺ mengangkat Usamah bin Zaid — yang berusia 18 tahun — sebagai panglima pasukan, padahal di dalamnya terdapat Abu Bakar dan Umar. Ketika sebagian orang memprotes, Rasulullah ﷺ bersabda: "Jika kalian mencela kepemimpinannya, maka kalian telah mencela kepemimpinan ayahnya sebelumnya. Demi Allah, sungguh ia layak untuk memimpin."*
+> — HR. Bukhari dan Muslim
+
+Ini adalah pelajaran bagi setiap LDK dan organisasi dakwah kampus: jangan tolak pemimpin muda hanya karena usianya. Nabi ﷺ menilai berdasarkan kapasitas, bukan senioritas.
+
 - Penyakit kepemimpinan yang harus diwaspadai:
   - Otoriter dan merasa paling benar
   - Micromanagement dan tidak percaya tim
   - Menghindar dari tanggung jawab (leadership avoidance)
   - Kultus individu
+
+**Skenario LDK:** Seorang ketua LDK baru dilantik. Ia antusias tapi cenderung mengerjakan semua sendiri karena tidak percaya pada kemampuan pengurus lain. Rapat syura diadakan formalitas — keputusan sudah diambil sebelumnya. Dalam 3 bulan, pengurus lain merasa tidak dihargai dan mulai pasif. Ini adalah pola kepemimpinan yang melanggar prinsip syura dan delegasi — dua pilar kepemimpinan nabawi.
 
 ### 3. Materi Inti B — Syura: Pengambilan Keputusan Kolektif (20 menit)
 
@@ -62,6 +94,12 @@
 - Maka mekanisme syura dalam organisasi dakwah adalah PENJAGA TAUHID, bukan sekadar prosedur manajemen
 
 - Dalil syura: QS. Asy-Syura: 38, QS. Ali Imran: 159
+
+**Hadits tentang Syura:**
+
+> *"Jika aku hendak mengangkat seseorang tanpa musyawarah, niscaya aku angkat Ibnu Ummi 'Abd (Ibnu Mas'ud)."*
+> — Riwayat dari Umar bin Al-Khattab
+
 - Syura dalam praktik Nabi ﷺ:
   - Perang Badr: mendengar pendapat Al-Hubab bin Mundzir tentang posisi strategis
   - Perang Uhud: mengikuti pendapat mayoritas meski berbeda dengan pandangan beliau
@@ -90,6 +128,12 @@
   - Mengirim Mush'ab bin Umair ke Madinah sebagai da'i
   - Mengangkat gubernur dan komandan perang dari kalangan sahabat muda
   - Memberikan tanggung jawab besar kepada Usamah bin Zaid (18 tahun)
+
+**Hadits tentang Menempatkan Orang yang Tepat:**
+
+> *"Jika suatu urusan diserahkan kepada yang bukan ahlinya, maka tunggulah kehancurannya."*
+> — HR. Bukhari dari Abu Hurairah
+
 - Prinsip delegasi efektif:
   - Kenali kekuatan anggota tim (the right person for the right job)
   - Berikan wewenang bersama tanggung jawab
@@ -102,10 +146,22 @@
   - Dengan wewenang sebesar apa
   - Deadline dan standar keberhasilan
   - Mekanisme pelaporan dan evaluasi
+
+**Skenario LDK — Delegasi dalam Struktur Tanzhim:**
+
+Sebuah LDK memiliki 5 departemen. Ketua baru dilantik dan memutuskan untuk mendelegasikan penuh program kerja ke masing-masing ketua departemen, dengan briefing bulanan dan evaluasi triwulanan. Ia menjelaskan visi besar ("what") tapi memberi kebebasan pada metode ("how"). Hasilnya: ketua departemen merasa dipercaya, lebih kreatif, dan lebih bertanggung jawab. Inilah delegasi ala Nabi ﷺ — ketika beliau mengirim Mu'adz bin Jabal ke Yaman, beliau menjelaskan misi, bukan mengatur detail pelaksanaan.
+
 - Hambatan delegasi dan cara mengatasinya:
   - "Lebih cepat kalau aku kerjakan sendiri" → investasi jangka panjang
   - "Takut mereka gagal" → kegagalan adalah proses belajar
   - "Nanti mereka lebih hebat dariku" → itulah tujuan kaderisasi
+
+**Hadits tentang Delegasi Nabi ﷺ kepada Mu'adz:**
+
+> *Ketika Rasulullah ﷺ mengutus Mu'adz bin Jabal ke Yaman, beliau bertanya: "Dengan apa engkau memutuskan perkara?" Mu'adz menjawab: "Dengan Kitab Allah." Beliau bertanya: "Jika tidak engkau temukan?" Mu'adz menjawab: "Dengan Sunnah Rasulullah." Beliau bertanya: "Jika tidak engkau temukan?" Mu'adz menjawab: "Aku berijtihad dengan pendapatku." Rasulullah ﷺ menepuk dada Mu'adz dan berkata: "Segala puji bagi Allah yang telah menyelaraskan utusan Rasulullah dengan apa yang diridhai Rasulullah."*
+> — HR. Abu Dawud dan At-Tirmidzi
+
+Inilah delegasi sempurna: Rasulullah ﷺ tidak memberikan manual prosedur yang detail — beliau memastikan Mu'adz memiliki prinsip yang benar, lalu memberinya kebebasan berijtihad. Seorang naqib dalam halaqah tarbiyah seharusnya melakukan hal yang sama: membekali mutarabbi dengan prinsip, lalu memberi ruang untuk tumbuh.
 
 ### 5. Simulasi dan Praktik (25 menit)
 
@@ -126,9 +182,12 @@
   - "Gaya kepemimpinanku saat ini: lebih otoriter, laissez-faire, atau servant leader?"
   - "Seberapa sering aku melibatkan orang lain dalam keputusan?"
   - "Apa yang paling sulit untuk aku delegasikan dan mengapa?"
+  - "Apakah aku memimpin karena ingin melayani umat, atau karena ingin posisi?"
 - Tulis satu komitmen pengembangan kepemimpinan untuk 1 bulan ke depan
 
 ### 7. Penutup (10 menit)
+
+*Kepemimpinan dalam dakwah bukan tentang siapa yang duduk di kursi tertinggi. Kepemimpinan adalah tentang siapa yang paling banyak menanggung, paling banyak melayani, paling banyak mendengar. Umar bin Al-Khattab — yang disegani seluruh dunia — berlari menggendong tepung di tengah malam untuk satu keluarga miskin. Jika itu standar kepemimpinan Islam, maka betapa jauh kita dari standar itu. Tapi bukan berarti kita menyerah — kita mulai dari mana kita berdiri, dan kita terus mendaki.*
 
 - Rangkuman tiga pilar: khidmah, syura, delegasi
 - Penugasan: praktikkan salah satu prinsip kepemimpinan dalam kegiatan nyata dan buat laporan refleksi singkat
@@ -143,3 +202,4 @@
 3. Hawwa, Sa'id. *Membina Angkatan Mujahid* (Terj. Jundul Ilah Tsaqafatan wa Akhlaqan). Solo: Era Intermedia.
 4. Greenleaf, Robert K. *Servant Leadership: A Journey into the Nature of Legitimate Power and Greatness*. (Sebagai perbandingan konsep modern)
 5. Adair, John. *The Leadership of Muhammad*. London: Kogan Page.
+6. Ibnu Katsir. *Al-Bidayah wan Nihayah*, Bab Khilafah Ar-Rasyidah. (Terj.).

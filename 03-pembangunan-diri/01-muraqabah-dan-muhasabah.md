@@ -22,6 +22,13 @@ Inilah **muraqabah** — kesadaran bahwa Allah melihatmu. Bukan sebagai ancaman,
 
 Dan dari kesadaran inilah semua pembangunan diri dalam Islam bermula.
 
+Dalam hadits lain, Rasulullah ﷺ menguatkan makna ini dengan sabda beliau:
+
+> *"Bertakwalah kepada Allah di mana pun engkau berada. Iringilah keburukan dengan kebaikan, niscaya kebaikan itu akan menghapusnya. Dan pergaulilah manusia dengan akhlak yang baik."*
+> — HR. Tirmidzi, dari Abu Dzar radhiyallahu 'anhu
+
+Hadits ini adalah *minhaj* praktis bagi setiap da'i: muraqabah (taqwa di mana pun), muhasabah (mengiringi keburukan dengan kebaikan), dan akhlak sebagai buah dari keduanya. Tiga dimensi ini tidak bisa dipisahkan — ia adalah satu kesatuan yang membentuk pondasi *tazkiyatun nafs* seorang pembaharu.
+
 ## Muraqabah: Hidup dalam Kesadaran Ilahi
 
 Muraqabah secara bahasa berasal dari *raqaba* — mengawasi, memperhatikan. Dalam tradisi spiritual Islam, muraqabah adalah **kondisi hati yang senantiasa sadar akan kehadiran Allah** dalam setiap detik, setiap situasi, setiap keputusan.
@@ -48,7 +55,14 @@ Bayangkan kau benar-benar menghayati ayat ini. Dalam setiap rapat tertutup, seti
 
 ## Muraqabah dalam Kehidupan Aktivis Sehari-hari
 
-Muraqabah bukan hanya untuk orang yang duduk bersila di atas sajadah. Ia harus meresap ke dalam **setiap dimensi** kehidupan seorang da'i:
+Muraqabah bukan hanya untuk orang yang duduk bersila di atas sajadah. Ia harus meresap ke dalam **setiap dimensi** kehidupan seorang da'i. Dalam Risalah Ta'lim, Imam Hasan Al-Banna menempatkan muraqabah sebagai salah satu rukun *bai'ah* — bukan rukun pelengkap, tapi rukun inti yang menopang seluruh bangunan tarbiyah. Tanpa muraqabah, seorang kader dakwah hanyalah tubuh yang bergerak tanpa ruh yang mengarahkan.
+
+Rasulullah ﷺ bersabda:
+
+> *"Sesungguhnya Allah tidak melihat kepada rupa dan harta kalian, tetapi Dia melihat kepada hati dan amal kalian."*
+> — HR. Muslim, dari Abu Hurairah radhiyallahu 'anhu
+
+Maka muraqabah pada hakikatnya adalah menjaga hati — karena hatilah yang dilihat Allah. Berikut implementasinya dalam kehidupan sehari-hari:
 
 **Di ruang kuliah.** Ketika kau tergoda untuk menyontek, untuk mengambil jalan pintas, untuk berpura-pura paham padahal tidak — muraqabah mengingatkanmu: *Dia melihat.* Dan karena Dia melihat, kau memilih integritas meskipun tidak ada manusia yang mengawasimu.
 
@@ -58,7 +72,16 @@ Muraqabah bukan hanya untuk orang yang duduk bersila di atas sajadah. Ia harus m
 
 **Di kesendirian.** Inilah ujian terberat. Siapa dirimu ketika tidak ada seorang pun yang melihat? Jawaban atas pertanyaan ini menentukan kadar muraqabahmu yang sesungguhnya.
 
+Rasulullah ﷺ bersabda:
+
+> *"Takutlah kepada Allah di mana pun kamu berada, karena sesungguhnya kamu tidak melihat-Nya, tetapi Dia melihatmu."*
+> — Diriwayatkan oleh Ath-Thabrani, dari Ibnu Abbas radhiyallahu 'anhuma
+
+Hadits ini menegaskan bahwa muraqabah bukan hanya untuk momen-momen ibadah ritual. Ia adalah sikap batin yang melingkupi seluruh kehidupan — di kamar kos, di lorong kampus, di balik layar laptop. Seorang yang telah menghayati hadits ini akan merasakan bahwa setiap detik adalah detik ibadah, karena setiap detik adalah detik di mana Allah menyaksikan.
+
 Hasan al-Bashri *rahimahullah* berkata: *"Orang yang bermuraqabah kepada Allah dalam batinnya, Allah akan memperbaiki lahiriahnya."*
+
+Ibrahim bin Adham *rahimahullah* — seorang pangeran Balkh yang meninggalkan singgasananya demi jalan Allah — menceritakan momen kebangkitannya: suatu malam ia sedang berburu, mengejar seekor rusa, ketika ia mendengar suara: *"Apakah untuk ini engkau diciptakan? Apakah ini yang diperintahkan kepadamu?"* Suara itu mengguncang seluruh keberadaannya. Ia turun dari kudanya, menanggalkan jubah kerajaannya, dan memulai perjalanan panjang menuju Allah — perjalanan yang menjadikannya salah satu tokoh tazkiyah paling berpengaruh dalam sejarah Islam. Kisah Ibrahim bin Adham mengajarkan kita bahwa muraqabah sejati terkadang dimulai dari satu momen kejutan — satu pertanyaan yang mengguncang hingga ke dasar jiwa: *untuk apa aku hidup?*
 
 ## Muhasabah: Seni Mengaudit Jiwa
 
@@ -66,9 +89,14 @@ Jika muraqabah adalah **kesadaran yang berkelanjutan**, maka muhasabah adalah **
 
 Kata muhasabah berasal dari *hasaba* — menghitung. Ia adalah praktik menghitung, mengevaluasi, dan mengoreksi diri sendiri secara sadar dan berkala.
 
+Imam al-Ghazali dalam *Ihya Ulumiddin* menulis dengan tajam: *"Barangsiapa tidak menghisab dirinya di setiap napas yang ia hirup, maka ia adalah orang yang lalai. Dan barangsiapa yang lalai, maka setiap langkahnya membawanya semakin dekat menuju jurang kehancuran."* Ghazali kemudian menjelaskan bahwa muhasabah adalah *syarth* (syarat) bagi setiap orang yang menempuh jalan menuju Allah — bukan amalan tambahan, bukan opsional, tapi syarat mutlak. Tanpa muhasabah, seorang *salik* (penempuh jalan spiritual) berjalan dalam kegelapan tanpa lentera.
+
 Umar ibn al-Khaththab *radhiyallahu 'anhu* — pemimpin yang ditakuti oleh musuh-musuh Islam dan ditangisi oleh rakyatnya — berkata dengan kalimat yang begitu terkenal:
 
 > *"Hisablah (hitunglah/evaluasilah) diri kalian sebelum kalian dihisab. Timbanglah amal kalian sebelum amal kalian ditimbang. Dan berhiaslah untuk hari penampakan yang agung."*
+> — Diriwayatkan oleh Ibnu Abi Syaibah dalam Al-Mushannaf
+
+Hasan Al-Bashri *rahimahullah* — murid spiritual para sahabat — menguatkan pesan ini dengan kata-kata yang menembus: *"Seorang mukmin adalah pengawas bagi dirinya sendiri. Ia menghisab dirinya untuk Allah. Sesungguhnya hisab pada Hari Kiamat hanya akan ringan bagi orang-orang yang sudah menghisab dirinya di dunia. Dan hisab pada Hari Kiamat akan berat bagi orang-orang yang menjalani dunia ini tanpa pernah menghisab diri."* (Diriwayatkan oleh Imam Ahmad dalam Az-Zuhd). Perhatikan — Hasan Al-Bashri menghubungkan ringan-beratnya hisab akhirat dengan ada-tidaknya muhasabah di dunia. Ini bukan sekadar nasihat motivasional — ini adalah peringatan tentang konsekuensi kosmis dari kelalaian.
 
 Bayangkan. Seorang *Amirul Mukminin* yang menggenggam kekuasaan atas wilayah dari Afrika hingga Persia — **menghisab dirinya sendiri setiap hari**. Bukan karena ia lemah, tapi justru karena ia memahami betapa bahayanya kekuasaan tanpa introspeksi.
 
@@ -93,7 +121,22 @@ Mereka begitu sibuk *mengerjakan* dakwah hingga lupa *menghidupi* dakwah. Mereka
 
 Imam Ibnul Qayyim *rahimahullah* menggambarkan kondisi ini dengan tajam: hati yang tidak di-*tarbiyah* akan mati perlahan, seperti tanaman yang tidak disiram. Kau tidak akan melihatnya layu dalam sehari — tapi suatu pagi kau bangun dan menyadari bahwa yang tersisa hanyalah batang kering.
 
+Rasulullah ﷺ bersabda:
+
+> *"Orang yang cerdas adalah yang menghisab (mengevaluasi) dirinya dan beramal untuk kehidupan setelah kematian. Dan orang yang lemah adalah yang mengikuti hawa nafsunya lalu berangan-angan kepada Allah."*
+> — HR. Tirmidzi dan Ibnu Majah, dari Syaddad bin Aus radhiyallahu 'anhu
+
+Perhatikan — Rasulullah ﷺ menyebut orang yang bermuhasabah sebagai *al-kayyis* (orang cerdas), bukan sekadar orang yang rajin beribadah. Kecerdasan sejati dalam paradigma kenabian bukan IQ atau IPK — melainkan kemampuan mengevaluasi diri sendiri dengan jujur dan mempersiapkan bekal untuk kehidupan yang kekal.
+
 **Muhasabah adalah air bagi jiwa aktivis.** Tanpanya, *burnout* bukan kemungkinan — ia adalah kepastian.
+
+Imam Ghazali dalam *Ihya Ulumiddin* membagi muhasabah menjadi dua tahap: *musyarathah* (menetapkan syarat dan target untuk jiwa di awal hari) dan *mu'aqabah* (memberikan konsekuensi pada jiwa jika melanggar). Ia menulis: *"Jiwa itu seperti kuda liar — jika tidak engkau kekang dengan muhasabah, ia akan membawamu ke jurang yang tidak engkau kehendaki."* Bagi seorang aktivis dakwah, *musyarathah* adalah niat dan target ruhani di pagi hari, dan *mu'aqabah* adalah evaluasi jujur di malam hari. Siklus ini harus berjalan setiap hari tanpa putus — sebagaimana halaqah tarbiyah yang tidak boleh berhenti, muhasabah diri tidak boleh libur.
+
+> *Hati ini bagai cermin — jika tidak engkau poles setiap hari,*
+> *debu dosa akan menutupinya hingga tak tersisa lagi cahaya.*
+> *Maka bersihkanlah ia dengan taubat di setiap petang,*
+> *dan perbaruilah ia dengan tekad di setiap pagi yang datang.*
+> — Diilhami dari syair-syair tasawuf tentang tazkiyatun nafs
 
 > **Mental Model: Imam Ghazali — Mujahada al-Nafs (Perjuangan Melawan Ego)**
 > 1. Kenali musuhmu — nafs memiliki tiga level: *ammarah* (memerintah kejahatan), *lawwamah* (menyesal tapi masih jatuh), dan *muthma'innah* (tenang dalam ketaatan)
@@ -113,6 +156,25 @@ Ada dua ekstrem yang sama-sama berbahaya:
 Islam menolak kedua ekstrem ini. Rasulullah ﷺ adalah manusia paling spiritualis yang pernah hidup — dan sekaligus pemimpin paling aktif yang pernah ada. Beliau bangun tahajjud hingga kakinya bengkak, **dan** memimpin pasukan, mengatur negara, mendidik sahabat, serta menyelesaikan sengketa masyarakat.
 
 Spiritualitas dan aktivisme dalam Islam bukan dua kutub yang berlawanan. Mereka adalah **dua sayap dari burung yang sama**. Potong satu, dan kau jatuh.
+
+Rasulullah ﷺ bersabda:
+
+> *"Taqwa itu di sini."* — Dan beliau menunjuk ke dadanya tiga kali. *"Cukuplah seseorang menjadi buruk jika ia merendahkan saudaranya yang Muslim."*
+> — HR. Muslim, dari Abu Hurairah radhiyallahu 'anhu
+
+Taqwa — yang merupakan buah dari muraqabah — bukan di penampilan, bukan di aktivitas, bukan di jabatan organisasi. Ia di hati. Dan hanya muhasabah yang bisa menjaga hati itu tetap hidup. Seorang aktivis yang sibuk mengurus tanzhim dakwah tapi mengabaikan taqwa di hatinya sedang membangun menara tanpa pondasi — sekuat apa pun ia tampak dari luar, ia rapuh dari dalam.
+
+## Warisan Para Salaf: Muhasabah sebagai Marhalah Tarbiyah
+
+Dalam tradisi tarbiyah Islamiyyah, muhasabah bukan sekadar amalan individual — ia adalah *marhalah* (fase) yang harus dilalui setiap *mutarabbi* (orang yang sedang ditarbiyah). Hasan Al-Bashri *rahimahullah* menjadikan muhasabah sebagai tema utama dalam majelis-majelisnya, hingga ia dijuluki sebagai *imam al-muhasabah*. Beliau berkata: *"Sesungguhnya seorang mukmin tidak akan kau lihat kecuali sedang mencela dirinya sendiri: 'Apa yang kumaksud dengan ucapanku? Apa yang kumaksud dengan makanku? Apa yang kumaksud dengan pikiranku?'"* (Diriwayatkan oleh Ibnu Abi Ad-Dunya dalam *Muhasabatun Nafs*).
+
+Imam Ghazali dalam *Ihya Ulumiddin* menjelaskan enam langkah muhasabah yang ia sebut *murabitah*: (1) *musyarathah* — menetapkan syarat pada jiwa di awal hari, (2) *muraqabah* — mengawasi jiwa sepanjang hari, (3) *muhasabah* — menghitung amal di akhir hari, (4) *mu'aqabah* — memberi hukuman pada jiwa jika melanggar, (5) *mujahadah* — berjuang melawan kecenderungan buruk jiwa, dan (6) *mu'atabah* — mencela jiwa atas kelalaiannya. Keenam langkah ini adalah *minhaj* lengkap tazkiyatun nafs yang harus menjadi bagian dari kurikulum tarbiyah di setiap halaqah dan usrah.
+
+> *Wahai jiwa, sampai kapan kau terbuai dalam kelalaian?*
+> *Umur terus berlalu, sementara bekalmu belum tersedia.*
+> *Bangkitlah sebelum datang hari di mana penyesalan tak berguna,*
+> *dan hisablah dirimu sebelum hisab yang tak bisa engkau hindari.*
+> — Syair Imam Al-Ghazali dalam *Ihya Ulumiddin*
 
 ## Kerangka Muhasabah Harian untuk Aktivis Dakwah
 
@@ -164,22 +226,32 @@ Tutup dengan doa sebelum tidur dan dzikir-dzikir yang ma'tsur.
 
 ---
 
-## Refleksi
+## Refleksi & Aksi
 
-1. **Kapan terakhir kali aku benar-benar duduk diam dan mengevaluasi keadaan hatiku?** Bukan mengevaluasi program kerja, bukan mengevaluasi *KPI* organisasi — tapi keadaan **hatiku**?
-2. **Jika seluruh niatku dalam beraktivitas dakwah tersingkap hari ini di hadapan semua orang — apakah aku akan tenang, atau panik?**
-3. **Apakah aku mengenal tanda-tanda** ***burnout*** **spiritual dalam diriku?** Malas ibadah, kehilangan nikmat dalam shalat, mudah marah, sinis terhadap sesama aktivis — apakah ada yang terasa familiar?
-4. **Apa yang terjadi pada kualitas ibadahku sejak aku menjadi aktivis — membaik, atau justru memburuk?**
+Umar bin Khaththab *radhiyallahu 'anhu* berkata: *"Hisablah dirimu sebelum kamu dihisab, dan timbanglah amalmu sebelum amalmu ditimbang."* Maka sebelum kau melanjutkan membaca, berhentilah di sini. Bukan untuk sekadar merenung — tapi untuk **menghadapi dirimu sendiri** di hadapan Allah.
 
-## Langkah Aksi
+**Tiga pertanyaan yang menuntut kejujuran:**
 
-1. **Mulai jurnal muhasabah.** Siapkan buku catatan kecil khusus. Mulai malam ini — gunakan kerangka lima poin di atas. Tidak perlu panjang. Yang penting konsisten. Komitmen minimum: **21 hari berturut-turut** untuk membentuk kebiasaan.
+1. **Jika malam ini adalah malam terakhirmu** — dan seluruh rekaman hidupmu diputar di hadapan Allah, tanpa suntingan, tanpa filter — bagian mana yang paling membuatmu gemetar? Bukan amal lahiriahmu yang terlihat manusia — tapi niat-niat tersembunyi, bisikan hati yang tidak pernah kau ucapkan, dan momen-momen kesendirian yang hanya Allah yang menyaksikan.
 
-2. **Bangun 10 menit lebih awal untuk muraqabah pagi.** Setelah shalat subuh, jangan langsung pegang ponsel. Duduk sejenak dalam keheningan. Sadari kehadiran Allah. Niatkan harimu untuk-Nya. Sepuluh menit ini akan mengubah kualitas seluruh harimu.
+2. **Apakah ada jarak antara dirimu di halaqah dan dirimu di kamar kos?** Apakah wajah yang kau tunjukkan di liqo mingguan adalah wajah yang sama dengan yang muncul ketika pintu tertutup dan layar menyala? Jika ada gap — maka itulah *medan jihad* muraqabahmu yang sesungguhnya.
 
-3. **Buat "alarm muraqabah."** Pasang tiga alarm di ponselmu pada waktu-waktu yang kau tentukan (misalnya pukul 10:00, 14:00, dan 20:00). Ketika alarm berbunyi, berhenti sejenak dari apa pun yang sedang kau kerjakan dan tanyakan: *"Apakah Allah ridha dengan apa yang sedang kulakukan saat ini?"* Cukup 30 detik. Tapi lakukan dengan sungguh-sungguh.
+3. **Sejak kapan terakhir kali hatimu menangis?** Bukan tangis karena masalah dunia — tapi tangis karena rindu kepada Allah, tangis karena malu atas dosa, tangis karena takut tidak diterima amalnya. Jika kau tidak ingat — maka hatimu sedang dalam bahaya yang tidak tampak oleh mata.
 
-4. **Cari** ***partner muhasabah.*** Ajak satu orang sahabat dakwah terdekatmu untuk saling mengingatkan dan mengevaluasi — bukan menghakimi. Sepekan sekali, duduk berdua dan tanyakan dengan jujur: *"Bagaimana keadaan hatimu pekan ini?"*
+**Ikrar Muhasabah:**
+
+*Aku bersaksi di hadapan Allah bahwa aku berkomitmen untuk:*
+- *Memulai jurnal muhasabah malam ini* — menggunakan kerangka lima poin di atas, minimal 21 hari berturut-turut.
+- *Bangun 10 menit lebih awal untuk muraqabah pagi* — duduk sejenak setelah Subuh, sadari kehadiran Allah, niatkan hari untuk-Nya.
+- *Memasang "alarm muraqabah"* — tiga kali sehari (pukul 10:00, 14:00, 20:00), berhenti 30 detik dan bertanya: "Apakah Allah ridha dengan yang sedang kulakukan?"
+- *Mencari partner muhasabah* — satu sahabat dakwah untuk saling mengingatkan sepekan sekali: "Bagaimana keadaan hatimu pekan ini?"
+
+Allah berfirman:
+
+> *"Hai orang-orang yang beriman, bertakwalah kepada Allah dan hendaklah setiap diri memperhatikan apa yang telah diperbuatnya untuk hari esok. Dan bertakwalah kepada Allah. Sesungguhnya Allah Maha Mengetahui apa yang kamu kerjakan."*
+> — QS. Al-Hasyr [59]: 18
+
+Ini bukan nasihat — ini adalah **perintah**. *Waltanzhur nafsun ma qaddamat lighad* — hendaklah setiap jiwa memperhatikan apa yang telah disiapkannya untuk esok. Jika kau membaca ayat ini dan tidak tergerak untuk bermuhasabah malam ini, maka bacalah sekali lagi. Dan lagi. Sampai hatimu merespons.
 
 ---
 
@@ -190,9 +262,26 @@ Kedekatan Allah bukan metafora. Ia adalah realitas yang paling nyata — lebih n
 
 Pertanyaannya bukan apakah Allah dekat. Pertanyaannya adalah: **apakah kita hadir dalam kedekatan itu?**
 
-Muraqabah dan muhasabah adalah jalan untuk hadir. Untuk kembali. Untuk pulang.
+Rasulullah ﷺ bersabda:
+
+> *"Perumpamaan orang yang mengingat Tuhannya dan orang yang tidak mengingat Tuhannya adalah seperti orang yang hidup dan orang yang mati."*
+> — HR. Bukhari, dari Abu Musa Al-Asy'ari radhiyallahu 'anhu
+
+Muraqabah dan muhasabah adalah perbedaan antara hidup dan mati — bukan mati secara fisik, tapi mati secara ruhani. Seorang yang tidak pernah bermuraqabah dan bermuhasabah sedang berjalan di muka bumi dengan hati yang mati, meski tubuhnya tampak hidup. Dan seorang yang menghidupkan muraqabah dan muhasabah akan merasakan kehidupan yang sesungguhnya — kehidupan di mana setiap detik bermakna, setiap napas adalah nikmat, dan setiap langkah adalah ibadah.
+
+Imam Ibnul Qayyim dalam *Madarij As-Salikin* menulis: *"Muraqabah adalah permulaan jalan menuju Allah, dan ia adalah inti dari ihsan. Barangsiapa kehilangan muraqabah, ia telah kehilangan seluruh perjalanan."*
+
+Maka jangan biarkan malam ini berlalu seperti malam-malam sebelumnya — tanpa muhasabah, tanpa air mata, tanpa tekad baru. Ini adalah jalan untuk hadir. Untuk kembali. Untuk pulang.
 
 Mulailah malam ini.
+
+---
+
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Manajemen Ruhani Da'i](./02-manajemen-ruhani-dai.md) — Pengelolaan spiritual sebagai kelanjutan muraqabah
+- [Karakter Pembaharu Sejati](./05-karakter-pembaharu-sejati.md) — Muhasabah sebagai fondasi karakter pembaharu
+- [Fiqh Dakwah Kontemporer](../04-strategi-dakwah/02-fiqh-dakwah-kontemporer.md) — Kebijaksanaan dakwah yang lahir dari muhasabah
 
 ---
 

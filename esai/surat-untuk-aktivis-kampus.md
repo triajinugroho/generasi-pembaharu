@@ -30,6 +30,10 @@ Api itu — jaga dia. Jangan biarkan dunia memadamkannya.
 
 Karena dunia memang akan mencoba. Dunia akan menunjukkan bahwa teman-temanmu yang tidak "ribet" dengan dakwah hidupnya terlihat lebih ringan, lebih sukses, lebih bahagia. Dunia akan berbisik bahwa kamu terlalu idealis, terlalu serius, terlalu naif. Dunia akan menawarkan jalan-jalan yang lebih mudah, lebih nyaman, lebih menguntungkan secara duniawi.
 
+Rasulullah shallallahu 'alaihi wasallam pernah bersabda kepada Ibnu Abbas — dan bayangkan, ini dikatakan kepada seorang anak muda yang juga sedang belajar, yang juga sedang mencari: *"Jagalah Allah, niscaya Allah menjagamu. Jagalah Allah, niscaya kamu mendapati-Nya di hadapanmu. Jika kamu meminta, mintalah kepada Allah. Jika kamu memohon pertolongan, mohonlah pertolongan kepada Allah."* (HR. Tirmidzi). Saudaraku, ketika kamu merasa tidak ada yang menjagamu — Allah sedang menjagamu. Ketika kamu merasa tidak ada yang melihat usahamu — Allah ada di hadapanmu.
+
+Dan ingat juga sabda beliau: *"Sungguh menakjubkan urusan seorang mukmin. Seluruh urusannya adalah baik baginya, dan itu tidak dimiliki oleh siapa pun kecuali seorang mukmin. Jika dia mendapat kesenangan, dia bersyukur, maka itu baik baginya. Dan jika dia ditimpa kesusahan, dia bersabar, maka itu pun baik baginya."* (HR. Muslim). Kelelahan yang kamu rasakan — itu bukan bukti kegagalan. Itu bahan bakar kesabaran yang sedang Allah tulis sebagai kebaikan untukmu.
+
 Tapi ingat: **Nuh 'alaihissalam berdakwah 950 tahun.** Sembilan ratus lima puluh tahun. Dan yang mengikutinya? Segelintir orang. Bayangkan itu. Hampir seribu tahun, dan hasilnya — menurut ukuran dunia — nyaris tidak ada.
 
 Tapi apakah Nuh gagal? Tidak. Karena tugasnya bukan *menghasilkan*, tapi **menyampaikan**. Dan ia menyampaikan dengan segenap jiwa, selama nyaris satu milenium, tanpa pernah berhenti.
@@ -52,6 +56,10 @@ Saudaraku,
 Aku tahu ada hari-hari ketika kamu merasa **sendirian**. Ketika pengurus inti hanya kamu dan dua-tiga orang yang benar-benar serius. Ketika ide-idemu tidak didengar. Ketika kamu merasa organisasi dakwahmu jalan di tempat sementara organisasi lain di kampus terlihat jauh lebih bersinar.
 
 Aku tahu ada saat-saat ketika kamu mempertanyakan dirimu sendiri. *Mungkin aku bukan orang yang tepat. Mungkin aku tidak cukup ilmu. Mungkin aku sendiri belum cukup baik untuk mengajak orang lain.*
+
+Imam Ahmad bin Hanbal — yang dicambuk, dipenjara, dan dihina karena mempertahankan kebenaran — pernah ditanya tentang ketegarannya. Beliau berkata: *"Jika aku diam, dan kamu diam, lalu kapan orang yang jahil akan mengetahui kebenaran?"* Beliau tidak diam meskipun sendirian. Dan kamu — meskipun merasa sendirian — sedang berdiri di tradisi yang sama.
+
+Rasulullah bersabda: *"Islam bermula dalam keadaan asing, dan akan kembali asing sebagaimana awalnya. Maka berbahagialah orang-orang yang asing (al-ghuraba')."* (HR. Muslim). Mungkin kamu merasa asing di kampusmu. Mungkin kamu merasa aneh karena peduli ketika orang lain tidak. Tapi Nabi menyebutmu: *ghuraba'* — dan beliau mendoakanmu bahagia.
 
 Dengarkan aku: **kamu tidak harus sempurna untuk berdakwah. Kamu hanya harus jujur.**
 

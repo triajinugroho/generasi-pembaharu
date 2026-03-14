@@ -28,6 +28,9 @@ Keyakinan dasar, fondasi keimanan. Mencakup iman kepada Allah, malaikat, kitab-k
 **Ashabiyah** (عصبية)
 Solidaritas sosial, semangat kelompok. Istilah kunci dalam teori Ibn Khaldun tentang bangkit dan runtuhnya peradaban. Ashabiyah yang positif menjadi perekat umat; yang negatif menjadi fanatisme golongan.
 
+**Atsar** (أثر)
+Perkataan atau perbuatan sahabat Nabi dan tabi'in yang diriwayatkan. Berbeda dari hadits yang merujuk pada perkataan/perbuatan Nabi secara langsung, atsar merujuk pada generasi setelahnya — terutama Abu Bakr, Umar, Utsman, Ali, Ibnu Mas'ud, Ibnu Abbas, dan tabi'in seperti Hasan al-Bashri. Atsar menjadi sumber hikmah dan teladan yang penting dalam tradisi tarbiyah.
+
 ### B
 
 **Bid'ah** (بدعة)
@@ -40,6 +43,9 @@ Sumpah setia, ikrar kesetiaan. Dalam konteks dakwah, baiat kepada organisasi ata
 
 **Da'i** (داعي)
 Orang yang berdakwah, penyeru ke jalan Allah. Setiap muslim pada hakikatnya adalah da'i — bukan hanya ustadz atau khatib.
+
+**Daurah** (دورة)
+Pelatihan intensif dalam waktu terbatas — biasanya satu hingga beberapa hari. Berbeda dari halaqah yang bersifat rutin mingguan, daurah dirancang untuk pendalaman tema tertentu secara fokus. Contoh: daurah tajwid, daurah kepemimpinan, daurah fiqh dakwah.
 
 **Dakwah** (دعوة)
 Seruan, ajakan ke jalan Allah. Mencakup seluruh upaya mengajak manusia kepada kebaikan — dari percakapan personal hingga gerakan peradaban. Dakwah bukan sekadar ceramah; ia adalah seluruh hidup yang dijalani untuk Allah.
@@ -139,6 +145,9 @@ Secara harfiah: perwakilan. Manusia sebagai khalifah di bumi bermakna wakil Alla
 
 ### L
 
+**Liqo** (لقاء)
+Secara harfiah: pertemuan. Dalam konteks dakwah kampus Indonesia, liqo merujuk pada pertemuan halaqah tarbiyah mingguan. Istilah ini lebih umum digunakan di lingkungan LDK dan organisasi dakwah kampus dibanding istilah "halaqah" yang lebih formal.
+
 **LDK** (Lembaga Dakwah Kampus)
 Organisasi dakwah di tingkat universitas di Indonesia. Menjadi wadah utama bagi aktivis dakwah kampus untuk berorganisasi, belajar, dan menggerakkan dakwah di lingkungan perguruan tinggi.
 
@@ -150,6 +159,9 @@ Objek dakwah, orang yang menjadi sasaran seruan dakwah. Memahami kondisi, kebutu
 **Manhaj** (منهج)
 Metode, pendekatan, jalan. Dalam konteks dakwah: pendekatan atau aliran pemikiran yang dianut oleh suatu kelompok dalam memahami dan mengamalkan Islam.
 
+**Marhalah** (مرحلة)
+Fase, tahapan. Dalam konteks dakwah dan tarbiyah, marhalah merujuk pada tahapan-tahapan pembinaan yang terstruktur — dari mubtadi (pemula) ke mutawassith (menengah) ke mutaqaddim (lanjutan). Juga merujuk pada fase-fase strategis gerakan dakwah: fase pembinaan (ta'rif), fase pembentukan (takwin), dan fase pelaksanaan (tanfidz).
+
 **Ma'rifatullah** (معرفة الله)
 Pengenalan mendalam terhadap Allah — mengenal nama-nama, sifat-sifat, dan perbuatan-Nya. Puncak dari ilmu dan tujuan akhir dari seluruh perjalanan spiritual.
 
@@ -158,6 +170,9 @@ Tujuan-tujuan syariat. Kerangka untuk memahami hikmah di balik hukum-hukum Islam
 
 **Maslahah** (مصلحة)
 Kemaslahatan, kebaikan umum. Salah satu pertimbangan utama dalam pengambilan keputusan hukum Islam. Fiqh muwazanat mengajarkan cara menimbang antara maslahah dan mafsadah (kerusakan) dalam setiap keputusan dakwah dan gerakan.
+
+**Mubtadi** (مبتدئ)
+Pemula, tingkat awal dalam jenjang tarbiyah. Seorang mubtadi baru memulai perjalanan pembinaan dan membutuhkan materi-materi dasar: pengenalan jati diri, dasar aqidah, teladan Rasulullah, dan adab seorang da'i.
 
 **Mujaddid** (مجدد)
 Pembaharu, orang yang memperbarui pemahaman dan pengamalan agama di zamannya. Setiap abad diharapkan melahirkan mujaddid sesuai hadits Nabi.
@@ -170,6 +185,12 @@ Fleksibilitas, kelenturan. Dalam konteks dakwah, murunah adalah kemampuan untuk 
 
 **Mutarabbi** (متربي)
 Orang yang sedang dibina dalam proses tarbiyah, peserta halaqah.
+
+**Mutaqaddim** (متقدم)
+Tingkat lanjutan dalam jenjang tarbiyah. Seorang mutaqaddim diharapkan mampu memahami falsafah pergerakan, merancang strategi makro, membangun institusi, dan memimpin kolaborasi lintas gerakan. Ia bukan lagi peserta — tapi calon pemimpin dakwah.
+
+**Mutawassith** (متوسط)
+Tingkat menengah dalam jenjang tarbiyah. Seorang mutawassith sudah melewati tahap dasar dan mulai mendalami isu-isu strategis: pendalaman tauhid, sirah sebagai strategi, kepemimpinan, dakwah digital, dan analisis gerakan.
 
 ### N
 
@@ -220,6 +241,9 @@ Musyawarah, konsultasi. Prinsip pengambilan keputusan dalam Islam yang menekanka
 
 ### T
 
+**Tanzhim** (تنظيم)
+Pengorganisasian, strukturisasi. Dalam konteks dakwah, tanzhim merujuk pada struktur organisasi gerakan — dari unit terkecil (usrah/halaqah) hingga tingkat tertinggi. Tanzhim yang baik memastikan koordinasi, akuntabilitas, dan keberlangsungan gerakan melampaui individu-individu tertentu.
+
 **Ta'dib** (تأديب)
 Pendidikan yang membentuk adab — kemampuan menempatkan segala sesuatu pada tempatnya yang tepat. Konsep Al-Attas yang membedakan ta'dib dari sekadar *ta'lim* (pengajaran). Ta'dib membentuk manusia yang memahami hierarki ilmu, nilai, dan realitas sebagaimana ditetapkan Islam.
 
@@ -252,6 +276,9 @@ Yang tetap dan yang berubah. Kerangka penting dalam fiqh dakwah kontemporer. *Ts
 
 **Tazkiyatun Nafs** (تزكية النفس)
 Penyucian jiwa. Proses membersihkan hati dari penyakit-penyakit spiritual (hasad, riya, ujub, kibr, dll.) dan mengisinya dengan sifat-sifat terpuji. Al-Qur'an menyatakan: "Sungguh beruntung orang yang menyucikan jiwanya" (QS. Al-Syams: 9).
+
+**Usrah** (أسرة)
+Secara harfiah: keluarga. Dalam konteks dakwah, usrah adalah kelompok kecil (3-5 orang) yang terikat dalam ikatan ukhuwah dan saling menguatkan. Lebih kecil dari halaqah, usrah menekankan kebersamaan, saling menasihati, dan saling menanggung beban. Istilah ini banyak digunakan dalam sistem tarbiyah Ikhwanul Muslimin dan gerakan-gerakan yang terpengaruh olehnya.
 
 ### U
 

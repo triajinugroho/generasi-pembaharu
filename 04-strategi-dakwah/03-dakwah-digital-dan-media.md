@@ -15,6 +15,12 @@ Bab ini memberikan panduan praktis bagi aktivis dakwah kampus untuk memanfaatkan
 
 Yang perlu ditekankan sejak awal: dakwah digital bukan pengganti dakwah tatap muka. Ia adalah pelengkap dan perluasan. Kekuatan halaqah, kedalaman diskusi empat mata, dan kehangatan persaudaraan nyata tidak bisa digantikan oleh layar apapun. Namun di saat yang sama, mengabaikan dunia digital berarti membiarkan jutaan mad'u potensial tanpa akses ke dakwah yang benar.
 
+Rasulullah SAW bersabda: *"Sampaikan dariku walau satu ayat."* (HR. Bukhari). Hadits ini — *ballighu 'anni walau ayah* — adalah perintah yang tidak mengenal batas medium. Di zaman Nabi, *tabligh* (penyampaian) dilakukan melalui lisan dan tulisan. Di zaman kita, *tabligh* bisa dilakukan melalui layar yang menjangkau jutaan manusia dalam hitungan detik. Jika Nabi memerintahkan kita menyampaikan walau satu ayat, maka satu postingan yang berisi ayat Allah di media sosial — yang dibaca oleh ribuan orang — adalah implementasi langsung dari perintah ini.
+
+Nabi SAW juga bersabda: *"Barangsiapa menyembunyikan ilmu, maka Allah akan mengekangnya dengan kekang dari api neraka pada hari kiamat."* (HR. Abu Dawud dan Tirmidzi, shahih). Di era digital di mana menyebarkan ilmu menjadi sangat mudah — semudah menekan tombol "post" — menyembunyikan ilmu menjadi dosa yang semakin berat. Kau memiliki akses ke platform yang bisa menjangkau ribuan orang — dan kau memilih diam?
+
+Umar bin Khattab RA berkata: *"Pelajarilah ilmu dan ajarkanlah kepada manusia, dan pelajarilah ketenangan dan kehormatan."* Atsar ini sangat relevan untuk dakwah digital — kita harus menyebarkan ilmu (*ta'lim*), namun dengan cara yang menjaga ketenangan dan kehormatan (*waqar*) — bukan dengan cara yang provokatif, sensasional, atau mencari viralitas semata.
+
 Tantangan terbesar dakwah digital bukan soal teknologi — ia soal bagaimana mempertahankan substansi dan kedalaman di medium yang cenderung dangkal dan serba cepat. Bab ini akan membahas bagaimana menghadapi tantangan ini secara praktis.
 
 ### 1. Lanskap Digital Indonesia
@@ -50,7 +56,7 @@ Dunia digital memiliki dinamikanya sendiri, namun prinsip-prinsip dakwah Qurani 
 
 **Bernilai.** Setiap konten harus memberikan manfaat nyata bagi yang mengonsumsinya — entah berupa ilmu baru, perspektif baru, motivasi, atau solusi untuk masalah yang mereka hadapi. Konten dakwah yang hanya berisi perintah dan larangan tanpa memberikan nilai tambah tidak akan bertahan lama di dunia digital yang kompetitif.
 
-**Beradab.** Etika digital adalah etika Islam. Tidak menggibahi — termasuk membicarakan keburukan orang lain di kolom komentar. Tidak memfitnah — termasuk menyebarkan berita tanpa verifikasi. Tidak provokatif — termasuk membuat konten yang sengaja memancing kemarahan untuk mendapat engagement. Tidak sombong — termasuk memamerkan ilmu atau ibadah untuk pujian manusia.
+**Beradab.** Nabi SAW bersabda: *"Sesungguhnya seorang hamba mengucapkan satu kalimat yang tidak ia pikirkan dampaknya, maka ia tergelincir ke dalam neraka lebih jauh dari jarak antara timur dan barat."* (HR. Bukhari Muslim). Di era digital, "satu kalimat" itu bisa berupa satu tweet, satu komentar, satu caption — yang dibaca ribuan orang dan dampaknya berlipat ganda. Etika digital adalah etika Islam. Tidak menggibahi — termasuk membicarakan keburukan orang lain di kolom komentar. Tidak memfitnah — termasuk menyebarkan berita tanpa verifikasi. Tidak provokatif — termasuk membuat konten yang sengaja memancing kemarahan untuk mendapat engagement. Tidak sombong — termasuk memamerkan ilmu atau ibadah untuk pujian manusia.
 
 **Inklusif.** Dakwah digital memiliki audiens yang sangat beragam — dari yang sudah sangat paham Islam hingga yang baru pertama kali mendengar tentang Islam. Bahasa yang digunakan harus bisa diakses oleh semua kalangan, bukan hanya kalangan internal yang sudah mengerti jargon dakwah.
 
@@ -161,6 +167,18 @@ Panduan praktis menghadapi serangan online:
 
 Belajar dari yang sudah berhasil adalah bagian dari hikmah. Berikut beberapa pola dari akun dakwah yang berhasil di Indonesia:
 
+Ali bin Abi Thalib RA berkata: *"Ajaklah manusia dengan selain lisan kalian."* Yakni, dengan perbuatan, keteladanan, dan — dalam konteks kita — dengan setiap medium yang tersedia. Para sahabat tidak pernah menolak medium dakwah yang baru — mereka menulis surat, mengirim utusan, bahkan menggunakan syair (yang sebelumnya dianggap "medium jahiliyah") untuk kepentingan dakwah. Hassan bin Tsabit RA menjadi "content creator" pertama dalam Islam — menggunakan syair, medium paling populer di zamannya, untuk membela Rasulullah dan menyebarkan pesan Islam. Nabi SAW pernah berkata kepada Hassan: *"Seranglah mereka (kaum musyrikin) dengan syairmu, dan Jibril bersamamu."* (HR. Bukhari Muslim). Jika syair adalah "media sosial" zaman Nabi, maka Instagram, TikTok, dan YouTube adalah "syair" zaman kita — dan kita membutuhkan Hassan bin Tsabit-Hassan bin Tsabit baru di dunia digital.
+
+**Studi Kasus Dakwah Digital Indonesia:**
+
+Beberapa pola menarik dari lanskap dakwah digital Indonesia yang bisa dipelajari:
+
+- **Fenomena Kajian Online Pasca-Pandemi:** Pandemi COVID-19 memaksa hampir semua lembaga dakwah Indonesia go digital. LDK-LDK yang awalnya hanya mengandalkan liqo tatap muka terpaksa beralih ke Zoom dan Google Meet. Yang menarik: banyak yang menemukan bahwa jangkauan mereka justru meluas — mahasiswa dari kampus lain, bahkan dari kota lain, ikut bergabung. Beberapa LDK mempertahankan format hybrid (online + offline) hingga sekarang sebagai strategi *tanfidz* yang memperluas *da'irah* (lingkaran) dakwah mereka.
+
+- **Konten Dakwah Kampus di TikTok:** Beberapa LDK berhasil membuat akun TikTok dengan puluhan ribu followers — bukan dengan ceramah formal, melainkan dengan konten relatable: "POV mahasiswa yang baru mulai shalat di kampus," "Reaksi teman-teman satu kos ketika kau pasang alarm tahajjud," atau "Perbedaan halaqah di semester 1 vs semester 7." Konten-konten ini menjadi *ta'rif* (pengenalan) yang sangat efektif — menarik mahasiswa yang sebelumnya tidak pernah bersentuhan dengan LDK.
+
+- **Podcast Islamiyah Berbahasa Indonesia:** Tren podcast Islam berbahasa Indonesia terus tumbuh. Format percakapan santai antara dua atau tiga orang membahas isu-isu keislaman kontemporer ternyata sangat diminati mahasiswa — karena formatnya terasa seperti "ngobrol dengan teman," bukan "diceramahi oleh ustadz."
+
 **Pola akun dakwah yang berhasil:**
 
 - **Konsistensi visual**: Mereka memiliki identitas visual yang kuat — warna khas, font konsisten, dan template yang dikenali. Ketika orang melihat konten mereka di timeline, langsung tahu siapa pembuatnya.
@@ -230,6 +248,8 @@ Dakwah digital tidak terlepas dari dimensi etika. Islam memiliki prinsip-prinsip
 
 **Tidak mengumbar aib.** Budaya "exposing" di media sosial — mempermalukan orang lain secara publik — bertentangan dengan prinsip Islam tentang menutup aib saudara. Nabi SAW bersabda: *"Barangsiapa menutup aib seorang Muslim, Allah akan menutup aibnya di dunia dan di akhirat"* (HR. Muslim).
 
+**Amanah dalam menyampaikan.** Nabi SAW bersabda: *"Cukuplah seseorang dikatakan berdusta jika ia menyampaikan segala yang ia dengar (tanpa verifikasi)."* (HR. Muslim). Di era *share* dan *repost*, hadits ini menjadi sangat relevan. Setiap kali kau membagikan konten tanpa memverifikasi kebenarannya — kau berisiko menjadi penyebar kebohongan. Dan Nabi SAW juga bersabda: *"Barangsiapa berdusta atas namaku dengan sengaja, maka hendaklah ia mempersiapkan tempat duduknya di neraka."* (HR. Bukhari Muslim). Menyebarkan hadits palsu atau kutipan yang salah atribusi — yang sangat marak di media sosial — termasuk dalam ancaman hadits ini.
+
 **Tidak riya'.** Bahaya terbesar dakwah digital adalah riya' — melakukan kebaikan agar dilihat manusia. Ketika da'i lebih peduli tentang "konten yang instagrammable" daripada ketulusan dakwah, ia telah terjebak dalam riya' digital. Evaluasi niat secara rutin adalah keharusan bagi setiap da'i digital.
 
 **Menjaga privasi orang lain.** Jangan memposting foto atau video orang lain tanpa izin, terutama dalam konteks dakwah. Memfoto seseorang yang sedang beribadah dan mempostingnya tanpa izin — meskipun niatnya "inspiratif" — melanggar privasi. Memfoto peserta kajian tanpa izin bisa membuat mereka tidak nyaman dan enggan datang lagi. Selalu minta izin sebelum mendokumentasikan.
@@ -275,6 +295,14 @@ Dakwah digital tidak terlepas dari dimensi etika. Islam memiliki prinsip-prinsip
 > — QS. Al-'Ashr [103]: 1-3
 
 Dakwah digital adalah salah satu bentuk "saling menasihati untuk kebenaran" di era modern. Ia bukan pengganti dakwah tatap muka — ia adalah pelengkap dan penguat. Dengan strategi yang tepat, etika yang terjaga, dan tim yang solid, dakwah digital bisa menjadi sarana yang sangat powerful untuk menyampaikan pesan Islam kepada generasi yang menghabiskan sebagian besar waktunya di dunia maya.
+
+---
+
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Fiqh Dakwah Kontemporer](./02-fiqh-dakwah-kontemporer.md) — Kebijaksanaan strategi dakwah di era digital
+- [Era Post-Truth dan Media Sosial](../06-tantangan-kontemporer/02-era-post-truth-dan-media-sosial.md) — Tantangan digital yang harus dijawab
+- [AI, Teknologi, dan Masa Depan](../06-tantangan-kontemporer/03-ai-teknologi-dan-masa-depan.md) — Integrasi teknologi untuk dakwah
 
 ---
 

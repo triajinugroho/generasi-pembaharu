@@ -12,6 +12,16 @@ Ketika Eropa mengalami revolusi industri dan pencerahan, dunia Islam justru bera
 Para pembaharu yang tampil di era ini memiliki pendekatan yang beragam — ada yang memilih jalur politik, ada yang memilih pendidikan, ada yang memilih gerakan sosial, ada yang memilih tulisan.
 Tetapi visi mereka satu: kebangkitan umat Islam.
 
+Allah berfirman:
+
+> *"Sesungguhnya Allah tidak akan mengubah keadaan suatu kaum hingga mereka mengubah apa yang ada pada diri mereka sendiri."* (QS. Ar-Ra'd [13]: 11)
+
+Para pembaharu modern memahami ayat ini bukan sebagai slogan, melainkan sebagai *minhaj* (metodologi): perubahan dimulai dari dalam — dari pemikiran, dari mental, dari keimanan — baru kemudian berdampak ke luar.
+
+Rasulullah ﷺ bersabda:
+
+> *"Ketahuilah, sesungguhnya di dalam tubuh ada segumpal daging. Jika ia baik, maka baiklah seluruh tubuh. Jika ia rusak, maka rusaklah seluruh tubuh. Ketahuilah, itulah hati."* (HR. Bukhari dan Muslim)
+
 Mereka bertanya pertanyaan fundamental yang sama: mengapa umat Islam yang dulu memimpin peradaban kini terjajah?
 Dan apa yang harus dilakukan untuk bangkit kembali?
 
@@ -36,6 +46,14 @@ Di Mesir, ia menjadi guru bagi generasi muda intelektual — termasuk Muhammad A
 Di Paris, bersama Abduh, ia menerbitkan jurnal *Al-Urwah al-Wutsqa* (Ikatan yang Kokoh) yang meskipun hanya terbit 18 edisi, dampaknya luar biasa dalam membentuk kesadaran politik umat Islam internasional.
 
 Jurnal ini dikirim secara rahasia ke berbagai negara Muslim dan dibaca dengan penuh semangat oleh para intelektual yang haus akan kebangkitan.
+
+Al-Afghani berkata dengan penuh kegeraman:
+
+> *"Umat Islam tertidur, sementara Eropa maju dengan sains yang dulunya mereka pelajari dari kita. Mereka menjajah kita dengan ilmu yang leluhur kita ciptakan. Sungguh memalukan!"*
+
+Dan ia pernah berkata:
+
+> *"Penyakit umat Islam hanya satu: mereka melupakan bahwa Islam bukan hanya agama ritual, tetapi agama peradaban. Mereka menunaikan shalat tetapi meninggalkan ilmu pengetahuan. Mereka berpuasa tetapi tidak berpikir."*
 
 Al-Afghani bukan tanpa kontroversi.
 Para kritikusnya menuduhnya terlalu politis dan kurang dalam kedalaman keagamaan.
@@ -124,7 +142,17 @@ Ia merancang sistem pembinaan bertingkat:
 - *Katibah* — kompi, kumpulan beberapa usrah
 - Struktur organisasi yang lebih besar dan lebih terstruktur
 
-Sistem usrah Al-Banna inilah yang kemudian menjadi model halaqah tarbiyah yang kita kenal di Indonesia.
+Sistem *usrah* Al-Banna inilah yang kemudian menjadi model *halaqah tarbiyah* yang kita kenal di Indonesia.
+
+Dalam *Risalah Ta'lim* — salah satu tulisan terpentingnya yang menjadi *blueprint* gerakan — Al-Banna menulis:
+
+> *"Dakwah kita mencakup seluruh makna reformasi... Kita adalah da'i yang menyeru kepada Islam, dan Islam mencakup pemerintahan sebagai salah satu rukunnya. Kita tidak memisahkan antara politik dan agama."*
+
+Dan dalam *Risalah Ta'lim* pula, ia merumuskan prinsip yang menjadi fondasi gerakan tarbiyah di seluruh dunia:
+
+> *"Menegakkan negara Islam bukanlah tujuan akhir, melainkan sarana. Tujuan akhir kita adalah mencetak individu Muslim, kemudian keluarga Muslim, kemudian masyarakat Muslim."*
+
+Perhatikan *marhalah* (tahapan) ini, saudaraku: individu dahulu, baru keluarga, baru masyarakat, baru negara. Bukan sebaliknya. Inilah *manhaj taghyir* (metodologi perubahan) yang membedakan gerakan *tarbiyah* dari gerakan revolusioner.
 
 Al-Banna juga merumuskan *10 Rukun Bai'at* — sepuluh pilar komitmen seorang aktivis:
 1. *Fahm* (pemahaman)
@@ -141,8 +169,21 @@ Al-Banna juga merumuskan *10 Rukun Bai'at* — sepuluh pilar komitmen seorang ak
 Namun, kejujuran intelektual menuntut kita untuk juga memberikan catatan kritis.
 Gerakan Ikhwanul Muslimin tidak lepas dari masalah: ketegangan antara pendekatan dakwah dan politik, kecenderungan eksklusivisme, hubungan yang bergelombang dengan kekuasaan, dan perdebatan internal tentang metode perjuangan.
 
-Hasan Al-Banna sendiri ditembak mati oleh agen pemerintah Mesir pada tahun 1949.
-Bagi aktivis dakwah kampus, Ikhwanul Muslimin menawarkan banyak pelajaran tentang organisasi dan tarbiyah, tetapi juga peringatan tentang kompleksitas hubungan antara dakwah dan politik.
+Hasan Al-Banna sendiri ditembak mati oleh agen pemerintah Mesir pada 12 Februari 1949 — dalam usia 42 tahun.
+Ia ditembak di depan markas organisasi pemuda Islam di Kairo.
+Ketika peluru menembus tubuhnya, ia masih sempat menyebut nama Allah.
+Tidak ada yang berani membawanya ke rumah sakit — ia dibiarkan tergeletak dan kehabisan darah.
+
+Beberapa waktu sebelum kematiannya, seolah mengetahui apa yang akan terjadi, Al-Banna menulis:
+
+> *"Sesungguhnya jalan kita ini telah jelas tanda-tandanya: Al-Quran di awalnya, kematian di ujungnya, dan di antara keduanya adalah jihad. Jiwa-jiwa kita murah di jalan dakwah, dan kematian di jalan Allah adalah cita-cita tertinggi kami."*
+
+Rasulullah ﷺ bersabda:
+
+> *"Penghulu para syuhada adalah Hamzah bin Abdul Muthallib, dan seorang laki-laki yang berdiri di hadapan penguasa yang zalim, memerintahkannya dan melarangnya, lalu ia dibunuh."* (HR. Al-Hakim, shahih)
+
+Bagi aktivis dakwah kampus, Ikhwanul Muslimin menawarkan banyak pelajaran tentang organisasi dan *tarbiyah*, tetapi juga peringatan tentang kompleksitas hubungan antara dakwah dan politik.
+Al-Banna membayar harga tertinggi — nyawanya — sebagai *tsaman* (harga) dari *minhaj* yang ia pilih.
 
 > **Mental Model: Hasan Al-Banna — Gerakan Terpadu**
 > 1. *Syumuliyyat al-Islam*: Islam bukan sekadar ibadah ritual — ia mencakup seluruh dimensi kehidupan. Gerakan dakwah harus komprehensif: tarbiyah, sosial, ekonomi, politik, intelektual
@@ -191,14 +232,32 @@ Ia percaya bahwa yang paling dibutuhkan di era sekularisasi adalah penguatan ima
 Metode distribusi *Risale-i Nur* sendiri adalah bentuk dakwah yang kreatif di tengah tekanan.
 Karena percetakan diawasi ketat, tulisan-tulisan Nursi disalin tangan oleh para pengikutnya — disebut *talebe-i Nur* (murid-murid Cahaya) — dan diedarkan secara rahasia.
 
-Nursi diasingkan, dipindahkan dari satu tempat pembuangan ke tempat lain, diawasi terus-menerus, dan beberapa kali dipenjara.
+Nursi diasingkan selama lebih dari 25 tahun, dipindahkan dari satu tempat pembuangan ke tempat lain — dari Barla ke Isparta, dari Kastamonu ke Afyon — diawasi terus-menerus, dan beberapa kali dipenjara.
+Di pengasingan Barla, sebuah desa terpencil tanpa listrik, ia menulis dalam kondisi yang menyentuh hati: tanpa buku referensi, tanpa perpustakaan, hanya berbekal Al-Quran dan kekuatan ingatannya.
+
+Nursi berkata:
+
+> *"Aku mencari cahaya, aku mencari nur. Ketika aku menemukannya, aku menemukan bahwa cahaya itu ada di dalam Al-Quran."*
+
+Dan ia menulis kepada murid-muridnya:
+
+> *"Aku tidak memiliki apa pun di dunia ini. Aku tidak menikah, aku tidak punya rumah, aku tidak punya harta. Satu-satunya yang aku miliki adalah cahaya kebenaran yang menerangi gelapnya zaman ini."*
+
+Ketika di penjara Afyon, ia diracun beberapa kali namun selamat.
+Ketika ditanya mengapa ia tidak melawan, ia menjawab: *"Bukan dengan pedang kita melawan kegelapan ini, tetapi dengan cahaya. Dan cahaya itu adalah iman."*
+
+Rasulullah ﷺ bersabda:
+
+> *"Sesungguhnya Allah akan membangkitkan untuk umat ini pada setiap awal seratus tahun orang yang memperbarui agamanya."* (HR. Abu Dawud)
+
 Tetapi lingkaran baca *Risale-i Nur* terus menyebar — dari desa-desa kecil di Anatolia hingga kota-kota besar.
 
-Setelah wafatnya, gerakan Nur berkembang menjadi salah satu gerakan dakwah terbesar di Turki, dengan jutaan pengikut di seluruh dunia.
+Setelah wafatnya pada tahun 1960, gerakan Nur berkembang menjadi salah satu gerakan dakwah terbesar di Turki, dengan jutaan pengikut di seluruh dunia.
 
-Pelajaran Said Nursi: ada banyak jalan dakwah, tidak harus selalu politik.
-Kadang, di era tertentu, jalur yang paling efektif adalah pembentukan karakter individu melalui tulisan, kajian, dan pembinaan personal.
+Pelajaran Said Nursi, saudaraku: ada banyak jalan dakwah, tidak harus selalu politik.
+Kadang, di era tertentu, jalur yang paling efektif adalah pembentukan karakter individu melalui tulisan, kajian, dan pembinaan personal — melalui *tazkiyah* (penyucian jiwa) dan *ta'lim* (pengajaran).
 Nursi membuktikan bahwa satu buku yang ditulis dengan ketulusan bisa lebih berpengaruh daripada seribu demonstrasi.
+Di era digital hari ini, setiap aktivis dakwah kampus memiliki "pena" di tangannya — tinggal ia mau menulis sesuatu yang bermakna atau tidak.
 
 ### 7. Mohammad Natsir (1908-1993): Negarawan-Da'i Indonesia
 
@@ -229,8 +288,18 @@ Ia pernah berkata:
 
 > *"Kami bukan orang-orang yang meninggalkan dunia untuk agama, bukan pula orang-orang yang meninggalkan agama untuk dunia."*
 
+Dan ia berkata pula:
+
+> *"Kalau orang tidak mau bekerja keras, jangan berharap mendapat kemajuan. Islam itu bukan agamanya orang-orang malas."*
+
+Rasulullah ﷺ bersabda:
+
+> *"Mukmin yang kuat lebih baik dan lebih dicintai oleh Allah daripada mukmin yang lemah, dan pada keduanya ada kebaikan."* (HR. Muslim)
+
+Natsir adalah *tafsir* hidup dari hadits ini: ia kuat dalam iman, kuat dalam ilmu, kuat dalam politik, dan kuat dalam dakwah. Ia adalah model *kader dakwah* yang tidak hanya *mutadayyin* (religius) tetapi juga *mutamayiz* (unggul) di bidangnya.
+
 Pelajaran Natsir bagi aktivis dakwah kampus Indonesia sangat langsung: kontribusi tertinggi dakwah adalah membangun peradaban bangsa.
-Aktivis dakwah harus menjadi warga negara terbaik — berkontribusi nyata bagi bangsa, bukan hanya sibuk dengan urusan internal kelompok.
+Aktivis dakwah harus menjadi warga negara terbaik — berkontribusi nyata bagi bangsa, bukan hanya sibuk dengan urusan internal *tanzhim*.
 
 **Rantai Logika Tauhid: Dari Kebangkitan ke Keragaman Metode**
 - Allah menurunkan Islam sebagai rahmat bagi seluruh alam (QS. Al-Anbiya [21]: 107) — maka dakwah Islam harus menjangkau seluruh dimensi kehidupan manusia →
@@ -290,6 +359,14 @@ Buku apa yang paling banyak dibaca?
 Konsep apa yang paling sering dirujuk?
 
 Kesadaran tentang akar intelektual gerakan sendiri akan membantumu memahami kekuatan dan titik buta yang mungkin diwarisi.
+
+---
+
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Sejarah Pergerakan Islam Indonesia](./05-sejarah-pergerakan-islam-indonesia.md) — Konteks lokal gerakan pembaharuan
+- [Dakwah Struktural dan Kultural](../04-strategi-dakwah/04-dakwah-struktural-dan-kultural.md) — Pendekatan struktural yang dirintis pembaharu modern
+- [Liberalisme dan Identitas](../06-tantangan-kontemporer/01-liberalisme-dan-identitas.md) — Tantangan identitas yang dijawab para pembaharu
 
 ---
 

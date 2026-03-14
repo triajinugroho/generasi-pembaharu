@@ -7,6 +7,14 @@
 
 ## Pendahuluan
 
+Pada suatu malam, Khalifah Umar bin Khaththab *radhiyallahu 'anhu* melakukan patroli malamnya yang terkenal di jalanan Madinah. Ia mendengar tangisan anak kecil. Ia menghampiri sebuah tenda dan menemukan seorang ibu yang sedang merebus batu di dalam panci — batu, bukan makanan — agar anak-anaknya mengira masakan sedang disiapkan dan tertidur menunggu.
+
+Umar terdiam. Lalu ia bertanya: "Mengapa kamu tidak meminta bantuan ke Baitul Mal?" Sang ibu menjawab: "Apakah Umar tidak tahu keadaan kami?"
+
+Umar gemetar. Air matanya jatuh. Ia langsung berlari ke gudang Baitul Mal, memikul sendiri sekarung tepung dan minyak di punggungnya. Pelayannya menawarkan diri untuk membantu, tapi Umar menolak: **"Apakah kamu yang akan menanggung dosaku di hadapan Allah pada hari kiamat?"**
+
+Inilah potret pemimpin yang tauhidnya menggerakkan keadilan. Ia tidak butuh statistik kemiskinan, tidak butuh laporan birokrasi — ia turun langsung, melihat dengan matanya, dan menanggung dengan pundaknya.
+
 Tauhid sering dipahami secara vertikal — hubungan hamba dengan Tuhannya.
 Dimensi ini tentu fundamental dan tidak boleh diabaikan. Namun para ulama
 pembaharu memahami bahwa tauhid memiliki dimensi horizontal yang revolusioner:
@@ -51,6 +59,13 @@ lain adalah sistem yang *musyrik* secara struktural. Firaun tidak hanya
 dikecam karena menolak Allah — ia dikecam karena ia berkata: *"Akulah
 tuhanmu yang paling tinggi"* (QS. An-Nazi'at [79]: 24). Ia menjadikan dirinya
 sebagai otoritas absolut yang tidak boleh dipertanyakan.
+
+Rasulullah ﷺ bersabda dalam hadits qudsi:
+
+> *"Allah Ta'ala berfirman: 'Ada tiga golongan yang Aku akan menjadi musuh mereka pada hari kiamat: orang yang memberi (janji) atas nama-Ku kemudian berkhianat, orang yang menjual orang merdeka lalu memakan harganya, dan orang yang mempekerjakan seorang pekerja kemudian pekerja itu menyelesaikan pekerjaannya namun ia tidak membayar upahnya.'"*
+> — HR. Bukhari, dari Abu Hurairah
+
+Perhatikan: Allah menjadikan diri-Nya sendiri sebagai **musuh** bagi tiga tipe orang — dan dua di antaranya terkait langsung dengan kezaliman sosial: perbudakan dan eksploitasi tenaga kerja. Ini bukan peringatan ringan. Ketika Allah menyebut diri-Nya sebagai musuh seseorang, tidak ada kekuatan di langit dan di bumi yang bisa menolongnya.
 
 Ibnu Taimiyah dalam *al-Siyasah al-Syar'iyyah* menegaskan bahwa keadilan
 adalah fondasi pemerintahan Islam. Penguasa yang zalim telah mengkhianati
@@ -98,6 +113,28 @@ memutuskan), keadilan dalam distribusi (membagi harta rampasan secara adil),
 keadilan dalam pergaulan (memperlakukan semua sahabat dengan hormat
 terlepas dari status sosial mereka), dan keadilan dalam kepemimpinan
 (bermusyawarah dan menerima pendapat yang berbeda).
+
+Rasulullah ﷺ juga bersabda:
+
+> *"Tolonglah saudaramu, baik ia yang menzalimi maupun yang dizalimi." Seorang sahabat bertanya: "Ya Rasulullah, aku bisa menolong yang dizalimi, tapi bagaimana menolong yang menzalimi?" Beliau menjawab: "Engkau mencegahnya dari kezaliman — itulah pertolonganmu kepadanya."*
+> — HR. Bukhari, dari Anas bin Malik
+
+Ini adalah konsep keadilan yang revolusioner: menolong orang yang zalim bukan dengan mendukung kezalimannya, melainkan dengan menghentikannya. Dalam konteks *tarbiyah*, ini berarti seorang *murabbi* yang melihat kadernya berbuat zalim — meskipun kepada orang di luar gerakan — wajib mengoreksinya. Membiarkannya berarti mengkhianati prinsip *tarbiyah* itu sendiri.
+
+## Abu Dzar Al-Ghifari: Suara Keadilan yang Tak Pernah Padam
+
+Tidak ada sahabat yang lebih vokal dalam memperjuangkan keadilan sosial daripada Abu Dzar Al-Ghifari *radhiyallahu 'anhu*. Rasulullah ﷺ berkata tentangnya: *"Tidaklah bumi memikul dan langit menaungi seseorang yang lebih jujur lisannya daripada Abu Dzar"* (HR. Tirmidzi).
+
+Abu Dzar menolak menimbun harta. Ia hidup dalam kesederhanaan yang radikal di saat sebagian sahabat mulai menikmati kemakmuran setelah perluasan wilayah Islam. Ketika ia melihat istana-istana megah dibangun di Syam sementara rakyat masih ada yang kelaparan, ia berdiri dan mengutip ayat:
+
+> *"Dan orang-orang yang menyimpan emas dan perak dan tidak menafkahkannya pada jalan Allah, maka beritahukanlah kepada mereka bahwa mereka akan mendapat siksaan yang pedih."*
+> — QS. At-Taubah [9]: 34
+
+Abu Dzar tidak membedakan: ia menyuarakan ayat ini di hadapan gubernur, di hadapan orang-orang kaya, bahkan di hadapan khalifah. Bukan karena ia suka bermusuhan, melainkan karena tauhidnya menuntut konsistensi — jika harta itu milik Allah, maka menimbunnya sementara ada yang kelaparan adalah pengkhianatan terhadap tauhid.
+
+Umar bin Khaththab *radhiyallahu 'anhu* juga menunjukkan prinsip yang sama. Ketika ia menjadi khalifah, ia berkata: **"Seandainya ada seekor keledai tergelincir di tepi sungai Eufrat (Iraq), maka aku khawatir Allah akan meminta pertanggungjawabanku tentangnya."** Ini bukan hiperbola — ini adalah kesadaran seorang pemimpin yang tauhidnya menuntut pertanggungjawaban total atas setiap jiwa yang berada di bawah amanahnya.
+
+Dan Ali bin Abi Thalib *radhiyallahu 'anhu* berkata kepada gubernurnya, Malik Al-Asytar, dalam surat wasiat yang terkenal: **"Manusia itu ada dua jenis: saudaramu seagama, atau saudaramu dalam kemanusiaan."** Prinsip ini menunjukkan bahwa keadilan dalam Islam bersifat universal — ia tidak hanya untuk sesama Muslim, melainkan untuk seluruh manusia.
 
 ## Dimensi Sosial Ibadah
 
@@ -148,6 +185,18 @@ ia berlanjut dalam bentuk kepedulian nyata sepanjang tahun. Rasulullah SAW
 adalah orang yang paling dermawan, dan kedermawanannya mencapai puncaknya
 di bulan Ramadhan — menunjukkan bahwa puasa seharusnya memperbesar, bukan
 mengurangi, kepedulian sosial.
+
+Rasulullah ﷺ bersabda:
+
+> *"Barangsiapa meringankan satu kesusahan dari seorang mukmin di dunia, niscaya Allah akan meringankan satu kesusahan darinya di hari kiamat. Barangsiapa memudahkan orang yang kesulitan, niscaya Allah akan memudahkannya di dunia dan akhirat. Dan Allah senantiasa menolong seorang hamba selama hamba itu menolong saudaranya."*
+> — HR. Muslim, dari Abu Hurairah
+
+Dan Rasulullah ﷺ juga bersabda:
+
+> *"Orang yang berusaha membantu janda dan orang miskin seperti orang yang berjihad di jalan Allah — atau — seperti orang yang shalat malam tanpa henti dan seperti orang yang berpuasa tanpa berbuka."*
+> — HR. Bukhari dan Muslim, dari Abu Hurairah
+
+Perhatikan perbandingannya: membantu janda dan orang miskin **disetarakan** dengan jihad, shalat malam, dan puasa. Ini menghancurkan pemisahan palsu antara ibadah ritual dan ibadah sosial. Bagi Rasulullah ﷺ, keduanya adalah satu kesatuan yang tidak bisa dipisahkan.
 
 > **Mental Model: Abu Dzar Al-Ghifari — Kritik Sosial Profetik**
 > 1. Lihat kemewahan dan kemiskinan secara bersamaan — jangan hanya melihat satu sisi
@@ -202,12 +251,23 @@ Kesenjangan ekonomi yang masih lebar antara kota dan desa, antara Jawa dan
 luar Jawa, antara kelompok-kelompok masyarakat — semua ini adalah realitas
 yang harus dijawab oleh aktivis dakwah, bukan dihindari.
 
+**Korupsi sebagai pelanggaran tauhid.** Indonesia secara konsisten masuk dalam daftar negara dengan tingkat korupsi yang mengkhawatirkan. Uang negara yang seharusnya menjadi hak rakyat — untuk sekolah, rumah sakit, jalan — dicuri oleh segelintir orang yang seharusnya menjadi pelayan publik. Dari perspektif tauhid, korupsi bukan sekadar masalah hukum atau politik — ia adalah bentuk *syirik* sosial: menjadikan harta dan kekuasaan sebagai "tuhan" yang dilayani dengan mengorbankan hak-hak manusia.
+
+Rasulullah ﷺ bersabda:
+
+> *"Barangsiapa yang kami tugaskan dalam suatu jabatan, lalu ia menyembunyikan sebatang jarum atau lebih dari itu, maka itu adalah ghulul (pengkhianatan) yang akan ia bawa pada hari kiamat."*
+> — HR. Muslim, dari Adi bin Amirah Al-Kindi
+
+**Ketimpangan pendidikan.** Di satu sisi, anak-anak di kota besar bersaing masuk sekolah favorit dengan fasilitas lengkap. Di sisi lain, anak-anak di pedalaman Papua, Kalimantan, atau NTT berjalan berkilo-kilometer ke sekolah yang atapnya bocor dan gurunya tidak hadir. Ini adalah ketidakadilan yang harus menggugah hati setiap Muslim yang bertauhid. Jika kita mengimani bahwa setiap manusia diciptakan oleh Allah yang sama, maka setiap anak berhak atas pendidikan yang layak — tanpa kecuali.
+
+**Oligarki ekonomi.** Ketika segelintir konglomerat menguasai hampir seluruh sektor ekonomi — dari media, perbankan, pertambangan, hingga ritel — sementara jutaan rakyat kecil berjuang bertahan hidup, maka kita sedang menyaksikan bentuk modern dari apa yang dikritik oleh Abu Dzar: penimbunan kekayaan di tangan segelintir orang sementara mayoritas masih kekurangan.
+
 Ketidakadilan struktural — dalam bentuk korupsi sistemik, oligarki ekonomi,
 akses pendidikan yang tidak merata, dan marginalisasi kelompok-kelompok
 tertentu — adalah persoalan tauhid, bukan sekadar persoalan politik. Aktivis
 dakwah kampus memiliki posisi strategis sebagai agen keadilan: mereka
 terdidik, mereka energik, dan mereka belum terjebak dalam pragmatisme
-kepentingan.
+kepentingan. Dalam *manhaj tarbiyah*, ini adalah bagian dari *marhalah* (tahapan) pembentukan kader yang utuh: bukan hanya kader yang rajin ibadah, tapi kader yang peka dan aktif terhadap ketidakadilan di sekitarnya.
 
 Kita bisa belajar dari dua tradisi besar Islam Indonesia. Muhammadiyah,
 dengan jaringan amal usahanya yang masif — rumah sakit, sekolah, panti
@@ -215,7 +275,7 @@ asuhan — menunjukkan bahwa tauhid harus berbuah pelayanan sosial yang
 konkret. Nahdlatul Ulama, dengan tradisi pesantrennya yang mengakar di
 masyarakat akar rumput, menunjukkan bahwa keadilan juga berarti menghargai
 kearifan lokal dan memperkuat komunitas dari dalam. Kedua pendekatan ini
-saling melengkapi, bukan saling menegasikan.
+saling melengkapi, bukan saling menegasikan. Dan gerakan dakwah kampus — dengan semangat *tarbiyah*-nya — memiliki potensi untuk menyatukan keduanya: kedalaman spiritual dengan kepedulian sosial yang nyata.
 
 **Rantai Logika Tauhid: Dari Keesaan Allah ke Keadilan Sosial**
 - Hanya Allah yang berhak atas ketundukan absolut (QS. An-Nahl [16]: 36) →
@@ -258,6 +318,22 @@ dan turun ke lapangan membantu masyarakat di pagi harinya.
 
 ## Refleksi & Aksi
 
+Rasulullah ﷺ bersabda: *"Demi Dzat yang jiwaku di tangan-Nya, kalian harus memerintahkan yang ma'ruf dan mencegah yang munkar, atau sungguh hampir Allah mengirimkan adzab dari sisi-Nya kepada kalian, lalu kalian berdoa kepada-Nya tetapi doa kalian tidak dikabulkan."* (HR. Tirmidzi, dari Hudzaifah). Dengan kesadaran bahwa diam dari kemungkaran bukan sekadar pilihan melainkan ancaman, hadapi pertanyaan-pertanyaan berikut:
+
+**Tiga Pertanyaan yang Menuntut Jawaban:**
+
+1. **Umar menangis karena seekor keledai tergelincir di tepi sungai.** Kapan terakhir kali kau kehilangan tidur karena memikirkan nasib orang yang tertindas di sekitarmu — bukan di media sosial, tapi di kehidupan nyata? Apakah tauhidmu sudah melahirkan empati sedalam itu, atau masih sekadar simpati sesaat yang hilang setelah scroll berikutnya?
+
+2. **Abu Dzar menolak diam melihat kemewahan di tengah kemiskinan.** Di lingkungan kampusmu, di organisasimu, di komunitasmu — apa ketidakadilan yang kau lihat tapi kau pilih untuk diam? Dan apa alasanmu: ketakutan, kenyamanan, atau — jujurlah — ketidakpedulian?
+
+3. **Ali bin Abi Thalib berkata bahwa manusia adalah saudaramu seagama atau saudaramu dalam kemanusiaan.** Apakah keadilanmu selama ini hanya berlaku untuk "orang-orang kita" saja — sesama Muslim, sesama organisasi, sesama mazhab — atau ia benar-benar universal sebagaimana tuntutan tauhid?
+
+**Ikrar Keadilan:**
+
+*Ya Allah, aku bersaksi bahwa setiap kezaliman yang kubiarkan adalah pengkhianatan terhadap la ilaha illallah. Aku bertekad untuk menjadi agen keadilan-Mu di bumi — menyuarakan hak yang tertindas, mengkritik sistem yang zalim, dan membangun alternatif yang adil. Jadikan tanganku tangan yang menolong, lisanku lisan yang menyuarakan kebenaran, dan hatiku hati yang tidak pernah berdamai dengan ketidakadilan.*
+
+**Langkah Aksi Konkret:**
+
 1. **Identifikasi** — Apa bentuk ketidakadilan yang paling dekat dengan
    lingkunganmu? Apa yang bisa kau lakukan, sekecil apapun, untuk
    mengubahnya? Jangan menunggu masalah besar — mulailah dari yang terdekat.
@@ -266,11 +342,27 @@ dan turun ke lapangan membantu masyarakat di pagi harinya.
    empatimu? Atau ibadahmu masih sepenuhnya individual tanpa dampak sosial?
 3. **Kolaborasi** — Cari satu gerakan keadilan sosial di kampusmu dan
    libatkan diri secara aktif. Bukan sekadar mendukung dari jauh, tetapi
-   terlibat langsung — dengan waktu, tenaga, dan pemikiranmu.
+   terlibat langsung — dengan waktu, tenaga, dan pemikiranmu. Jadikan ini sebagai bagian dari program *halaqah* atau *liqo*-mu.
 4. **Kajian** — Baca ulang Al-Quran dengan lensa keadilan sosial. Perhatikan
    betapa banyak ayat yang berbicara tentang hak orang miskin, kritik
    terhadap penimbunan harta, dan perintah untuk menegakkan keadilan.
-   Buat catatan dan diskusikan dalam halaqahmu.
+   Buat catatan dan diskusikan dalam *halaqah*-mu.
+5. **Pengorbanan nyata** — Pilih satu bentuk pengorbanan konkret minggu ini untuk orang yang kurang beruntung: sedekahkan hartamu yang kau cintai (bukan yang tersisa), luangkan waktu untuk mengajar anak-anak yang tidak mampu, atau advokasikan hak seseorang yang tertindas. Ingatlah — Rasulullah ﷺ berkata: *"Tidak ada iman bagi orang yang tidak amanah, dan tidak ada agama bagi orang yang tidak menepati janji"* (HR. Ahmad).
+
+---
+
+> *"Dan apa sebabnya kamu tidak berperang di jalan Allah dan membela orang-orang yang lemah, baik laki-laki, perempuan, maupun anak-anak, yang semuanya berdoa: 'Ya Tuhan kami, keluarkanlah kami dari negeri ini yang penduduknya zalim, dan berilah kami dari sisi-Mu seorang pelindung, dan berilah kami dari sisi-Mu seorang penolong.'"*
+> — QS. An-Nisa [4]: 75
+
+Ayat ini bukan sekadar narasi sejarah. Ia adalah pertanyaan yang ditujukan langsung kepadamu: **apa sebabnya kamu tidak membela orang-orang yang lemah?** Jika kau tidak punya jawaban yang bisa kau pertanggungjawabkan di hadapan Allah — maka saatnya bergerak.
+
+---
+
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Falsafah Tauhid Pergerakan](./04-falsafah-tauhid-pergerakan.md) — Falsafah pergerakan berbasis tauhid sosial
+- [Dakwah Struktural dan Kultural](../04-strategi-dakwah/04-dakwah-struktural-dan-kultural.md) — Mewujudkan keadilan melalui dakwah struktural
+- [Islam dan Kebangsaan Indonesia](../06-tantangan-kontemporer/04-islam-dan-kebangsaan-indonesia.md) — Tauhid sosial dalam konteks kebangsaan
 
 ---
 

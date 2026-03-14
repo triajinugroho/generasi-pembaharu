@@ -21,10 +21,25 @@
 
 #### 1. Pembukaan (10 menit)
 
+*Di Madinah, ketika Rasulullah ﷺ tiba setelah hijrah, hal pertama yang beliau lakukan bukan berkhotbah panjang tentang visi. Beliau membangun. Membangun masjid — batu demi batu, bersama sahabat, dengan tangannya sendiri. Masjid Nabawi bukan sekadar tempat shalat — ia adalah pusat pemerintahan, ruang tarbiyah, shelter bagi fakir miskin, dan markas strategi. Satu proyek, banyak dimensi. Itulah esensi proyek dakwah: bukan sekadar kegiatan yang menghabiskan anggaran, tapi amal yang mengubah realitas.*
+
 - Tilawah: QS. Ash-Shaff: 2-4 — "Mengapa kamu mengatakan apa yang tidak kamu kerjakan?"
-- Hadits: "Sesungguhnya Allah mencintai jika salah seorang dari kalian mengerjakan suatu pekerjaan, ia melakukannya dengan itqan (profesional)"
+
+**Hadits-hadits tentang Amal dan Itqan:**
+
+> *"Sesungguhnya Allah mencintai jika salah seorang dari kalian mengerjakan suatu pekerjaan, ia melakukannya dengan itqan (profesional)."*
+> — HR. Al-Baihaqi dan Ath-Thabrani
+
+> *"Jika kiamat datang dan di tangan salah seorang dari kalian ada bibit tanaman, maka jika ia mampu menanamnya sebelum kiamat terjadi, hendaklah ia menanamnya."*
+> — HR. Ahmad dari Anas bin Malik
+
+> *"Mukmin yang kuat lebih baik dan lebih dicintai oleh Allah daripada mukmin yang lemah, dan pada keduanya ada kebaikan. Bersungguh-sungguhlah pada apa yang bermanfaat bagimu."*
+> — HR. Muslim dari Abu Hurairah
+
+Tiga hadits ini menegaskan tiga prinsip proyek dakwah: (1) itqan — kerjakan dengan profesional, (2) optimisme — tanam meski kiamat di depan mata, (3) kekuatan — jadilah mukmin yang kuat dan berdampak.
+
 - Pengantar: sesi ini adalah jembatan dari teori ke aksi nyata
-- Ini adalah tugas akhir Level 2
+- Ini adalah tugas akhir Level 2 — marhalah terakhir sebelum naik ke tingkat mutaqaddim
 
 #### 2. Materi Inti A — Prinsip Manajemen Proyek Dakwah (20 menit)
 
@@ -38,6 +53,19 @@
 - Mengapa proyek, bukan sekadar kegiatan:
   - Proyek: punya tujuan jelas, batas waktu, output terukur
   - Kegiatan: bisa repetitif tanpa target spesifik
+
+**Teladan Manajemen Proyek dalam Sunnah:**
+
+Perhatikan bagaimana Rasulullah ﷺ mengelola proyek penggalian Khandaq (parit):
+- **Identifikasi masalah:** ancaman 10.000 pasukan Ahzab
+- **Brainstorming:** menerima ide Salman Al-Farisi (inovasi dari tradisi Persia)
+- **Perencanaan:** membagi parit menjadi segmen-segmen, setiap kelompok bertanggung jawab atas satu segmen
+- **Pelaksanaan:** Rasulullah ﷺ ikut menggali, mengangkat batu, dan memotivasi sahabat dengan nyanyian rajaz
+- **Monitoring:** beliau berkeliling memantau progres setiap segmen
+- **Problem solving:** ketika sahabat menemukan batu besar yang tidak bisa dipecah, Rasulullah ﷺ sendiri yang turun memecahkannya
+
+Ini adalah project management nabawi yang lengkap — 14 abad sebelum PMBOK ditulis.
+
 - Siklus proyek dakwah:
   - **Identifikasi masalah/kebutuhan** → apa yang ingin diselesaikan?
   - **Perencanaan** → bagaimana menyelesaikannya?
@@ -74,13 +102,20 @@
 
 #### 4. Inspirasi — Contoh Proyek Dakwah (10 menit)
 
-- Presentasi singkat contoh-contoh proyek:
-  - Proyek mentoring adik kelas SMA selama 1 bulan
-  - Kampanye media sosial bertema (misal: 30 hari tadabbur Ramadhan)
-  - Program bersih masjid + kajian pemuda di lingkungan RT/RW
+**Contoh Proyek Dakwah Nyata dari Kampus Indonesia:**
+
+- **"Sahabat Mahasiswa Baru"** — LDK di sebuah PTN besar membuat program pendampingan mahasiswa baru selama 1 bulan pertama kuliah. Setiap maba mendapat satu "kakak pendamping" yang membantu akademik sekaligus membina secara ruhani. Dari 100 maba yang didampingi, 40 bergabung dengan halaqah tarbiyah.
+
+- **"Jumat Berkah"** — Tim dakwah kampus di Yogyakarta menggabungkan bakti sosial (bersih-bersih kampung) dengan kajian singkat di masjid lokal setiap Jumat sore. Program ini berjalan 3 bulan dan mengubah persepsi warga terhadap mahasiswa dakwah — dari "eksklusif" menjadi "bermanfaat."
+
+- **"Digital Tadabbur Ramadhan"** — Selama Ramadhan, sebuah LDK memproduksi 30 konten carousel harian tentang tadabbur Al-Qur'an. Setiap konten didesain profesional dan disebar melalui Instagram, WhatsApp, dan Telegram. Total reach: 50.000+ akun.
+
+- Contoh-contoh proyek tambahan:
+  - Program mentoring adik kelas SMA selama 1 bulan
   - Workshop keterampilan + sisipan tarbiyah untuk anak jalanan atau yatim
   - Serial podcast dakwah mini (5-10 episode)
   - Proyek terjemahan atau penerbitan konten Islami
+  - Perpustakaan Islam mini di kos-kosan mahasiswa
 
 > **Mental Model: Utsman bin Affan — Investasi Strategis untuk Umat**
 > 1. Identifikasi kebutuhan umat yang paling mendesak (sumur Rumah untuk air, memperluas masjid)
@@ -88,6 +123,13 @@
 > 3. Jangan harapkan return duniawi — return-nya di akhirat
 > 4. Proyek terbaik adalah yang dampaknya berlanjut setelah kamu pergi (sadaqah jariyah)
 > *Aplikasi: Pilih proyek dakwah yang dampaknya bertahan lama (sistem mentoring, perpustakaan Islam digital) daripada yang sekali jalan lalu selesai.*
+
+**Hadits tentang Sadaqah Jariyah — Proyek yang Tak Pernah Mati:**
+
+> *"Jika anak Adam meninggal, maka terputuslah amalnya kecuali dari tiga perkara: sadaqah jariyah, ilmu yang bermanfaat, atau anak shalih yang mendoakannya."*
+> — HR. Muslim dari Abu Hurairah
+
+Proyek dakwah terbaik adalah yang mengandung unsur sadaqah jariyah: dampaknya terus berjalan meski kita sudah pergi. Sebuah sistem mentoring yang berlanjut dari generasi ke generasi. Sebuah perpustakaan digital yang terus diakses. Sebuah kurikulum tarbiyah yang terus digunakan. Inilah legacy sejati seorang aktivis dakwah.
 
 #### 5. Workshop Perencanaan (45 menit)
 
@@ -113,8 +155,10 @@
 
 #### 7. Penutup Sesi Perencanaan (5 menit)
 
+*Ingatlah: setiap batu yang Rasulullah ﷺ angkat untuk membangun Masjid Nabawi adalah ibadah. Setiap malam yang kalian habiskan merancang proposal proyek dakwah adalah ibadah. Setiap langkah yang kalian ambil untuk mewujudkan proyek ini adalah ibadah. Jangan pernah remehkan amal kecil — karena dalam pandangan Allah, yang kecil bisa menjadi besar jika dilakukan dengan ikhlas dan itqan.*
+
 - Timeline pelaksanaan proyek: 4-6 minggu ke depan
-- Mekanisme bimbingan: setiap tim akan didampingi satu mentor
+- Mekanisme bimbingan: setiap tim akan didampingi satu mentor (murabbi proyek)
 - Checkpoint mingguan: laporan progres singkat
 - Doa mohon keberkahan dan kemudahan proyek
 
@@ -145,6 +189,13 @@
 
 #### 2. Evaluasi Bersama (30 menit)
 
+**Hadits tentang Evaluasi dan Perbaikan:**
+
+> *"Cukuplah seseorang dikatakan berdusta jika ia menceritakan segala yang ia dengar (tanpa verifikasi)."*
+> — HR. Muslim
+
+Dalam konteks evaluasi proyek: jujurlah tentang hasil — jangan melebih-lebihkan keberhasilan demi laporan yang bagus. Evaluasi yang jujur jauh lebih berharga dari laporan yang indah tapi tidak akurat.
+
 - Diskusi terbuka:
   - Pola keberhasilan yang terlihat lintas proyek
   - Hambatan umum yang ditemui
@@ -157,8 +208,11 @@
   - "Apa yang kupelajari tentang diriku sendiri dari proyek ini?"
   - "Apa yang kupelajari tentang kerja tim?"
   - "Bagaimana pengalaman ini mengubah cara aku memandang dakwah?"
+  - "Apakah proyek ini membuat dakwah terasa lebih nyata, bukan sekadar teori di liqo?"
 - Penghargaan: apresiasi untuk semua tim (bukan kompetisi, tapi pengakuan)
-- Pesan penutup: proyek ini bukan akhir, tapi awal — jadikan dakwah sebagai gaya hidup
+
+*Kalian baru saja membuktikan bahwa dakwah bukan hanya kata-kata. Dakwah adalah bangunan — batu demi batu, langkah demi langkah, proyek demi proyek. Level 2 telah mengajarkan kalian ilmu, keterampilan, dan pengalaman. Sekarang, Level 3 menunggu — marhalah mutaqaddim, di mana kalian tidak lagi belajar menjadi aktivis, tapi belajar menjadi pembaharu. Bersiaplah.*
+
 - Pengumuman kesiapan untuk naik ke Level 3 (Mutaqaddim)
 - Doa penutup Level 2
 
@@ -171,3 +225,4 @@
 3. Covey, Stephen R. *The 7 Habits of Highly Effective People*. (Sebagai referensi manajemen diri)
 4. Project Management Institute. *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. (Disederhanakan untuk konteks dakwah)
 5. Hawwa, Sa'id. *Fi Aafaq at-Ta'aalim*. (Terj.). Solo: Era Intermedia.
+6. Al-Ghadban, Munir. *Al-Manhaj Al-Haraki li As-Sirah An-Nabawiyyah*. (Terj.). Solo: Era Intermedia. (Bab tentang Khandaq)

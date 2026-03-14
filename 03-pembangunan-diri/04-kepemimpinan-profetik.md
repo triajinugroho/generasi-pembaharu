@@ -13,6 +13,15 @@ Model kepemimpinan profetik berbeda secara fundamental dari model-model kepemimp
 
 Bab ini bukan teori kepemimpinan yang abstrak. Ini adalah panduan praktis untuk membangun karakter pemimpin dalam dirimu — dimulai dari sekarang, dari lingkaran terkecilmu. Karena kepemimpinan, seperti halnya karakter, tidak muncul secara tiba-tiba di saat dibutuhkan — ia dibangun jauh sebelumnya melalui latihan, teladan, dan pembiasaan.
 
+Rasulullah ﷺ bersabda:
+
+> *"Setiap kalian adalah pemimpin dan setiap kalian akan dimintai pertanggungjawaban atas yang dipimpinnya. Seorang imam (pemimpin) adalah pemimpin dan akan dimintai pertanggungjawaban atas rakyatnya. Seorang suami adalah pemimpin dalam keluarganya dan akan dimintai pertanggungjawaban atas keluarganya."*
+> — HR. Bukhari-Muslim, dari Abdullah bin Umar radhiyallahu 'anhuma
+
+Hadits ini bukan sekadar informasi — ia adalah beban. Setiap orang yang memimpin — sekecil apa pun lingkup kepemimpinannya, dari ketua divisi LDK hingga naqib halaqah — akan ditanya oleh Allah tentang kepemimpinannya. Pertanyaan itu tidak bisa dihindari, tidak bisa didelegasikan, dan tidak bisa dijawab dengan alasan "aku tidak tahu." Maka mempersiapkan diri untuk pertanyaan itu adalah kewajiban setiap Muslim yang memegang amanah kepemimpinan.
+
+Alija Izetbegovic — presiden pertama Bosnia-Herzegovina yang memimpin bangsanya melewati genosida dan perang — menulis dalam *Islam Between East and West*: *"Islam tidak mengajarkan kita untuk melarikan diri dari dunia, tapi juga tidak mengajarkan kita untuk tunduk padanya. Islam mengajarkan kita untuk mengubahnya."* Kepemimpinan profetik adalah kepemimpinan yang mengubah — bukan yang menyesuaikan diri dengan status quo.
+
 ---
 
 ## 1. Model Kepemimpinan Rasulullah
@@ -24,6 +33,18 @@ Rasulullah SAW adalah pemimpin yang menjahit sandalnya sendiri, menambal bajunya
 Bayangkan. Seorang pemimpin yang memiliki otoritas spiritual, politik, militer, dan yudisial tertinggi — **tidak pernah memarahi pelayannya selama sepuluh tahun**. Ini bukan kelemahan. Ini adalah puncak kepemimpinan.
 
 Ketika Masjid Nabawi sedang dibangun, Rasulullah SAW ikut mengangkat batu bersama para sahabat. Tidak berdiri di pinggir memberi instruksi — beliau ada di tengah-tengah mereka, bahu beliau berdebu, tangan beliau lecet. Para sahabat berkata: *"Jika kami duduk sementara Nabi bekerja, maka itu adalah perbuatan yang sesat dari kami."* Pemimpin profetik tidak menuntut pengorbanan dari pengikutnya — ia mencontohkannya terlebih dahulu.
+
+Rasulullah ﷺ bersabda:
+
+> *"Pemimpin suatu kaum adalah pelayan mereka."*
+> — HR. Abu Nu'aim, dari Abu Hurairah radhiyallahu 'anhu. Hadits ini juga diriwayatkan sebagai atsar yang masyhur.
+
+Dan beliau juga bersabda:
+
+> *"Tidaklah Allah mengutus seorang nabi pun kecuali ia pernah menggembala kambing." Para sahabat bertanya: "Engkau juga, wahai Rasulullah?" Beliau menjawab: "Ya, aku pernah menggembalakan kambing untuk penduduk Mekah dengan upah beberapa qirath."*
+> — HR. Bukhari, dari Abu Hurairah radhiyallahu 'anhu
+
+Menggembala kambing — pekerjaan yang paling rendah dalam hierarki sosial Arab — adalah sekolah kepemimpinan pertama bagi para nabi. Di situ mereka belajar kesabaran, tanggung jawab terhadap yang lemah, dan kerendahan hati. Seorang ketua LDK yang merasa di bawah martabatnya untuk menyapu ruang sekretariat atau mencuci gelas setelah rapat perlu mengingat bahwa Rasulullah ﷺ pernah menjadi penggembala.
 
 Kontraskan ini dengan model kepemimpinan yang sering kita saksikan — bahkan di dalam organisasi dakwah: pemimpin yang menuntut privilege, yang marah jika tidak dihormati sesuai "posisinya", yang mendelegasikan semua kerja keras tapi mengambil semua pujian. Model ini bukan hanya tidak efektif — ia bertentangan dengan sunnah Nabi.
 
@@ -116,6 +137,15 @@ Implementasi syura dalam organisasi dakwah kampus mencakup:
 
 Umar bin Khaththab *radhiyallahu 'anhu* adalah teladan syura terbaik setelah Rasulullah. Beliau berkata kepada rakyatnya: *"Jika kalian melihatku menyimpang, maka luruskanlah."* Seorang rakyat berdiri dan berkata: *"Demi Allah, jika kami melihatmu menyimpang, kami akan meluruskanmu dengan pedang kami."* Umar tidak marah — beliau bersyukur.
 
+Umar *radhiyallahu 'anhu* juga berkata: *"Semoga Allah merahmati orang yang menunjukkan kepadaku kekuranganku."* (Diriwayatkan oleh Ibnu Sa'd dalam Ath-Thabaqat). Ini bukan retorika kosong — Umar benar-benar menghidupkan prinsip ini. Ketika seorang wanita tua mengoreksinya di hadapan publik tentang kebijakan pembatasan mahar, Umar berkata: *"Wanita itu benar dan Umar yang salah."* Seorang penguasa separuh dunia dikoreksi oleh rakyat biasa — dan ia menerimanya dengan lapang dada. Inilah standar akuntabilitas yang harus menjadi budaya di setiap organisasi dakwah kampus.
+
+Rasulullah ﷺ bersabda:
+
+> *"Agama adalah nasihat." Kami bertanya: "Untuk siapa, wahai Rasulullah?" Beliau menjawab: "Untuk Allah, untuk Kitab-Nya, untuk Rasul-Nya, untuk para pemimpin kaum Muslimin, dan untuk rakyat mereka."*
+> — HR. Muslim, dari Tamim Ad-Dari radhiyallahu 'anhu
+
+Nasihat bagi para pemimpin — inilah esensi syura. Bukan sekadar prosedur formal, tapi *din* (agama) itu sendiri. Organisasi dakwah yang tidak memberi ruang bagi nasihat dan kritik terhadap pemimpinnya sedang melanggar prinsip paling fundamental dari agama ini.
+
 Pemimpin yang menolak syura sedang berjalan sendirian — dan orang yang berjalan sendirian tidak memimpin siapa pun.
 
 ## 4. Membangun Tim, Bukan Pengikut
@@ -151,6 +181,10 @@ Dan yang paling penting: **siapkan penggantimu sejak hari pertama**. Suksesi kep
 > 3. Pemimpin harus hadir di medan yang paling sulit — Shalahuddin selalu berada di garis depan, bukan di istana yang aman
 > 4. Kemenangan tertinggi adalah kemenangan akhlak — dikenal oleh musuh dan kawan sebagai pemimpin yang mulia
 > *Aplikasi: Dalam konflik antar-kelompok di kampus, jadilah pemimpin yang menyatukan — bukan memecah. Satukan berbagai faksi internal sebelum menghadapi tantangan eksternal. Dan ketika "menang" dalam kompetisi organisasi, tunjukkan kemuliaan — bukan arogansi.*
+
+Kisah Shalahuddin Al-Ayyubi layak direnungkan lebih dalam. Ketika ia membebaskan Yerusalem pada tahun 1187 M, ratusan ribu penduduk Kristen ketakutan — karena mereka ingat apa yang dilakukan Tentara Salib 88 tahun sebelumnya: mereka membantai seluruh penduduk Muslim dan Yahudi Yerusalem hingga darah mengalir setinggi mata kaki kuda. Tapi Shalahuddin memilih jalan yang berbeda. Ia memberi amnesti, membebaskan tawanan yang tidak mampu membayar tebusan, dan bahkan mengirim dokter pribadinya untuk merawat Richard the Lionheart ketika musuhnya itu jatuh sakit. Ketika Shalahuddin wafat, ia hampir tidak meninggalkan harta — seluruh kekayaannya telah disedekahkan. Inilah kepemimpinan profetik yang nyata: menang dalam perang, menang dalam akhlak, dan menang dalam pengorbanan.
+
+Alija Izetbegovic menghidupkan warisan ini di abad ke-20. Di tengah genosida Srebrenica dan pengepungan Sarajevo, ia tetap memimpin dengan prinsip. Ia menulis: *"Seorang pemimpin Muslim harus memiliki keyakinan seorang nabi, kebijaksanaan seorang filosof, dan kesabaran seorang petani."* Izetbegovic membuktikan bahwa kepemimpinan profetik bukan sekadar teori sejarah — ia bisa dihidupkan di zaman mana pun, termasuk di abad ke-21 ini.
 
 ## 5. Kepemimpinan dalam Krisis
 
@@ -229,7 +263,22 @@ Rasulullah SAW bersabda: *"Tidaklah seorang hamba yang Allah beri amanah memimpi
 
 Kepemimpinan profetik bukan tentang posisi — ia tentang fungsi. Bukan tentang gelar — ia tentang kontribusi. Bukan tentang diri sendiri — ia tentang orang lain.
 
-Dan yang paling indah dari kepemimpinan profetik: ia tidak membutuhkan jabatan resmi untuk dipraktikkan. Kau bisa menjadi *servant leader* di halaqahmu, di kelas kuliahmu, di keluargamu, di komunitas terkecilmu. Mulailah dari sana — dan biarkan dampakmu meluas secara alami.
+Rasulullah ﷺ bersabda:
+
+> *"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia."*
+> — HR. Ath-Thabrani, dari Jabir bin Abdullah radhiyallahu 'anhu
+
+Inilah definisi kepemimpinan yang paling sederhana dan paling dalam: **bermanfaat**. Bukan paling berkuasa, bukan paling terkenal, bukan paling ditakuti — tapi paling bermanfaat. Seorang naqib halaqah yang dengan sabar mendampingi adik tingkatnya melalui krisis iman lebih dekat pada kepemimpinan profetik daripada seorang ketua organisasi besar yang memimpin dari menara gading.
+
+Dan yang paling indah dari kepemimpinan profetik: ia tidak membutuhkan jabatan resmi untuk dipraktikkan. Kau bisa menjadi *servant leader* di halaqahmu, di kelas kuliahmu, di keluargamu, di komunitas terkecilmu. Di LDK, di BEM, di organisasi kampus mana pun — setiap posisi adalah ladang untuk mempraktikkan kepemimpinan profetik, dari koordinator divisi hingga anggota biasa yang berinisiatif. Mulailah dari sana — dan biarkan dampakmu meluas secara alami.
+
+---
+
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Karakter Pembaharu Sejati](./05-karakter-pembaharu-sejati.md) — Karakter sebagai fondasi kepemimpinan
+- [Blueprint Nabawi](../02-sirah-dan-sejarah/01-blueprint-nabawi.md) — Model kepemimpinan dari sirah Nabi
+- [Membangun Ekosistem Dakwah](../04-strategi-dakwah/05-membangun-ekosistem-dakwah.md) — Kepemimpinan dalam membangun ekosistem
 
 ---
 

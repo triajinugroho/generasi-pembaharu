@@ -14,6 +14,8 @@ Tapi aku menulis ini justru karena **sudah terlalu lama kita menyelesaikannya di
 
 Umar bin Khattab berkata: *"Semoga Allah merahmati orang yang menunjukkan kepadaku kelemahan-kelemahanku."* Jika Umar — pemimpin terbesar kedua dalam sejarah Islam setelah Abu Bakar — melihat kritik sebagai rahmat, mengapa kita memperlakukannya sebagai ancaman?
 
+Rasulullah shallallahu 'alaihi wasallam bersabda: *"Agama itu nasihat."* Para sahabat bertanya: "Untuk siapa, ya Rasulullah?" Beliau menjawab: *"Untuk Allah, untuk Kitab-Nya, untuk Rasul-Nya, untuk para pemimpin kaum Muslimin, dan untuk kaum Muslimin seluruhnya."* (HR. Muslim). Nasihat — bukan pujian kosong, bukan basa-basi, bukan diam ketika melihat kesalahan. Nasihat yang jujur, yang disampaikan karena cinta, yang bertujuan memperbaiki — **itulah hakikat agama ini.** Dan esai ini adalah upaya nasihat.
+
 ---
 
 ## Kelemahan Pertama: Kultus Tokoh
@@ -23,6 +25,8 @@ Mari kita mulai dari yang paling sensitif.
 Di banyak gerakan dakwah, ada kecenderungan untuk mengangkat seorang tokoh — ustadz, murobbi, atau pemimpin gerakan — ke posisi yang nyaris tak bisa dikritik. Kata-katanya menjadi dalil. Pendapatnya menjadi ijma'. Mempertanyakannya berarti *su'udz-dzan*. Berbeda darinya berarti menyimpang.
 
 Ini berbahaya. Sangat berbahaya.
+
+Rasulullah bersabda: *"Janganlah kalian menjadi imam'ah (orang yang ikut-ikutan), yang berkata: 'Jika orang-orang berbuat baik, kami berbuat baik. Dan jika mereka berbuat zhalim, kami pun berbuat zhalim.' Tapi teguhkanlah dirimu: jika orang-orang berbuat baik, kamu berbuat baik. Dan jika mereka berbuat buruk, janganlah kamu berbuat zhalim."* (HR. Tirmidzi). Inilah prinsip anti-kultus tokoh yang paling mendasar: berpegang pada kebenaran, bukan pada tokoh. Tokoh bisa salah; kebenaran tidak.
 
 Bukan karena tokoh-tokoh itu niatnya buruk — kebanyakan dari mereka adalah orang-orang ikhlas yang mendedikasikan hidupnya untuk dakwah. Tapi karena **setiap manusia bisa salah, dan sistem yang tidak memungkinkan koreksi adalah sistem yang sedang menunggu kehancurannya sendiri.**
 
@@ -91,6 +95,10 @@ Kritik diri bukan tanda kelemahan. Kritik diri adalah tanda **kedewasaan**. Orga
 
 Umar bin Khattab — lagi-lagi Umar — pernah berkata: *"Hisablah dirimu sebelum kamu dihisab."* Muhasabah. Introspeksi. Bukan hanya untuk individu, tapi juga untuk gerakan, organisasi, dan komunitas.
 
+Dan ada atsar dari Ali bin Abi Thalib yang sangat relevan: *"Janganlah kamu mengenal kebenaran berdasarkan orangnya. Kenalilah kebenaran, maka kamu akan mengenal siapa yang berada di atasnya."* Inilah prinsip yang harus menjadi pondasi setiap gerakan dakwah: kebenaran di atas loyalitas, prinsip di atas personalitas, wahyu di atas opini siapa pun — termasuk opini pemimpin gerakanmu sendiri.
+
+Rasulullah bersabda: *"Barangsiapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya. Jika tidak mampu, maka dengan lisannya. Jika tidak mampu, maka dengan hatinya — dan itulah selemah-lemahnya iman."* (HR. Muslim). Kemungkaran di luar gerakan, kita sudah biasa mengkritik. Tapi kemungkaran di dalam gerakan — kultus tokoh, eksploitasi kader, eksklusivisme — mengapa kita bungkam? Apakah "selemah-lemahnya iman" sudah menjadi standar kita dalam menghadapi kelemahan internal?
+
 ---
 
 ## Jalan Keluar: Reform dari Dalam
@@ -116,6 +124,8 @@ Cermin tidak menyerangmu ketika menunjukkan noda di wajahmu. Cermin membantumu m
 Esai ini adalah cermin. Bukan serangan, bukan pengkhianatan, bukan amunisi untuk musuh. Ini adalah upaya jujur dari seseorang yang percaya bahwa gerakan dakwah ini **layak untuk menjadi lebih baik** — dan mampu untuk menjadi lebih baik.
 
 Maka lihatlah ke cermin ini dengan berani. Akui apa yang perlu diakui. Perbaiki apa yang perlu diperbaiki. Dan teruslah berjalan — bukan dengan keangkuhan yang menolak kritik, tapi dengan kerendahan hati yang tahu bahwa perjalanan menuju kebaikan tidak pernah selesai.
+
+Abu Bakar Ash-Shiddiq — pemimpin terbesar pertama umat ini — berkata dalam pidato pertamanya sebagai khalifah: *"Aku telah diangkat memimpin kalian, padahal aku bukan yang terbaik di antara kalian. Jika aku benar, bantulah aku. Jika aku salah, luruskanlah aku."* Pemimpin terbaik umat ini — setelah Rasulullah — membuka pintu koreksi selebar-lebarnya di hari pertama kepemimpinannya. Bukan karena dia lemah, tapi justru karena dia kuat. **Kekuatan sejati bukan menolak kritik — kekuatan sejati adalah mengundang kritik demi kebaikan yang lebih besar.**
 
 > *"Wahai orang-orang yang beriman, jadilah kalian penegak keadilan, menjadi saksi karena Allah, walaupun terhadap diri kalian sendiri."* — QS. An-Nisa: 135
 

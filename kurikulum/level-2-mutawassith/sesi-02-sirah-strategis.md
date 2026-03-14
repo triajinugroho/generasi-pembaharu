@@ -19,7 +19,18 @@
 
 ### 1. Pembukaan (10 menit)
 
+*Malam itu, di rumah Al-Arqam bin Abil Arqam, hanya ada segelintir orang. Mereka duduk melingkar — halaqah pertama dalam sejarah Islam. Di luar, Makkah yang perkasa dengan segala arogansinya. Di dalam, sebuah gerakan yang akan mengubah dunia sedang ditanam dalam keheningan. Rasulullah ﷺ tidak memulai dengan deklarasi besar. Beliau memulai dengan tarbiyah. Dengan usrah kecil yang solid. Dengan kader-kader pilihan yang dibentuk satu per satu. Inilah manhaj dakwah: bukan ledakan sesaat, tapi pembinaan yang mendalam.*
+
 - Shalawat dan tilawah: QS. Al-Ahzab: 21
+
+**Hadits Pembuka — Perintah Tabligh Bertahap:**
+
+> *"Berilah peringatan kepada kerabat-kerabatmu yang terdekat."*
+> — QS. Asy-Syu'ara: 214
+
+> *"Rasulullah ﷺ berdakwah secara sembunyi-sembunyi selama tiga tahun, kemudian turun ayat 'Maka sampaikanlah olehmu secara terang-terangan apa yang diperintahkan' (QS. Al-Hijr: 94), maka beliau pun berdakwah secara terang-terangan."*
+> — Diriwayatkan dalam Sirah Ibnu Hisyam
+
 - Pertanyaan pemantik: "Mengapa Nabi ﷺ berdakwah secara sembunyi-sembunyi selama 3 tahun pertama? Apakah itu kelemahan atau strategi?"
 - Penyampaian kerangka berpikir sesi: sirah sebagai "studi kasus kepemimpinan dan strategi"
 
@@ -31,6 +42,16 @@
   - Lapisan strategi dan manajerial (kontekstual — bisa diadaptasi)
 - Alat analisis sederhana: Konteks → Keputusan → Hasil → Pelajaran
 - Pentingnya memahami konteks sosial-politik Arab saat itu
+
+**Hadits tentang Perencanaan dan Strategi:**
+
+> *"Ikatlah untamu, lalu bertawakkallah kepada Allah."*
+> — HR. At-Tirmidzi dari Anas bin Malik
+
+> *"Perang itu adalah tipu daya (strategi)."*
+> — HR. Bukhari dan Muslim dari Jabir bin Abdillah
+
+Dua hadits ini menegaskan: Rasulullah ﷺ bukan hanya nabi yang berdoa — beliau adalah strategis ulung yang menggabungkan tawakkal dengan perencanaan cermat.
 
 > **Mental Model: Rasulullah SAW — Kalkulasi Strategis Tiga Lapis**
 > 1. Baca KONTEKS: apa kekuatan dan kelemahan saat ini? (Makkah vs Madinah, kita vs mereka)
@@ -45,14 +66,33 @@
   - Konteks: kekuatan belum ada, musuh dominan
   - Strategi: rekrutmen selektif, pembinaan intensif (Darul Arqam)
   - Pelajaran: pentingnya kaderisasi sebelum ekspansi
+
+**Hadits tentang Kaderisasi Selektif:**
+
+> *"Tidaklah aku diutus untuk melaknat, tapi aku diutus sebagai rahmat."*
+> — HR. Muslim dari Abu Hurairah
+
+Bahkan dalam tekanan Makkah, Rasulullah ﷺ tidak membangun gerakan berbasis kebencian. Beliau membangun gerakan berbasis tarbiyah — marhalah demi marhalah, dari usrah kecil di Darul Arqam hingga menjadi kekuatan yang mengubah jazirah Arab.
+
 - **Dakwah Jahriyyah (terang-terangan):**
   - Konteks: sudah ada basis kader yang solid
   - Strategi: deklarasi publik, konfrontasi ideologis dengan Quraisy
   - Pelajaran: timing dalam go public
+
+**Kisah Dramatis — Mush'ab bin Umair di Madinah:**
+
+Rasulullah ﷺ tidak mengirim pasukan ke Madinah. Beliau mengirim satu orang: Mush'ab bin Umair — pemuda tampan dari keluarga kaya yang meninggalkan kemewahan demi dakwah. Mush'ab pergi dengan satu misi: tarbiyah. Ia tinggal di rumah As'ad bin Zurarah, mengadakan halaqah dari rumah ke rumah. Dalam setahun, hampir seluruh penduduk Madinah masuk Islam. Satu murabbi yang tepat mengubah satu kota. Ini adalah kekuatan tarbiyah.
+
 - **Hijrah ke Habasyah:**
   - Konteks: tekanan meningkat, sebagian jamaah lemah
   - Strategi: diversifikasi basis, perlindungan kader, diplomasi internasional
   - Pelajaran: fleksibilitas tanpa mengorbankan prinsip
+
+**Hadits tentang Hijrah sebagai Strategi:**
+
+> *"Tidak akan putus hijrah selama pintu taubat belum ditutup, dan pintu taubat tidak akan ditutup sampai matahari terbit dari barat."*
+> — HR. Ahmad dan Abu Dawud
+
 - **Perjanjian Aqabah I dan II:**
   - Konteks: mencari basis baru yang suportif
   - Strategi: negosiasi, bai'at bertahap, membangun aliansi
@@ -64,6 +104,14 @@
   - Konteks: masyarakat plural, potensi konflik tinggi
   - Strategi: konstitusi bersama, pengakuan hak semua kelompok
   - Pelajaran: membangun tatanan sosial yang inklusif tanpa mengorbankan identitas
+
+**Hadits tentang Persaudaraan Strategis:**
+
+> *"Seorang Muslim adalah saudara Muslim lainnya. Ia tidak menzaliminya, tidak menyerahkannya (kepada musuh), dan tidak merendahkannya."*
+> — HR. Muslim dari Abu Hurairah
+
+Persaudaraan Muhajirin-Anshar bukan sekadar ikatan emosional — ia adalah strategi ekonomi, sosial, dan politik yang brilian. Seorang Muhajirin yang kehilangan segalanya dipasangkan dengan seorang Anshar yang rela membagi hartanya. Ini adalah model tanzhim dakwah yang paling awal: struktur yang memadukan solidaritas spiritual dengan solusi praktis.
+
 - **Strategi Ekonomi:**
   - Konteks: muhajirin kehilangan harta
   - Strategi: persaudaraan Muhajirin-Anshar, pembangunan pasar Madinah
@@ -85,6 +133,10 @@
   - Strategi: pembebasan tanpa balas dendam, amnesti umum
   - Pelajaran: kemenangan sejati adalah memenangkan hati
 
+**Kisah Dramatis — Fath Makkah dan Akhlak Pemenang:**
+
+Rasulullah ﷺ memasuki Makkah sebagai pemenang mutlak. Kota yang pernah mengusirnya, menyiksanya, membunuh sahabat-sahabatnya — kini tunduk di hadapannya. Beliau bisa membalas dendam. Tapi apa yang beliau katakan? *"Pergilah kalian, kalian bebas."* Inilah puncak fiqh dakwah: kemenangan bukan untuk menghancurkan, tapi untuk menaklukkan hati. Dalam dua tahun setelah Fath Makkah, lebih banyak orang masuk Islam dibanding seluruh 20 tahun sebelumnya.
+
 **Rantai Logika Tauhid:**
 - Allah adalah Al-Mudabbir (Maha Pengatur) — segala sesuatu terjadi dengan izin-Nya →
 - Maka strategi manusia adalah ikhtiar, bukan penentu hasil →
@@ -104,12 +156,20 @@
 ### 6. Refleksi (10 menit)
 
 - Setiap peserta menulis: "Satu keputusan strategis Nabi ﷺ yang paling relevan dengan kondisiku saat ini dan mengapa"
+
+**Hadits Penutup untuk Refleksi:**
+
+> *"Mu'min yang kuat lebih baik dan lebih dicintai oleh Allah daripada mu'min yang lemah, dan pada keduanya ada kebaikan. Bersungguh-sungguhlah pada apa yang bermanfaat bagimu, minta pertolongan kepada Allah, dan jangan lemah."*
+> — HR. Muslim dari Abu Hurairah
+
 - Sharing 2-3 peserta secara sukarela
 
 ### 7. Penutup (10 menit)
 
+*Sirah bukan museum yang kita kunjungi untuk nostalgia. Sirah adalah laboratorium strategi yang menyediakan jawaban untuk setiap fase pergerakan. Setiap keputusan Nabi ﷺ adalah pelajaran hidup — dari keheningan Darul Arqam hingga gemuruh Fath Makkah. Pertanyaannya bukan "apakah sirah relevan?" — pertanyaannya adalah: "Sudahkah kita cukup cerdas untuk membaca strateginya?"*
+
 - Rangkuman: prinsip-prinsip strategi dari sirah
-- Penugasan: baca salah satu bab dari *Fiqh Sirah* karya Al-Buti atau Munir Al-Ghadban dan buat resume 1 halaman
+- Penugasan: baca salah satu bab dari *Fiqh Sirah* karya Al-Buti atau *Al-Manhaj Al-Haraki* karya Munir Al-Ghadban dan buat resume 1 halaman
 - Doa penutup
 
 ---
@@ -121,3 +181,4 @@
 3. Al-Ghadban, Munir. *Al-Manhaj Al-Haraki li As-Sirah An-Nabawiyyah*. (Terj.). Solo: Era Intermedia.
 4. Al-Sallabi, Ali Muhammad. *As-Sirah An-Nabawiyyah*. (Terj.). Jakarta: Pustaka Al-Kautsar.
 5. Ibnu Hisyam. *Sirah Ibnu Hisyam*. (Terj.). Jakarta: Darul Falah.
+6. Ibnu Katsir. *Al-Bidayah wan Nihayah*, Jilid Sirah. (Terj.). Jakarta: Pustaka Al-Kautsar.

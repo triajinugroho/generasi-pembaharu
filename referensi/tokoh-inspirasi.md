@@ -26,6 +26,30 @@ Disebut sebagai "Khalifah Rasyid kelima," Umar bin Abdul Aziz mewarisi kekhalifa
 
 ---
 
+### Hasan al-Bashri (21-110 H / 642-728 M)
+
+**Imam Para Tabi'in dan Guru Zuhud**
+
+Hasan al-Bashri adalah tabi'in agung yang lahir di Madinah dan tumbuh besar di Bashrah. Ia terkenal dengan kefasihan lisannya, kedalaman ilmunya, dan kezuhudannya yang luar biasa. Majelis-majelisnya dihadiri ribuan orang dan perkataannya (atsar) dikutip oleh hampir seluruh kitab hadits dan adab. Ia berkata: *"Hisablah dirimu sebelum kamu dihisab. Timbanglah amalmu sebelum amalmu ditimbang. Dan berhiaslah untuk hari pameran yang agung."*
+
+**Kontribusi utama:** Menjadi teladan hidup zuhud, wara', dan keberanian menyuarakan kebenaran di hadapan penguasa. Atsar-atsarnya tentang muhasabah, taubat, dan khauf menjadi rujukan utama dalam tradisi tazkiyah.
+
+**Pelajaran bagi kita:** Keteguhan di atas kebenaran tidak membutuhkan jabatan — yang dibutuhkan adalah hati yang hidup dan lisan yang jujur.
+
+---
+
+### Imam Syafi'i (150-204 H / 767-820 M)
+
+**Perumus Ushul Fiqh dan Teladan Adab Ikhtilaf**
+
+Muhammad bin Idris al-Syafi'i adalah pendiri mazhab Syafi'i dan perumus ilmu ushul fiqh melalui kitab *Al-Risalah*. Namun yang tak kalah penting adalah teladannya dalam adab berselisih pendapat. Ia berkata: *"Pendapatku benar tapi mungkin salah. Pendapat orang lain salah tapi mungkin benar."* Dan juga: *"Aku belum pernah berdebat dengan seseorang kecuali aku berharap Allah menampakkan kebenaran melalui lisannya."*
+
+**Kontribusi utama:** Merumuskan metodologi istinbath hukum yang sistematis, memadukan pendekatan hadits dan rasio. Syair-syairnya tentang ilmu, adab, dan zuhud menjadi mutiara sastra Islam yang dikutip hingga hari ini.
+
+**Pelajaran bagi kita:** Keilmuan yang tinggi harus disertai kerendahan hati yang dalam. Berbeda pendapat adalah wajar — yang tidak boleh adalah kehilangan adab.
+
+---
+
 ### Abu Hamid Al-Ghazali (450-505 H / 1058-1111 M)
 
 **Hujjatul Islam — Pembela Islam**
@@ -83,6 +107,18 @@ Ismail Al-Jazari adalah insinyur mekanik dari Mesopotamia yang menulis **Kitab f
 **Pendiri Universitas Tertua di Dunia**
 
 Fatimah binti Muhammad Al-Fihri mendirikan Universitas Al-Qarawiyyin di Fez, Maroko, pada tahun 859 M — yang diakui oleh UNESCO dan Guinness World Records sebagai institusi pendidikan tinggi tertua yang masih beroperasi di dunia. Dengan kekayaan warisan ayahnya, ia memilih menginvestasikan seluruhnya untuk membangun pusat ilmu pengetahuan. Fatimah Al-Fihri adalah bukti peran perempuan Muslim dalam membangun peradaban ilmu.
+
+---
+
+### Ibnu Qayyim al-Jauziyah (691-751 H / 1292-1350 M)
+
+**Murid Setia Ibn Taimiyah dan Penulis Spiritual Terbesar**
+
+Ibnu Qayyim adalah murid paling dekat dan setia dari Ibn Taimiyah. Ia dipenjara bersama gurunya, namun menghasilkan karya-karya yang jumlahnya mencapai puluhan jilid. Karyanya **Madarij al-Salikin** (Tahapan Para Penempuh Jalan) adalah peta perjalanan spiritual paling komprehensif dalam tradisi Sunni — mensyarah tahapan-tahapan menuju Allah dengan memadukan dalil syar'i dan pengalaman ruhaniah. Ia juga menulis *Zad al-Ma'ad* tentang sirah dan *Al-Jawab al-Kafi* tentang dampak dosa terhadap kehidupan.
+
+**Kontribusi utama:** Membuktikan bahwa tasawuf dan aqidah yang benar tidak bertentangan. Pendekatannya yang memadukan kedalaman spiritual dengan keteguhan pada Al-Quran dan Sunnah menjadi model bagi aktivis dakwah yang ingin seimbang antara gerakan dan kekhusyukan.
+
+**Pelajaran bagi kita:** Perjuangan lahir harus ditopang oleh perjalanan batin. Seorang da'i yang tidak mengenal stasi-stasi spiritual akan kehilangan arah di tengah perjalanan.
 
 ---
 
@@ -169,6 +205,18 @@ Hidup di Turki yang sedang dicabut dari akar Islamnya oleh rezim sekular Kemalis
 **Kontribusi utama:** Membuktikan bahwa iman bisa diperkuat melalui argumen rasional. Risale-i Nur membahas eksistensi Tuhan, kenabian, akhirat, dan takdir dengan pendekatan yang menggabungkan dalil naqli dan argumen akal. Gerakan Nur yang lahir dari tulisannya bertahan dan berkembang hingga hari ini.
 
 **Pelajaran bagi kita:** Pena bisa lebih kuat dari pedang. Dan iman yang kokoh dibangun di atas ilmu dan keyakinan, bukan sekadar tradisi.
+
+---
+
+### Muhammad Iqbal (1877-1938 M)
+
+**Penyair-Filosof Kebangkitan Islam**
+
+Muhammad Iqbal adalah penyair, filosof, dan politisi dari anak benua India yang karyanya menggugah umat Islam untuk bangkit dari tidur panjang. Melalui syair-syairnya dalam bahasa Urdu dan Persia, serta karyanya *The Reconstruction of Religious Thought in Islam*, Iqbal menyerukan pembaruan pemikiran Islam yang berani. Konsep **Khudi** (ego kreatif) yang dikembangkannya mengajarkan bahwa diri manusia harus terus berkembang dan mengaktualisasikan potensinya melalui hubungan yang hidup dengan Tuhan — bukan pasrah pada takdir secara fatalistik.
+
+**Kontribusi utama:** Memadukan kedalaman tasawuf Rumi dengan semangat ijtihad, menghasilkan visi kebangkitan Islam yang unik. Syair-syairnya — *"Bangkitlah! Dan ciptakan dunia baru!"* — menginspirasi gerakan kebangkitan di seluruh dunia Muslim. Ia juga menjadi salah satu pencetus ide Pakistan sebagai negara bagi Muslim anak benua India.
+
+**Pelajaran bagi kita:** Syair bisa menggerakkan revolusi. Dan pemikiran yang berani tentang pembaruan bukan berarti meninggalkan tradisi — melainkan menghidupkan kembali apinya.
 
 ---
 

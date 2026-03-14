@@ -13,6 +13,15 @@ Imam al-Ghazali dalam *Ihya Ulumiddin* menuliskan bahwa hati adalah raja bagi se
 
 Bab ini bukan sekadar daftar amalan. Ini adalah panduan *tarbiyah dzatiyah* — pendidikan diri yang harus kau jalani setiap hari, sepanjang hayat perjalanan dakwahmu. Setiap bagiannya dirancang untuk bisa langsung dipraktikkan — bukan wacana yang hanya enak dibaca, tapi amalan yang harus dihidupi.
 
+Ibnu Qayyim al-Jauziyyah dalam *Madarij As-Salikin* menulis: *"Perjalanan menuju Allah membutuhkan bekal, dan bekal itu adalah ruhani yang terjaga. Barangsiapa berangkat tanpa bekal, ia akan tersesat di tengah jalan — bukan karena jalannya yang salah, tapi karena kekuatannya yang habis."* Inilah mengapa manajemen ruhani bukan *optional* bagi seorang da'i — ia adalah *survival kit* di medan dakwah yang penuh ujian.
+
+Rasulullah ﷺ bersabda:
+
+> *"Sesungguhnya iman itu bisa usang di dalam dada kalian sebagaimana pakaian bisa usang. Maka mintalah kepada Allah agar Dia memperbarui iman di dalam hati kalian."*
+> — HR. Al-Hakim, dishahihkan oleh Al-Albani
+
+Iman butuh diperbarui. Ruhani butuh dirawat. Dan manajemen ruhani adalah *minhaj* pembaruan itu.
+
 ---
 
 ## 1. Realitas: Krisis Ruhani Aktivis
@@ -31,7 +40,14 @@ Ibnu Qayyim al-Jauziyyah menyebut kondisi ini sebagai *maut al-qalb* — matinya
 
 Ini bukan aib. Ini adalah realitas yang harus dihadapi dengan jujur. Langkah pertama penyembuhan adalah mengakui bahwa ada yang perlu disembuhkan. Maka bertanyalah pada dirimu dengan tulus: *kapan terakhir kali aku benar-benar merasakan manisnya iman dalam ibadahku?*
 
-Rasulullah SAW bersabda: *"Sesungguhnya iman itu bisa usang di dalam dada kalian sebagaimana pakaian bisa usang. Maka mintalah kepada Allah agar Dia memperbarui iman di dalam hati kalian"* (HR. Hakim). Iman butuh diperbarui. Ruhani butuh dirawat. Dan itulah esensi manajemen ruhani.
+Rasulullah ﷺ bersabda:
+
+> *"Tiga perkara, barangsiapa memilikinya niscaya ia merasakan manisnya iman: Allah dan Rasul-Nya lebih ia cintai dari selain keduanya, ia mencintai seseorang dan tidaklah ia mencintainya kecuali karena Allah, dan ia benci untuk kembali kepada kekufuran setelah Allah menyelamatkannya darinya sebagaimana ia benci untuk dilemparkan ke dalam api."*
+> — HR. Bukhari-Muslim, dari Anas bin Malik radhiyallahu 'anhu
+
+Manisnya iman (*halawatul iman*) — inilah yang hilang dari kehidupan banyak aktivis. Mereka tahu tentang iman, mereka bicara tentang iman, tapi mereka tidak *merasakan* iman. Ibnu Atha'illah As-Sakandari dalam *Al-Hikam* menuliskan: *"Cahaya yang ditempatkan di hati tidak mungkin padam. Jika kau merasa gelap, maka bukan cahayanya yang mati — tapi engkau yang telah berpaling darinya."* Manajemen ruhani adalah proses untuk berpaling kembali ke cahaya itu.
+
+Imam Hasan Al-Banna — meskipun sangat sibuk dengan tanzhim dakwah, halaqah, dan pergerakan — tidak pernah meninggalkan wiridnya. Murid-muridnya bersaksi bahwa ia selalu bangun tahajjud, bahkan di malam-malam ketika ia baru pulang dari rapat hingga larut. Ketika ditanya bagaimana ia mampu menjaga ini, ia menjawab: *"Jika aku meninggalkan hubunganku dengan Allah satu hari, aku akan kehilangan kekuatan untuk mengurus hubunganku dengan manusia sepuluh hari."* Inilah rahasia para dai yang tidak pernah padam — mereka menjaga sumber api mereka.
 
 > **Mental Model: Ibnu Qayyim — Madarij al-Salikin (Tangga Pendakian Ruhani)**
 > 1. Kenali posisimu di tangga ruhani — Ibnu Qayyim membagi perjalanan jiwa ke dalam manzilah (stasiun-stasiun): taubat, sabar, syukur, tawakkal, ridha, hingga mahabbah
@@ -55,6 +71,15 @@ Shalat bukan jeda dari aktivitas. Ia adalah sumber energi utama yang menggerakka
 > — HR. Abu Dawud
 
 Shalat adalah tempat kembali, tempat mengisi ulang, tempat menemukan ketenangan di tengah badai.
+
+Rasulullah ﷺ bersabda:
+
+> *"Shalat yang paling berat bagi orang-orang munafik adalah shalat Isya dan shalat Subuh. Seandainya mereka tahu apa yang terkandung di dalamnya, niscaya mereka akan mendatanginya meskipun dengan merangkak."*
+> — HR. Bukhari-Muslim, dari Abu Hurairah radhiyallahu 'anhu
+
+Shalat Isya dan Subuh berjamaah adalah *litmus test* ruhani seorang aktivis. Jika kau mampu menjaga keduanya di tengah padatnya aktivitas dakwah dan akademik, itu adalah tanda bahwa ruhanimu masih hidup. Jika keduanya mulai terlalaikan, itu adalah alarm darurat yang tidak boleh diabaikan.
+
+Ibnu Qayyim dalam *Madarij As-Salikin* menjelaskan bahwa shalat memiliki lima derajat: (1) shalat orang yang menzalimi dirinya — yang lalai dalam wudhu, waktu, dan rukunnya; (2) shalat orang yang menjaga kewajibannya secara lahir tapi hatinya tidak hadir; (3) shalat orang yang berjuang melawan bisikan dan gangguan — ia berperang dengan setan sepanjang shalat; (4) shalat orang yang sempurna kehadirannya, hatinya fokus memenuhi hak-hak shalat; dan (5) shalat orang yang berdiri di hadapan Allah dengan seluruh keberadaannya — hatinya penuh cinta, pengagungan, dan rasa malu. Evaluasilah — di derajat mana shalatmu berada?
 
 Khusyuk bukan bakat yang dimiliki segelintir orang. Ia adalah keterampilan yang dilatih dengan disiplin. Beberapa langkah praktis untuk meningkatkan kualitas shalat di tengah kesibukan aktivis:
 
@@ -116,7 +141,16 @@ Imam al-Ghazali dalam *Minhaj al-Abidin* menjelaskan bahwa doa adalah inti ibada
 
 Biasakan berdoa dengan spesifik — bukan hanya doa-doa umum, tapi juga doa untuk hal-hal konkret: keberhasilan program dakwah yang sedang berjalan, hidayah bagi mad'u tertentu yang sedang kau dampingi, perbaikan hubungan dengan sesama aktivis yang sedang renggang. Doa yang spesifik menandakan kehadiran hati — dan Allah menyukai hamba yang berdoa dengan hati yang hadir.
 
-Dan jangan remehkan **istighfar** — pembersih hati yang paling mudah diakses. Rasulullah SAW yang sudah dijamin masuk surga beristighfar lebih dari seratus kali setiap hari. Bagaimana dengan kita yang dosanya bertumpuk? Jadikan istighfar sebagai dzikir default — di sela-sela menunggu, berjalan, atau sekadar mengisi kekosongan. Ibnu Qayyim berkata bahwa istighfar yang konsisten membuka pintu-pintu rezeki, menghilangkan kesempitan, dan memberikan jalan keluar dari setiap masalah.
+Dan jangan remehkan **istighfar** — pembersih hati yang paling mudah diakses. Rasulullah ﷺ yang sudah dijamin masuk surga beristighfar lebih dari seratus kali setiap hari. Bagaimana dengan kita yang dosanya bertumpuk? Jadikan istighfar sebagai dzikir default — di sela-sela menunggu, berjalan, atau sekadar mengisi kekosongan. Ibnu Qayyim berkata bahwa istighfar yang konsisten membuka pintu-pintu rezeki, menghilangkan kesempitan, dan memberikan jalan keluar dari setiap masalah.
+
+Ibnu Atha'illah dalam *Al-Hikam* menuliskan hikmah yang sangat relevan bagi aktivis dakwah: *"Jika kau ingin Allah membukakan pintu harapan untukmu, maka lihatlah apa yang datang dari-Nya kepadamu. Dan jika kau ingin Allah membukakan pintu takut untukmu, maka lihatlah apa yang pergi dari dirimu kepada-Nya."* Artinya: lihatlah betapa banyaknya nikmat yang Allah berikan kepadamu — itu alasan untuk berharap. Dan lihatlah betapa lemahnya amal yang kau persembahkan kepada-Nya — itu alasan untuk takut. Keseimbangan antara *raja'* (harapan) dan *khauf* (takut) inilah yang menjaga ruhani tetap sehat — tidak sombong karena merasa cukup baik, dan tidak putus asa karena merasa terlalu buruk.
+
+Rasulullah ﷺ bersabda:
+
+> *"Perbanyaklah mengingat pemutus segala kenikmatan (yaitu kematian)."*
+> — HR. Tirmidzi dan An-Nasa'i, dari Abu Hurairah radhiyallahu 'anhu
+
+Mengingat kematian adalah *burnout prevention* versi kenabian. Ketika seorang aktivis terlalu tenggelam dalam rutinitas organisasi hingga lupa bahwa hidupnya terbatas, ia akan kehilangan perspektif. Tapi ketika ia mengingat kematian — bukan dengan ketakutan yang melumpuhkan, tapi dengan kesadaran yang memurnikan — setiap amal menjadi bermakna, setiap detik menjadi berharga, dan prioritas hidupnya kembali tertata.
 
 > **Mental Model: Ibnu Atha'illah — Al-Hikam (Kebijaksanaan Ruhani)**
 > 1. *"Jangan tinggalkan dzikir karena kau tidak hadir hatinya bersama Allah. Kelalaianmu dari dzikir lebih berbahaya dari kelalaianmu dalam dzikir"* — terus berdzikir meskipun merasa tidak khusyuk
@@ -181,6 +215,10 @@ Sebaliknya, **batasi konsumsi media yang merusak hati**. Media sosial, tayangan 
 
 Dan sesekali, lakukan **khalwat** — menyendiri untuk mengisi ulang. Ambil waktu sehari di akhir pekan untuk menyepi — ke masjid, ke alam, atau sekadar di kamar dengan pintu tertutup dan ponsel dimatikan. Gunakan waktu itu untuk shalat, tilawah, dzikir, dan muhasabah yang lebih dalam. Khalwat adalah *reset* bagi jiwa yang penat. Para ulama salaf menjadikannya praktik rutin, dan kita — yang hidup di zaman dengan distraksi berlipat ganda — jauh lebih membutuhkannya.
 
+Ibnu Qayyim dalam *Madarij As-Salikin* menjelaskan bahwa khalwat memiliki tiga tingkatan: khalwat jasad (menyepi secara fisik), khalwat hati (mengosongkan hati dari selain Allah meski berada di tengah keramaian), dan khalwat ruh (fana dari diri sendiri dan hadir sepenuhnya bersama Allah). Bagi aktivis dakwah, khalwat jasad — menyendiri secara fisik minimal satu hari per bulan — adalah kebutuhan minimum yang tidak boleh ditawar. Jadwalkan *daurah ruhiyah* pribadi ini sebagaimana kau menjadwalkan rapat organisasi — karena ia jauh lebih penting.
+
+Imam Ahmad bin Hanbal — yang dikenal sebagai salah satu ulama paling aktif dalam ilmu dan dakwah — memiliki kebiasaan khalwat yang dijaga ketat. Muridnya bercerita bahwa di tengah kesibukannya mengajar hadits, menulis kitab, dan menghadapi ujian politik, beliau selalu menyisihkan waktu untuk menyendiri dengan mushaf dan dzikir. Ketika diuji dengan *mihnah* (inkuisisi) oleh penguasa Abbasiyah, kekuatan ruhani dari khalwat-khalwat inilah yang menopangnya untuk tetap teguh selama bertahun-tahun penyiksaan.
+
 ## 8. Tanda-tanda Ruhani yang Sehat
 
 Bagaimana kau tahu bahwa manajemen ruhanimu berjalan? Berikut beberapa indikatornya — bukan untuk membuat kita sombong, tapi untuk memberikan arah:
@@ -229,6 +267,14 @@ Jika tanda-tanda ini belum kau rasakan, jangan berkecil hati. Teruslah berusaha.
 Hati adalah pusat segalanya. Ia adalah mesin penggerak dakwah yang sesungguhnya. Maka rawatlah ia sebelum ia rusak — karena memperbaiki hati yang sudah rusak jauh lebih sulit daripada menjaganya tetap hidup.
 
 Mulailah hari ini. Bukan besok. Bukan setelah ujian. Bukan setelah acara besar selesai. **Hari ini.**
+
+---
+
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Muraqabah dan Muhasabah](./01-muraqabah-dan-muhasabah.md) — Fondasi kesadaran spiritual
+- [Kepemimpinan Profetik](./04-kepemimpinan-profetik.md) — Spiritualitas sebagai sumber kekuatan pemimpin
+- [Prinsip Dakwah Qurani](../04-strategi-dakwah/01-prinsip-dakwah-qurani.md) — Dakwah autentik dari hati yang terjaga
 
 ---
 

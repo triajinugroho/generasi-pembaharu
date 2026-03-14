@@ -19,8 +19,23 @@
 
 ### 1. Pembukaan (10 menit)
 
+*Pada abad ke-7, Rasulullah ﷺ mengirim surat kepada raja-raja dunia — Heraklius, Kisra, Najasyi, Muqauqis. Setiap surat dirancang khusus: bahasa yang tepat, pendekatan yang sesuai, pesan yang tegas tapi bijaksana. Beliau memahami "audiensnya." Beliau memilih "medium" yang paling efektif. Beliau menyusun "konten" yang berdampak. Jika Rasulullah ﷺ hidup di era ini, beliau pasti akan menguasai setiap platform yang ada — bukan untuk viral, tapi untuk menyampaikan kebenaran. Pertanyaannya: apakah kita, para pewaris dakwah beliau, sudah melakukan hal yang sama?*
+
 - Tilawah: QS. Al-Hujurat: 6 (tabayyun terhadap informasi)
-- Hadits: "Ballighuu 'anni walau ayah" — Sampaikan dariku walau satu ayat
+
+**Hadits-hadits Pembuka tentang Tabligh:**
+
+> *"Sampaikan dariku walau satu ayat."*
+> — HR. Bukhari dari Abdullah bin Amr (Ballighuu 'anni walau ayah)
+
+> *"Semoga Allah memuliakan seseorang yang mendengar perkataanku, lalu menghafalnya, memeliharanya, dan menyampaikannya. Betapa banyak pembawa fiqh yang menyampaikan kepada orang yang lebih faham darinya."*
+> — HR. At-Tirmidzi dan Abu Dawud dari Ibnu Mas'ud
+
+> *"Barangsiapa menunjukkan (orang lain) kepada kebaikan, maka ia mendapat pahala seperti pahala orang yang mengerjakannya."*
+> — HR. Muslim dari Abu Mas'ud Al-Anshari
+
+Tiga hadits ini menegaskan: dakwah digital bukan sekadar tren — ia adalah perpanjangan dari perintah tabligh yang sudah ada sejak 14 abad lalu. Setiap konten yang mengajak kebaikan, setiap thread yang menjelaskan ayat, setiap video yang menyentuh hati — semua itu termasuk dalam perintah "ballighuu 'anni walau ayah."
+
 - Data pembuka: statistik penggunaan media sosial di kalangan pemuda Indonesia
 - Penyampaian tujuan sesi
 
@@ -40,6 +55,10 @@
   - Echo chamber dan polarisasi
   - Fitnah, hoaks, dan manipulasi informasi
 
+**Studi Kasus Indonesia — Fenomena Dakwah Digital:**
+
+Perhatikan bagaimana dakwah digital di Indonesia telah mengubah lanskap. Akun-akun seperti yang dikelola oleh tim Yufid, Nouman Ali Khan Indonesia, atau berbagai channel kajian di YouTube telah menjangkau jutaan pemuda yang mungkin tidak pernah datang ke masjid. Di sisi lain, ada juga fenomena "ustadz viral" yang kontennya lebih mengejar engagement daripada kedalaman ilmu. Ini adalah ujian bagi setiap content creator dakwah: apakah kita menjadi jembatan menuju ilmu, atau menjadi penghalang karena simplifikasi berlebihan?
+
 > **Mental Model: Nabi Sulaiman AS — Penguasaan Teknologi untuk Misi Ilahiah**
 > 1. Kuasai teknologi terkini di zamanmu (Sulaiman menguasai jin, angin, burung sebagai "teknologi" zamannya)
 > 2. Gunakan teknologi untuk memperluas jangkauan dakwah (surat untuk Ratu Balqis via burung Hud-hud)
@@ -53,6 +72,14 @@
   - Hikmah (bijaksana) — sesuaikan pesan dengan audiens
   - Mau'izhah hasanah (nasihat yang baik) — sentuh hati, bukan hanya akal
   - Jadilhum billati hiya ahsan (debat dengan cara terbaik) — jangan provokatif
+
+**Dalil Metodologi Dakwah:**
+
+> *"Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pelajaran yang baik, dan bantahlah mereka dengan cara yang terbaik."*
+> — QS. An-Nahl: 125
+
+Ayat ini adalah "minhaj dakwah digital" yang lengkap: hikmah (konten yang cerdas dan tepat sasaran), mau'izhah hasanah (konten yang menyentuh hati), dan mujadalah bil ahsan (respons terhadap kritik dengan cara terbaik). Setiap content creator dakwah harus menjadikan ayat ini sebagai standar operasional.
+
 - Framework pembuatan konten:
   - **Kenali audiens:** siapa, di mana, apa masalah mereka
   - **Tentukan tujuan:** edukasi, inspirasi, ajakan bertindak, atau diskusi
@@ -66,6 +93,11 @@
   - Konten respons: menanggapi isu terkini dari perspektif Islam
   - Konten interaktif: Q&A, polling, tantangan kebaikan
   - Konten behind-the-scene: proses belajar, kegiatan halaqah (dengan izin)
+
+**Studi Kasus Indonesia — LDK yang Go Digital:**
+
+Sebuah LDK di salah satu universitas negeri di Jawa merancang strategi konten dakwah semester penuh. Mereka membagi tim menjadi: tim riset isu (mengidentifikasi pertanyaan keagamaan yang trending di kampus), tim produksi (membuat carousel dan video pendek), dan tim distribusi (posting di waktu optimal, membalas komentar). Hasilnya: dalam satu semester, akun Instagram LDK tersebut tumbuh dari 500 menjadi 5.000 followers, dan — yang lebih penting — 20 mahasiswa baru bergabung dengan halaqah tarbiyah karena pertama kali mengenal LDK melalui konten digital.
+
 - Tips praktis per platform:
   - Instagram/TikTok: visual kuat, hook di detik pertama, caption bermakna
   - YouTube: riset SEO, thumbnail menarik, struktur video yang jelas
@@ -79,6 +111,13 @@
 - Maka setiap postingan, komentar, dan share tercatat meski akun anonim →
 - Maka membuat konten clickbait yang menyesatkan demi views = bersaksi palsu (syahadah az-zur) di hadapan jutaan orang →
 - Maka content creator dakwah memikul tanggung jawab lebih berat dari dai mimbar, karena jangkauannya lebih luas dan jejaknya lebih permanen
+
+**Hadits tentang Tanggung Jawab Ucapan:**
+
+> *"Sesungguhnya seorang hamba benar-benar mengucapkan suatu kalimat yang tidak ia pikirkan dampaknya, yang menyebabkan ia tergelincir ke dalam neraka lebih jauh dari jarak antara timur dan barat."*
+> — HR. Bukhari dan Muslim dari Abu Hurairah
+
+Jika satu ucapan bisa menjatuhkan seseorang ke neraka, bayangkan satu postingan yang dibaca jutaan orang. Tanggung jawab digital bukan lebih ringan dari tanggung jawab lisan — ia lebih berat, karena jejaknya permanen dan jangkauannya tak terbatas.
 
 - Prinsip etika dari Al-Qur'an dan Sunnah:
   - Tabayyun (verifikasi): QS. Al-Hujurat: 6 — jangan sebar tanpa verifikasi
@@ -121,9 +160,12 @@
   - "Apa potensi digitalku yang bisa dimanfaatkan untuk dakwah?"
   - "Kebiasaan digital apa yang harus kuperbaiki?"
   - "Satu langkah konkret yang akan kulakukan minggu ini di ranah dakwah digital"
+  - "Apakah kehadiranku di media sosial sudah menjadi sarana tabligh, atau justru menjadi sarana ghibah dan buang waktu?"
 - Sharing 2-3 peserta
 
 ### 7. Penutup (10 menit)
+
+*Setiap era punya medannya. Di era Nabi ﷺ, medannya adalah pasar Ukaz dan Ka'bah. Di era sahabat, medannya adalah mimbar masjid dan surat diplomatik. Di era kita, medannya adalah layar ponsel yang ada di tangan setiap manusia. Medan berubah, tapi misi tidak pernah berubah: "Ballighuu 'anni walau ayah." Sampaikan dariku, walau satu ayat. Satu carousel tentang tauhid. Satu video pendek tentang akhlak. Satu thread tentang sirah. Setiap konten kebenaran yang kau unggah adalah amanah tabligh yang kau tunaikan — dan kelak, di Hari Kiamat, konten itu akan menjadi saksimu.*
 
 - Rangkuman: medan digital sebagai amanah, bukan sekadar tren
 - Penugasan: buat dan publikasikan minimal 1 konten dakwah dalam 1 minggu, dokumentasikan prosesnya
@@ -140,3 +182,4 @@
 4. Safko, Lon. *The Social Media Bible*. (Sebagai referensi teknis strategi media sosial)
 5. Laporan We Are Social & Meltwater — Digital Indonesia terbaru
 6. Panduan Etika Bermedia Sosial — MUI / Kemenkominfo (sebagai konteks lokal)
+7. Natsir, Mohammad. *Fiqhud Da'wah*. Jakarta: Media Da'wah. (Bab tentang metode dan wasilah dakwah)

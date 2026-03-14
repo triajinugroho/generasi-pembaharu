@@ -7,6 +7,8 @@
 
 ## Pendahuluan
 
+Pernahkah kau menghadiri sebuah *halaqah* di mana materi aqidah disampaikan seperti kuliah biologi — datar, teknis, tanpa ruh? Enam rukun iman dibahas satu per satu seperti daftar belanja: iman kepada Allah, *check*; iman kepada malaikat, *check*; iman kepada kitab, *check*. Lalu semua pulang tanpa ada yang berubah dalam dirinya.
+
 Banyak Muslim memahami aqidah sebagai daftar perkara yang harus dipercayai —
 enam rukun iman yang dihafal sejak kecil, diujikan di sekolah, lalu disimpan
 di rak memori tanpa pernah disentuh lagi. Tapi aqidah yang sejati bukan
@@ -92,6 +94,13 @@ melihat"* (QS. Thaha [20]: 46). Jaminan kebersamaan Allah ini —
 *ma'iyyatullah* — menjadi sumber keberanian yang tidak bisa dihasilkan oleh
 motivasi duniawi manapun.
 
+Rasulullah ﷺ sendiri memberikan teladan keberanian berbasis aqidah yang paling agung. Di malam hijrah, ketika kaum Quraisy mengepung rumahnya dengan pedang terhunus, beliau keluar dengan tenang membaca:
+
+> *"Dan Kami jadikan di hadapan mereka dinding dan di belakang mereka dinding, lalu Kami tutup mata mereka sehingga mereka tidak dapat melihat."*
+> — QS. Ya Sin [36]: 9
+
+Dan di Gua Tsur, ketika Abu Bakar gemetar karena para pemburu sudah berdiri di ambang gua, Rasulullah ﷺ berkata dengan ketenangan yang hanya bisa lahir dari tauhid yang sempurna: **"Jangan bersedih, sesungguhnya Allah bersama kita"** (QS. At-Taubah [9]: 40).
+
 Seorang aktivis dakwah yang benar-benar mengimani bahwa Allah bersamanya
 akan memiliki keberanian yang tenang, bukan keberanian yang gegabah. Ia berani
 bukan karena meremehkan risiko, tetapi karena ia tahu Tuhannya lebih besar
@@ -140,6 +149,13 @@ hubungan harian dengan Al-Quran bukan sekadar anjuran — ia adalah kebutuhan
 eksistensial bagi setiap penggerak dakwah. Al-Quran harus dibaca, direnungkan,
 didiskusikan, dan diamalkan — setiap hari, tanpa jeda.
 
+Rasulullah ﷺ bersabda:
+
+> *"Bacalah Al-Quran, karena sesungguhnya ia akan datang pada hari kiamat sebagai pemberi syafaat bagi para pembacanya."*
+> — HR. Muslim, dari Abu Umamah Al-Bahili
+
+Dan Utsman bin Affan *radhiyallahu 'anhu* berkata: **"Seandainya hati kita benar-benar bersih, niscaya ia tidak akan pernah kenyang dari kalam Allah."** Pernyataan ini adalah cermin evaluasi: jika kita merasa berat membaca Al-Quran, jika tadabbur terasa membosankan, maka yang bermasalah bukan Al-Qurannya — melainkan kebersihan hati kita.
+
 ### 4. Iman kepada Rasul — Penggerak Keteladanan
 
 Iman kepada Rasul bukan sekadar tahu sirah dan menghafal kronologi peristiwa.
@@ -181,6 +197,13 @@ Ia akan selalu bertanya: apakah yang kulakukan hari ini akan menjadi bekal
 atau beban di hadapan Allah kelak? Pertanyaan ini, jika diinternalisasi
 dengan sungguh-sungguh, akan mengubah seluruh prioritas hidup — dari
 mengejar kenyamanan duniawi menuju mengejar keridhaan Ilahi.
+
+Rasulullah ﷺ bersabda:
+
+> *"Banyak manusia merugi dalam dua nikmat: kesehatan dan waktu luang."*
+> — HR. Bukhari, dari Ibnu Abbas
+
+Bayangkan: kesehatan dan waktu — dua hal yang paling kita anggap biasa — justru menjadi sumber kerugian terbesar. Seorang yang mengimani hari akhir akan memperlakukan setiap jam seperti investasi yang akan dihisab. Ia tidak akan membuang waktu untuk perdebatan kosong di media sosial sementara ada satu anak yatim yang belum tersentuh, satu tetangga yang belum terpenuhi haknya.
 
 ### 6. Iman kepada Qadha & Qadar — Penggerak Ketenangan
 
@@ -312,20 +335,63 @@ kembali aqidah bukan sekadar proyek personal — ia adalah proyek peradaban.
 > 3. Al-Ghazali meninggalkan puncak karir demi memperbaiki hubungannya dengan Allah. Adakah sesuatu dalam hidupmu — jabatan, kegiatan, kebiasaan — yang tampak "baik" di luar tetapi sesungguhnya menjauhkanmu dari Allah? Beranikah kamu meninggalkannya?
 > 4. Kapan terakhir kali kamu merasakan ketenangan sejati — bukan karena semua beres, tapi karena tawakkalmu kepada Allah kokoh? Jika sudah lama, apa yang berubah?
 
+## Aqidah dan Kekuatan Jiwa: Sebuah Syi'ir
+
+Penyair Islam klasik, Imam Syafi'i *rahimahullah*, menulis bait yang menggambarkan jiwa yang digerakkan oleh iman:
+
+> *"Aku temukan kehinaan dalam mengemis kepada manusia,*
+> *maka aku jadikan ketidakbutuhanku kepada mereka sebagai penghasilanku.*
+> *Jika engkau bersikap qana'ah, maka engkau raja,*
+> *dan jika engkau tamak, maka engkau budak yang hina."*
+
+Ini adalah potret aqidah yang menggerakkan: ia membebaskan dari ketergantungan pada makhluk dan menempatkan seluruh harapan hanya pada Al-Khaliq. Seorang aktivis dakwah yang aqidahnya hidup tidak akan meminta-minta validasi dari manusia — ia sudah cukup dengan penilaian Allah.
+
 ## Refleksi & Aksi
+
+Rasulullah ﷺ bersabda: *"Iman itu memiliki lebih dari tujuh puluh cabang. Yang tertinggi adalah ucapan La ilaha illallah, dan yang terendah adalah menyingkirkan gangguan dari jalan. Dan malu adalah cabang dari iman."* (HR. Bukhari dan Muslim). Maka iman bukan satu blok monolitik — ia memiliki cabang-cabang yang masing-masing perlu dihidupkan. Berikut langkah-langkah untuk menghidupkannya:
+
+**Tiga Pertanyaan yang Menggugat:**
+
+1. Dari enam rukun iman yang dibahas di bab ini, **mana yang paling "mati"** dalam hidupmu — dan sudah berapa lama kau membiarkannya mati? Apakah itu ketakutanmu yang menunjukkan lemahnya iman kepada Allah, ataukah kelalaianmu pada waktu yang menunjukkan lemahnya iman kepada hari akhir?
+
+2. **Jika aqidahmu diukur dari dampaknya**, bukan dari pengetahuanmu — berapa skormu? Al-Hasan al-Bashri berkata: "Iman bukan dengan berangan-angan." Apa *angan-angan* tentang iman yang selama ini kau jadikan pengganti amal nyata?
+
+3. **Siapa yang lebih kau takuti: Allah atau algoritma media sosial?** Jawab dengan jujur — bukan di depan orang lain, tapi di antara kau dan Allah di sepertiga malam terakhir.
+
+**Ikrar Penggerak:**
+
+*Ya Allah, aku bersaksi bahwa iman yang sejati adalah iman yang menggerakkan. Aku bertekad untuk tidak membiarkan aqidahku menjadi arsip mati di rak memori. Aku akan menghidupkan satu rukun iman setiap pekan melalui ilmu, amal, dan muhasabah. Jadikan aqidahku bukan sekadar pengetahuan di kepalaku, melainkan api di dadaku yang menggerakkan seluruh hidupku untuk-Mu.*
+
+**Langkah Aksi Konkret:**
 
 1. **Evaluasi** — Pilih satu rukun iman yang paling "mati" dalam hidupmu.
    Fokus menghidupkannya minggu ini. Buat rencana konkret: apa yang akan
    kau baca, renungkan, dan amalkan terkait rukun iman tersebut?
 2. **Tadabbur** — Baca 1 halaman Al-Quran setiap hari dengan terjemah dan
    refleksi, bukan sekadar tilawah. Catat satu insight dari setiap sesi
-   tadabbur dan diskusikan dengan teman terdekatmu.
+   tadabbur dan diskusikan dalam *liqo* atau *usrah*-mu.
 3. **Muhasabah** — Sebelum tidur, tanyakan: "Apa yang aqidahku gerakkan
    hari ini?" Jika jawabannya kosong, itu adalah alarm yang harus direspons
-   dengan serius.
-4. **Halaqah** — Ajak lingkaran terdekatmu mendiskusikan: dari enam rukun
+   dengan serius — bangun dan shalat dua rakaat, minta kepada Allah agar menghidupkan hatimu.
+4. **Halaqah** — Ajak lingkaran *tarbiyah*-mu mendiskusikan: dari enam rukun
    iman, mana yang paling kita abaikan secara kolektif sebagai aktivis
-   dakwah? Bangun komitmen bersama untuk menghidupkannya.
+   dakwah? Bangun komitmen bersama untuk menghidupkannya melalui program *daurah* atau *mabit* (malam bina iman dan taqwa).
+5. **Amal pembebasan** — Pilih satu tindakan nyata minggu ini yang lahir murni dari aqidahmu, bukan dari tekanan sosial atau kebiasaan. Satu sedekah yang tidak ada yang tahu. Satu keberanian yang tidak ada yang lihat. Satu istiqamah yang tidak ada yang puji. Lakukan ia hanya untuk Allah — dan rasakan bagaimana aqidah yang hidup menggerakkanmu tanpa membutuhkan sorotan.
+
+---
+
+> *"Sesungguhnya orang-orang yang beriman hanyalah orang-orang yang apabila disebut nama Allah, gemetarlah hati mereka, dan apabila dibacakan kepada mereka ayat-ayat-Nya, bertambahlah iman mereka, dan kepada Tuhanlah mereka bertawakkal."*
+> — QS. Al-Anfal [8]: 2
+
+Jika hatimu belum gemetar ketika nama Allah disebut — maka bab ini belum selesai. Kembali, baca ulang, dan tanyakan kepada Allah: *Ya Muqallibal qulub, tsabbit qalbi 'ala dinik* — Wahai Dzat yang membolak-balikkan hati, teguhkan hatiku di atas agama-Mu.
+
+---
+
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Karakter Pembaharu Sejati](../03-pembangunan-diri/05-karakter-pembaharu-sejati.md) — Karakter yang lahir dari aqidah hidup
+- [Fiqh Dakwah Kontemporer](../04-strategi-dakwah/02-fiqh-dakwah-kontemporer.md) — Memahami konteks dakwah dengan aqidah yang kokoh
+- [Epilog: Surat untuk Generasi Mendatang](../07-penutup/01-epilog-surat-untuk-generasi-mendatang.md) — Warisan aqidah untuk generasi selanjutnya
 
 ---
 
