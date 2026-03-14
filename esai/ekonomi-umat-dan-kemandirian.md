@@ -10,7 +10,9 @@ Di halaqah-halaqah kita, berapa kali topik ekonomi dibahas dengan serius?
 
 Kita fasih membicarakan akidah, fikih ibadah, sirah nabawiyah, bahkan geopolitik dunia Islam. Tapi ketika ditanya: *bagaimana model ekonomi yang bisa menopang kemandirian umat?* — yang muncul biasanya hanya keheningan, atau jawaban normatif yang sudah kita dengar ratusan kali: "Islam punya solusi." Ya, tapi solusi apa, konkretnya?
 
-Ini bukan masalah sepele. Ini masalah **kelangsungan hidup gerakan itu sendiri**.
+Ini bukan masalah sepele. Ini bukan masalah sekunder yang bisa ditunda sampai "nanti kalau sudah mapan."
+
+Ini masalah **kelangsungan hidup gerakan itu sendiri**.
 
 ## Pelajaran Pahit: Dakwah yang Bergantung
 
@@ -21,6 +23,8 @@ LDK butuh dana untuk acara besar. Ke mana mereka pergi? Ke donatur — biasanya 
 Apa masalahnya? **Ketergantungan.** Gerakan yang bergantung pada donatur akan selalu tunduk pada selera donatur. Gerakan yang tidak punya kemandirian finansial tidak punya kemandirian dalam mengambil keputusan. Hari ini donaturnya baik dan seirama. Bagaimana jika besok berubah? Bagaimana jika dana diikat dengan syarat-syarat yang tidak sejalan dengan visi?
 
 Abdurrahman bin Auf — salah satu sahabat Nabi yang dijamin masuk surga — memilih berdagang ketika hijrah ke Madinah. Dia tidak minta sumbangan. Dia tidak bergantung pada baitul mal. Dia membangun kemandirian ekonominya sendiri, dan dari kemandirian itu dia menyumbang dalam jumlah yang luar biasa untuk dakwah. **Kemandirian dulu, kontribusi kemudian.**
+
+Ketika Sa'ad bin Ar-Rabi' menawarkan untuk membagi hartanya, Abdurrahman bin Auf menolak dengan sopan dan berkata: *"Tunjukkan saja ke mana arah pasar."* Kalimat ini seharusnya menjadi motto setiap gerakan dakwah yang serius. Bukan "tunjukkan siapa donaturnya" — tapi **"tunjukkan di mana pasarnya."**
 
 ---
 
@@ -46,6 +50,14 @@ Dan jangan lupakan realitas hari ini: ekonomi digital. Generasi muda Muslim Indo
 
 Tapi kita hanya bisa mengisinya jika aktivis dakwah kampus berhenti memisahkan "dunia dakwah" dan "dunia bisnis" seolah keduanya tidak bisa hidup bersama. Abdurrahman bin Auf tidak merasa ada kontradiksi antara menjadi pedagang sukses dan menjadi sahabat Nabi yang saleh. Mengapa kita merasa ada?
 
+### Mentalitas yang Harus Diubah
+
+Ada satu penghambat besar yang jarang dibicarakan: **mentalitas bahwa bisnis itu "duniawi" dan dakwah itu "ukhrawi."** Seolah-olah keduanya hidup di planet yang berbeda.
+
+Mentalitas ini bukan hanya keliru — ia merusak. Ketika kader-kader terbaik dakwah merasa bersalah karena membangun bisnis, mereka akhirnya tidak membangun apa-apa. Sementara orang-orang yang tidak peduli dengan nilai-nilai Islam justru menguasai ekonomi, menguasai media, menguasai narasi.
+
+Bayangkan jika sepuluh persen saja alumni halaqah di Indonesia menjadi pengusaha yang berhasil dan mengalokasikan sebagian keuntungannya untuk membangun institusi umat — sekolah, rumah sakit, media, lembaga riset. Kita tidak sedang bermimpi tentang utopia. Kita sedang bicara tentang **pilihan strategis** yang selama ini tidak kita ambil karena terjebak dikotomi palsu antara dunia dan akhirat.
+
 ---
 
 ## Kemandirian Finansial = Kemandirian Dakwah
@@ -57,6 +69,8 @@ Ini rumus yang sederhana tapi sering dilupakan:
 Ketika kamu bergantung pada pihak lain untuk pendanaan, kamu secara tak sadar memberikan mereka hak veto atas arah gerakanmu. Ini bukan soal buruk sangka — ini soal dinamika kekuasaan yang nyata.
 
 Maka kemandirian ekonomi bukan sekadar soal "punya uang." Ini soal **kedaulatan**. Kedaulatan untuk menentukan prioritas sendiri. Kedaulatan untuk berkata tidak ketika diminta berkompromi. Kedaulatan untuk berpikir jangka panjang tanpa didikte oleh siklus pendanaan jangka pendek.
+
+Lihatlah gerakan-gerakan dakwah yang paling berpengaruh dan bertahan lama dalam sejarah — dari wakaf yang menopang Al-Azhar selama seribu tahun hingga jaringan pesantren di Indonesia yang mandiri secara ekonomi melalui pertanian dan perdagangan. Mereka semua memahami satu hal: **kemandirian ekonomi bukan kemewahan, tapi kebutuhan pokok bagi setiap gerakan yang ingin bertahan lebih dari satu generasi.**
 
 > **Langkah Konkret untuk Aktivis Dakwah Kampus:**
 > 1. **Belajar literasi finansial** — bukan hanya fikih muamalah normatif, tapi akuntansi, investasi, dan manajemen bisnis yang nyata.

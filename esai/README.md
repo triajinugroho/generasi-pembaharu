@@ -12,6 +12,11 @@ Esai-esai ini **bukan modul belajar bertahap**. Kamu bisa membacanya dalam uruta
 | [Mengapa Pemuda?](mengapa-pemuda.md) | Pemuda sebagai kunci kebangkitan Islam — dalil, sejarah, dan demografi |
 | [Dakwah Bukan Partisan](dakwah-bukan-partisan.md) | Dakwah yang melampaui sekat organisasi dan golongan |
 | [Intelektual yang Shalih](intelektual-yang-shalih.md) | Menjembatani jurang antara kecerdasan akal dan kebersihan hati |
+| [Perempuan Pembaharu: Dari Khadijah hingga Kampus](perempuan-pembaharu.md) | Peran perempuan dalam sejarah dan gerakan dakwah — jujur, kritis, dan progresif |
+| [Ekonomi Umat dan Kemandirian](ekonomi-umat-dan-kemandirian.md) | Kemandirian finansial sebagai prasyarat kemandirian dakwah |
+| [Spiritualitas di Era Digital](spiritualitas-di-era-digital.md) | Menjaga hati di tengah algoritma dan ekonomi perhatian |
+| [Dari Halaqah ke Peradaban](dari-halaqah-ke-peradaban.md) | Peta jalan dari pembinaan individu menuju dampak peradaban |
+| [Kritik Diri Gerakan Dakwah](kritik-diri-gerakan-dakwah.md) | Keberanian melihat cermin — kelemahan internal dan jalan reformasi |
 
 ## Cara Menggunakan
 

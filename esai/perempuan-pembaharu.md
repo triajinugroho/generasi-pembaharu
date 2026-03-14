@@ -10,7 +10,9 @@ Mari kita jujur sejak awal: gerakan dakwah kampus punya masalah dengan perempuan
 
 Bukan masalah kehadiran — akhwat hadir di mana-mana, bahkan sering kali lebih banyak dan lebih konsisten dari ikhwan. Masalahnya adalah **pengakuan, ruang, dan peran**. Terlalu sering perempuan di gerakan dakwah direduksi menjadi panitia konsumsi, pengisi absen mentoring, atau objek pembahasan fikih — bukan sebagai subjek perubahan yang setara.
 
-Dan ini ironis. Karena jika kita membaca sejarah Islam dengan jujur, perempuan bukan sekadar pelengkap — mereka adalah **pilar yang tanpanya bangunan ini tak akan pernah berdiri**.
+Dan ini ironis. Sangat ironis.
+
+Karena jika kita membaca sejarah Islam dengan jujur — benar-benar jujur, bukan selektif — perempuan bukan sekadar pelengkap. Mereka adalah **pilar yang tanpanya bangunan ini tak akan pernah berdiri**.
 
 ## Khadijah: Investor Pertama Dakwah
 
@@ -26,11 +28,15 @@ Tanpa Khadijah, kita tidak tahu apakah dakwah Islam akan bertahan melewati hari-
 
 Setelah Rasulullah wafat, siapa yang menjadi rujukan utama para sahabat dalam masalah fikih, hadits, dan kehidupan Nabi? **Aisyah radhiyallahu 'anha.** Para sahabat senior — laki-laki — datang kepadanya untuk bertanya dan belajar. Dia meriwayatkan lebih dari 2.200 hadits. Dia mengoreksi pemahaman sahabat lain ketika mereka keliru. Dia adalah ulama, mufti, dan guru bagi seluruh generasi.
 
-Di zaman ketika dunia lain mengurung perempuan dalam diam, Islam mengangkat Aisyah sebagai otoritas ilmu tertinggi.
+Di zaman ketika dunia lain mengurung perempuan dalam diam, Islam mengangkat Aisyah sebagai otoritas ilmu tertinggi. Bahkan Abu Musa Al-Asy'ari berkata: *"Tidaklah kami para sahabat Rasulullah menemui kesulitan dalam suatu hadits, lalu kami bertanya kepada Aisyah, kecuali kami mendapati ilmu tentangnya di sisinya."*
+
+Bayangkan itu. Para sahabat — generasi terbaik umat ini — menjadikan seorang perempuan sebagai tempat terakhir untuk memverifikasi pengetahuan mereka tentang Islam.
 
 ## Nusaibah binti Ka'ab: Pejuang di Garis Depan
 
 Di Perang Uhud, ketika banyak pejuang laki-laki melarikan diri, Nusaibah berdiri di depan Rasulullah dengan pedang dan perisai, melindungi beliau dengan tubuhnya sendiri. Dia terluka dua belas luka di hari itu. Nabi sendiri bersaksi: *"Ke mana pun aku menoleh di Uhud, aku melihat Nusaibah bertempur."*
+
+Nusaibah bukan pengecualian yang aneh. Dia adalah bukti bahwa Islam tidak pernah mengatakan perempuan harus mundur dari garis depan perjuangan. Yang Islam atur adalah adab dan rambu — bukan larangan total dari ruang publik dan kontribusi nyata.
 
 ## Fatimah Al-Fihri: Pembangun Universitas Pertama di Dunia
 
@@ -69,6 +75,10 @@ Mengakui masalah saja tidak cukup. Kita butuh model baru. Bukan model yang mengi
 
 **Keempat: Narasi yang utuh.** Berhenti menceritakan sejarah Islam seolah-olah hanya ditulis oleh laki-laki. Ketika kita mengajarkan sirah, pastikan Khadijah, Aisyah, Nusaibah, Fatimah Al-Fihri, Syifa binti Abdullah, dan perempuan-perempuan hebat lainnya mendapat porsi yang layak. Karena akhwat butuh melihat bahwa ada tempat bagi mereka dalam narasi besar ini — bukan sebagai catatan kaki, tapi sebagai pemeran utama.
 
+**Kelima: Dukungan konkret, bukan retorika.** Jangan hanya bilang "Islam memuliakan perempuan" di mimbar, sementara di struktur organisasi perempuan tetap menjadi warga kelas dua. Dukungan nyata berarti anggaran yang adil untuk program keakhwatan, akses yang setara terhadap pelatihan kepemimpinan, dan ruang yang aman untuk menyuarakan aspirasi tanpa dilabeli "terlalu vokal" atau "tidak sesuai fitrah."
+
+Dan mari kita bicara tentang satu hal lagi yang sering diabaikan: **beban ganda akhwat**. Di kampus, akhwat aktivis dakwah sering menanggung ekspektasi yang lebih berat dari ikhwan — mereka harus berprestasi akademik, aktif berorganisasi, menjaga citra "akhwat shalihah" yang sempurna, dan menghadapi tekanan sosial untuk segera menikah. Ini beban yang nyata, dan gerakan yang tidak mengakuinya adalah gerakan yang tidak jujur kepada separuh anggotanya.
+
 ---
 
 ## Penutup: Setengah Langit
@@ -78,6 +88,8 @@ Ada ungkapan terkenal: perempuan adalah tiang negara. Tapi perempuan bukan tiang
 Jika kita serius ingin menjadi generasi pembaharu, kita tidak bisa melakukannya dengan hanya mengaktifkan setengah potensi umat. Kita butuh Khadijah-Khadijah baru yang berani menginvestasikan segalanya. Aisyah-Aisyah baru yang menjadi rujukan ilmu. Nusaibah-Nusaibah baru yang tidak gentar di garis depan. Fatimah Al-Fihri baru yang membangun institusi yang bertahan melampaui usia mereka.
 
 Dan untuk itu, kita — ikhwan dan akhwat — perlu duduk bersama, jujur tentang kelemahan kita, dan merancang ulang gerakan ini agar setiap orang bisa berkontribusi dengan potensi terbaiknya.
+
+Ini bukan agenda "feminis." Ini agenda **Islam**. Karena peradaban yang kita impikan tidak akan pernah berdiri di atas fondasi yang hanya menggunakan separuh kekuatannya. Dan generasi pembaharu yang sesungguhnya adalah generasi yang berani mengakui bahwa potensi perempuan bukan untuk disimpan — tapi untuk dikerahkan, diarahkan, dan dimaksimalkan demi kemaslahatan umat seluruhnya.
 
 > *"Dan orang-orang yang beriman, laki-laki dan perempuan, sebagian mereka menjadi penolong bagi sebagian yang lain."* — QS. At-Taubah: 71
 

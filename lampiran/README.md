@@ -1,15 +1,15 @@
 # Lampiran
 
-*Perangkat praktis untuk menjadikan buku ini bukan sekadar bacaan, tapi panduan aksi*
+*Perangkat praktis untuk mengamalkan isi buku ini — bukan sekadar dibaca, tapi dijalankan.*
 
 ---
 
-> *"Sesungguhnya Allah menyukai jika seseorang di antara kalian mengerjakan suatu pekerjaan, ia mengerjakannya dengan itqan (sungguh-sungguh dan sempurna)."* — HR. Thabrani
+> *"Perumpamaan orang yang berilmu tapi tidak mengamalkannya, bagaikan lebah yang tidak menghasilkan madu."* — Atsar Salaf
 
-Bagian ini berisi alat-alat bantu yang dirancang untuk memindahkan gagasan dari halaman buku ke ruang kelas, halaqah, dan kehidupan nyata. Di sini kamu akan menemukan:
+Bagian lampiran ini berisi alat-alat bantu yang kami rancang agar buku ini tidak berhenti di rak. Setiap dokumen di sini adalah jembatan antara **ide dan aksi**, antara **wacana dan gerakan**.
 
-- **Panduan Fasilitator** — bagaimana menghidupkan kurikulum ini dalam sesi halaqah yang bermakna
-- **Template Evaluasi** — cara mengukur pertumbuhan peserta dan efektivitas program secara jujur
-- **Peta Bacaan Bertahap** — kurikulum bacaan terkurasi dari pemula hingga lanjutan, agar perjalanan intelektualmu terarah
+- **[Panduan Fasilitator](panduan-fasilitator.md)** — Untuk siapa saja yang ingin memfasilitasi halaqah atau kelompok diskusi menggunakan materi buku ini.
+- **[Template Evaluasi](template-evaluasi.md)** — Rubrik dan format penilaian untuk mengukur perkembangan peserta dan efektivitas program.
+- **[Peta Bacaan Bertahap](peta-bacaan-bertahap.md)** — Kurikulum bacaan terkurasi dari level pemula hingga lanjutan, agar perjalanan intelektualmu terarah.
 
-Gunakan lampiran ini sebagai titik berangkat, bukan sebagai aturan kaku. Sesuaikan dengan konteks lokalmu, eksperimen, dan terus perbaiki.
+Gunakan, modifikasi, dan sesuaikan dengan konteks halaqahmu. Yang penting: **jangan hanya membaca — bergeraklah.**
