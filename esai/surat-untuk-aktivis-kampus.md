@@ -34,6 +34,13 @@ Tapi ingat: **Nuh 'alaihissalam berdakwah 950 tahun.** Sembilan ratus lima puluh
 
 Tapi apakah Nuh gagal? Tidak. Karena tugasnya bukan *menghasilkan*, tapi **menyampaikan**. Dan ia menyampaikan dengan segenap jiwa, selama nyaris satu milenium, tanpa pernah berhenti.
 
+> **Mental Model: Nuh AS — 950 Tahun Tanpa Menyerah**
+> 1. Ukur keberhasilanmu dari USAHA, bukan dari RESPONS orang lain
+> 2. Variasikan metode tanpa mengubah pesan inti
+> 3. Ketika semua bukti menunjukkan "ini sia-sia," ingat: penilaian akhir milik Allah
+> 4. Istiqamah bukan keras kepala — istiqamah adalah percaya bahwa Allah tidak pernah menyia-nyiakan usaha
+> *Aplikasi: Jika setelah bertahun-tahun berdakwah di kampus belum terlihat hasilnya, ingat Nuh — 950 tahun bukan sia-sia di mata Allah.*
+
 Yusuf 'alaihissalam dibuang ke sumur oleh saudara-saudaranya sendiri. Musa 'alaihissalam gagap bicaranya dan menghadapi tiran terbesar dalam sejarah. Muhammad shallallahu 'alaihi wasallam dilempari batu di Thaif hingga sandal beliau berlumuran darah — dan apa yang beliau lakukan? Beliau mendoakan penduduk Thaif. Beliau tidak menyerah.
 
 **Jika para nabi — manusia terbaik yang pernah diciptakan — mengalami penolakan, pengasingan, dan rasa sakit, siapakah kita untuk mengharapkan jalan yang mudah?**
@@ -67,6 +74,10 @@ Allah melihat ketika kamu bangun subuh untuk menyiapkan materi kajian sementara 
 *"Sesungguhnya Allah tidak menyia-nyiakan pahala orang-orang yang berbuat baik."* (QS. At-Taubah: 120)
 
 Tidak ada yang sia-sia. **Tidak satu atom pun kebaikanmu yang luput dari pencatatan-Nya.**
+
+Dan di sinilah tauhid berbicara langsung kepada kelelahanmu. Allah adalah Asy-Syakur — Maha Mensyukuri, Maha Membalas — yang tidak pernah membiarkan kebaikan sekecil apapun berlalu tanpa balasan. Maka ketika bisikan "semua ini sia-sia" mulai merasuk, sadarlah bahwa perasaan itu bukan sekadar kelelahan biasa — ia adalah keretakan halus dalam keyakinanmu terhadap sifat Asy-Syakur. Engkau sedang, tanpa sadar, meragukan bahwa Allah benar-benar mencatat dan membalas setiap tetes keringatmu di jalan-Nya.
+
+Karena itu, burnout dalam dakwah sering kali bermula bukan dari kelelahan fisik semata, melainkan dari kelemahan tauhid yang tidak terdeteksi. Obat yang paling mendasar bukan sekadar liburan — meski istirahat tetap penting — melainkan memperbarui keyakinan bahwa Allah melihat, Allah mencatat, dan Allah pasti membalas. Ketika keyakinan itu kembali kokoh, kaki yang tadinya berat untuk melangkah akan menemukan kekuatan baru — bukan dari dirimu sendiri, tapi dari kepercayaan penuh kepada Dzat yang tidak pernah mengingkari janji-Nya.
 
 ---
 

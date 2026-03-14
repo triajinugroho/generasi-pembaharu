@@ -28,6 +28,13 @@ Kisah para pemuda gua adalah manifesto perlawanan iman terhadap kekuasaan yang l
 
 Mereka tidak punya kekuatan militer. Tidak punya jabatan politik. Yang mereka punya adalah keberanian untuk berkata: kami tidak akan menyembah selain Allah, meskipun seluruh kerajaan mengharuskannya. Al-Qur'an mengabadikan kisah mereka sebagai salah satu surah terpanjang — bukan karena mereka memenangkan perang, tapi karena mereka mempertahankan prinsip.
 
+> **Mental Model: Ashhab Al-Kahf — Perlawanan Tanpa Kekuatan Konvensional**
+> 1. Kamu tidak butuh kekuatan militer, jabatan politik, atau kekayaan untuk membuat perubahan
+> 2. Yang kamu butuhkan: keyakinan yang tidak bisa ditawar + komunitas kecil yang saling menguatkan
+> 3. Kadang "mundur" (ke gua) adalah strategi, bukan kekalahan — istirahat untuk bangkit lebih kuat
+> 4. Allah akan melipatgandakan dampakmu melampaui kemampuanmu (tidur 309 tahun, pengaruh melampaui generasi)
+> *Aplikasi: Kelompok kecil mahasiswa yang istiqamah di jalan Allah bisa mengubah kampus — dan akhirnya bangsa — melebihi apa yang mereka bayangkan.*
+
 ### Musa dan Perjuangan Generasi Baru
 
 Ketika Fir'aun menguasai segala-galanya, siapa yang berani beriman kepada Musa?
@@ -57,6 +64,10 @@ Data menunjukkan bahwa mahasiswa Indonesia berjumlah lebih dari 9 juta jiwa, ter
 ## Dari Kesadaran Menuju Gerakan
 
 Kesadaran bahwa pemuda adalah kunci perubahan saja tidak cukup. Kesadaran harus berbuah strategi, dan strategi harus berbuah aksi.
+
+Namun sebelum bicara strategi, kita perlu memahami sesuatu yang lebih mendasar: mengapa semangat perubahan begitu kuat dalam diri anak muda? Jawabannya ada pada tauhid itu sendiri. Allah adalah Al-Badi' — Maha Pencipta yang Orisinal, yang menciptakan segala sesuatu dengan kebaruan yang tiada tara. Fitrah manusia muda, yang cenderung pada pembaruan dan orisinalitas, sesungguhnya adalah pantulan sifat Al-Badi' yang Allah tanamkan dalam jiwa mereka. Maka semangat perubahan pada pemuda bukanlah "pemberontakan" yang harus diredam — ia adalah ekspresi fitrah yang Allah ciptakan.
+
+Memahami ini mengubah cara kita memandang dinamika pemuda secara fundamental. Menumpulkan semangat anak muda atas nama "stabilitas" atau "jangan macam-macam dulu" sama artinya dengan melawan fitrah yang Allah sendiri tanamkan. Tantangan sejati bukan meredam semangat itu, melainkan mengarahkannya ke jalur yang selaras dengan wahyu — menjadikan energi perubahan itu bukan liar tanpa arah, tapi tertambat pada visi ilahiah yang jelas. Dan inilah peran dakwah kampus yang sesungguhnya: bukan menjinakkan pemuda, tapi menyalurkan fitrah tajdid mereka ke jalan yang diridhai Allah.
 
 Artinya:
 

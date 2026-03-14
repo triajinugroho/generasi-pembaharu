@@ -27,6 +27,13 @@
 
 ### 2. Materi Inti A — Dasar Teologis Kolaborasi (20 menit)
 
+**Rantai Logika Tauhid:**
+- Allah adalah Al-Wahid (Maha Esa) dan menghendaki umat-Nya menjadi ummatan wahidah (umat yang satu) (QS. Al-Anbiya: 92) →
+- Maka perpecahan umat adalah penyimpangan dari kehendak ilahiah →
+- Maka setiap individu atau kelompok yang AKTIF memecah umat sedang melawan sunnatullah →
+- Maka ta'ashub (fanatisme golongan) bukan sekadar penyakit sosial — ia adalah manifestasi syirik kecil, di mana loyalitas kepada kelompok mengalahkan loyalitas kepada Allah dan umat-Nya →
+- Maka kolaborasi lintas gerakan bukan sekadar strategi pragmatis — ia adalah TUNTUTAN TAUHID
+
 - Kaidah-kaidah fiqh ta'amul (interaksi antar kelompok):
   - "Nata'awanu fima ittafaqna 'alaih, wa ya'dziru ba'dhuna ba'dhan fima ikhtalafna fih"
     (Kita bekerja sama dalam hal yang disepakati, dan saling memaklumi dalam hal yang diperselisihkan)
@@ -38,6 +45,15 @@
   - Mengkritik tanpa menghina, menasihati tanpa mempermalukan
 - Dalil-dalil kolaborasi:
   - Piagam Madinah: kerja sama dengan non-Muslim sekalipun untuk kemaslahatan bersama
+
+> **Mental Model: Rasulullah SAW — Piagam Madinah (Pluralisme Prinsipil)**
+> 1. Akui keberadaan semua kelompok — jangan berpura-pura mereka tidak ada
+> 2. Tetapkan PRINSIP BERSAMA yang semua bisa sepakati (keadilan, pertahanan bersama)
+> 3. Hormati IDENTITAS masing-masing — persatuan bukan peleburan
+> 4. Bangun MEKANISME penyelesaian konflik SEBELUM konflik terjadi
+> 5. Prinsip yang tidak bisa dikompromikan: tauhid dan keadilan. Sisanya negosiasi.
+> *Aplikasi: Dalam forum antar-organisasi dakwah kampus, tetapkan "piagam bersama" — prinsip yang disepakati semua pihak, mekanisme dialog jika terjadi gesekan, dan ruang untuk identitas masing-masing.*
+
   - Hilful Fudhul: Nabi ﷺ mengapresiasi perjanjian pra-Islam yang membela keadilan
   - Nabi ﷺ mengirim sahabat ke Habasyah: berlindung kepada raja Kristen yang adil
 - Batasan kolaborasi:
@@ -77,6 +93,14 @@
   - Pembagian peran dan tanggung jawab yang jelas
   - Evaluasi berkala dan mekanisme penyelesaian konflik
   - Tidak ada hidden agenda
+
+> **Mental Model: Yusuf Al-Qaradhawi — Fiqh Prioritas (Aulawiyyat)**
+> 1. Kategorikan perbedaan: ushul (prinsip) vs. furu' (cabang)
+> 2. Pada ushul: berpegang teguh, tidak ada kompromi
+> 3. Pada furu': toleransi, dialog, dan saling menghormati
+> 4. Pada agenda bersama: kolaborasi total tanpa syarat organisasional
+> 5. Prinsip: "Nata'awanu fima ittafaqna 'alaih, wa ya'dziru ba'dhuna ba'dhan fima ikhtalafna fih"
+> *Aplikasi: Bedakan mana perbedaan ushuliyah (tidak bisa dikompromikan) dan furu'iyah (bisa ditoleransi) — lalu kolaborasi pada titik temu tanpa memaksakan keseragaman.*
 
 - **Model kolaborasi yang bisa diterapkan:**
   - Forum silaturahmi antar aktivis dakwah
