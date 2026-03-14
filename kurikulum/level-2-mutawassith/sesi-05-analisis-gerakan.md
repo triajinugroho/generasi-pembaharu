@@ -19,8 +19,26 @@
 
 ### 1. Pembukaan (10 menit)
 
+*Allah menciptakan manusia berbangsa-bangsa dan bersuku-suku agar saling mengenal (QS. Al-Hujurat: 13). Dalam konteks gerakan dakwah, keragaman bukan kecelakaan — ia adalah sunnatullah. Setiap gerakan lahir dari konteks tertentu, menjawab kebutuhan tertentu, dan melayani segmen umat tertentu. Tugas kita bukan memilih satu lalu menolak semua — tugas kita adalah memahami fitrah keragaman ini, mengambil hikmah dari setiap tradisi, dan membangun manhaj dakwah yang kuat tanpa kehilangan adab terhadap sesama pejuang jalan Allah.*
+
 - Tilawah: QS. Al-Anbiya: 92 — "Sesungguhnya umat kalian adalah umat yang satu"
-- Hadits tentang perbedaan umat sebagai rahmat
+
+**Hadits-hadits tentang Memahami Fitrah Keragaman:**
+
+> *"Perbedaan umatku adalah rahmat."*
+> — Diriwayatkan oleh Al-Baihaqi dalam Al-Madkhal dan dinukil oleh banyak ulama
+
+> *"Sesungguhnya Allah menjadikan kebenaran itu pada lisan dan hati Umar."*
+> — HR. At-Tirmidzi
+
+> *"Ambillah separuh agama kalian dari Humaira ini (Aisyah)."*
+> — Riwayat dari sahabat, dinukil oleh Al-Hakim
+
+> *"Sahabat-sahabatku bagaikan bintang-bintang. Siapa pun di antara mereka yang kalian ikuti, kalian akan mendapat petunjuk."*
+> — Diriwayatkan oleh beberapa muhaddits, digunakan sebagai prinsip oleh para ulama
+
+Bahkan di kalangan sahabat, ada keragaman pendekatan: Abu Bakar yang lembut, Umar yang tegas, Utsman yang dermawan, Ali yang cerdas. Masing-masing merepresentasikan satu dimensi keunggulan Islam. Keragaman gerakan dakwah di Indonesia adalah cerminan keragaman fitrah ini.
+
 - Pengantar: pentingnya memahami peta gerakan dakwah untuk kolaborasi yang efektif
 - Adab sesi: belajar untuk memahami, bukan untuk menghakimi
 - Penyampaian alur sesi
@@ -34,6 +52,17 @@
 - Maka sikap yang benar bukan "gerakan kami satu-satunya yang benar" tapi "gerakan kami salah satu dari banyak ikhtiar menuju Allah"
 
 - Pengantar sejarah singkat: gerakan Islam di Nusantara dari masa pra-kemerdekaan
+
+**Hadits tentang Keadilan dalam Menilai:**
+
+> *"Katakanlah kebenaran meskipun pahit."*
+> — HR. Ibnu Hibban dari Abu Dzar
+
+> *"Tidak beriman salah seorang di antara kalian sampai ia mencintai saudaranya sebagaimana ia mencintai dirinya sendiri."*
+> — HR. Bukhari dan Muslim dari Anas bin Malik
+
+Dua hadits ini menjadi landasan dalam menganalisis gerakan: jujur dalam melihat kekuatan dan kelemahan (termasuk gerakan sendiri), dan adil dalam menilai orang lain sebagaimana kita ingin dinilai.
+
 - Klasifikasi gerakan berdasarkan pendekatan:
   - **Gerakan Tarbiyah dan Kaderisasi:**
     - Contoh: gerakan tarbiyah kampus, lembaga dakwah kampus (LDK)
@@ -68,6 +97,12 @@
 
 ### 3. Materi Inti B — Framework Analisis Gerakan (15 menit)
 
+**Framework Analisis dari Perspektif Pemikiran Islam:**
+
+Hasan Al-Banna dalam Risalah Ta'lim mengajarkan prinsip penting: "Janganlah kamu menyibukkan diri mencela dan mengkritik orang lain, karena Allah tidak menyukai hal itu. Namun, kenalilah kebenaran dan siapa yang mengikutinya."
+
+Prinsip ini menjadi landasan analytical framework kita:
+
 - Aspek-aspek yang dianalisis:
   - **Manhaj (metodologi):** dasar pemikiran dan sumber rujukan
   - **Ghayah (tujuan):** visi jangka panjang gerakan
@@ -101,12 +136,21 @@
   - Konsistensi ilmiah dari gerakan salafi
   - Kedalaman spiritual dari tradisi sufi
   - Relevansi dan kreativitas dari gerakan kontemporer
+
 > **Mental Model: Imam Syafi'i — Belajar dari Semua Guru**
 > 1. Pergi ke sumber langsung, jangan menilai dari jauh (Syafi'i belajar dari Imam Malik di Madinah DAN dari murid Abu Hanifah di Iraq)
 > 2. Ambil yang terbaik dari setiap tradisi tanpa kehilangan prinsipmu sendiri
 > 3. Hargai lawanmu: "Pendapatku benar tapi mungkin salah, pendapat orang lain salah tapi mungkin benar"
 > 4. Sintesis yang matang lebih kuat dari purisme yang kaku
 > *Aplikasi: Jangan hanya baca tentang gerakan lain dari buku kritik — datangi langsung, dengarkan, dan ambil pelajaran berharga dari setiap tradisi.*
+
+**Atsar Imam Syafi'i tentang Adab Ikhtilaf:**
+
+> *"Aku tidak pernah berdebat dengan seseorang kecuali aku berharap Allah menampakkan kebenaran melalui lisannya."*
+
+> *"Aku tidak pernah berbicara kepada seseorang kecuali aku berharap ia diberi taufiq, kebenaran, dan pertolongan. Dan aku tidak pernah berbicara kepada seseorang dan aku mementingkan apakah Allah menjelaskan kebenaran melalui lisanku atau lisan lawanku."*
+
+Inilah adab seorang alim dalam berinteraksi dengan perbedaan — ia mencari kebenaran, bukan kemenangan.
 
 - Posisi kita: bukan menggabungkan semua secara eklektik, tapi mengambil hikmah dengan landasan ilmu yang kuat
 - Visi Generasi Pembaharu: menjadi generasi yang menghargai keragaman gerakan sambil tetap berpegang pada prinsip
@@ -122,6 +166,8 @@
 
 ### 7. Penutup (15 menit)
 
+*Umat Islam Indonesia memiliki kekayaan gerakan dakwah yang luar biasa — dari pesantren tradisional Jawa Timur hingga halaqah tarbiyah di kampus-kampus besar, dari majelis dzikir yang khusyuk hingga channel YouTube yang kreatif. Ini bukan kelemahan — ini adalah kekuatan, jika kita mampu menjadi generasi yang menghubungkan, bukan memecah. Ingatlah firman Allah: "Dan berpeganglah kamu semuanya kepada tali Allah, dan janganlah kamu bercerai-berai" (QS. Ali Imran: 103). Tali Allah itu satu, tapi tangan yang memegang banyak. Yang penting: semua memegang tali yang sama.*
+
 - Pesan penutup: kita satu umat dengan banyak pendekatan — bersaing dalam kebaikan, bukan saling menjatuhkan
 - Penugasan: wawancarai satu orang dari gerakan dakwah yang berbeda, tulis laporan 1-2 halaman tentang apa yang bisa dipelajari
 - Doa untuk persatuan umat dan doa penutup majlis
@@ -136,3 +182,4 @@
 4. Latif, Yudi. *Genealogi Inteligensia: Pengetahuan dan Kekuasaan Inteligensia Muslim Indonesia Abad XX*. Jakarta: Kencana.
 5. Hasan, Noorhaidi. *Laskar Jihad: Islam, Militancy, and the Quest for Identity in Post-New Order Indonesia*. (Sebagai referensi akademis)
 6. Machmudi, Yon. *Islamising Indonesia: The Rise of Jemaah Tarbiyah and the Prosperous Justice Party*. Canberra: ANU Press.
+7. Al-Banna, Hasan. *Risalah Ta'lim*. (Terj.). Solo: Era Intermedia.

@@ -5,9 +5,13 @@
 
 ## Pendahuluan
 
+Siapa yang memerdekakan Indonesia? Jawablah dengan jujur — dan jangan lupakan siapa yang berteriak *Allahu Akbar* di medan pertempuran Surabaya, siapa yang mengeluarkan fatwa bahwa mempertahankan kemerdekaan adalah *fardhu 'ain*, dan siapa yang membangun sekolah-sekolah pertama di Nusantara jauh sebelum pemerintah kolonial memperkenalkan pendidikan.
+
 Hubungan Islam dan kebangsaan Indonesia bukan topik baru — tapi selalu aktual. Dari debat dasar negara di Konstituante 1957 hingga polemik hari ini, pertanyaannya tetap: **bagaimana Islam dan keindonesiaan berjalan berdampingan, bahkan saling menguatkan?**
 
 Ada dua ekstrem yang sama-sama keliru. Di satu sisi, mereka yang menganggap Islam dan nasionalisme saling bertentangan — bahwa seorang Muslim sejati harus menolak konsep negara bangsa dan hanya mengakui identitas ummah global. Di sisi lain, mereka yang menuntut Islam tunduk sepenuhnya pada sekularisme — bahwa agama harus disingkirkan dari ruang publik dan hanya menjadi urusan privat.
+
+Rasulullah ﷺ bersabda: *"Tidaklah seorang Muslim yang menanam suatu tanaman atau bercocok tanam, lalu ada burung, manusia, atau hewan yang memakan darinya, melainkan itu menjadi sedekah baginya"* (HR. Bukhari-Muslim). Hadis ini mengajarkan bahwa **berkontribusi untuk lingkungan tempat tinggal** — apa pun bentuknya — adalah ibadah. Membangun Indonesia yang adil dan makmur bukan sekadar nasionalisme — ia adalah implementasi prinsip ini.
 
 Posisi yang akan kita kembangkan dalam bab ini adalah posisi ketiga: Islam sebagai **ruh** yang menghidupkan nasionalisme Indonesia — bukan bertentangan dengannya, bukan pula tunduk padanya, melainkan menjadi sumber inspirasi, motivasi, dan panduan moral bagi kehidupan berbangsa dan bernegara. Posisi ini bukan kompromi lemah — ia adalah posisi yang paling sejalan dengan sejarah, teologi, dan kemaslahatan umat.
 
@@ -33,7 +37,7 @@ Daftar tokoh-tokoh Islam yang berkontribusi langsung terhadap kemerdekaan Indone
 
 - **Haji Agus Salim** — diplomat dan negarawan yang dikenal karena integritasnya yang luar biasa. Dijuluki "Grand Old Man of Indonesia" dan diakui secara internasional sebagai salah satu pendiri bangsa yang paling berpengaruh.
 
-- **Mohammad Natsir** — perdana menteri, pemikir Islam, dan dai yang memadukan kedalaman pemahaman Islam dengan visi kebangsaan yang matang. Natsir-lah yang merumuskan posisi bahwa "Islam dan kebangsaan bukan air dan minyak."
+- **Mohammad Natsir** — perdana menteri, pemikir Islam, dan dai yang memadukan kedalaman pemahaman Islam dengan visi kebangsaan yang matang. Natsir-lah yang merumuskan posisi bahwa "Islam dan kebangsaan bukan air dan minyak." Dalam pidatonya yang bersejarah, Natsir menyatakan: *"Kami bukan orang yang anti-nasionalisme. Kami cinta kepada tanah air kami, karena iman kami mengajarkan bahwa cinta tanah air itu sebagian daripada iman. Tetapi nasionalisme kami tidak berhenti pada batas-batas bangsa saja, karena kami adalah anggota umat yang besar, umat Islam."* Natsir menolak dikotomi palsu — ia membuktikan bahwa seorang Muslim bisa menjadi perdana menteri yang efektif, diplomat yang disegani, dan dai yang konsisten **sekaligus**. Setelah tidak lagi berkuasa secara politik, ia tidak berhenti berkontribusi — ia mendirikan Dewan Dakwah Islamiyah Indonesia (DDII) dan terus membangun melalui pendidikan dan dakwah. Inilah karakter generasi pembaharu: **jika satu pintu tertutup, buka pintu yang lain — tetapi jangan pernah berhenti berjuang.**
 
 > **Mental Model: Mohammad Natsir — Negarawan-Dai**
 > 1. Islam dan kebangsaan bukan air dan minyak — keduanya bisa menyatu karena Islam tidak menafikan cinta tanah air
@@ -41,6 +45,8 @@ Daftar tokoh-tokoh Islam yang berkontribusi langsung terhadap kemerdekaan Indone
 > 3. Perjuangkan aspirasi Islam melalui jalur konstitusional dan demokratis, bukan melalui kekerasan atau kudeta
 > 4. Ketika kalah dalam arena politik, jangan tinggalkan arena — terus berkontribusi melalui pendidikan, sosial, dan dakwah
 > *Aplikasi: Jadilah seperti Natsir: aktif di organisasi kampus, berprestasi akademis, terlibat dalam isu-isu kebangsaan, dan tetap istiqamah dalam dakwah. Tunjukkan bahwa aktivis dakwah bisa menjadi mahasiswa terbaik, pemimpin organisasi yang kompeten, dan warga negara yang bertanggung jawab — semuanya sekaligus.*
+
+- **KH Wahid Hasyim** — putra KH Hasyim Asy'ari yang menjadi Menteri Agama pertama RI. Wahid Hasyim memainkan peran krusial dalam perumusan Pancasila. Ia adalah salah satu tokoh yang menyetujui penghapusan "tujuh kata" dari Piagam Jakarta — bukan karena melemahkan Islam, melainkan karena **memahami prioritas kemaslahatan**. Wahid Hasyim membuktikan bahwa kompromi yang cerdas bukan berarti kekalahan — ia membangun Kementerian Agama sebagai institusi yang menjembatani Islam dan negara, memastikan pendidikan agama masuk ke kurikulum nasional, dan meletakkan fondasi bagi pengakuan negara terhadap peradilan agama Islam. Ini adalah *fiqh al-awlawiyyat* (fiqih prioritas) yang brilian — bukan menyerahkan prinsip, melainkan memilih strategi yang paling efektif untuk memperjuangkan prinsip.
 
 - **Kasman Singodimedjo** — tokoh Masyumi dan anggota BPUPKI yang memperjuangkan nilai-nilai Islam dalam dasar negara sambil tetap menghormati kemajemukan Indonesia.
 
@@ -63,6 +69,18 @@ Salah satu fakta historis yang sering dilupakan adalah peran **fatwa** dalam per
 Fatwa ini memiliki dampak mobilisasi yang luar biasa. Pertempuran 10 November 1945 di Surabaya — salah satu pertempuran paling heroik dalam sejarah Indonesia — dipicu dan dimobilisasi oleh semangat jihad yang digelorakan Resolusi ini. Arek-arek Surabaya yang bertempur melawan pasukan Inggris yang jauh lebih superior secara militer bukan sekadar nasionalis — mereka adalah **mujahidin** dalam pengertian otentiknya.
 
 Ini menunjukkan bahwa pada momen-momen kritis, Islam dan nasionalisme bukan hanya tidak bertentangan — **Islam menjadi bahan bakar** yang menyalakan semangat nasionalisme.
+
+### Kisah-kisah Ulama dalam Kemerdekaan: Perjuangan yang Tak Boleh Dilupakan
+
+Sejarah perjuangan kemerdekaan Indonesia dipenuhi oleh kisah-kisah ulama yang mengorbankan segalanya — dan kisah-kisah ini harus diceritakan ulang kepada setiap generasi:
+
+**KH Hasyim Asy'ari dan Penjara Jepang.** Ketika pendudukan Jepang mengeluarkan kebijakan *saikeirei* — kewajiban membungkuk ke arah Tokyo sebagai penghormatan kepada Kaisar Jepang — KH Hasyim Asy'ari menolak dengan tegas. Beliau menyatakan bahwa membungkuk kepada selain Allah adalah syirik. Akibatnya, beliau dipenjara oleh Jepang dan disiksa. Tetapi beliau tidak mundur. Inilah *istiqamah* — keteguhan yang tidak bisa dibeli oleh kekuasaan apa pun. Dan ketika Jepang membebaskannya karena tekanan rakyat, beliau tidak menyimpan dendam — beliau justru menggunakan posisinya untuk memobilisasi kemerdekaan.
+
+**Kyai-kyai di Pertempuran Surabaya.** Pada 10 November 1945, pasukan Inggris yang dipersenjatai tank dan pesawat tempur menghadapi perlawanan luar biasa dari arek-arek Surabaya. Yang jarang diceritakan: di balik perlawanan itu ada jaringan pesantren yang memobilisasi santri-santrinya. Kyai-kyai dari Jombang, Kediri, Madiun, dan sekitarnya mengirim santri mereka ke Surabaya dengan bekal seadanya tetapi semangat yang membara — karena mereka percaya bahwa mempertahankan kemerdekaan adalah jihad. Banyak dari santri itu tidak pernah kembali. Mereka gugur sebagai syuhada yang dimakamkan di tanah Indonesia yang mereka cintai.
+
+**Teuku Nyak Arif dan Ulama Aceh.** Ketika Belanda hendak menduduki kembali Aceh pasca-proklamasi, para ulama Aceh mengorganisir perlawanan yang mengagumkan. Teuku Nyak Arif, yang merupakan residen Aceh, bekerja bersama ulama-ulama dayah untuk memastikan Aceh tetap menjadi bagian dari Republik Indonesia. Aceh adalah satu-satunya wilayah di Indonesia yang tidak pernah berhasil diduduki kembali oleh Belanda. Dan kekuatan itu bersumber dari satu hal: **persatuan antara ulama dan rakyat**.
+
+Nabi ﷺ bersabda: *"Barangsiapa terbunuh karena mempertahankan hartanya, maka ia syahid. Barangsiapa terbunuh karena mempertahankan keluarganya, maka ia syahid. Barangsiapa terbunuh karena mempertahankan agamanya, maka ia syahid. Dan barangsiapa terbunuh karena mempertahankan dirinya, maka ia syahid"* (HR. Abu Dawud dan Tirmidzi). Para ulama dan santri yang gugur dalam mempertahankan kemerdekaan Indonesia memenuhi kriteria ini — mereka mempertahankan tanah air, keluarga, dan agama mereka sekaligus.
 
 ### Islam dan Pancasila: Dialektika, Bukan Dikotomi
 
@@ -130,6 +148,26 @@ Salah satu isu yang seharusnya menyatukan — bukan memecah belah — umat Islam
 
 Ketika Muslim menjadikan pemberantasan korupsi sebagai agenda utama — bukan berdasarkan kepentingan politik, tetapi berdasarkan perintah agama — mereka sedang berdakwah sekaligus membangun bangsa. Ini adalah titik temu sempurna antara keislaman dan kebangsaan: apa yang dituntut oleh agama juga dituntut oleh kepentingan nasional.
 
+### Counter-Narrative: Menjawab Tuduhan "Islam Anti-NKRI"
+
+Ada narasi yang terus diulang oleh pihak-pihak tertentu: bahwa Islam — khususnya Islam yang taat — adalah ancaman bagi NKRI. Mari kita jawab dengan tegas menggunakan fakta sejarah dan dalil:
+
+> **Mereka berkata:** "Islam itu anti-NKRI, anti-Pancasila, ingin mendirikan khilafah."
+>
+> **Sejarah menjawab:** Siapa yang memerdekakan Indonesia? Siapa yang mengeluarkan Resolusi Jihad yang memobilisasi perlawanan terhadap Sekutu? Siapa yang membangun sekolah-sekolah pertama di Nusantara? Siapa yang mendirikan organisasi pergerakan nasional pertama yang massal? **Umat Islam.** NKRI berdiri di atas keringat dan darah ulama — menuduh Islam anti-NKRI adalah pengkhianatan terhadap sejarah.
+
+> **Mereka berkata:** "Muslim yang taat itu radikal dan berbahaya."
+>
+> **Fakta menjawab:** NU dan Muhammadiyah — dua organisasi Islam terbesar di Indonesia dengan puluhan juta anggota yang menjalankan Islam secara taat — adalah pilar stabilitas nasional. Mereka mengelola puluhan ribu sekolah, ribuan klinik dan rumah sakit, dan program sosial yang melayani seluruh masyarakat tanpa diskriminasi. Muslim yang taat bukan ancaman — **ia adalah aset terbaik bangsa**. Rasulullah ﷺ bersabda: *"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lain"* (HR. Ahmad).
+
+> **Mereka berkata:** "Agama harus dipisahkan dari negara."
+>
+> **Konstitusi menjawab:** Indonesia bukan negara sekuler. Sila pertama Pancasila — "Ketuhanan Yang Maha Esa" — menempatkan ketuhanan sebagai fondasi negara. UUD 1945 mengakui peran agama dalam kehidupan publik. Menuntut pemisahan total agama-negara justru **bertentangan dengan konstitusi Indonesia sendiri**. Nabi ﷺ membangun Piagam Madinah yang mengakui keragaman dalam satu kerangka politik — bukan dengan membuang agama dari ruang publik.
+
+> **Mereka berkata:** "Aspirasi Islam dalam politik itu mengancam kebhinekaan."
+>
+> **Sejarah menjawab:** Para tokoh Islam dalam BPUPKI — termasuk Ki Bagus Hadikusumo dan KH Wahid Hasyim — justru menunjukkan **kematangan luar biasa** dengan menerima penghapusan tujuh kata Piagam Jakarta demi persatuan. Mereka tidak menuntut dominasi — mereka menuntut **keadilan dan pengakuan**. Muslim yang memperjuangkan aspirasinya secara konstitusional dan damai bukan ancaman bagi demokrasi — ia adalah **esensi** dari demokrasi itu sendiri.
+
 ### Radikalisme: Minoritas yang Merusak
 
 Tidak bisa dipungkiri bahwa ada segelintir Muslim yang mengadopsi ideologi radikal — yang menolak legitimasi negara bangsa, menggunakan kekerasan untuk tujuan politik, atau bahkan melakukan teror atas nama Islam. Mereka adalah **minoritas kecil** — tetapi dampak yang mereka timbulkan sangat besar terhadap citra Islam dan hubungan Islam-negara.
@@ -171,6 +209,16 @@ Posisi yang kita tawarkan — dan yang telah dipraktikkan oleh para pendiri bang
 Mohammad Natsir mengartikulasikan posisi ini dengan jernih: Islam dan kebangsaan bukan air dan minyak — keduanya bisa menyatu karena Islam tidak menafikan cinta terhadap tanah air, dan kebangsaan yang sejati tidak menuntut penghapusan identitas keagamaan.
 
 KH Hasyim Asy'ari menambahkan dimensi teologis: *hubb al-wathan min al-iman* — cinta tanah air adalah bagian dari iman. Ini bukan hadis dalam pengertian teknis ilmu hadis, tetapi ia mengekspresikan prinsip yang valid: bahwa mencintai dan membela tanah tempat Allah menitipkan kita adalah bagian dari rasa syukur dan tanggung jawab keagamaan.
+
+Dalil-dalil yang mendukung prinsip ini sangat kuat:
+
+**Tentang Mencintai Tanah Air.** Ketika Rasulullah ﷺ meninggalkan Makkah saat hijrah, beliau berbalik memandang kota kelahirannya dan berkata: *"Demi Allah, sungguh engkau adalah tanah Allah yang paling baik dan paling dicintai Allah. Seandainya aku tidak diusir darimu, niscaya aku tidak akan pergi"* (HR. Tirmidzi, Ibnu Majah). Ini menunjukkan bahwa Rasulullah ﷺ sendiri memiliki kecintaan mendalam terhadap tanah airnya — dan kecintaan itu tidak bertentangan dengan tauhid.
+
+**Tentang Ketaatan kepada Pemimpin.** Rasulullah ﷺ bersabda: *"Dengarkanlah dan taatilah pemimpinmu, meskipun yang memimpinmu adalah seorang hamba Habasyah yang kepalanya seperti buah kismis, selama ia memimpin kalian dengan Kitabullah"* (HR. Bukhari). Ketaatan kepada pemimpin — selama tidak menyuruh bermaksiat — adalah perintah agama, bukan sekadar kewajiban sipil.
+
+**Tentang Berkontribusi untuk Masyarakat.** Rasulullah ﷺ bersabda: *"Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia lain"* (HR. Ahmad). Dan beliau juga bersabda: *"Tangan yang di atas lebih baik dari tangan yang di bawah"* (HR. Bukhari-Muslim) — jadilah pemberi, bukan peminta. Berkontribusi untuk bangsa dan negara, melayani masyarakat tanpa memandang suku dan agama, adalah implementasi langsung dari hadis-hadis ini.
+
+**Tentang Keadilan sebagai Fondasi Negara.** Rasulullah ﷺ bersabda: *"Sesungguhnya orang-orang yang berlaku adil akan berada di atas mimbar-mimbar dari cahaya di sisi Allah, yaitu mereka yang adil dalam hukum, keluarga, dan apa yang menjadi tanggung jawab mereka"* (HR. Muslim). Muslim yang memperjuangkan keadilan dalam konteks negara bangsa sedang memperjuangkan prinsip yang dijanjikan Rasulullah ﷺ dengan kedudukan tertinggi di sisi Allah.
 
 > **Mental Model: KH Wahid Hasyim — Islam dalam Negara Bangsa**
 > 1. Terima realitas negara bangsa sebagai wadah — bukan sebagai ideologi yang menggantikan Islam
@@ -244,6 +292,10 @@ Ini bukan sekadar diplomasi politik — ini adalah **dakwah peradaban** pada lev
 ### Peran Pemuda: Menjadi Bukti
 
 Visi ini tidak akan terwujud dengan sendirinya — ia membutuhkan generasi pemuda Muslim yang **kompeten, berintegritas, dan bervisi jauh ke depan**. Pemuda yang tidak malu menjadi Muslim, tetapi juga tidak malu menjadi Indonesia. Pemuda yang menguasai ilmu agama dan ilmu dunia. Pemuda yang bisa berdiri di forum internasional dengan percaya diri sebagai Muslim DAN sebagai Indonesia.
+
+Mohammad Natsir, dalam salah satu tulisannya yang paling visioner, menyatakan: *"Kita bukan hendak menjadikan Indonesia negara agama dalam arti teokrasi. Kita hendak menjadikan Indonesia negara yang diresapi oleh semangat ketuhanan, di mana hukum Tuhan menjadi pedoman bernegara, di mana keadilan dan kemakmuran dirasakan oleh seluruh rakyat."* Inilah visi yang harus dihidupkan kembali oleh generasi pembaharu: bukan negara teokrasi, bukan negara sekuler — melainkan **negara yang dijiwai oleh nilai-nilai Ilahi** untuk kemaslahatan seluruh rakyat.
+
+Rasulullah ﷺ bersabda: *"Barangsiapa yang mempermudah kesulitan orang lain di dunia, maka Allah akan mempermudah kesulitannya di hari kiamat. Barangsiapa yang menutupi aib seorang Muslim, maka Allah akan menutupi aibnya di dunia dan akhirat. Dan Allah senantiasa menolong hamba-Nya selama hamba itu menolong saudaranya"* (HR. Muslim). Muslim yang membangun Indonesia — yang mempermudah kesulitan rakyat, yang melayani tanpa diskriminasi — sedang menginvestasikan pahalanya untuk hari kiamat.
 
 Inilah generasi pembaharu yang kita impikan: bukan generasi yang mengeluh tentang masalah, tetapi generasi yang **menjadi solusi**. Bukan generasi yang mempermasalahkan perbedaan, tetapi generasi yang **merayakan keragaman sebagai rahmat**. Bukan generasi yang memilih antara Islam dan Indonesia, tetapi generasi yang membuktikan bahwa **keduanya adalah satu perjuangan**.
 

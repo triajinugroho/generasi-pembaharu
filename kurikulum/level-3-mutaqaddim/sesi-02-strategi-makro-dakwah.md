@@ -19,7 +19,28 @@
 
 ### 1. Pembukaan (10 menit)
 
+*Tahun 622 M. Rasulullah ﷺ tiba di Madinah. Dalam hitungan bulan, beliau melakukan sesuatu yang belum pernah dilakukan oleh pemimpin manapun di jazirah Arab: menyusun konstitusi tertulis — Piagam Madinah — yang mengatur kehidupan bersama antara Muslim, Yahudi, dan pagan dalam satu negara. Ini bukan sekadar dokumen hukum. Ini adalah visi strategis makro: bagaimana membangun peradaban dari titik nol, dengan sumber daya terbatas, di tengah ancaman dari segala arah. Rasulullah ﷺ bukan hanya nabi yang berdakwah di mimbar — beliau adalah arsitek peradaban yang berpikir dalam skala generasi.*
+
+*Hari ini, kita belajar berpikir seperti beliau: bukan dalam skala kegiatan, tapi dalam skala peradaban.*
+
 - Tilawah: QS. Ar-Ra'd: 11 — "Allah tidak mengubah keadaan suatu kaum sampai mereka mengubah keadaan diri mereka sendiri"
+
+**Hadits-hadits tentang Pemikiran Strategis:**
+
+> *"Jika kiamat datang dan di tangan salah seorang dari kalian ada bibit tanaman, maka jika ia mampu menanamnya sebelum kiamat terjadi, hendaklah ia menanamnya."*
+> — HR. Ahmad dari Anas bin Malik
+
+> *"Orang yang cerdas adalah yang menghisab (mengevaluasi) dirinya sendiri dan beramal untuk kehidupan setelah kematian. Dan orang yang lemah adalah yang mengikuti hawa nafsunya lalu berangan-angan kepada Allah."*
+> — HR. At-Tirmidzi dari Syaddad bin Aus
+
+> *"Bersungguh-sungguhlah pada apa yang bermanfaat bagimu, minta pertolongan kepada Allah, dan jangan lemah. Jika sesuatu menimpamu, jangan katakan 'seandainya aku melakukan ini dan itu,' tapi katakan 'qadarallahu wa ma syaa'a fa'al' (Allah telah mentakdirkan dan apa yang Dia kehendaki, Dia lakukan)."*
+> — HR. Muslim dari Abu Hurairah
+
+> *"Sesungguhnya Allah menyukai jika salah seorang dari kalian mengerjakan suatu pekerjaan, ia melakukannya dengan itqan (sempurna/profesional)."*
+> — HR. Al-Baihaqi dari Aisyah
+
+Empat hadits ini membentuk mentalitas strategis Muslim: (1) optimis menanam meski di ujung zaman, (2) evaluatif terhadap diri sendiri, (3) bersungguh-sungguh tanpa menyesali yang sudah berlalu, (4) profesional dalam setiap pekerjaan.
+
 - Pengantar: transisi dari pemikiran taktis (apa kegiatan berikutnya?) ke pemikiran strategis (apa arah 10-20 tahun ke depan?)
 - Penyampaian alur sesi
 
@@ -28,6 +49,11 @@
 - **Definisi dan Karakteristik:**
   - **Dakwah Struktural:** perubahan melalui struktur kekuasaan, kebijakan publik, politik formal, birokrasi negara
     - Contoh historis: Nabi ﷺ membangun negara Madinah, Umar bin Abdul Aziz mereformasi dari dalam kekuasaan
+
+**Contoh Makro dari Sejarah Islam — Umar bin Abdul Aziz:**
+
+Umar bin Abdul Aziz menjadi khalifah Dinasti Umayyah — dinasti yang dikenal dengan kemewahan dan korupsi. Dalam 2 tahun 5 bulan pemerintahannya, ia melakukan reformasi yang luar biasa: mengembalikan harta yang dirampas, menyetarakan hak Muslim dan non-Muslim, menghapus pajak yang tidak syar'i, dan mereformasi peradilan. Ia membuktikan bahwa dakwah struktural bisa mengubah sistem dari dalam — jika pemimpinnya beriman, berani, dan tidak terkorupsi. Tapi ia juga membuktikan kelemahan dakwah struktural: setelah ia wafat (diduga diracun), kebanyakan reformasinya dibatalkan oleh khalifah berikutnya.
+
     - Contoh Indonesia: partai politik Islam, advokasi kebijakan, masuk birokrasi
 
 > **Mental Model: Umar bin Abdul Aziz — Reformasi dari Dalam Sistem**
@@ -39,6 +65,11 @@
 
   - **Dakwah Kultural:** perubahan melalui transformasi budaya, pendidikan, media, norma sosial
     - Contoh historis: Walisongo mengislamkan Jawa melalui budaya, seni, dan pendidikan
+
+**Contoh Makro dari Sejarah Islam — Dakwah Kultural Walisongo:**
+
+Walisongo tidak membawa pasukan. Mereka membawa gamelan, wayang, dan arsitektur. Sunan Kalijaga mengislamkan masyarakat Jawa melalui pertunjukan wayang yang diisi konten tauhid. Sunan Bonang mengubah tembang Jawa menjadi media dakwah. Sunan Ampel membangun pesantren pertama. Hasilnya: Islam yang mengakar begitu dalam di budaya Jawa sehingga bertahan ratusan tahun — bukan Islam yang dipaksakan dari atas, tapi Islam yang tumbuh dari bawah.
+
     - Contoh Indonesia: pesantren, pendidikan Islam, media dakwah, gerakan sosial masyarakat sipil
 
 > **Mental Model: Walisongo — Penetrasi Kultural Tanpa Kompromi Aqidah**
@@ -78,6 +109,14 @@
   - Mayoritas populasi tapi bukan monolitik
   - Keragaman internal: tradisionalis, modernis, revivalis, liberal
   - Tantangan: sekularisasi, liberalisasi, polarisasi politik identitas
+
+**Hadits tentang Memahami Realitas:**
+
+> *"Berbicaralah kepada manusia sesuai dengan kadar akal (pemahaman) mereka."*
+> — Diriwayatkan oleh Muslim dari Ali bin Abi Thalib secara mauquf
+
+Hadits ini mengajarkan: strategi makro harus dibangun berdasarkan pemahaman yang akurat terhadap realitas, bukan berdasarkan idealisme yang terputus dari kenyataan.
+
 - Analisis SWOT dakwah di Indonesia:
   - **Strengths:** jumlah besar, infrastruktur dakwah kuat (masjid, pesantren, ormas), tradisi keislaman mengakar
   - **Weaknesses:** fragmentasi, kurang koordinasi, SDM berkualitas terbatas, ekonomi umat lemah
@@ -91,6 +130,15 @@
   - Nabi ﷺ berdakwah 23 tahun dengan tahapan yang jelas
   - Perubahan fundamental membutuhkan generasi, bukan hanya kegiatan
   - "Jika kiamat datang dan di tanganmu ada benih, maka tanamlah" — optimisme jangka panjang
+
+**Contoh Strategi Makro dari Sejarah Islam:**
+
+1. **Model Nabawi (23 tahun):** Dakwah sirriyah (3 tahun) → Dakwah jahriyah (10 tahun) → Hijrah dan pembangunan negara (10 tahun) → Konsolidasi dan ekspansi
+2. **Model Muhammadiyah (100+ tahun):** KH Ahmad Dahlan memulai dengan satu sekolah di 1912. Hari ini: 10.000+ sekolah, 177 perguruan tinggi, 457 rumah sakit/klinik. Ini adalah dakwah kultural dalam skala makro dan jangka panjang.
+3. **Model Gontor (90+ tahun):** KH Imam Zarkasyi membangun pesantren modern dengan visi 100 tahun. Hari ini: Gontor memiliki 18 cabang dan ribuan alumni yang berpengaruh di berbagai sektor.
+
+Ketiga model ini memiliki kesamaan: **visi generasi**, bukan visi kegiatan.
+
 - Framework perencanaan strategis dakwah:
   - **Visi 25 tahun:** seperti apa umat dan masyarakat yang ingin kita wujudkan?
   - **Misi 10 tahun:** langkah-langkah besar untuk menuju visi
@@ -124,7 +172,8 @@
 
 ### 7. Penutup (5 menit)
 
-- Pesan: berpikirlah seperti perencana peradaban, bukan hanya penyelenggara acara
+*Hasan Al-Banna pernah berkata kepada para kadernya: "Kalian bukan partai politik, kalian bukan organisasi sosial, kalian bukan lembaga ilmiah — kalian adalah RUHUN JADIDAH, ruh baru yang meresap ke jantung umat ini." Menjadi pemikir strategis dakwah bukan tentang membuat PowerPoint yang bagus. Ini tentang melihat 50 tahun ke depan, menanam benih hari ini, dan yakin bahwa Allah yang menumbuhkannya. Berpikirlah seperti perencana peradaban, bukan hanya penyelenggara acara. Karena umat ini layak mendapatkan yang terbaik dari generasinya.*
+
 - Penugasan: tulis esai reflektif 2-3 halaman tentang "Strategi Dakwah untuk Generasiku: Struktural, Kultural, atau Integrasi?"
 - Doa penutup
 
@@ -139,3 +188,4 @@
 5. Kuntowijoyo. *Muslim Tanpa Masjid*. Bandung: Mizan.
 6. Natsir, Mohammad. *Capita Selecta*. Jakarta: Bulan Bintang.
 7. Effendy, Bahtiar. *Islam dan Negara: Transformasi Gagasan dan Praktik Politik Islam di Indonesia*. Jakarta: Paramadina.
+8. Steenbrink, Karel A. *Pesantren, Madrasah, Sekolah: Pendidikan Islam dalam Kurun Modern*. Jakarta: LP3ES.

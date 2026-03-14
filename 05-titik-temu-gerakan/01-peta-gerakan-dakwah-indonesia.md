@@ -7,13 +7,38 @@
 
 ## Pendahuluan
 
-Sebelum bisa membangun titik temu, kita harus memahami peta. Siapa saja gerakan dakwah yang ada di Indonesia? Apa pendekatan mereka? Apa kekuatan dan kontribusi masing-masing?
+Bayangkan sebuah masjid kampus saat waktu zhuhur. Shaf shalat berjamaah penuh — mahasiswa berdiri bahu membahu, kaki rapat, menghadap kiblat yang sama, membaca Al-Fatihah yang sama, bersujud kepada Rabb yang sama. Satu. Utuh. Tak terbedakan.
 
-Bab ini bukan untuk menilai — tapi untuk memahami.
+Lalu salam berkumandang — dan keajaiban itu buyar.
+
+Mereka yang tadi satu shaf kini berpencar ke pojok-pojok berbeda. Yang ini berkumpul di lingkaran halaqah tarbiyah, yang itu duduk melingkar dengan kajian salafi, yang di sana membentuk forum diskusi ala pesantren, yang di sudut lain berdiskusi dengan gaya HMI. Masing-masing bicara tentang Islam. Masing-masing merasa paling dekat dengan kebenaran. Masing-masing — secara halus atau terang-terangan — mencurigai yang lain.
+
+Satu masjid. Satu kiblat. Satu Tuhan. Tapi setelah salam, seolah menjadi beberapa umat yang berbeda.
+
+Apakah ini yang dikehendaki oleh Dia yang berfirman:
+
+> *"Dan sesungguhnya umat kamu ini adalah umat yang satu, dan Aku adalah Tuhanmu, maka bertaqwalah kepada-Ku."*
+> — QS. Al-Mu'minun [23]: 52
+
+Nabi shallallahu 'alaihi wa sallam pernah memperingatkan dengan tegas:
+
+> *"Janganlah kamu saling membenci, janganlah kamu saling mendengki, janganlah kamu saling membelakangi, dan janganlah sebagian kamu membeli atas jualan sebagian yang lain. Jadilah kamu hamba-hamba Allah yang bersaudara. Seorang Muslim adalah saudara Muslim lainnya; ia tidak menzaliminya, tidak membiarkannya terlantar, dan tidak menghinakannya."*
+> — HR. Muslim, no. 2564, dari Abu Hurairah radhiyallahu 'anhu
+
+Perhatikan: Rasulullah tidak berkata "jadilah hamba-hamba Allah yang satu organisasi" atau "satu manhaj." Beliau berkata: **bersaudara**. Ukhuwwah yang melampaui sekat tanzhim dan perbedaan minhaj.
+
+Bab ini bukan untuk menilai — tapi untuk memahami. Bukan untuk melabeli — tapi untuk mengenali. Ia adalah langkah ta'aruf: saling mengenal sebelum saling menilai, saling memahami sebelum saling menghakimi.
 
 Indonesia memiliki lanskap gerakan dakwah yang paling kaya dan beragam di seluruh dunia Islam. Tidak ada negara Muslim lain yang memiliki ekosistem gerakan se-dinamis dan se-plural Indonesia. Ini adalah berkah sekaligus tantangan. Berkah karena kekayaan pendekatan dakwah memperluas jangkauan Islam ke berbagai lapisan masyarakat. Tantangan karena keragaman ini kadang berubah menjadi fragmentasi yang melemahkan.
 
-Untuk memahami peta ini, kita perlu menanggalkan kacamata prasangka. Setiap gerakan yang akan dibahas di sini lahir dari konteks sejarah tertentu, menjawab kebutuhan umat pada zamannya, dan memiliki kontribusi yang tidak bisa disangkal. Membaca profil masing-masing gerakan dengan hati terbuka adalah langkah pertama menuju persatuan yang sejati.
+Nabi shallallahu 'alaihi wa sallam bersabda:
+
+> *"Perumpamaan orang-orang mukmin dalam saling mencintai, saling menyayangi, dan saling merasakan seperti satu tubuh. Apabila satu anggota tubuh sakit, seluruh tubuh turut merasakan demam dan tidak bisa tidur."*
+> — HR. Muslim, no. 2586, dari Nu'man bin Basyir radhiyallahu 'anhu
+
+Satu tubuh — bukan satu seragam. Mata berbeda dari tangan, kaki berbeda dari jantung. Masing-masing punya bentuk, fungsi, dan cara kerja yang berlainan. Tapi semuanya satu tubuh, saling membutuhkan, saling melengkapi, dan saling merasakan.
+
+Untuk memahami peta ini, kita perlu menanggalkan kacamata prasangka. Setiap gerakan yang akan dibahas di sini lahir dari konteks sejarah tertentu, menjawab kebutuhan umat pada zamannya, dan memiliki kontribusi yang tidak bisa disangkal. Membaca profil masing-masing gerakan dengan hati terbuka — dengan niat tafahum, bukan tajrim — adalah langkah pertama menuju persatuan yang sejati.
 
 > **Mental Model: KH Wahid Hasyim — Moderasi Aktif**
 > 1. Kenali keragaman sebagai sunnatullah — bukan ancaman yang harus dihapus
@@ -22,8 +47,20 @@ Untuk memahami peta ini, kita perlu menanggalkan kacamata prasangka. Setiap gera
 > 4. Moderasi bukan diam di tengah — moderasi adalah aktif merangkul semua pihak menuju tujuan bersama
 > *Aplikasi: Saat memetakan gerakan dakwah di kampus, posisikan diri sebagai penghubung, bukan hakim. Pahami setiap gerakan dari sumber primernya, lalu cari titik kolaborasi tanpa mengorbankan prinsip.*
 
-> *"Sesungguhnya orang-orang mukmin itu bersaudara."*
+> *"Sesungguhnya orang-orang mukmin itu bersaudara, maka damaikanlah antara kedua saudaramu dan bertaqwalah kepada Allah agar kamu mendapat rahmat."*
 > — QS. Al-Hujurat [49]: 10
+
+Rasulullah shallallahu 'alaihi wa sallam menegaskan makna persaudaraan ini dengan sabda beliau:
+
+> *"Seorang Muslim adalah saudara Muslim lainnya. Ia tidak menzaliminya, tidak menyerahkannya (kepada musuh), dan tidak merendahkannya. Taqwa itu di sini — sambil menunjuk dadanya tiga kali. Cukuplah seseorang dikatakan berbuat jahat jika ia merendahkan saudaranya yang Muslim."*
+> — HR. Muslim, no. 2564
+
+Dan beliau bersabda tentang keutamaan ukhuwwah:
+
+> *"Demi Dzat yang jiwaku berada di tangan-Nya, kalian tidak akan masuk surga sampai kalian beriman, dan kalian tidak beriman sampai kalian saling mencintai. Maukah aku tunjukkan sesuatu yang jika kalian melakukannya, kalian akan saling mencintai? Sebarkanlah salam di antara kalian."*
+> — HR. Muslim, no. 54, dari Abu Hurairah radhiyallahu 'anhu
+
+Inilah spirit yang harus kita bawa saat membaca peta gerakan dakwah berikut ini — spirit ukhuwwah, bukan spirit kompetisi; niat ta'aruf, bukan niat tahazzub.
 
 ---
 
@@ -48,6 +85,8 @@ Untuk memahami peta ini, kita perlu menanggalkan kacamata prasangka. Setiap gera
 
 **Karakteristik Kader**: Cenderung rasional, berorientasi aksi nyata, dan terbiasa dengan manajemen organisasi modern. Kader Muhammadiyah dikenal pragmatis dalam membangun institusi yang bermanfaat bagi masyarakat luas.
 
+KH. Ahmad Dahlan pernah berpesan — dalam semangat yang sangat relevan dengan marhalah kita hari ini: *"Hidup-hidupilah Muhammadiyah, dan jangan mencari hidup di Muhammadiyah."* Sebuah prinsip tarbiyah yang mengajarkan bahwa gerakan adalah wasilah pengabdian, bukan sarana kepentingan pribadi.
+
 ---
 
 ## 2. Nahdlatul Ulama: Tradisi Pesantren dan Islam Kultural
@@ -71,6 +110,8 @@ Untuk memahami peta ini, kita perlu menanggalkan kacamata prasangka. Setiap gera
 
 **Karakteristik Kader**: Menghormati kiai dan tradisi pesantren, dekat dengan masyarakat akar rumput, kuat dalam jaringan sosial, dan cenderung akomodatif terhadap keragaman budaya.
 
+KH. Hasyim Asy'ari, dalam kitab monumentalnya *Adab al-'Alim wa al-Muta'allim*, menekankan pentingnya adab dalam menuntut ilmu dan ukhuwwah di antara sesama pencari kebenaran. Beliau menulis: *"Hendaklah seorang penuntut ilmu tidak memusuhi siapapun dan tidak mendengki siapapun."* Prinsip ini menjadi pondasi tarbiyah pesantren yang telah melahirkan generasi ulama selama lebih dari satu abad.
+
 ---
 
 ## 3. Gerakan Tarbiyah: Kaderisasi Terstruktur
@@ -90,7 +131,16 @@ Untuk memahami peta ini, kita perlu menanggalkan kacamata prasangka. Setiap gera
 - Menunjukkan bahwa dakwah bisa dilakukan secara sistematis dan terukur
 - Menghasilkan banyak profesional Muslim yang aktif di berbagai sektor
 
-**Karakteristik Kader**: Disiplin, terstruktur, kuat dalam kerja tim, dan berorientasi pada target dakwah yang terukur. Memiliki loyalitas organisasi yang tinggi.
+**Karakteristik Kader**: Disiplin, terstruktur, kuat dalam kerja tim, dan berorientasi pada target dakwah yang terukur. Memiliki loyalitas tinggi terhadap tanzhim dan minhaj tarbiyah yang diikutinya.
+
+Hasan Al-Banna, yang pemikirannya banyak menginspirasi gerakan ini, pernah berkata: *"Kita adalah du'at (penyeru), bukan qudhat (penghakiman). Kita adalah pembangun, bukan perusak."* Sebuah prinsip dakwah yang mengingatkan bahwa tarbiyah sejati membangun, bukan meruntuhkan — menyambung, bukan memutus.
+
+Dan dalam konteks ukhuwwah lintas gerakan, Nabi shallallahu 'alaihi wa sallam bersabda:
+
+> *"Mukmin yang satu dengan mukmin lainnya bagaikan satu bangunan, saling menguatkan satu sama lain — sambil beliau menjalinkan jari-jemarinya."*
+> — HR. Bukhari, no. 481, dan Muslim, no. 2585, dari Abu Musa Al-Asy'ari radhiyallahu 'anhu
+
+Perhatikan tamsil Rasulullah: bukan satu batu bata yang sama — tapi bangunan yang terdiri dari batu, semen, besi, kayu, yang berbeda-beda tapi saling menguatkan. Setiap gerakan adalah komponen bangunan umat yang besar.
 
 ---
 
@@ -111,7 +161,12 @@ Untuk memahami peta ini, kita perlu menanggalkan kacamata prasangka. Setiap gera
 - Memperkuat budaya ilmiah: kajian rutin, tahsin Al-Quran, dan pendalaman bahasa Arab
 - Mendorong umat untuk memverifikasi dalil, tidak sekadar ikut-ikutan
 
-**Karakteristik Kader**: Serius dalam menuntut ilmu, konsisten dalam penampilan Sunnah, dan berpegang kuat pada dalil. Cenderung berhati-hati dalam urusan ibadah dan aqidah.
+**Karakteristik Kader**: Serius dalam menuntut ilmu, konsisten dalam penampilan Sunnah, dan berpegang kuat pada dalil. Cenderung berhati-hati dalam urusan ibadah dan aqidah. Dalam tradisi tarbiyah salafi, daurah 'ilmiyyah (pelatihan ilmu intensif) dan mulazamah (berguru langsung) kepada ulama menjadi pilar pembentukan karakter kader.
+
+Ibnu Taimiyah, salah satu rujukan utama gerakan ini, justru memberikan kaidah yang sangat bijak tentang ukhuwwah:
+
+> *"Ahlussunnah bersikap adil dan penuh kasih sayang. Mereka mengetahui kebenaran dan mengikutinya, dan mereka menyayangi makhluk serta mengasihi mereka."*
+> — Ibnu Taimiyah, *Majmu' al-Fatawa*
 
 ---
 
@@ -192,7 +247,14 @@ Kampus adalah arena di mana berbagai gerakan dakwah bertemu, bersaing, dan kadan
 - Mengembangkan pemikiran Islam yang kontekstual dan kultural
 - Kontribusi: menjaga tradisi pesantren tetap hidup di kalangan intelektual muda
 
-**Catatan Penting**: Di banyak kampus, organisasi-organisasi ini kadang bersaing dan saling curiga. Namun di kampus-kampus yang sehat, mereka bisa saling melengkapi. Mahasiswa yang bijak akan belajar dari kekuatan masing-masing tanpa terjebak dalam fanatisme sempit.
+**Catatan Penting**: Di banyak kampus, organisasi-organisasi ini kadang bersaing dan saling curiga. Namun di kampus-kampus yang sehat, mereka bisa saling melengkapi — menjadi satu ekosistem dakwah yang utuh. Mahasiswa yang bijak akan belajar dari kekuatan masing-masing tanpa terjebak dalam ta'asshub (fanatisme sempit).
+
+Rasulullah shallallahu 'alaihi wa sallam bersabda:
+
+> *"Tangan Allah bersama jamaah. Barangsiapa yang memisahkan diri, maka ia memisahkan diri menuju neraka."*
+> — HR. Tirmidzi, no. 2167, dari Ibnu Abbas radhiyallahu 'anhuma
+
+Jamaah di sini bukan berarti satu organisasi — tapi kesatuan hati, kesatuan arah, dan kesatuan tujuan. Di kampus, jamaah terwujud ketika setiap organisasi dakwah — meski berbeda manhaj dan pendekatan — merasa bahwa mereka adalah bagian dari satu gerakan besar: gerakan menuju ridha Allah.
 
 > **Mental Model: Buya Hamka — Intelektual Lintas Batas**
 > 1. Pelajari ilmu dari semua tradisi — Hamka berguru pada ulama modernis dan tradisionalis sekaligus
@@ -249,11 +311,27 @@ Bayangkan jika hanya ada satu gerakan dakwah di Indonesia — berapa banyak segm
 **Keempat: Yang berbahaya bukan perbedaan — tapi saling curiga dan memusuhi.**
 Perbedaan manhaj adalah sunnatullah. Yang merusak umat bukanlah perbedaan itu sendiri, melainkan ketika perbedaan itu berubah menjadi permusuhan, ghibah, fitnah, dan saling menjatuhkan.
 
-> *"Janganlah kamu saling membenci, saling mendengki, saling membelakangi, dan janganlah sebagian kamu membeli atas jualan sebagian yang lain. Jadilah kamu hamba-hamba Allah yang bersaudara."*
-> — HR. Muslim
+Rasulullah shallallahu 'alaihi wa sallam memperingatkan dengan keras:
 
-**Kelima: Peta ini adalah undangan untuk silaturahim.**
-Mengetahui siapa saja yang ada di medan dakwah bukan untuk mengelompokkan dan melabeli, tapi untuk mengetahui kepada siapa kita bisa mengulurkan tangan. Semakin banyak gerakan yang kita kenal, semakin luas jaringan ukhuwah yang bisa kita bangun.
+> *"Jangan kalian saling mendengki, jangan saling menipu dalam jual beli, jangan saling membenci, jangan saling membelakangi, dan jangan sebagian kalian membeli atas jualan sebagian yang lain. Jadilah kalian hamba-hamba Allah yang bersaudara. Seorang Muslim adalah saudara bagi Muslim lainnya; ia tidak menzaliminya, tidak menelantarkannya, dan tidak merendahkannya. Cukuplah seseorang menjadi buruk jika ia merendahkan saudaranya yang Muslim. Setiap Muslim atas Muslim lainnya haram darahnya, hartanya, dan kehormatannya."*
+> — HR. Muslim, no. 2564
+
+Dan dalam hadits lain, beliau memperingatkan tentang bahaya perpecahan:
+
+> *"Sesungguhnya setan telah berputus asa untuk disembah oleh orang-orang yang shalat di Jazirah Arab, akan tetapi ia (berupaya) mengadu domba di antara mereka."*
+> — HR. Muslim, no. 2812, dari Jabir radhiyallahu 'anhu
+
+Lihatlah — setan sudah berputus asa membuat kita meninggalkan shalat. Strateginya yang tersisa adalah satu: mengadu domba sesama Muslim. Dan setiap kali kita menyebarkan kebencian terhadap gerakan lain, kita sedang menjalankan strategi setan tanpa menyadarinya.
+
+**Kelima: Peta ini adalah undangan untuk silaturahim dan ta'aruf.**
+Mengetahui siapa saja yang ada di medan dakwah bukan untuk mengelompokkan dan melabeli, tapi untuk mengetahui kepada siapa kita bisa mengulurkan tangan ukhuwwah. Semakin banyak gerakan yang kita kenal melalui ta'aruf yang jujur, semakin luas jaringan ta'awun yang bisa kita bangun.
+
+Imam Syafi'i dan Imam Ahmad bin Hanbal — dua imam dengan pendekatan fikih yang berbeda — memiliki persahabatan yang mendalam. Imam Ahmad berkata tentang Imam Syafi'i: *"Syafi'i bagaikan matahari bagi dunia dan kesehatan bagi manusia — apakah ada pengganti bagi keduanya?"* Dan Imam Syafi'i mendoakan Imam Ahmad saat ujian besar (mihnah) menimpanya. Mereka berbeda dalam banyak masalah fikih, tapi ukhuwwah mereka tak pernah goyah. Inilah atsar yang harus menjadi cermin bagi kita.
+
+Imam Malik pun pernah memberikan teladan agung. Ketika Khalifah Al-Manshur ingin memaksakan kitab *Al-Muwaththa'* sebagai satu-satunya rujukan fikih bagi seluruh umat, Imam Malik menolak: *"Jangan lakukan itu, wahai Amirul Mukminin. Sesungguhnya para sahabat Rasulullah telah tersebar di berbagai negeri, dan setiap kaum memiliki ilmunya. Jika engkau paksa mereka pada satu pendapat, niscaya akan terjadi fitnah."* Imam Malik menolak hegemoni — bahkan hegemoni pendapatnya sendiri.
+
+**Keenam: Setiap gerakan memiliki peran dalam marhalah dakwah umat.**
+Sebagaimana dalam sebuah usrah tarbiyah ada yang kuat di tilawah, ada yang kuat di tahfizh, ada yang kuat di dakwah fardiyah — maka dalam tubuh umat, setiap gerakan memiliki keunggulan di marhalah tertentu. Yang satu kuat di tarbiyah, yang lain kuat di tanzhim, yang lain lagi kuat di khidmah ijtima'iyyah (pelayanan sosial). Semuanya dibutuhkan.
 
 ---
 
@@ -276,11 +354,12 @@ Mengetahui siapa saja yang ada di medan dakwah bukan untuk mengelompokkan dan me
 
 ## Refleksi & Aksi
 
-1. **Kenali** — Berapa gerakan dakwah yang aktif di kampusmu? Apa yang kau tahu tentang mereka? Buat daftar dan cari tahu lebih dalam tentang masing-masing.
-2. **Jangan menghakimi** — Coba pahami satu gerakan yang selama ini kau "curigai" atau anggap berbeda. Baca dari sumber primer mereka — buku, website resmi, atau bicara langsung dengan kadernya.
-3. **Silaturahim** — Kunjungi satu acara atau kajian dari gerakan lain. Datanglah untuk belajar, bukan menilai. Catat tiga hal baik yang kau temukan.
-4. **Tanyakan pada diri sendiri** — Apakah aku pernah menyebarkan prasangka buruk tentang gerakan lain tanpa ilmu yang memadai? Jika ya, bertaubatlah dan mulai bersikap adil.
-5. **Diskusikan** — Ajak teman-teman satu halaqah atau organisasimu untuk mendiskusikan: "Apa yang bisa kita pelajari dari gerakan lain?"
+1. **Kenali** — Berapa gerakan dakwah yang aktif di kampusmu? Apa yang kau tahu tentang mereka? Buat daftar dan cari tahu lebih dalam tentang masing-masing. Ini adalah ta'aruf — langkah pertama ukhuwwah.
+2. **Jangan menghakimi** — Coba pahami satu gerakan yang selama ini kau "curigai" atau anggap berbeda. Baca dari sumber primer mereka — buku, website resmi, atau bicara langsung dengan kadernya. Ingat hadits Nabi: *"Cukuplah seseorang menjadi buruk jika ia merendahkan saudaranya yang Muslim."* (HR. Muslim)
+3. **Silaturahim** — Kunjungi satu acara, liqo, atau kajian dari gerakan lain. Datanglah untuk belajar, bukan menilai. Catat tiga hal baik yang kau temukan. Jadilah seperti Imam Syafi'i yang berguru pada siapa saja yang memiliki ilmu.
+4. **Tanyakan pada diri sendiri** — Apakah aku pernah menyebarkan prasangka buruk tentang gerakan lain tanpa ilmu yang memadai? Jika ya, bertaubatlah dan mulai bersikap adil. Ingat: setan telah berputus asa membuat kita meninggalkan shalat — strateginya yang tersisa adalah mengadu domba.
+5. **Diskusikan** — Ajak teman-teman satu halaqah, usrah, atau organisasimu untuk mendiskusikan: "Apa yang bisa kita pelajari dari gerakan lain?" Jadikan ini bagian dari daurah tarbiyah kelompokmu.
+6. **Ikrar** — Ucapkan dengan hati yang jujur: "Aku bersaksi bahwa setiap Muslim yang mengucapkan La ilaha illallah Muhammad Rasulullah adalah saudaraku — apapun manhaj dan tanzhim yang ia ikuti. Aku akan mengenali mereka dengan adil, memahami mereka dengan terbuka, dan menjaga kehormatan mereka sebagaimana aku menjaga kehormatan diriku."
 
 ---
 

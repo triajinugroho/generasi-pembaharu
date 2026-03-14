@@ -19,7 +19,20 @@
 
 ### 1. Pembukaan (10 menit)
 
+*Pada tahun 1930-an, seorang pemuda Mesir bernama Sayyid Quthb duduk di perpustakaan Amerika dan merasakan kekosongan. Di sekelilingnya, peradaban paling maju secara material di muka bumi — tapi ia melihat kehampaan spiritual yang mendalam. Pengalaman itu mengubahnya. Ia menulis Ma'alim fi At-Thariq (Petunjuk Jalan) sebagai manifesto: bahwa krisis peradaban bukan krisis teknis, tapi krisis worldview. Tiga dekade sebelumnya, di seberang lautan, Muhammad Iqbal berdiri di podium Allahabad dan menggaungkan hal yang sama: "Dunia Muslim tidak butuh imitasi Barat — ia butuh rekonstruksi pemikiran religius." Dan satu abad sebelum keduanya, Hasan Al-Banna mendirikan halaqah pertamanya di Ismailiyah dengan visi sederhana tapi radikal: "Islam adalah sistem hidup yang utuh — ia bukan sekadar ritual."*
+
+*Hari ini, di ruangan ini, kita melanjutkan percakapan yang dimulai oleh para pemikir besar itu.*
+
 - Tilawah: QS. Al-An'am: 162-163 — "Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanya untuk Allah"
+
+**Hadits tentang Kedalaman Pemikiran:**
+
+> *"Berpikir sesaat lebih baik dari ibadah setahun."*
+> — Diriwayatkan oleh beberapa muhaddits, dinukil secara luas oleh ulama sebagai prinsip
+
+> *"Sesungguhnya Allah tidak melihat kepada bentuk rupa kalian dan harta kalian, tapi Dia melihat kepada hati dan amal kalian."*
+> — HR. Muslim dari Abu Hurairah
+
 - Pengantar: mengapa aktivis dakwah perlu berpikir filosofis
   - Tanpa fondasi falsafi yang kuat, gerakan akan kehilangan arah atau tersesat
   - Level 3 menuntut kemampuan berpikir mendalam, bukan sekadar teknis
@@ -28,6 +41,19 @@
 ### 2. Materi Inti A — Worldview Islam (Ru'yatul Islam lil Wujud) (25 menit)
 
 - Definisi worldview: kerangka menyeluruh yang membentuk cara manusia memahami realitas
+
+**Dalil tentang Islam sebagai Worldview Utuh:**
+
+> *"Pada hari ini telah Kusempurnakan untukmu agamamu, dan telah Kucukupkan kepadamu nikmat-Ku, dan telah Kuridhai Islam itu jadi agama bagimu."*
+> — QS. Al-Maidah: 3
+
+> *"Sesungguhnya agama di sisi Allah hanyalah Islam."*
+> — QS. Ali Imran: 19
+
+**Kutipan Hasan Al-Banna — Risalah Ta'lim:**
+
+> *"Islam adalah sistem yang menyeluruh, yang menyentuh seluruh aspek kehidupan. Ia adalah negara dan tanah air, pemerintahan dan umat, akhlak dan kekuatan, kasih sayang dan keadilan, peradaban dan undang-undang, ilmu dan hukum, materi dan kekayaan, penghasilan dan kecukupan, jihad dan dakwah, pasukan dan pemikiran. Sebagaimana ia juga akidah yang tulus dan ibadah yang benar."*
+
 - Komponen worldview Islam:
   - **Konsep Tuhan (Ilahiyyat):** Allah sebagai sumber segala yang ada — tauhid sebagai fondasi
   - **Konsep Manusia (Insaniyyat):** khalifah fil ardh, dual nature (ruh dan jasad), fitrah
@@ -36,12 +62,23 @@
   - **Konsep Sejarah (Tarikhiyyat):** sunnatullah dalam sejarah, peran manusia sebagai agen perubahan
   - **Konsep Akhlak (Khuluqiyyat):** akhlak bersumber dari wahyu, bukan kesepakatan sosial semata
   - **Konsep Akhirat (Ukhrawiyyat):** hidup sebagai ujian, akhirat sebagai orientasi utama
+
 **Rantai Logika Tauhid:**
 - Tauhid berarti Allah adalah sumber segala kebenaran, kebaikan, dan keindahan →
 - Maka worldview yang memisahkan kebenaran dari Allah (sekularisme) pasti menghasilkan kebenaran yang parsial dan rapuh →
 - Maka epistemologi yang menolak wahyu sebagai sumber ilmu telah memutuskan dirinya dari sumber kebenaran tertinggi →
 - Maka krisis peradaban Barat modern (nihilisme, krisis makna, kerusakan lingkungan) bukan kebetulan — ia adalah konsekuensi logis dari worldview yang terputus dari tauhid →
 - Maka solusi peradaban bukan sekadar reformasi teknis — ia membutuhkan pemulihan tauhid sebagai fondasi worldview
+
+**Filosofi Muhammad Iqbal tentang Pergerakan:**
+
+> *"Umat Islam telah jatuh bukan karena Islam gagal, tapi karena Muslim berhenti menjadi Muslim."*
+> — Muhammad Iqbal, The Reconstruction of Religious Thought in Islam
+
+> *"Ciptakan dirimu sedemikian rupa sehingga sebelum setiap takdir, Allah bertanya kepadamu: 'Apa yang kamu kehendaki?'"*
+> — Muhammad Iqbal, dari karyanya tentang Khudi
+
+Iqbal mengajarkan konsep **Khudi** (ego kreatif ilahiah): bahwa manusia Muslim bukan penerima pasif takdir, tapi agen aktif yang diciptakan untuk mengubah dunia. Worldview Islam bukan worldview yang menarik diri dari realitas — ia adalah worldview yang mendorong manusia untuk aktif membentuk sejarah.
 
 - Perbandingan dengan worldview sekular:
   - Sekularisme: memisahkan agama dari ruang publik
@@ -53,6 +90,18 @@
 ### 3. Materi Inti B — Epistemologi Islam (25 menit)
 
 - Definisi epistemologi: teori tentang pengetahuan — apa itu ilmu, dari mana sumbernya, bagaimana memperolehnya
+
+**Hadits tentang Menuntut Ilmu:**
+
+> *"Menuntut ilmu adalah kewajiban atas setiap Muslim."*
+> — HR. Ibnu Majah dari Anas bin Malik
+
+> *"Barangsiapa menempuh jalan untuk mencari ilmu, maka Allah akan memudahkan baginya jalan menuju surga."*
+> — HR. Muslim dari Abu Hurairah
+
+> *"Hikmah (kebijaksanaan) adalah barang hilang milik orang beriman. Di mana pun ia menemukannya, ia lebih berhak atasnya."*
+> — HR. At-Tirmidzi dari Abu Hurairah
+
 - Sumber ilmu dalam Islam:
   - **Wahyu (al-wahy):** Al-Qur'an dan Sunnah sebagai sumber tertinggi
   - **Akal ('aql):** kemampuan berpikir rasional, ijtihad, qiyas
@@ -67,6 +116,13 @@
   - Rasionalisme tanpa batas: akal sebagai hakim mutlak
   - Positivisme: hanya fakta yang bisa diverifikasi secara ilmiah yang valid
   - Post-modernisme: skeptisisme terhadap semua klaim kebenaran
+
+**Kutipan Ma'alim fi At-Thariq (Sayyid Quthb):**
+
+> *"Generasi pertama Islam — generasi sahabat — adalah generasi yang unik karena mereka mengambil ilmu dari SATU sumber: Al-Qur'an. Mereka tidak mencampurnya dengan filsafat Yunani atau mistisisme Persia. Mereka menerima Al-Qur'an sebagai satu-satunya rujukan, dan dari situ lahirlah generasi yang mengubah sejarah."*
+
+Catatan kritis: kita perlu membaca Quthb secara kontekstual — mengambil semangatnya untuk kemurnian rujukan tanpa menolak seluruh warisan intelektual umat manusia. Prinsip "hikmah adalah barang hilang mukmin" tetap berlaku.
+
 - Konsep ilmu yang nafi' (bermanfaat):
   - Ilmu yang mendekatkan kepada Allah
   - Ilmu yang menggerakkan amal
@@ -85,6 +141,15 @@
 
 - Hubungan worldview → tujuan → strategi → aksi:
   - Worldview Islam → tujuan: ibadah dan istikhlaf → strategi: dakwah dan tarbiyah → aksi: gerakan nyata
+
+**Hadits tentang Ilmu dan Amal:**
+
+> *"Ilmu tanpa amal bagaikan pohon tanpa buah."*
+> — Hikmah masyhur dinukil oleh para ulama
+
+> *"Ya Allah, aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, hati yang tidak khusyuk, jiwa yang tidak pernah puas, dan doa yang tidak dikabulkan."*
+> — HR. Muslim dari Zaid bin Arqam
+
 - Bahaya praksis tanpa falsafah:
   - Aktivisme tanpa arah (pragmatisme murni)
   - Meniru gerakan lain tanpa filter worldview
@@ -95,6 +160,12 @@
   - Elitisme pemikiran yang terputus dari umat
 - Keseimbangan: pemikir yang bergerak, aktivis yang berpikir
   - Teladan: Hasan Al-Banna (pemikir sekaligus organisator), Said Nursi (pemikir sekaligus mujahid), Muhammad Natsir (intelektual sekaligus negarawan)
+
+**Kutipan Risalah Ta'lim — Hasan Al-Banna tentang Integrasi:**
+
+> *"Wahai Ikhwan, sesungguhnya tarbiyah kita menghendaki agar setiap individu menjadi: Muslim yang beriman, beribadah, berakhlak, berilmu, berjuang, sehat jasmani, teratur dalam urusan, bermanfaat bagi orang lain, dan mampu mencari penghidupan."*
+
+Inilah minhaj tarbiyah yang utuh: bukan hanya mencetak pemikir, bukan hanya mencetak aktivis, tapi mencetak manusia yang utuh — yang falsafahnya menjadi akar, dan praksisnya menjadi buah.
 
 > **Mental Model: Hasan Al-Banna — Dari Halaqah ke Peradaban**
 > 1. Semua peradaban besar dimulai dari lingkaran kecil orang-orang yang berkomitmen
@@ -112,6 +183,7 @@
   2. "Apa contoh konkret ketika epistemologi Barat bertentangan dengan epistemologi Islam dalam kehidupan sehari-hari?"
   3. "Bagaimana seharusnya seorang aktivis dakwah bersikap terhadap ilmu-ilmu Barat — menolak total, menerima total, atau selektif?"
   4. "Apakah gerakan dakwah kita sudah dibangun di atas fondasi filosofis yang kuat, atau masih pragmatis semata?"
+  5. "Bagaimana konsep Khudi Iqbal — ego kreatif ilahiah — bisa mengubah cara kita memandang peran kita sebagai aktivis?"
 - Fasilitator memandu agar diskusi tetap produktif dan tidak melebar
 
 ### 6. Refleksi (10 menit)
@@ -123,6 +195,8 @@
 - Rekomendasi bacaan lanjutan
 
 ### 7. Penutup (10 menit)
+
+*Muhammad Iqbal pernah menulis: "Manusia yang bebas bersujud kepada Allah — itulah manusia yang paling merdeka di muka bumi. Karena ia tidak tunduk kepada siapa pun selain Penciptanya." Inilah inti worldview Islam: bukan kebebasan dari segala ikatan seperti yang diajarkan liberalisme, tapi kebebasan dari semua ikatan palsu melalui ikatan sejati — penghambaan kepada Allah. Dari sinilah gerakan lahir. Dari sinilah peradaban dibangun. Dari sinilah sejarah diubah. Bukan dari teori kosong, bukan dari aktivisme buta — tapi dari worldview yang utuh, yang menggerakkan hati, akal, dan tangan secara bersamaan.*
 
 - Rangkuman: worldview → epistemologi → praksis sebagai satu kesatuan
 - Penugasan: baca salah satu bab dari *Prolegomena to the Metaphysics of Islam* (Al-Attas) atau *Risalah Pergerakan Ikhwanul Muslimin* (Hasan Al-Banna) dan buat resume kritis 2 halaman
@@ -138,3 +212,5 @@
 4. Al-Banna, Hasan. *Majmu'ah Rasail (Kumpulan Risalah)*. (Terj.). Solo: Era Intermedia.
 5. Qardhawi, Yusuf. *Al-Hulul Al-Mustawradah wa Kayfa Janat 'ala Ummatina (Solusi Impor dan Dampaknya bagi Umat)*. (Terj.).
 6. Maududi, Abul A'la. *Al-Mushthalahat Al-Arba'ah fil Qur'an*. (Terj.). Bandung: Pustaka.
+7. Iqbal, Muhammad. *The Reconstruction of Religious Thought in Islam*. (Terj. tersedia)
+8. Quthb, Sayyid. *Ma'alim fi At-Thariq (Petunjuk Jalan)*. (Terj.). Solo: Era Intermedia.
