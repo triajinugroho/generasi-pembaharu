@@ -89,6 +89,14 @@ Di kalangan pemuda Muslim Indonesia, pengaruh liberalisme terlihat dalam beberap
 
 - **Konsumerisme spiritual:** Mengambil elemen-elemen Islam yang "nyaman" (meditasi dzikir, estetika kaligrafi) sambil meninggalkan yang "tidak nyaman" (kewajiban shalat, larangan riba, hukum waris). Islam dijadikan semacam menu prasmanan di mana seseorang memilih apa yang ia suka.
 
+### Tantangan di Dunia Profesional
+
+Pengaruh liberalisme tidak berhenti di kampus — ia berlanjut di dunia profesional. Budaya korporat global sering kali dibangun di atas asumsi-asumsi liberal: pemisahan total antara identitas personal dan profesional, "netralitas" yang sebenarnya berarti sekularisme, dan standar keberhasilan yang sepenuhnya materialistik.
+
+Seorang Muslim yang ingin shalat berjamaah di tengah jam kerja bisa dipandang "tidak profesional." Muslimah yang memilih berhijab bisa menghadapi *glass ceiling* yang tidak terlihat. Muslim yang menolak hadir di acara-acara yang mengandung unsur maksiat bisa dianggap "tidak bisa bergaul."
+
+Di sinilah identitas Muslim diuji dalam kehidupan nyata — bukan di ruang diskusi, tetapi di ruang rapat, di kantor, di lingkungan profesional di mana tekanan untuk konformitas sangat kuat.
+
 ### Narasi "Islam Liberal"
 
 Sejak awal 2000-an, muncul gerakan yang secara eksplisit mempromosikan "Islam liberal" di Indonesia — yang menyerukan penafsiran ulang secara radikal terhadap Al-Quran, penolakan terhadap hadis-hadis yang dianggap "tidak sesuai zaman", dan penyetaraan semua agama (*religious pluralism* dalam pengertian John Hick).

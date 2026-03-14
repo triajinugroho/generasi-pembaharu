@@ -11,6 +11,8 @@ Bagi umat Islam, pertanyaan kuncinya bukan sekadar "bagaimana kita menggunakan t
 
 Sejarah memberikan preseden yang kuat. Peradaban Islam pernah menjadi pusat inovasi teknologi dunia selama berabad-abad. Pertanyaannya: bisakah kita mengulanginya?
 
+Al-Quran sendiri memulai wahyu pertamanya dengan perintah *"Iqra'"* — bacalah, pelajarilah, telitilah. Agama yang memulai pewahyuannya dengan perintah untuk menuntut ilmu tidak mungkin menjadi musuh kemajuan teknologi. Yang menjadi musuh adalah **penyalahgunaan** teknologi — dan di sinilah Islam menawarkan kerangka etika yang sangat dibutuhkan dunia.
+
 ---
 
 ## 1. Revolusi Teknologi Abad ke-21
@@ -175,6 +177,14 @@ Ada ceruk besar di pasar teknologi global untuk produk dan layanan yang dibangun
 
 Pemuda Muslim yang memiliki keterampilan teknis dan pemahaman Islam yang kuat berada di posisi unik untuk membangun solusi-solusi ini. Bukan sekadar meniru produk Barat dengan label "Islami", melainkan membangun sesuatu yang secara fundamental dirancang dengan worldview Islam — di mana keadilan, transparansi, dan kemaslahatan bukan fitur tambahan, melainkan fondasi.
 
+### Etika AI dalam Pengembangan: Perspektif Developer Muslim
+
+Bagi pemuda Muslim yang bekerja atau beraspirasi bekerja di industri teknologi, ada tanggung jawab etis yang spesifik. Seorang developer Muslim yang merancang algoritma harus bertanya: apakah algoritma ini adil? Apakah ia melindungi privasi pengguna? Apakah ia bisa digunakan untuk tujuan yang merugikan?
+
+Prinsip *la dharara wa la dhirara* (tidak boleh membahayakan diri sendiri maupun orang lain) harus menjadi filter dalam setiap keputusan desain. Ini bukan sekadar etika profesional — ini adalah tanggung jawab keagamaan. Setiap baris kode yang ditulis, setiap fitur yang dirancang, setiap model yang dilatih — semuanya akan dimintai pertanggungjawaban, baik di dunia maupun di akhirat.
+
+Rasulullah bersabda: *"Setiap kalian adalah pemimpin, dan setiap pemimpin akan dimintai pertanggungjawaban atas yang dipimpinnya"* (HR. Bukhari-Muslim). Seorang developer yang proyeknya digunakan oleh jutaan orang adalah "pemimpin" dalam konteks ini — dan ia bertanggung jawab atas dampak dari apa yang ia bangun.
+
 ### Kurikulum Dakwah untuk Era Digital
 
 Lembaga-lembaga pendidikan Islam perlu memperbarui kurikulumnya. Seorang dai di abad ke-21 tidak cukup hanya menguasai ilmu tafsir dan hadis — ia juga perlu memahami bagaimana algoritma bekerja, bagaimana memproduksi konten yang efektif, dan bagaimana menavigasi lanskap informasi digital.
@@ -214,6 +224,18 @@ Pertanyaan-pertanyaan ini tidak memiliki jawaban sederhana — dan justru itulah
 Forum-forum internasional tentang etika AI — dari UNESCO hingga World Economic Forum — secara aktif mencari perspektif dari berbagai tradisi keagamaan dan filosofis. Ini adalah peluang bagi Muslim untuk menyuarakan kerangka etika Islam di panggung global.
 
 Bukan dengan sikap "kami punya semua jawaban," melainkan dengan kerendahan hati intelektual yang menjadi ciri ulama terbaik Islam — kontribusi substantif yang disampaikan dengan hikmah. Dunia mungkin tidak menerima semua yang ditawarkan Islam, tetapi dunia pasti akan menghormati kontribusi yang disampaikan dengan kualitas intelektual tinggi dan ketulusan moral.
+
+---
+
+## Penutup: Subjek, Bukan Objek
+
+Kembali ke pertanyaan pembuka: apakah kita akan menjadi subjek atau objek dari revolusi teknologi? Jawabannya tergantung pada pilihan-pilihan yang dibuat oleh generasi Muslim hari ini.
+
+Jika kita memilih untuk menjadi konsumen pasif — hanya menggunakan teknologi yang dibuat orang lain, dengan nilai-nilai yang ditetapkan orang lain — maka kita akan menjadi objek. Masa depan kita akan ditentukan oleh algoritma yang tidak kita pahami, oleh platform yang tidak kita kendalikan, dan oleh AI yang tidak mencerminkan nilai-nilai kita.
+
+Tetapi jika kita memilih untuk menjadi **kreator, inovator, dan pemikir** — menguasai teknologi, membentuknya sesuai dengan nilai-nilai Islam, dan menggunakannya untuk kemaslahatan umat manusia — maka kita meneruskan warisan Al-Khawarizmi, Ibnu Haitham, dan generasi emas peradaban Islam.
+
+Pilihannya ada di tangan kita.
 
 ---
 
