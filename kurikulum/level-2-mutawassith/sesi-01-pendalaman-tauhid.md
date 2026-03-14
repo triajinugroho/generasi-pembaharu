@@ -98,6 +98,16 @@
 
 ### 4. Materi Inti C — Tauhid Asma wa Sifat dan Implikasinya (20 menit)
 
+**Hadits tentang Mengenal Allah melalui Sifat-Nya:**
+
+> *"Sesungguhnya Allah itu Indah dan mencintai keindahan."*
+> — HR. Muslim dari Abdullah bin Mas'ud
+
+> *"Allah membagi rahmat-Nya menjadi seratus bagian. Dia menahan di sisi-Nya sembilan puluh sembilan bagian, dan menurunkan ke bumi satu bagian. Dari satu bagian itulah seluruh makhluk saling menyayangi."*
+> — HR. Bukhari dan Muslim dari Abu Hurairah
+
+Bayangkan: seluruh kasih sayang yang ada di dunia ini — kasih ibu kepada anaknya, cinta antara suami istri, kelembutan hewan kepada anaknya — semua itu hanya satu persen dari rahmat Allah. Seorang aktivis dakwah yang menghayati Ar-Rahman tidak mungkin berdakwah dengan kasar.
+
 - Definisi: menetapkan nama-nama dan sifat-sifat Allah sesuai Al-Qur'an dan Sunnah
 - Kaidah dasar: isbat (penetapan) tanpa takyif, tamtsil, ta'thil, atau tahrif
 
