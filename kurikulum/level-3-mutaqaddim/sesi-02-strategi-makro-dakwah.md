@@ -29,9 +29,25 @@
   - **Dakwah Struktural:** perubahan melalui struktur kekuasaan, kebijakan publik, politik formal, birokrasi negara
     - Contoh historis: Nabi ﷺ membangun negara Madinah, Umar bin Abdul Aziz mereformasi dari dalam kekuasaan
     - Contoh Indonesia: partai politik Islam, advokasi kebijakan, masuk birokrasi
+
+> **Mental Model: Umar bin Abdul Aziz — Reformasi dari Dalam Sistem**
+> 1. Masuki sistem kekuasaan yang korup TANPA terkorupsi
+> 2. Mulai reformasi dari dirimu sendiri (Umar membuang semua kemewahan pribadi di hari pertama)
+> 3. Reformasi kebijakan secara bertahap tapi konsisten — tidak sekaligus, agar tidak runtuh
+> 4. Ketahui bahwa reformasi dari dalam punya batas waktu — manfaatkan setiap momen
+> *Aplikasi: Jika masuk birokrasi kampus atau pemerintahan, mulai dari integritas pribadi, lalu reformasi bertahap — jangan naif tapi jangan juga terkorupsi.*
+
   - **Dakwah Kultural:** perubahan melalui transformasi budaya, pendidikan, media, norma sosial
     - Contoh historis: Walisongo mengislamkan Jawa melalui budaya, seni, dan pendidikan
     - Contoh Indonesia: pesantren, pendidikan Islam, media dakwah, gerakan sosial masyarakat sipil
+
+> **Mental Model: Walisongo — Penetrasi Kultural Tanpa Kompromi Aqidah**
+> 1. Pelajari budaya lokal secara mendalam — bukan untuk menyerah padanya, tapi untuk memahami "bahasa" masyarakat
+> 2. Identifikasi elemen budaya yang NETRAL (bisa diislamkan) vs. yang BERTENTANGAN (harus ditinggalkan)
+> 3. Masukkan konten Islam ke dalam "wadah" budaya lokal (wayang, gamelan, arsitektur)
+> 4. Secara bertahap, tarik masyarakat dari elemen budaya yang bertentangan menuju yang selaras dengan Islam
+> 5. Hasilnya: Islam yang mengakar, bukan Islam yang asing
+> *Aplikasi: Gunakan media dan budaya populer kampus (musik, seni, olahraga) sebagai wadah dakwah — isi dengan konten Islam tanpa mengorbankan prinsip aqidah.*
 
 - **Analisis Kelebihan dan Keterbatasan:**
 
@@ -47,6 +63,14 @@
   - Nabi ﷺ menggabungkan keduanya: tarbiyah (kultural) + membangun negara (struktural)
   - Kaidah: "Man lam yushlihil mujtama'a lam yushlihid dawlah" — siapa yang tidak memperbaiki masyarakat, tidak akan memperbaiki negara
   - Pendekatan bertahap: fondasi kultural dulu, struktur menyusul
+
+**Rantai Logika Tauhid:**
+- Allah menyatakan: "Innallaha la yughayyiru ma bi qaumin hatta yughayyiru ma bi anfusihim" (QS. Ar-Ra'd: 11) →
+- Maka perubahan sosial dimulai dari perubahan INTERNAL (jiwa, mindset, karakter) →
+- Maka strategi dakwah yang hanya mengubah STRUKTUR (hukum, kebijakan) tanpa mengubah MANUSIA akan gagal →
+- Maka strategi dakwah yang hanya mengubah INDIVIDU tanpa membangun SISTEM akan rapuh →
+- Maka strategi ideal menggabungkan keduanya: taghyir an-nafs (perubahan diri) + taghyir al-mujtama' (perubahan masyarakat) secara simultan →
+- Inilah model Nabawi: tarbiyah (kultural) + bina' ad-daulah (struktural) berjalan paralel
 
 ### 3. Materi Inti B — Membaca Konteks Indonesia (20 menit)
 

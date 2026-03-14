@@ -36,6 +36,13 @@
   - **Konsep Sejarah (Tarikhiyyat):** sunnatullah dalam sejarah, peran manusia sebagai agen perubahan
   - **Konsep Akhlak (Khuluqiyyat):** akhlak bersumber dari wahyu, bukan kesepakatan sosial semata
   - **Konsep Akhirat (Ukhrawiyyat):** hidup sebagai ujian, akhirat sebagai orientasi utama
+**Rantai Logika Tauhid:**
+- Tauhid berarti Allah adalah sumber segala kebenaran, kebaikan, dan keindahan →
+- Maka worldview yang memisahkan kebenaran dari Allah (sekularisme) pasti menghasilkan kebenaran yang parsial dan rapuh →
+- Maka epistemologi yang menolak wahyu sebagai sumber ilmu telah memutuskan dirinya dari sumber kebenaran tertinggi →
+- Maka krisis peradaban Barat modern (nihilisme, krisis makna, kerusakan lingkungan) bukan kebetulan — ia adalah konsekuensi logis dari worldview yang terputus dari tauhid →
+- Maka solusi peradaban bukan sekadar reformasi teknis — ia membutuhkan pemulihan tauhid sebagai fondasi worldview
+
 - Perbandingan dengan worldview sekular:
   - Sekularisme: memisahkan agama dari ruang publik
   - Materialisme: hanya mengakui realitas material
@@ -66,6 +73,14 @@
   - Ilmu yang membawa maslahat bagi umat
 - Rujukan pemikir: Al-Attas (de-westernisasi ilmu), Al-Faruqi (Islamisasi ilmu pengetahuan), Wan Mohd Nor Wan Daud
 
+> **Mental Model: Syed Muhammad Naquib Al-Attas — De-Westernisasi Ilmu**
+> 1. Identifikasi asumsi-asumsi tersembunyi dalam setiap konsep yang kamu terima (sekularisme, relativisme, dll.)
+> 2. Telusuri akar historis konsep tersebut — dari mana asalnya dan worldview apa yang melahirkannya?
+> 3. Pisahkan elemen universal (yang bisa dipakai) dari elemen worldview-specific (yang bertentangan dengan Islam)
+> 4. Bangun ulang konsep tersebut di atas fondasi worldview Islam
+> 5. Uji konsistensinya dengan Al-Qur'an dan Sunnah
+> *Aplikasi: Ketika belajar teori sosial di kampus, jangan langsung terima — telusuri asumsi tersembunyi di baliknya, pisahkan yang universal dari yang ideologis, lalu rekonstruksi dengan worldview Islam.*
+
 ### 4. Materi Inti C — Dari Falsafah ke Praksis (15 menit)
 
 - Hubungan worldview → tujuan → strategi → aksi:
@@ -80,6 +95,14 @@
   - Elitisme pemikiran yang terputus dari umat
 - Keseimbangan: pemikir yang bergerak, aktivis yang berpikir
   - Teladan: Hasan Al-Banna (pemikir sekaligus organisator), Said Nursi (pemikir sekaligus mujahid), Muhammad Natsir (intelektual sekaligus negarawan)
+
+> **Mental Model: Hasan Al-Banna — Dari Halaqah ke Peradaban**
+> 1. Semua peradaban besar dimulai dari lingkaran kecil orang-orang yang berkomitmen
+> 2. Worldview harus di-translate menjadi kurikulum pembinaan (tarbiyah)
+> 3. Kurikulum pembinaan harus melahirkan kader yang siap beraksi
+> 4. Aksi kader harus membangun institusi yang mengubah masyarakat
+> 5. Perubahan masyarakat pada akhirnya akan mengubah peradaban
+> *Aplikasi: Halaqah mingguan yang kamu ikuti bukan sekadar rutinitas — ia adalah mata rantai pertama dari proyek peradaban, jika dikelola dengan visi yang benar.*
 
 ### 5. Diskusi Mendalam (25 menit)
 

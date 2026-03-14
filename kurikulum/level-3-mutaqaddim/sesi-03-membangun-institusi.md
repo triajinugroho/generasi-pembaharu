@@ -34,12 +34,29 @@
   - Nabi ﷺ: dari halaqah Darul Arqam ke negara Madinah
   - Muhammadiyah: dari kelompok pengajian ke jaringan ribuan sekolah dan rumah sakit
   - Al-Azhar: dari masjid menjadi universitas berusia seribu tahun
+
+> **Mental Model: KH Ahmad Dahlan — Institusi sebagai Gerakan Amal**
+> 1. Lihat masalah umat yang paling nyata di depan mata (kebodohan, kemiskinan, keterbelakangan)
+> 2. Jangan hanya berceramah tentang masalah — BANGUN INSTITUSI yang menyelesaikannya
+> 3. Mulai kecil tapi dengan sistem (satu sekolah, satu klinik, satu panti asuhan)
+> 4. Sistem yang baik akan tumbuh melampaui pendirinya (Muhammadiyah bertahan 100+ tahun)
+> 5. Amal usaha adalah dakwah bil hal yang paling nyata
+> *Aplikasi: Jangan hanya diskusi tentang kemiskinan mahasiswa — bangun lembaga beasiswa, koperasi, atau mentoring center yang bisa bertahan melampaui masa kepengurusanmu.*
 - Mengapa gerakan perlu menjadi institusi:
   - Ketergantungan pada figur → harus dialihkan ke sistem
   - Keberlanjutan lintas generasi
   - Kapasitas mengelola sumber daya secara profesional
   - Legitimasi dan pengaruh yang lebih besar
   - Kemampuan melakukan program berskala besar
+
+**Rantai Logika Tauhid:**
+- Allah menjadikan manusia sebagai khalifah fil ardh (QS. Al-Baqarah: 30) →
+- Kekhalifahan membutuhkan SISTEM pengelolaan, bukan hanya niat baik →
+- Maka membangun institusi adalah bagian dari menunaikan amanah kekhalifahan →
+- Maka organisasi dakwah yang menolak institusionalisasi sebenarnya menolak sebagian dari tanggung jawab khilafah →
+- TAPI: institusi yang kehilangan ruh tauhid menjadi "berhala organisasi" — disembah demi dirinya sendiri, bukan demi Allah →
+- Maka keseimbangan: institusi yang kuat secara sistem DAN hidup secara ruhani
+
 - Risiko jika tetap informal:
   - Bubar ketika pemimpin pergi
   - Tidak bisa mengelola dana secara akuntabel
@@ -88,6 +105,15 @@
 - **Kehilangan ruh pergerakan:**
   - Institusi berjalan tapi spiritualitas kering
   - Solusi: pertahankan program tarbiyah internal, mabit, rihlah
+
+> **Mental Model: KH Hasyim Asy'ari — Menjaga Ruh dalam Organisasi Besar**
+> 1. Institusi harus tumbuh dari komunitas yang sudah ada (pesantren, bukan impor model asing)
+> 2. Pertahankan tradisi spiritual (dzikir, shalawat, wirid) sebagai "jantung" organisasi
+> 3. Biarkan keragaman internal — tidak semua cabang harus identik
+> 4. Pemimpin adalah pelayan tradisi, bukan pemilik organisasi
+> 5. Jaga ukhuwwah sebagai perekat, bukan sekadar struktur
+> *Aplikasi: Pastikan organisasi dakwahmu punya "ritual ruhani" tetap (tilawah bersama, qiyamul lail, i'tikaf) sebagai jantung yang menjaga kehidupan organisasi.*
+
 - **Oligarki kepemimpinan:**
   - Segelintir orang menguasai dan enggan regenerasi
   - Solusi: batasan masa jabatan, rotasi, transparansi
