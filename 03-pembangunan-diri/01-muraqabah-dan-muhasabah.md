@@ -39,6 +39,13 @@ Allah berfirman:
 
 Bayangkan kau benar-benar menghayati ayat ini. Dalam setiap rapat tertutup, setiap percakapan privat, setiap bisikan hati yang tidak kau ucapkan — Allah hadir sebagai saksi. Bukan untuk menghukum, tapi untuk **mengingatkan**: kau tidak pernah sendirian.
 
+> **Mental Model: Hasan Al-Bashri — Muhasabah sebagai Gaya Hidup**
+> 1. Jadikan evaluasi diri sebagai kebiasaan harian, bukan insidental — Hasan Al-Bashri berkata: *"Seorang mukmin adalah pengawas bagi dirinya sendiri"*
+> 2. Periksa setiap amal dari tiga sisi: niat (mengapa), pelaksanaan (bagaimana), dan hasil (apa dampaknya)
+> 3. Bandingkan keadaan hatimu hari ini dengan kemarin — apakah mendekat atau menjauh dari Allah?
+> 4. Jangan tunda koreksi — setiap penundaan menambah lapisan kerak pada hati
+> *Aplikasi: Setiap malam sebelum tidur, buka jurnal muhasabah dan jawab tiga pertanyaan: apa amal terbaikku hari ini? Apa dosa terbesarku? Apa yang akan kuperbaiki besok?*
+
 ## Muraqabah dalam Kehidupan Aktivis Sehari-hari
 
 Muraqabah bukan hanya untuk orang yang duduk bersila di atas sajadah. Ia harus meresap ke dalam **setiap dimensi** kehidupan seorang da'i:
@@ -88,6 +95,13 @@ Imam Ibnul Qayyim *rahimahullah* menggambarkan kondisi ini dengan tajam: hati ya
 
 **Muhasabah adalah air bagi jiwa aktivis.** Tanpanya, *burnout* bukan kemungkinan — ia adalah kepastian.
 
+> **Mental Model: Imam Ghazali — Mujahada al-Nafs (Perjuangan Melawan Ego)**
+> 1. Kenali musuhmu — nafs memiliki tiga level: *ammarah* (memerintah kejahatan), *lawwamah* (menyesal tapi masih jatuh), dan *muthma'innah* (tenang dalam ketaatan)
+> 2. Lawan nafs dengan *riyadhah* (latihan ruhani) yang konsisten — puasa, qiyamullail, dan dzikir adalah senjata utama
+> 3. Jangan percaya nafs yang sudah "jinak" — Ghazali memperingatkan bahwa nafs paling berbahaya ketika ia berpura-pura tunduk
+> 4. Ukur kemajuanmu bukan dari amal lahiriah saja, tapi dari berkurangnya penyakit hati: ujub, riya, dan hasad
+> *Aplikasi: Ketika mendapat pujian atas kontribusi dakwah, perhatikan reaksi hatimu. Jika ada rasa bangga yang berlebihan, itu sinyal nafs ammarah sedang beroperasi — segera istighfar dan ingatkan diri bahwa semua taufik dari Allah.*
+
 ## Keseimbangan yang Hilang
 
 Ada dua ekstrem yang sama-sama berbahaya:
@@ -130,6 +144,23 @@ Berikut adalah kerangka praktis yang bisa kau terapkan setiap malam, cukup **10-
 - Tetapkan satu hal yang akan kuperbaiki besok.
 
 Tutup dengan doa sebelum tidur dan dzikir-dzikir yang ma'tsur.
+
+---
+
+**Rantai Logika Tauhid: Muraqabah sebagai Konsekuensi Tauhid**
+- Allah adalah Al-Basir (Maha Melihat) dan Al-Khabir (Maha Mengetahui segala yang tersembunyi) — QS. Al-Mujadalah: 7 →
+- Maka tidak ada satu pun pikiran, niat, atau bisikan hati yang luput dari pengetahuan-Nya →
+- Maka seorang yang benar-benar beriman kepada sifat Al-Basir dan Al-Khabir mustahil bersikap berbeda di depan manusia dan di kesendirian →
+- Maka inkonsistensi antara perilaku publik dan privat seorang aktivis dakwah adalah indikator lemahnya penghayatan terhadap tauhid asma wa sifat — dan muraqabah adalah jalan untuk memperbaikinya
+
+---
+
+> ### Titik Refleksi
+>
+> 1. Jika Allah merekam seluruh aktivitasmu hari ini — termasuk niat di balik setiap tindakan — dan memutarnya di hadapan seluruh manusia di Hari Kiamat, bagian mana yang paling membuatmu malu?
+> 2. Apakah ada perbedaan signifikan antara siapa dirimu di depan jamaah dakwah dan siapa dirimu ketika sendirian di kamar? Apa yang menyebabkan gap itu?
+> 3. Hasan Al-Bashri berkata bahwa muhasabah yang jujur lebih berat dari memikul gunung — mengapa menurutmu begitu sulit mengevaluasi diri sendiri dengan jujur, dan apa yang menghalangimu selama ini?
+> 4. Jika kau berhenti dari semua aktivitas dakwah hari ini, apakah ibadah personalmu akan tetap kuat — atau selama ini ibadahmu bertahan hanya karena tekanan sosial lingkungan dakwah?
 
 ---
 

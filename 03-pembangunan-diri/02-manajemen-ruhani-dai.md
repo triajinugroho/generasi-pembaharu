@@ -33,6 +33,13 @@ Ini bukan aib. Ini adalah realitas yang harus dihadapi dengan jujur. Langkah per
 
 Rasulullah SAW bersabda: *"Sesungguhnya iman itu bisa usang di dalam dada kalian sebagaimana pakaian bisa usang. Maka mintalah kepada Allah agar Dia memperbarui iman di dalam hati kalian"* (HR. Hakim). Iman butuh diperbarui. Ruhani butuh dirawat. Dan itulah esensi manajemen ruhani.
 
+> **Mental Model: Ibnu Qayyim — Madarij al-Salikin (Tangga Pendakian Ruhani)**
+> 1. Kenali posisimu di tangga ruhani — Ibnu Qayyim membagi perjalanan jiwa ke dalam manzilah (stasiun-stasiun): taubat, sabar, syukur, tawakkal, ridha, hingga mahabbah
+> 2. Setiap stasiun memiliki amalan kunci dan penyakit yang mengintai — jangan loncat stasiun tanpa menuntaskan yang sebelumnya
+> 3. Tanda naik ke stasiun berikutnya bukan perasaan "sudah cukup baik," melainkan semakin menyadari kekurangan diri di hadapan Allah
+> 4. Kemunduran ruhani (*tanakkus*) adalah hal yang wajar — yang fatal adalah berhenti berusaha naik kembali
+> *Aplikasi: Evaluasi posisi ruhanimu setiap bulan. Jika kau masih berjuang dengan konsistensi shalat, fokus di stasiun taubat dan istiqamah — jangan memaksakan diri berdiskusi tentang fana dan mahabbah sementara fondasi belum kokoh.*
+
 ## 2. Shalat sebagai Pusat Kehidupan
 
 Allah berfirman:
@@ -111,6 +118,13 @@ Biasakan berdoa dengan spesifik — bukan hanya doa-doa umum, tapi juga doa untu
 
 Dan jangan remehkan **istighfar** — pembersih hati yang paling mudah diakses. Rasulullah SAW yang sudah dijamin masuk surga beristighfar lebih dari seratus kali setiap hari. Bagaimana dengan kita yang dosanya bertumpuk? Jadikan istighfar sebagai dzikir default — di sela-sela menunggu, berjalan, atau sekadar mengisi kekosongan. Ibnu Qayyim berkata bahwa istighfar yang konsisten membuka pintu-pintu rezeki, menghilangkan kesempitan, dan memberikan jalan keluar dari setiap masalah.
 
+> **Mental Model: Ibnu Atha'illah — Al-Hikam (Kebijaksanaan Ruhani)**
+> 1. *"Jangan tinggalkan dzikir karena kau tidak hadir hatinya bersama Allah. Kelalaianmu dari dzikir lebih berbahaya dari kelalaianmu dalam dzikir"* — terus berdzikir meskipun merasa tidak khusyuk
+> 2. Tanda Allah membukakan pintu amal bagimu adalah engkau tidak melihat amal itu berasal dari dirimu — setiap taufik adalah dari-Nya
+> 3. Jangan mengukur kedekatan dengan Allah dari banyaknya tangisan atau getaran emosional — ukurlah dari konsistensi ketaatan di saat mudah maupun sulit
+> 4. Doa yang paling tinggi adalah doa yang disertai pengakuan kelemahan total di hadapan Yang Mahakuasa
+> *Aplikasi: Ketika merasa kering dan hambar dalam beribadah, jangan berhenti — justru intensifkan. Ibnu Atha'illah mengajarkan bahwa fase kekeringan ruhani (qabd) adalah ujian yang jika dilewati dengan sabar, akan melahirkan fase keterbukaan (basth) yang lebih dalam.*
+
 ## 5. Puasa dan Sedekah: Latihan Ruhani
 
 Puasa dan sedekah adalah dua latihan ruhani yang bekerja pada dimensi berbeda tapi saling melengkapi. Puasa melatih pengendalian *nafs* dari dalam, sedekah melatih pelepasan ketergantungan pada dunia dari luar.
@@ -179,6 +193,23 @@ Bagaimana kau tahu bahwa manajemen ruhanimu berjalan? Berikut beberapa indikator
 - **Kematian terasa dekat** — bukan dalam arti menakutkan, tapi dalam arti memotivasi. Kau hidup setiap hari seolah ia bisa menjadi hari terakhir.
 
 Jika tanda-tanda ini belum kau rasakan, jangan berkecil hati. Teruslah berusaha. Ruhani yang sehat adalah hasil dari proses panjang, bukan lompatan instan. Yang penting adalah arahnya: apakah kau bergerak mendekat atau menjauh?
+
+---
+
+**Rantai Logika Tauhid: Manajemen Ruhani sebagai Buah Tauhid**
+- Allah adalah Al-Hayy (Maha Hidup) dan Al-Qayyum (Maha Berdiri Sendiri, yang menopang segala sesuatu) — QS. Al-Baqarah: 255 →
+- Maka seluruh kehidupan dan kekuatan makhluk bersumber dari-Nya — termasuk kekuatan ruhani seorang da'i →
+- Maka da'i yang merasa mampu menjalankan dakwah dengan kekuatan sendiri tanpa menjaga koneksi ruhani dengan Al-Hayy Al-Qayyum sedang mengalami delusi kemandirian dari Allah →
+- Maka manajemen ruhani (shalat, tilawah, dzikir, puasa) bukan sekadar "pengisian baterai" — ia adalah pengakuan praktis bahwa kita sepenuhnya bergantung kepada Allah, dan meninggalkannya adalah bentuk halus dari *istighna 'anillah* (merasa tidak butuh Allah)
+
+---
+
+> ### Titik Refleksi
+>
+> 1. Ibnu Qayyim menggambarkan hati yang mati sebagai hati yang tidak merasakan sakit ketika bermaksiat — jika kau jujur mengevaluasi dirimu, apakah hatimu masih merasakan "sakit" ketika melakukan dosa, atau sudah mulai mati rasa?
+> 2. Jika seseorang melihat jadwal harianmu selama sepekan terakhir, apakah ia akan menyimpulkan bahwa kau adalah orang yang menjadikan ibadah sebagai kerangka hari, atau orang yang menyisipkan ibadah di sela-sela kesibukan?
+> 3. Ibnu Atha'illah berkata: *"Cahaya hati tidak mungkin bersemayam bersamaan dengan gambar-gambar makhluk dalam hati."* Apa "gambar-gambar" yang paling sering mengisi hatimu dan menghalangimu dari mengingat Allah?
+> 4. Apakah kau pernah mengalami fase di mana semakin aktif berdakwah, semakin jauh kau dari Allah secara personal? Apa yang menyebabkannya, dan apa yang bisa mencegahnya?
 
 ---
 

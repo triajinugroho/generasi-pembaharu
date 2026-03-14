@@ -55,6 +55,13 @@ Seorang pembaharu tidak lahir instan.
 Ia ditempa melalui proses panjang yang sering kali tidak glamor.
 Empat puluh tahun persiapan untuk dua puluh tiga tahun misi — proporsi ini seharusnya menyadarkan kita bahwa terburu-buru dalam dakwah adalah tanda belum matangnya pemahaman tentang sunnatullah perubahan.
 
+> **Mental Model: Rasulullah SAW — Tadarruj (Prinsip Bertahap)**
+> 1. Persiapan sebelum misi: bangun karakter dan kepercayaan terlebih dahulu — 40 tahun sebelum 23 tahun dakwah
+> 2. Mulai dari lingkaran terdalam: keluarga, sahabat terdekat, orang-orang yang sudah percaya
+> 3. Perluas secara bertahap sesuai kesiapan: dari sirriyah ke jahriyah, dari individu ke masyarakat, dari komunitas ke negara
+> 4. Sesuaikan strategi dengan fase: jangan memaksakan strategi fase Madinah untuk gerakan yang masih di fase Makkah
+> *Aplikasi: Sebelum meluncurkan program besar di kampus, tanyakan: sudahkah kader inti terbina solid? Sudahkah kepercayaan terbangun? Tadarruj bukan lambat — ia adalah cerdas.*
+
 ### 2. Fase Dakwah Sirriyah: Membangun Inti (Tahun 1-3)
 
 Ketika wahyu pertama turun di Gua Hira — *"Iqra! Bacalah dengan nama Tuhanmu yang menciptakan"* (QS. Al-'Alaq [96]: 1) — Rasulullah ﷺ tidak langsung naik ke puncak Ka'bah dan berteriak mengajak seluruh Makkah.
@@ -132,6 +139,13 @@ Dua pilar penyangga — dukungan emosional dan perlindungan politik — runtuh b
 
 Rasulullah ﷺ kemudian pergi ke Thaif untuk mencari dukungan baru, tetapi justru dilempari batu hingga berdarah.
 Dalam kondisi terpuruk itulah datang peristiwa Isra Mi'raj — seolah Allah berkata: ketika dunia menolakmu, langit menyambutmu.
+
+> **Mental Model: Khadijah — Support System Gerakan**
+> 1. Validasi emosional: saat Rasulullah SAW gemetar setelah wahyu pertama, Khadijah menenangkan dengan mengingatkan kualitas baiknya — setiap pembaharu butuh seseorang yang percaya padanya saat ia sendiri ragu
+> 2. Dukungan finansial strategis: seluruh harta Khadijah diinvestasikan untuk dakwah — bukan asal derma, tapi komitmen total pada misi
+> 3. Konsistensi di saat sulit: tiga tahun pemboikotan di Syi'b Abi Thalib tidak menggoyahkan Khadijah — dukungan diuji bukan saat mudah, tapi saat segalanya tampak mustahil
+> 4. Dampak kehilangan: wafatnya Khadijah menjadikan tahun itu *'Am al-Huzn* — bukti bahwa support system bukan pelengkap, tapi fondasi
+> *Aplikasi: Setiap gerakan dakwah membutuhkan "Khadijah" — orang yang memberi dukungan emosional, finansial, dan moral secara konsisten. Sudahkah organisasimu membangun support system yang kuat? Sudahkah kamu menghargai mereka yang bekerja di balik layar?*
 
 Pelajaran dari seluruh fase ini sangat terang: dakwah pasti menghadapi resistensi.
 Kuncinya bukanlah menghindari tekanan, melainkan keteguhan di tengah tekanan.
@@ -275,6 +289,21 @@ Hikmah adalah kemampuan membaca situasi dan memilih strategi yang tepat untuk ko
 
 Rasulullah ﷺ menunjukkan fleksibilitas strategi yang luar biasa — kadang diplomasi (Hudaibiyah), kadang militer (Badr), kadang diam (awal dakwah), kadang vokal (di Bukit Shafa).
 Aktivis dakwah yang hanya punya satu pendekatan untuk semua situasi belum memahami hikmah Nabawiyah.
+
+**Rantai Logika Tauhid: Dari Sirah ke Strategi**
+- Allah menjadikan Rasulullah SAW sebagai uswah hasanah (teladan terbaik) bagi seluruh umat (QS. Al-Ahzab [33]: 21) →
+- Maka sirah bukan sekadar sejarah yang dibaca untuk inspirasi, melainkan model operasional yang harus dikaji dan diterapkan →
+- Maka setiap fase sirah — persiapan, sirriyah, jahriyah, hijrah, dan pembangunan — mengandung prinsip-prinsip gerakan yang bersifat universal dan abadi →
+- Maka aktivis dakwah yang merancang strategi tanpa merujuk sirah sedang mengabaikan sumber panduan yang paling otoritatif — dan mengandalkan akal semata tanpa bimbingan wahyu
+
+> **Titik Refleksi**
+>
+> Sebelum masuk ke langkah aksi, berhenti dan tanyakan pada dirimu:
+>
+> 1. Di fase mana gerakan dakwah di kampusmu saat ini — sirriyah (membangun inti), jahriyah (berhadapan dengan publik), atau Madinah (membangun sistem)? Apakah strategi yang kalian gunakan sesuai dengan fase tersebut — atau kalian memaksakan strategi yang tidak cocok?
+> 2. Rasulullah SAW menghabiskan 40 tahun membangun karakter sebelum menerima misi. Berapa banyak waktu yang kamu investasikan untuk membangun karakter — dibanding waktu untuk mengurus event dan program?
+> 3. Hudaibiyah mengajarkan bahwa kadang kompromi taktis adalah kemenangan strategis. Apakah ada situasi di organisasimu di mana kamu perlu "mundur selangkah untuk maju dua langkah" — dan apakah kamu cukup bijak untuk membedakannya dari kompromi prinsip?
+> 4. Fathu Makkah mengajarkan kemenangan dengan ampunan. Apakah ada orang atau kelompok yang pernah memusuhi dakwahmu — dan apakah kamu masih menyimpan dendam, atau sudah siap memaafkan dan merangkul?
 
 ## Refleksi & Aksi
 

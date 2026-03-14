@@ -47,6 +47,13 @@ Ketika kita berbeda tentang qunut, tentang tahlilan, tentang cara berdoa — ini
 
 Bayangkan ushul dan furu' seperti pohon: akar dan batangnya (ushul) sama dan kokoh — yang berbeda adalah ranting dan daunnya (furu'). Tragis jika kita menebang pohon persaudaraan hanya karena berbeda soal daun.
 
+> **Mental Model: Ibnu Taimiyah — Ushul vs Furu' (Hierarki Perbedaan)**
+> 1. Klasifikasikan setiap perbedaan: apakah ia menyangkut ushul (prinsip aqidah yang qath'i) atau furu' (cabang yang zhanni)?
+> 2. Pada ushul — tegak lurus tanpa kompromi, tapi tetap dengan hikmah dan dalil, bukan dengan hujatan
+> 3. Pada furu' — terima keragaman sebagai sunnatullah intelektual; para imam mazhab sendiri berbeda dalam ratusan masalah furu'
+> 4. Jangan pernah memperlakukan masalah furu' seolah-olah ia masalah ushul — ini adalah sumber utama perpecahan umat
+> *Aplikasi: Sebelum mengkritik praktik gerakan lain, tanyakan dulu: apakah ini masalah ushul atau furu'? Jika furu', berikan ruang untuk perbedaan. Jika ushul, sampaikan dengan ilmu dan adab, bukan dengan klaim superioritas.*
+
 ---
 
 ## 2. Tujuan yang Sama: Titik Temu Visi
@@ -136,6 +143,14 @@ Salah satu kekayaan intelektual Islam yang paling agung adalah tradisi ikhtilaf 
 **Imam Abu Hanifah dan Imam Malik** hidup pada era yang sama dan berbeda dalam banyak masalah fikih. Namun mereka saling menghormati. Imam Malik menolak ketika Khalifah Al-Manshur ingin memaksa seluruh umat mengikuti satu mazhab saja, dengan berkata: *"Jangan lakukan itu. Para sahabat Nabi telah tersebar di berbagai negeri dan setiap kaum memiliki ilmunya."*
 
 **Imam Syafi'i** berguru kepada Imam Malik dan juga mempelajari fikih Imam Abu Hanifah. Ia tidak menganggap perbedaan sebagai masalah, melainkan sebagai kekayaan. Ucapannya yang terkenal: *"Pendapatku benar tetapi mengandung kemungkinan salah, dan pendapat orang lain salah tetapi mengandung kemungkinan benar."* Kalimat ini seharusnya menjadi adab setiap gerakan dakwah.
+
+> **Mental Model: Imam Syafi'i — Adab Ikhtilaf**
+> 1. Mulai dari niat: tujuan diskusi adalah menemukan kebenaran, bukan mengalahkan lawan
+> 2. Akui kemungkinan salah pada diri sendiri — "pendapatku benar tapi mengandung kemungkinan salah"
+> 3. Akui kemungkinan benar pada lawan — "pendapat orang lain salah tapi mengandung kemungkinan benar"
+> 4. Pisahkan pendapat dari orangnya — tolak ide tanpa menolak manusianya
+> 5. Berguru pada siapapun yang memiliki ilmu — Syafi'i belajar dari Malik (Madinah) dan murid Abu Hanifah (Iraq) tanpa fanatisme
+> *Aplikasi: Dalam diskusi antar gerakan di kampus, terapkan kalimat Imam Syafi'i sebagai pembuka. Latih diri untuk berkata "mungkin aku keliru" sebelum mengkritik pendapat orang lain. Ini bukan kelemahan — ini adalah kekuatan intelektual tertinggi.*
 
 **Imam Ahmad bin Hanbal**, meski dikenal tegas dalam aqidah, tetap menghormati para imam lainnya. Ia pernah berkata tentang perbedaan pendapat: *"Janganlah engkau bertaqlid kepadaku, dan jangan pula kepada Malik, Syafi'i, atau Auza'i. Ambillah dari sumber mereka mengambil."*
 
@@ -231,6 +246,23 @@ Takaful adalah cita-cita tertinggi ukhuwah Islamiyah. Ia menuntut kedewasaan spi
 
 > *"Perumpamaan orang-orang mukmin dalam saling mencintai, saling menyayangi, dan saling merasakan seperti satu tubuh. Apabila satu anggota tubuh sakit, seluruh tubuh turut merasakan demam dan tidak bisa tidur."*
 > — HR. Muslim
+
+---
+
+**Rantai Logika Tauhid: Titik Temu sebagai Buah Tauhid**
+- Allah yang Maha Esa menurunkan satu Al-Quran dan mengutus satu Rasul terakhir untuk seluruh manusia (QS. Al-Anbiya [21]: 107) →
+- Maka fondasi aqidah, ibadah pokok, dan maqashid syariah yang disepakati seluruh gerakan dakwah jauh lebih besar dan lebih fundamental daripada perbedaan dalam furu' →
+- Maka memperbesar perbedaan furu' hingga mengalahkan kesatuan ushul adalah bentuk distorsi terhadap hierarki ilmu yang ditetapkan Allah →
+- Maka kewajiban generasi pembaharu adalah mengembalikan perspektif yang benar: merayakan titik temu yang fundamental sambil mengelola perbedaan furu' dengan adab — karena inilah konsekuensi logis dari mengimani Tuhan yang Satu, Kitab yang satu, dan Rasul yang satu
+
+---
+
+> **Titik Refleksi**
+>
+> 1. Jika kau membuat daftar hal-hal yang menyatukan gerakanmu dengan gerakan lain, dan daftar hal-hal yang membedakan — mana yang lebih panjang? Mana yang lebih fundamental? Mengapa kita cenderung membesarkan yang kedua?
+> 2. Imam Syafi'i berguru pada Imam Malik yang bermanhaj Madinah, lalu juga mempelajari fikih Iraq dari murid-murid Abu Hanifah. Apakah kau pernah dengan sengaja mempelajari manhaj gerakan lain dari sumber primernya — bukan dari karikatur yang dibuat oleh gerakanmu?
+> 3. Ketika kau bertemu Allah di hari akhir, apakah Dia akan bertanya tentang perbedaan qunut atau tahlilan — ataukah tentang apakah kau menjaga persaudaraan sesama Muslim?
+> 4. Apa satu langkah konkret yang bisa kau ambil minggu ini untuk membangun titik temu dengan gerakan yang selama ini kau anggap "paling berbeda" denganmu?
 
 ---
 

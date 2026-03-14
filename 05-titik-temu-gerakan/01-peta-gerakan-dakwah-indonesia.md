@@ -15,6 +15,13 @@ Indonesia memiliki lanskap gerakan dakwah yang paling kaya dan beragam di seluru
 
 Untuk memahami peta ini, kita perlu menanggalkan kacamata prasangka. Setiap gerakan yang akan dibahas di sini lahir dari konteks sejarah tertentu, menjawab kebutuhan umat pada zamannya, dan memiliki kontribusi yang tidak bisa disangkal. Membaca profil masing-masing gerakan dengan hati terbuka adalah langkah pertama menuju persatuan yang sejati.
 
+> **Mental Model: KH Wahid Hasyim — Moderasi Aktif**
+> 1. Kenali keragaman sebagai sunnatullah — bukan ancaman yang harus dihapus
+> 2. Bedakan antara prinsip aqidah yang tak bisa dikompromikan dan metode dakwah yang boleh beragam
+> 3. Bangun jembatan institusional — Kementerian Agama bukan untuk satu golongan, tapi untuk seluruh umat
+> 4. Moderasi bukan diam di tengah — moderasi adalah aktif merangkul semua pihak menuju tujuan bersama
+> *Aplikasi: Saat memetakan gerakan dakwah di kampus, posisikan diri sebagai penghubung, bukan hakim. Pahami setiap gerakan dari sumber primernya, lalu cari titik kolaborasi tanpa mengorbankan prinsip.*
+
 > *"Sesungguhnya orang-orang mukmin itu bersaudara."*
 > — QS. Al-Hujurat [49]: 10
 
@@ -187,6 +194,13 @@ Kampus adalah arena di mana berbagai gerakan dakwah bertemu, bersaing, dan kadan
 
 **Catatan Penting**: Di banyak kampus, organisasi-organisasi ini kadang bersaing dan saling curiga. Namun di kampus-kampus yang sehat, mereka bisa saling melengkapi. Mahasiswa yang bijak akan belajar dari kekuatan masing-masing tanpa terjebak dalam fanatisme sempit.
 
+> **Mental Model: Buya Hamka — Intelektual Lintas Batas**
+> 1. Pelajari ilmu dari semua tradisi — Hamka berguru pada ulama modernis dan tradisionalis sekaligus
+> 2. Jangan biarkan label organisasi membatasi cakrawala intelektualmu
+> 3. Gunakan bahasa yang menyatukan, bukan jargon yang memecah — *Tafsir Al-Azhar* dibaca oleh semua kalangan
+> 4. Jadilah "milik umat", bukan "milik golongan" — kontribusimu harus melampaui sekat organisasi
+> *Aplikasi: Sebagai aktivis dakwah kampus, baca karya-karya dari semua gerakan. Hadiri kajian lintas organisasi. Bangun reputasi sebagai orang yang dihormati semua pihak karena keluasan ilmu dan keadilan sikap.*
+
 ---
 
 ## 8. Gerakan Dakwah Baru (Post-2010)
@@ -240,6 +254,23 @@ Perbedaan manhaj adalah sunnatullah. Yang merusak umat bukanlah perbedaan itu se
 
 **Kelima: Peta ini adalah undangan untuk silaturahim.**
 Mengetahui siapa saja yang ada di medan dakwah bukan untuk mengelompokkan dan melabeli, tapi untuk mengetahui kepada siapa kita bisa mengulurkan tangan. Semakin banyak gerakan yang kita kenal, semakin luas jaringan ukhuwah yang bisa kita bangun.
+
+---
+
+**Rantai Logika Tauhid: Keragaman Gerakan sebagai Konsekuensi Tauhid**
+- Allah adalah Rabb al-'Alamin yang menciptakan manusia dengan fitrah, kemampuan, dan konteks yang beragam (QS. Al-Hujurat [49]: 13) →
+- Maka respons terhadap dakwah pun beragam — ada yang terjangkau melalui pendidikan formal, ada melalui pesantren, ada melalui halaqah, ada melalui seni dan budaya →
+- Maka keragaman gerakan dakwah adalah bentuk rahmat Allah agar seluruh lapisan masyarakat terjangkau oleh risalah Islam →
+- Maka menghakimi satu gerakan sebagai satu-satunya yang benar dan menolak semua yang lain adalah menyempitkan rahmat Allah yang Maha Luas — tugas kita bukan menyeragamkan, melainkan berkolaborasi agar dakwah menjangkau seluruh umat
+
+---
+
+> **Titik Refleksi**
+>
+> 1. Dari semua gerakan dakwah yang dibahas di atas, gerakan mana yang paling sedikit kau ketahui? Apa yang menghalangimu untuk mengenalnya — ketidaktahuan, prasangka, atau tekanan lingkungan?
+> 2. Jika Rasulullah SAW hadir di kampusmu hari ini dan melihat berbagai organisasi dakwah yang ada, pendekatan apa yang menurutmu akan beliau ambil — menyeragamkan semua menjadi satu, atau menyatukan mereka dalam keragaman?
+> 3. Pernahkah kau menilai sebuah gerakan dakwah hanya dari oknum terburuknya, bukan dari prinsip dan kontribusi terbaiknya? Apa yang akan berubah jika kau membalik perspektif itu?
+> 4. Jika setiap gerakan dakwah di Indonesia bubar dan hanya tersisa satu gerakan, segmen masyarakat mana yang akan kehilangan akses dakwah? Apa yang ini ajarkan tentang nilai keragaman?
 
 ---
 

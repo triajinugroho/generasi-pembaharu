@@ -53,6 +53,13 @@ Pelajaran terbesarnya bagi aktivis dakwah kampus sangat jelas: perubahan bisa di
 Tidak harus selalu melawan dari luar — kadang reformasi paling efektif datang dari orang yang berada di posisi kekuasaan tetapi memilih menggunakan kekuasaannya untuk keadilan.
 Dan reformasi sejati selalu memiliki harga.
 
+> **Mental Model: Umar bin Abdul Aziz — Reformasi dari Dalam**
+> 1. Mulai dari diri sendiri: sebelum mereformasi sistem, reformasi gaya hidupmu — Umar mengembalikan seluruh harta pribadinya ke baitul mal pada malam pertama menjadi khalifah
+> 2. Bangun legitimasi melalui integritas, bukan kekuasaan: rakyat mengikuti Umar karena mereka melihat ketulusannya, bukan karena ia memaksa
+> 3. Reformasi struktural, bukan kosmetik: hapuskan akar masalah (pajak tidak adil, perampasan tanah, nepotisme), bukan sekadar gejalanya
+> 4. Siap bayar harga: reformasi sejati selalu mengancam kepentingan *status quo* — Umar diduga diracun oleh keluarganya sendiri
+> *Aplikasi: Jika kamu menjabat di organisasi kampus — BEM, senat, atau LDK — gunakan posisimu untuk reformasi yang substansial. Mulai dari transparansi keuangan, distribusi peran yang adil, dan penghapusan praktik-praktik feodal.*
+
 ### 2. Imam Al-Ghazali (1058-1111 M): Pembaharu Spiritual-Intelektual
 
 Abu Hamid Muhammad al-Ghazali adalah salah satu intelektual Muslim terbesar sepanjang masa.
@@ -92,6 +99,13 @@ Sebelum mengubah masyarakat, ubah jiwamu terlebih dahulu.
 
 Aktivis yang terlalu sibuk dengan kegiatan eksternal tanpa pernah melakukan *muhasabah* berisiko mengalami apa yang Al-Ghazali alami: sukses di luar, kosong di dalam.
 Produktivitas tanpa spiritualitas hanyalah kesibukan yang tidak bermakna.
+
+> **Mental Model: Al-Ghazali — Ihya Peradaban**
+> 1. Diagnosa krisis secara jujur: Al-Ghazali mengaku sendiri bahwa motivasinya mengajar sudah bergeser dari mencari ridha Allah ke mencari prestise — kejujuran ini adalah langkah pertama pembaharuan
+> 2. Berani berhenti dan merenung: meninggalkan Baghdad di puncak karir membuktikan bahwa kadang langkah mundur adalah langkah maju yang paling berani
+> 3. Integrasikan yang terpecah: *Ihya Ulumiddin* menyatukan fiqh, tasawuf, dan filsafat — pembaharuan sejati tidak memilih satu dimensi dan mengabaikan yang lain
+> 4. Kembali dengan karya, bukan sekadar pengalaman: Al-Ghazali tidak hanya "berubah" secara personal — ia menulis karya monumental yang mengubah peradaban
+> *Aplikasi: Apakah kamu mengalami gejala "burnout" dakwah — sibuk tapi hampa? Jangan abaikan sinyal ini. Jadwalkan "khalwat" rutin: waktu menyendiri untuk muhasabah, tadabbur Al-Quran, dan memperbarui niat. Ini bukan kemewahan — ini kebutuhan.*
 
 ### 3. Ibnu Taimiyah (1263-1328 M): Keberanian Intelektual
 
@@ -167,6 +181,12 @@ QS. Ali Imran [3]: 137 menyatakan:
 
 Aktivis dakwah yang hanya memahami fiqh dan aqidah tanpa memahami sosiologi, politik, dan ekonomi adalah aktivis yang belum lengkap perangkat analisisnya.
 
+**Rantai Logika Tauhid: Dari Tajdid ke Sunnatullah Pembaharuan**
+- Allah berjanji mengutus pembaharu bagi umat ini pada setiap awal abad (HR. Abu Dawud) →
+- Maka pembaharuan (*tajdid*) adalah sunnatullah yang pasti terjadi — bukan kebetulan, tapi rencana ilahi untuk menjaga agama ini →
+- Maka setiap generasi memiliki tanggung jawab untuk menjadi — atau setidaknya mendukung — para pembaharu di zamannya →
+- Maka aktivis dakwah kampus bukan sekadar menjalankan rutinitas organisasi; ia adalah calon *mujaddid* yang sedang ditempa — dan kualitas tempaannya menentukan apakah ia akan menjadi pelita atau hanya ikut-ikutan
+
 ### 5. Pola yang Berulang
 
 Ketika kita mempelajari keempat tokoh di atas — dan banyak lagi yang tidak sempat dibahas, seperti Imam Ahmad bin Hanbal yang bertahan dari *mihnah* (inkuisisi) Mu'tazilah, atau Sultan Shalahuddin Al-Ayyubi yang membebaskan Yerusalem — ada beberapa pola yang konsisten berulang.
@@ -200,6 +220,15 @@ Keseimbangan antara *ashalah* (otentisitas) dan *mu'asharah* (kontekstualitas) a
 
 **Keempat,** setiap pembaharu meninggalkan warisan intelektual — baik berupa karya tulis, sistem pendidikan, maupun kaderisasi generasi penerus.
 Pembaharuan yang hanya bergantung pada karisma personal satu tokoh tanpa meninggalkan sistem dan karya akan mati bersama wafatnya tokoh tersebut.
+
+> **Titik Refleksi**
+>
+> Para pembaharu klasik bukan figur masa lalu yang jauh. Mereka adalah cermin untuk mengukur kesiapan kita. Renungkan:
+>
+> 1. Umar bin Abdul Aziz memilih melepaskan kemewahan demi keadilan. Al-Ghazali meninggalkan prestise demi kebenaran. Ibnu Taimiyah menerima penjara demi prinsip. Apa yang belum berani kamu lepaskan demi dakwah — dan mengapa?
+> 2. Al-Ghazali menemukan bahwa "sukses di luar, kosong di dalam" adalah krisis yang paling berbahaya. Apakah kamu merasakan gejala serupa — sibuk berorganisasi tetapi hati semakin jauh dari Allah? Apa tanda-tandanya?
+> 3. Ibnu Khaldun mengajarkan bahwa ashabiyyah (solidaritas) gerakan melemah seiring pergantian generasi. Apakah organisasi dakwahmu menunjukkan tanda-tanda ini — birokratisasi, rutinitas tanpa ruh, kehilangan semangat pendiri?
+> 4. Setiap pembaharu menghadapi penolakan dari *establishment*. Apakah kamu sedang menghadapi penolakan serupa — dan apakah kamu menafsirkannya sebagai tanda keberhasilan atau alasan untuk mundur?
 
 ## Refleksi & Aksi
 

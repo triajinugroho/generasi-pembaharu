@@ -34,6 +34,13 @@ Inilah yang dipahami oleh Ibrahim *'alayhissalam* ketika beliau berdiri di tenga
 
 Ibrahim tidak hanya menolak berhala secara intelektual. Beliau **menghancurkannya secara fisik** — sebuah tindakan pembebasan yang nyata. Dan ketika dihadapkan pada ancaman dibakar hidup-hidup, beliau tidak mundur. Karena orang yang telah *la ilaha illallah* dengan sebenarnya tidak lagi gentar pada makhluk apa pun.
 
+> **Mental Model: Ibrahim AS — Dekonstruksi Kritis**
+> 1. Pertanyakan semua asumsi yang diterima tanpa bukti — termasuk tradisi dan otoritas sosial
+> 2. Uji dengan logika, observasi, dan fitrah secara independen
+> 3. Tolak yang tidak lolos uji, walau mayoritas dan kekuasaan menentang
+> 4. Terima konsekuensi dengan tawakkal penuh kepada Allah
+> *Aplikasi: Saat menghadapi "tradisi organisasi" atau "kebiasaan senior" yang tidak berdasar, gunakan model Ibrahim — periksa kembali dengan dalil dan akal sehat, bukan ikut-ikutan.*
+
 ## Tuhan-Tuhan Palsu di Zaman Kita
 
 Sekarang, tanyakan pada dirimu: apakah kita betul-betul telah *la ilaha*?
@@ -52,6 +59,13 @@ Allah berfirman:
 **Nasionalisme yang berlebihan.** Cinta tanah air adalah fitrah. Tapi ketika bangsa atau ras dinaikkan statusnya menjadi sesuatu yang tak boleh dikritik, ketika "demi negara" menjadi pembenaran untuk segala kezaliman, maka nasionalisme telah berubah menjadi *thaghut*.
 
 **Kultus individu.** Ketika seorang ustadz, syaikh, atau pemimpin gerakan dijadikan sumber kebenaran mutlak — tidak boleh dikoreksi, tidak boleh dipertanyakan — maka kita telah jatuh dalam *syirik* yang berkedok ketaatan.
+
+> **Mental Model: Ali Syariati — Tauhid vs Syirik Sosial**
+> 1. Identifikasi struktur dominasi di lingkunganmu: siapa yang "menuhan-tuhankan" apa?
+> 2. Klasifikasikan: apakah itu syirik ekonomi (materialisme), syirik politik (kultus penguasa), atau syirik kultural (ikut-ikutan tanpa sadar)?
+> 3. Bongkar mekanisme pembenaran yang digunakan untuk melanggengkan dominasi tersebut
+> 4. Tawarkan tauhid sebagai alternatif pembebasan — kepatuhan hanya kepada Allah
+> *Aplikasi: Ketika melihat sistem di kampus yang menuntut kepatuhan buta — entah kepada senior, birokrasi, atau tren — gunakan kerangka Syariati untuk menganalisis dan melawan secara konstruktif.*
 
 Rasulullah ﷺ bersabda:
 
@@ -88,6 +102,12 @@ Rasulullah ﷺ bersabda:
 > *"Ketahuilah, seandainya seluruh umat bersatu untuk memberikan manfaat kepadamu, mereka tidak akan mampu memberi manfaat kecuali yang telah Allah tuliskan untukmu. Dan seandainya mereka bersatu untuk mencelakaimu, mereka tidak akan mampu mencelakaimu kecuali yang telah Allah tuliskan atasmu."*
 > — HR. Tirmidzi
 
+**Rantai Logika Tauhid: Dari Kalimat ke Pembebasan**
+- Allah adalah satu-satunya Tuhan yang berhak disembah (QS. Al-Ikhlas [112]: 1-4) →
+- Maka tidak ada otoritas lain — manusia, sistem, ideologi — yang berhak atas ketundukan absolut →
+- Maka setiap bentuk penghambaan kepada selain Allah (harta, kekuasaan, hawa nafsu, opini publik) adalah belenggu yang harus diputus →
+- Maka tauhid yang benar pasti melahirkan jiwa yang merdeka: berani menyuarakan kebenaran, menolak kezaliman, dan hanya tunduk pada Allah dalam setiap pilihan hidup
+
 ## Tauhid dan Gerakan: Bukan Dua Hal yang Terpisah
 
 Ada kesalahan yang sering terjadi di kalangan kita. Sebagian memahami tauhid sebagai urusan *teologi* — dibahas di kelas, dihafal definisinya, lalu ditinggalkan ketika kembali ke dunia nyata. Sementara *gerakan* dianggap urusan terpisah: strategi, politik, organisasi.
@@ -99,6 +119,15 @@ Generasi sahabat tidak pernah memisahkan keduanya. Tauhid mereka **adalah** gera
 Maka seorang aktivis dakwah yang benar bukan hanya orang yang rajin menghadiri halaqah tauhid, tapi orang yang **menghidupi** tauhid di setiap langkahnya: di ruang kuliah, di rapat organisasi, di media sosial, di rumahnya, di pilihannya yang paling kecil sekalipun.
 
 ---
+
+> **Titik Refleksi**
+>
+> Berhenti sejenak. Jangan lanjutkan membaca sebelum merenungkan pertanyaan-pertanyaan ini dengan jujur di hadapan Allah:
+>
+> 1. Jika semua tekanan sosial dihilangkan — tidak ada penilaian orang tua, teman, dosen, atau media sosial — apakah pilihanmu hari ini akan berubah? Apa yang itu katakan tentang siapa "tuhan"-mu yang sesungguhnya?
+> 2. Pernahkah kamu diam saat melihat kemungkaran karena takut pada reaksi manusia? Apa yang menghalangimu — dan bagaimana tauhid seharusnya mengubah kalkulasi itu?
+> 3. Ibrahim AS kehilangan keluarga, kampung halaman, dan kenyamanan demi tauhid. Apa hal terbesar yang pernah kamu korbankan demi prinsip? Dan apa yang masih belum berani kamu korbankan?
+> 4. Ali Syariati menyebut bahwa syirik modern beroperasi melalui sistem, bukan patung. Sistem apa di sekitarmu yang secara halus memaksakan "penghambaan" — dan bagaimana posisimu di dalamnya?
 
 ## Refleksi
 

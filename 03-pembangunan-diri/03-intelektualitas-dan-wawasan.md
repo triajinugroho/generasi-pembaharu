@@ -32,6 +32,13 @@ Para ulama menjelaskan bahwa "ilmu" yang wajib dituntut mencakup ilmu yang dibut
 
 Bagi seorang dokter Muslim, memahami kedokteran adalah bagian dari kewajiban ilmunya. Bagi seorang insinyur Muslim, menguasai teknologi adalah ibadah. Dan bagi seorang aktivis dakwah, memahami sosiologi, politik, dan psikologi adalah bagian dari kewajiban ilmunya — karena tanpa pemahaman ini, dakwahnya akan kehilangan relevansi.
 
+> **Mental Model: Ibnu Rushd — Harmoni Akal dan Wahyu**
+> 1. Akal dan wahyu adalah dua sumber kebenaran yang berasal dari Tuhan yang sama — keduanya mustahil saling bertentangan secara hakiki
+> 2. Jika tampak ada kontradiksi antara akal dan wahyu, maka salah satu dari dua kemungkinan: akal belum sampai pada pemahaman yang benar, atau teks wahyu perlu ditafsirkan ulang sesuai kaidah tafsir yang valid
+> 3. Menolak akal atas nama agama sama berbahayanya dengan menolak agama atas nama akal — keduanya adalah bentuk ekstremisme
+> 4. Seorang intelektual Muslim harus menguasai logika (*mantiq*) dan metode ilmiah untuk membedakan argumen yang valid dari yang keliru
+> *Aplikasi: Ketika menghadapi isu kontemporer yang tampak bertentangan dengan teks agama (misalnya teori evolusi, neurosains dan kesadaran, atau AI), jangan reaktif menolak atau menerima. Terapkan metode Ibnu Rushd: pahami sains-nya dengan jujur, pahami teks agamanya dengan benar, lalu cari titik harmoni — bukan konfrontasi.*
+
 ## 2. Anatomi Wawasan Seorang Pembaharu
 
 Seorang pembaharu tidak bisa hanya menguasai satu bidang. Ia membutuhkan wawasan yang luas — bukan dalam arti menguasai semuanya secara mendalam (itu mustahil), tapi dalam arti memiliki *literasi* yang memadai di berbagai bidang yang relevan dengan misi dakwahnya.
@@ -95,6 +102,13 @@ Selalu baca dengan pena di tangan — garis bawahi, beri catatan pinggir, tulis 
 Bangunlah **perpustakaan pribadi**, walau dimulai dari rak kecil di kamar kos. Kumpulkan buku-buku terbaikmu. Beri label dan kategorisasi. Perpustakaan pribadi bukan kemewahan — ia adalah investasi intelektual.
 
 Dan lebih penting lagi, bangunlah **perpustakaan komunal** di lingkaran dakwahmu — kumpulkan buku-buku bersama, pinjam-meminjam, dan diskusikan. Ilmu yang didiskusikan mengakar lebih dalam daripada ilmu yang hanya dibaca sendirian. Perpustakaan Baitul Hikmah di Baghdad bukan dibangun oleh satu orang — ia adalah proyek kolektif yang mengubah peradaban.
+
+> **Mental Model: Al-Biruni — Observasi Objektif**
+> 1. Pisahkan fakta dari opini — Al-Biruni dikenal menulis tentang agama Hindu dan budaya India dengan akurasi luar biasa, meskipun ia sendiri seorang Muslim yang taat, karena ia memisahkan observasi dari evaluasi
+> 2. Kunjungi sumbernya langsung — jangan menilai sebuah pemikiran atau kelompok hanya dari apa yang dikatakan lawannya; baca karya aslinya, temui orangnya
+> 3. Akui keterbatasan pengetahuanmu — Al-Biruni menulis *"Saya menyebutkan apa yang saya ketahui, dan saya akui apa yang tidak saya ketahui"* sebagai prinsip keilmuan
+> 4. Gunakan metode perbandingan (*muqaranah*) — bandingkan berbagai perspektif sebelum mengambil kesimpulan
+> *Aplikasi: Ketika ada isu kontroversial yang memecah aktivis dakwah (misalnya sikap terhadap kelompok tertentu), terapkan metode Al-Biruni: baca langsung sumber dari kedua sisi, pisahkan fakta dari narasi, dan bentuk pendapatmu berdasarkan data — bukan berdasarkan sentimen kelompok.*
 
 ## 4. Berpikir Kritis: Seni yang Harus Dilatih
 
@@ -174,6 +188,23 @@ Ada beberapa adab menuntut ilmu yang harus dipegang oleh setiap aktivis:
 - **Menyebarkan ilmu** — ilmu yang disimpan untuk diri sendiri adalah ilmu yang mati. Rasulullah SAW bersabda: *"Sampaikan dariku walau satu ayat"* (HR. Bukhari).
 
 Adab-adab ini bukan formalitas kosong. Mereka adalah **syarat keberkahan ilmu**. Banyak orang yang berilmu tapi ilmunya tidak membawa manfaat — karena mereka meraihnya tanpa adab.
+
+---
+
+**Rantai Logika Tauhid: Intelektualitas sebagai Ibadah**
+- Allah adalah Al-'Alim (Maha Mengetahui) yang mengajarkan manusia apa yang tidak diketahuinya — QS. Al-'Alaq: 5 →
+- Maka seluruh ilmu pengetahuan — dari fisika kuantum hingga sosiologi — bersumber dari Allah dan merupakan bagian dari ayat-ayat-Nya di alam semesta (*ayat kauniyah*) →
+- Maka mempelajari ilmu apa pun dengan niat memahami ciptaan Allah dan memanfaatkannya untuk kemaslahatan umat adalah ibadah yang setara dengan mempelajari ayat-ayat Al-Quran (*ayat qauliyah*) →
+- Maka dikotomi "ilmu agama vs ilmu umum" adalah pengkhianatan terhadap tauhid — karena ia memisahkan sebagian ilmu Allah dari domain keislaman dan menyerahkannya kepada paradigma sekuler
+
+---
+
+> ### Titik Refleksi
+>
+> 1. Al-Biruni mempelajari bahasa Sansekerta untuk memahami peradaban Hindu secara langsung, bukan dari narasi orang lain — seberapa sering kau membentuk opini tentang suatu isu atau kelompok hanya dari sumber satu sisi, tanpa pernah membaca perspektif asli mereka?
+> 2. Ibnu Rushd dituduh sesat oleh sebagian ulama zamannya karena mempelajari filsafat, padahal ia menghafal *Al-Muwaththa'* dan menjadi qadhi Maliki — apakah lingkungan dakwahmu memberi ruang untuk mendalami ilmu-ilmu "kontroversial" demi memahami zaman, atau justru menabukannya?
+> 3. Jika kau diminta berdialog dengan seorang mahasiswa ateis yang cerdas, apakah kau memiliki bekal intelektual yang cukup untuk merespons argumennya secara substantif — bukan sekadar emosional?
+> 4. Dari skala 1-10, seberapa seimbang konsumsi intelektualmu antara ilmu syar'i, ilmu sosial, dan ilmu kontemporer? Apa yang perlu ditambah?
 
 ---
 

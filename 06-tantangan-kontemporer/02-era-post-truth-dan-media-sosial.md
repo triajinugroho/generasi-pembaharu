@@ -135,6 +135,13 @@ Tradisi Nabi kaya dengan panduan tentang etika informasi:
 
 - *"Siapa yang beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam"* (HR. Bukhari-Muslim). Prinsip ini, jika diterapkan secara konsisten di media sosial, akan menghilangkan sebagian besar konten yang merusak.
 
+> **Mental Model: Ibnu Khaldun — Analisis Kritis Informasi**
+> 1. Setiap informasi memiliki konteks sosial-politik — pahami siapa yang memproduksinya dan apa kepentingannya
+> 2. Bandingkan klaim dengan hukum-hukum sosial (*sunan al-ijtima'*) — jika bertentangan dengan pola umum, waspadai
+> 3. Jangan percaya sekadar karena otoritas penyampai — bahkan perawi yang terpercaya bisa keliru; periksa isi, bukan hanya sumber
+> 4. Gunakan kerangka *thabi'at al-'umran* (sifat alamiah peradaban) untuk menilai apakah sebuah klaim masuk akal secara historis dan sosiologis
+> *Aplikasi: Ketika menerima berita viral tentang isu keislaman, jangan langsung share. Tanyakan: siapa sumbernya? Apa konteks politiknya? Apakah klaim ini konsisten dengan fakta-fakta lain yang kau ketahui? Ibnu Khaldun melakukan ini 600 tahun sebelum era fact-checking — kita tidak punya alasan untuk tidak melakukannya.*
+
 ### Berpikir Kritis sebagai Ibadah
 
 Islam bukan agama yang menuntut kepatuhan buta. Al-Quran berulang kali mengecam mereka yang tidak menggunakan akalnya: *"Apakah mereka tidak merenungkan Al-Quran, ataukah hati mereka terkunci?"* (QS. Muhammad [47]: 24). Kata *tadabbur* (perenungan mendalam), *tafakkur* (berpikir), dan *ta'aqqul* (menggunakan akal) muncul puluhan kali dalam Al-Quran.
@@ -144,6 +151,14 @@ Berpikir kritis — mengevaluasi klaim, mempertanyakan sumber, mencari bukti —
 ---
 
 ## 5. Strategi Melawan Post-Truth
+
+> **Mental Model: Al-Quran — Metodologi Tabayyun**
+> 1. *Tawaquf* (berhenti) — jangan langsung bereaksi; jeda sebelum merespons informasi apapun
+> 2. *Tabayyun* (verifikasi) — periksa sumber, cari bukti, bandingkan dengan sumber lain yang terpercaya
+> 3. *Tatsabbut* (konfirmasi) — pastikan kebenaran informasi sebelum menyebarkan; "cukuplah seseorang dianggap berdusta jika ia menceritakan semua yang ia dengar" (HR. Muslim)
+> 4. *Tafakkur* (refleksi) — pertimbangkan dampak penyebaran: apakah menyebarkan ini akan membawa maslahat atau mafsadat?
+> 5. Jika ragu, diam — prinsip "berkata baik atau diam" (HR. Bukhari-Muslim)
+> *Aplikasi: Sebelum menekan tombol "share" di media sosial, terapkan empat langkah ini. Buatkan checklist sederhana di catatan HP-mu: (1) Sudah berhenti dan berpikir? (2) Sudah verifikasi sumber? (3) Sudah konfirmasi kebenaran? (4) Apakah bermanfaat jika disebarkan? Jika satu saja jawabannya "belum" — jangan share.*
 
 ### Menjadi Produsen Kebenaran
 
@@ -234,6 +249,23 @@ Rasulullah menyebut jihad yang paling utama adalah *kalimat haqq 'inda sulthan j
 Menjadi Muslim yang berkomitmen pada kebenaran di era post-truth berarti: bersedia lambat ketika semua orang terburu-buru menyebarkan berita. Bersedia diam ketika semua orang berebut berkomentar. Bersedia memeriksa ketika semua orang langsung percaya. Bersedia mengakui "aku tidak tahu" ketika semua orang berpura-pura ahli.
 
 Imam Malik pernah ditanya empat puluh pertanyaan dan menjawab tiga puluh enam di antaranya dengan "aku tidak tahu." Keberanian intelektual untuk mengakui ketidaktahuan — di era di mana semua orang merasa harus memiliki opini tentang segalanya — adalah salah satu bentuk tabayyun yang paling mendasar.
+
+---
+
+**Rantai Logika Tauhid: Kejujuran Informasi sebagai Konsekuensi Iman**
+- Allah adalah Al-Haqq (Yang Maha Benar) dan menghendaki hamba-Nya berdiri di atas kebenaran (QS. Al-Baqarah [2]: 147) →
+- Maka menyebarkan kebohongan — meskipun kecil, meskipun "hanya share" — adalah tindakan yang bertentangan dengan sifat Al-Haqq yang kita imani →
+- Maka setiap Muslim yang menyebarkan informasi tanpa verifikasi telah melanggar prinsip tabayyun yang diperintahkan Allah (QS. Al-Hujurat [49]: 6) dan berpotensi menjadi alat penyebar kerusakan →
+- Maka menjadi penjaga kebenaran informasi di era post-truth bukan pilihan — ia adalah konsekuensi langsung dari iman kepada Allah Yang Maha Benar, dan setiap informasi yang kita sebarkan akan dimintai pertanggungjawaban di hadapan-Nya
+
+---
+
+> **Titik Refleksi**
+>
+> 1. Imam Bukhari menghabiskan 16 tahun untuk menyaring 600.000 hadis menjadi sekitar 7.275 hadis dalam Shahih-nya. Berapa detik yang kau habiskan untuk memverifikasi sebelum menekan tombol "share"? Apa yang ini katakan tentang komitmenmu terhadap kebenaran?
+> 2. Ibnu Khaldun menolak riwayat-riwayat historis yang bertentangan dengan hukum sosial, meskipun sanad (rantai periwayatan)-nya kelihatan kuat. Apakah kau pernah menerima informasi hanya karena datang dari "orang kita" — tanpa memeriksa isinya?
+> 3. Cek riwayat share-mu di WhatsApp atau media sosial selama sebulan terakhir. Berapa persen yang benar-benar sudah kau verifikasi? Berapa yang kau sebarkan hanya karena sesuai dengan apa yang ingin kau percayai?
+> 4. Rasulullah bersabda bahwa "cukuplah seseorang dianggap berdusta jika ia menceritakan semua yang ia dengar." Jika standar ini diterapkan pada perilaku bermedia sosialmu, apakah kau lolos?
 
 ---
 

@@ -41,6 +41,13 @@ Prinsip yang sama bisa diterapkan dalam konteks gerakan dakwah:
 - Dalam menghadapi ancaman bersama, semua gerakan berdiri bahu-membahu
 - Tujuan bersama — kemuliaan Islam dan kesejahteraan umat — menjadi pengikat
 
+> **Mental Model: Muhammad Iqbal — Rekonstruksi Ummah**
+> 1. Diagnosa penyakit umat: stagnasi intelektual (*jumud*) dan imitasi buta terhadap Barat (*taqlid al-Gharb*)
+> 2. Bangkitkan kembali *khudi* (jati diri) — setiap individu dan gerakan harus memiliki identitas yang kuat sebelum bisa berkontribusi pada ummah
+> 3. Ummah yang kuat bukan ummah yang seragam, tapi ummah yang setiap anggotanya memiliki jati diri kokoh dan saling melengkapi
+> 4. Rekonstruksi bukan berarti membuang warisan — tapi memperbarui cara kita memahami dan menerapkan warisan itu untuk menjawab tantangan zaman
+> *Aplikasi: Sebelum membangun persatuan umat di kampus, pastikan kau sendiri memiliki identitas keislaman yang kokoh. Persatuan bukan lahir dari kelemahan identitas, tapi dari kekuatan identitas yang saling menghormati. Perkuat dirimu, lalu ulurkan tangan.*
+
 ### Kekuatan dalam Keragaman
 
 Keragaman gerakan dakwah adalah competitive advantage umat Islam Indonesia. Dengan banyaknya pendekatan, Islam bisa menjangkau:
@@ -208,8 +215,32 @@ Di banyak lingkungan, fanatisme gerakan sudah mendarah daging. Kader yang mencob
 ### Proses Ini Membutuhkan Generasi
 Jangan berharap perubahan instan. Perpecahan yang dibangun selama puluhan tahun tidak bisa dihilangkan dalam semalam. Blueprint ini adalah proyek generasi — mungkin baru cucu-cucu kita yang melihat hasilnya secara penuh. Tapi setiap langkah yang kita ambil hari ini memiliki makna. Setiap jembatan yang kita bangun hari ini akan dilalui oleh generasi setelah kita.
 
+> **Mental Model: Alija Izetbegovic — Islam antara Timur dan Barat**
+> 1. Tolak dikotomi palsu: umat tidak harus memilih antara Barat materialistis atau Timur spiritualistis — Islam menawarkan sintesis yang lebih tinggi
+> 2. Persatuan umat bukan proyek nostalgia masa lalu — ia harus menjawab tantangan masa kini dengan kerangka yang segar
+> 3. Kekuatan umat terletak pada kemampuannya memadukan dimensi spiritual dan material, individual dan kolektif, lokal dan global
+> 4. Jangan menunggu kondisi sempurna untuk mulai bersatu — mulailah dari realitas yang ada dengan visi yang jelas
+> *Aplikasi: Izetbegovic membangun persatuan Muslim Bosnia di tengah perang dan genosida — kondisi yang jauh lebih sulit dari tantangan yang kita hadapi. Jika ia bisa, kita pun bisa. Mulailah blueprint persatuanmu hari ini, dari kampus atau komunitasmu, tanpa menunggu semua kondisi ideal terpenuhi.*
+
 ### Bukan Semua Perbedaan Bisa Dijembatani
 Ada perbedaan-perbedaan yang memang fundamental dan mungkin tidak akan pernah bisa disatukan. Bersikaplah dewasa tentang ini. Tidak semua gerakan harus berkolaborasi dalam semua hal. Yang penting adalah: di mana kita bisa bersama, kita bersama. Di mana kita berbeda, kita tetap beradab.
+
+---
+
+**Rantai Logika Tauhid: Persatuan Umat sebagai Manifestasi Tauhid**
+- Allah menyatakan bahwa umat ini adalah ummatan wahidah (umat yang satu) dan Dia adalah Tuhan mereka yang Esa (QS. Al-Mu'minun [23]: 52) →
+- Maka perpecahan umat bukan sekadar masalah sosial-politik — ia adalah penyimpangan dari desain ilahiah tentang bagaimana umat ini seharusnya →
+- Maka setiap upaya menyatukan umat — sekecil apapun — adalah upaya mengembalikan umat pada desain Allah, dan setiap upaya memecah belah umat adalah perlawanan terhadap kehendak-Nya →
+- Maka blueprint persatuan umat bukan sekadar proyek organisasional — ia adalah proyek tauhid: mengembalikan loyalitas tertinggi kepada Allah dan umat-Nya, melampaui loyalitas sempit kepada organisasi atau gerakan tertentu
+
+---
+
+> **Titik Refleksi**
+>
+> 1. Muhammad Iqbal menulis bahwa umat Islam kehilangan jati diri (*khudi*) karena terlalu lama meniru Barat atau terlalu lama bermimpi tentang masa lalu. Di mana posisimu — apakah kau sedang membangun jati diri yang kokoh, atau sedang terjebak di salah satu dari dua perangkap itu?
+> 2. Dari lima level persatuan yang dibahas (gencatan senjata, ta'aruf-tafahum, ta'awun, koordinasi strategis, persatuan institusional), di level mana hubungan antar gerakan dakwah di lingkunganmu saat ini? Apa yang dibutuhkan untuk naik satu level?
+> 3. Alija Izetbegovic membangun persatuan di tengah perang. Apa "perang" yang sedang dihadapi umat di lingkunganmu — dan apakah ia cukup mendesak untuk memaksa kolaborasi?
+> 4. Jika kau menulis blueprint persatuan umat versimu sendiri untuk kampus atau komunitasmu — apa tiga pilar utamanya dan apa langkah pertama yang akan kau ambil besok?
 
 ---
 

@@ -51,6 +51,13 @@ Untuk menentukan prioritas dakwah kampus secara praktis, berikut kerangka yang b
 
 Dengan framework ini, sebuah LDK bisa mengevaluasi dan mengurutkan program-programnya berdasarkan prioritas yang jelas, bukan berdasarkan kebiasaan atau keinginan semata.
 
+> **Mental Model: Al-Qaradhawi — Fiqh Prioritas**
+> 1. Susun skala prioritas: aqidah sebelum syariah, fardhu sebelum sunnah, yang disepakati sebelum yang diperselisihkan, kemaslahatan besar sebelum kemaslahatan kecil
+> 2. Diagnosa "penyakit terbaliknya prioritas" — ketika energi umat habis untuk perdebatan furu' sementara ushul terabaikan, gerakan telah kehilangan orientasi
+> 3. Evaluasi setiap program dengan empat filter: urgensi (seberapa mendesak?), dampak (seberapa luas?), kapasitas (mampu tidak?), kelayakan (realistis tidak?)
+> 4. Berani mengatakan "tidak" pada program yang baik demi mengerjakan program yang terbaik — karena musuh terbesar prioritas bukanlah hal yang buruk, melainkan hal yang baik tapi bukan yang terpenting
+> *Aplikasi: Di awal setiap semester, kumpulkan pengurus LDK dan lakukan "audit prioritas" — daftarkan semua program, lalu eliminasi yang tidak lolos empat filter. Lebih baik 5 program yang excellent daripada 20 program yang mediocre.*
+
 ### 2. Fiqh Realitas (*Fiqh al-Waqi'*)
 
 Ibnu Qayyim al-Jauziyah menegaskan bahwa seorang mufti (dan da'i) harus memiliki dua jenis pemahaman: pemahaman tentang teks (*fiqh al-nushush*) dan pemahaman tentang realitas (*fiqh al-waqi'*). Tanpa yang pertama, ia tidak tahu apa yang harus disampaikan. Tanpa yang kedua, ia tidak tahu bagaimana dan kepada siapa menyampaikannya.
@@ -106,6 +113,13 @@ Salah satu implementasi praktis fiqh ikhtilaf di kampus adalah membangun budaya 
 - **Panduan Internal**: Buat panduan tertulis tentang isu-isu khilafiyah yang sering muncul di organisasi — bagaimana menyikapinya, apa yang boleh dan tidak boleh dilakukan, bagaimana menjaga ukhuwah di tengah perbedaan.
 - **Teladan Kepemimpinan**: Ketua LDK dan para pengurus harus menjadi teladan dalam menghormati perbedaan — jangan sampai pemimpin yang justru memprovokasi perpecahan.
 - **Batasan yang Jelas**: Tetapkan dengan jelas mana wilayah yang tidak bisa ditoleransi perbedaannya (aqidah, akhlak dasar) dan mana yang terbuka untuk perbedaan (fiqh ibadah, muamalah).
+
+> **Mental Model: Wahbah Az-Zuhaili — Fiqh Muwazanat (Keseimbangan)**
+> 1. Setiap keputusan dakwah melibatkan pertimbangan maslahat dan mafsadat — tugas da'i adalah menimbang keduanya dengan cermat, bukan mengambil keputusan hitam-putih
+> 2. Jika maslahat dan mafsadat berkumpul dalam satu tindakan, ambil yang maslahatnya lebih besar — dan jika mafsadatnya lebih besar, tinggalkan meskipun ada maslahat di dalamnya
+> 3. Menolak mafsadat didahulukan atas meraih maslahat (*dar'u al-mafasid muqaddam 'ala jalb al-mashalih*) — ini berlaku dalam kolaborasi, politik kampus, dan setiap keputusan strategis
+> 4. Keseimbangan bukan berarti "jalan tengah" dalam segala hal — kadang keseimbangan justru berarti berdiri tegas di satu sisi ketika kebenaran menuntutnya
+> *Aplikasi: Ketika ditawari kolaborasi dengan organisasi yang kontroversial, timbang dengan fiqh muwazanat: apa maslahat yang didapat? Apa mafsadat yang mungkin timbul? Mana yang lebih besar? Jangan menolak mentah-mentah karena fanatisme, tapi jangan juga menerima membabi buta karena pragmatisme.*
 
 ### 4. Fiqh Tahapan (*Fiqh al-Marhaliyyah*)
 
@@ -212,6 +226,23 @@ Berikut ringkasan lima cabang fiqh dakwah dan pertanyaan evaluasi untuk masing-m
 | Fiqh Keseimbangan | Apakah ada aspek dakwah yang terlalu dominan atau terlalu terabaikan? |
 
 Setiap pengurus LDK sebaiknya menjadikan tabel ini sebagai bahan musyawarah rutin — misalnya setiap awal semester — untuk memastikan arah dakwah tetap selaras dengan prinsip-prinsip fiqh kontemporer yang telah dibahas.
+
+**Rantai Logika Tauhid: Fiqh Dakwah sebagai Implementasi Nama Allah Al-Hakim**
+- Allah adalah Al-Hakim (Maha Bijaksana) — setiap perintah dan larangan-Nya mengandung hikmah yang kadang tampak, kadang tersembunyi — QS. Al-An'am: 73 →
+- Maka dakwah yang mengatasnamakan Allah harus mencerminkan sifat Al-Hakim — bijaksana dalam prioritas, realistis dalam pendekatan, dan proporsional dalam tindakan →
+- Maka dakwah yang gegabah, tanpa perhitungan, dan mengabaikan konteks bukan hanya tidak efektif — ia berpotensi mencederai nama Allah yang disandarkan padanya →
+- Maka menguasai fiqh dakwah (prioritas, realitas, ikhtilaf, tahapan, keseimbangan) bukan sekadar kecerdasan strategis — ia adalah *adab* terhadap Allah Al-Hakim: tidak menyampaikan pesan-Nya dengan cara yang bertentangan dengan hikmah-Nya
+
+---
+
+> ### Titik Refleksi
+>
+> 1. Al-Qaradhawi mendiagnosis "penyakit terbaliknya prioritas" — jujurlah: dalam satu bulan terakhir, berapa persen energi organisasi dakwahmu habis untuk perdebatan internal yang tidak produktif dibanding untuk program yang berdampak nyata pada mad'u?
+> 2. Wahbah Az-Zuhaili menekankan bahwa keputusan dakwah harus mempertimbangkan maslahat dan mafsadat secara bersamaan — apakah ada keputusan dakwah yang pernah kau ambil tanpa mempertimbangkan potensi mafsadatnya, dan apa akibatnya?
+> 3. Fiqh realitas menuntut pemahaman mendalam tentang medan dakwah — seberapa baik kau mengenal kampusmu: komposisi mahasiswanya, budayanya, tantangan spesifiknya? Atau kau berdakwah di kampus ini dengan "resep generik" yang di-copy dari kampus lain?
+> 4. Jika Al-Qaradhawi melihat cara organisasi dakwah kampusmu dikelola hari ini, kaidah fiqh dakwah mana yang menurutnya paling sering dilanggar?
+
+---
 
 ## Refleksi & Aksi
 

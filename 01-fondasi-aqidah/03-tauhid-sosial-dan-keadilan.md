@@ -59,6 +59,13 @@ hak politik — ia adalah kewajiban tauhid. Diam di hadapan penindasan,
 ketika seseorang mampu bersuara, adalah bentuk kompromi terhadap prinsip
 tauhid itu sendiri.
 
+> **Mental Model: Umar bin Khattab — Keadilan Tanpa Kompromi**
+> 1. Tetapkan standar tertinggi untuk diri sendiri sebelum menuntut orang lain — pemimpin makan terakhir, bukan pertama
+> 2. Bangun sistem yang adil, bukan sekadar tindakan amal individual — diwan, baitul mal, peradilan independen
+> 3. Turun langsung ke lapangan — patroli malam Umar membuktikan bahwa pemimpin harus tahu kondisi riil rakyatnya
+> 4. Berani mengambil keputusan tidak populer jika keadilan menuntutnya — seperti keputusan tanah Iraq yang mengorbankan popularitas demi kemaslahatan jangka panjang
+> *Aplikasi: Sebagai pengurus organisasi dakwah kampus, audit distribusi beban kerja dan akses terhadap sumber daya. Apakah ada ketidakadilan struktural yang kamu biarkan karena "sudah biasa"?*
+
 ## Keadilan sebagai Buah Tauhid
 
 ### Perintah Ilahi yang Tegas
@@ -142,6 +149,13 @@ adalah orang yang paling dermawan, dan kedermawanannya mencapai puncaknya
 di bulan Ramadhan — menunjukkan bahwa puasa seharusnya memperbesar, bukan
 mengurangi, kepedulian sosial.
 
+> **Mental Model: Abu Dzar Al-Ghifari — Kritik Sosial Profetik**
+> 1. Lihat kemewahan dan kemiskinan secara bersamaan — jangan hanya melihat satu sisi
+> 2. Suarakan ketimpangan dengan lantang, meskipun yang kamu kritik adalah penguasa atau orang-orang dekat
+> 3. Hidup sederhana sebagai bentuk protes terhadap konsumerisme — konsistensi antara ucapan dan tindakan
+> 4. Dasarkan kritikmu pada nash yang kuat, bukan emosi atau kepentingan politik semata
+> *Aplikasi: Di lingkungan kampus, apakah ada ketimpangan akses — antara mahasiswa kaya dan miskin, antara fakultas favorit dan terpinggirkan? Apa yang bisa kamu lakukan sebagai aktivis dakwah untuk menyuarakannya?*
+
 ## Kritik Tauhid terhadap Ketidakadilan Modern
 
 ### Kapitalisme Tanpa Etika
@@ -203,6 +217,12 @@ masyarakat akar rumput, menunjukkan bahwa keadilan juga berarti menghargai
 kearifan lokal dan memperkuat komunitas dari dalam. Kedua pendekatan ini
 saling melengkapi, bukan saling menegasikan.
 
+**Rantai Logika Tauhid: Dari Keesaan Allah ke Keadilan Sosial**
+- Hanya Allah yang berhak atas ketundukan absolut (QS. An-Nahl [16]: 36) →
+- Maka setiap sistem yang menuntut ketundukan absolut dari manusia kepada manusia lain — eksploitasi, oligarki, diskriminasi — adalah pelanggaran tauhid secara struktural →
+- Maka membiarkan kezaliman ketika mampu bersuara sama dengan mengkhianati kalimat *la ilaha illallah* →
+- Maka aktivis dakwah yang bertauhid wajib menjadi agen keadilan: menyuarakan hak yang tertindas, mengkritik sistem yang zalim, dan membangun alternatif yang adil — di kampus, di masyarakat, di mana pun ia berada
+
 ## Keseimbangan: Antara Aktivisme Sosial dan Ibadah
 
 Ada bahaya di kedua sisi ekstrem. Di satu sisi, aktivisme sosial yang
@@ -226,6 +246,15 @@ dimotivasi oleh ketundukan kepada Allah. Keduanya bukan pilihan — keduanya
 adalah satu kesatuan yang tidak bisa dipisahkan. Aktivis dakwah yang
 matang adalah mereka yang bisa shalat tahajjud di sepertiga malam terakhir
 dan turun ke lapangan membantu masyarakat di pagi harinya.
+
+> **Titik Refleksi**
+>
+> Luangkan waktu hening sebelum melanjutkan. Pertanyaan-pertanyaan ini menuntut kejujuran radikal:
+>
+> 1. Apakah ibadah ritualmu selama ini memiliki dampak sosial yang terukur? Shalat lima waktu, puasa Senin-Kamis, tilawah harian — apakah semua itu membuatmu lebih peduli pada sesama, atau justru menjadi ritual yang membuatmu merasa cukup tanpa perlu bertindak?
+> 2. Umar bin Khattab menangis saat menemukan rakyatnya kelaparan. Abu Dzar mengkritik penimbunan harta di hadapan Khalifah Utsman. Kapan terakhir kali kamu benar-benar merasa *marah karena Allah* melihat ketidakadilan — bukan sekadar prihatin di media sosial?
+> 3. Di kampusmu, siapa yang paling terpinggirkan — mahasiswa dari daerah, dari ekonomi lemah, dari kelompok minoritas? Apa yang organisasi dakwahmu lakukan untuk mereka — dan apakah itu cukup?
+> 4. Apakah ada risiko aktivisme sosialmu kehilangan ruh spiritual? Atau sebaliknya — apakah spiritualitasmu menjadi alasan untuk menghindari tanggung jawab sosial?
 
 ## Refleksi & Aksi
 

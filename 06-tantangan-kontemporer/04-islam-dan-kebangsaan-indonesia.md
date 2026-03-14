@@ -35,6 +35,13 @@ Daftar tokoh-tokoh Islam yang berkontribusi langsung terhadap kemerdekaan Indone
 
 - **Mohammad Natsir** — perdana menteri, pemikir Islam, dan dai yang memadukan kedalaman pemahaman Islam dengan visi kebangsaan yang matang. Natsir-lah yang merumuskan posisi bahwa "Islam dan kebangsaan bukan air dan minyak."
 
+> **Mental Model: Mohammad Natsir — Negarawan-Dai**
+> 1. Islam dan kebangsaan bukan air dan minyak — keduanya bisa menyatu karena Islam tidak menafikan cinta tanah air
+> 2. Berdakwah bukan berarti anti-negara; bernegara bukan berarti meninggalkan dakwah — Natsir adalah PM sekaligus dai
+> 3. Perjuangkan aspirasi Islam melalui jalur konstitusional dan demokratis, bukan melalui kekerasan atau kudeta
+> 4. Ketika kalah dalam arena politik, jangan tinggalkan arena — terus berkontribusi melalui pendidikan, sosial, dan dakwah
+> *Aplikasi: Jadilah seperti Natsir: aktif di organisasi kampus, berprestasi akademis, terlibat dalam isu-isu kebangsaan, dan tetap istiqamah dalam dakwah. Tunjukkan bahwa aktivis dakwah bisa menjadi mahasiswa terbaik, pemimpin organisasi yang kompeten, dan warga negara yang bertanggung jawab — semuanya sekaligus.*
+
 - **Kasman Singodimedjo** — tokoh Masyumi dan anggota BPUPKI yang memperjuangkan nilai-nilai Islam dalam dasar negara sambil tetap menghormati kemajemukan Indonesia.
 
 ### Piagam Jakarta dan Pelajarannya
@@ -165,6 +172,13 @@ Mohammad Natsir mengartikulasikan posisi ini dengan jernih: Islam dan kebangsaan
 
 KH Hasyim Asy'ari menambahkan dimensi teologis: *hubb al-wathan min al-iman* — cinta tanah air adalah bagian dari iman. Ini bukan hadis dalam pengertian teknis ilmu hadis, tetapi ia mengekspresikan prinsip yang valid: bahwa mencintai dan membela tanah tempat Allah menitipkan kita adalah bagian dari rasa syukur dan tanggung jawab keagamaan.
 
+> **Mental Model: KH Wahid Hasyim — Islam dalam Negara Bangsa**
+> 1. Terima realitas negara bangsa sebagai wadah — bukan sebagai ideologi yang menggantikan Islam
+> 2. Isi wadah negara dengan ruh Islam — melalui pendidikan agama, lembaga keagamaan, dan kebijakan yang berkeadilan
+> 3. Bangun institusi yang menjembatani Islam dan negara — Kementerian Agama yang didirikan Wahid Hasyim adalah contoh cemerlang
+> 4. Jangan memilih antara Islam dan Indonesia — buktikan bahwa keduanya saling menguatkan melalui karya nyata
+> *Aplikasi: Ketika menghadapi dikotomi "pilih Islam atau Indonesia", tolak premisnya. Tunjukkan melalui aksi nyata bahwa keislamanmu menjadikanmu warga negara yang lebih baik — lebih jujur, lebih adil, lebih peduli, lebih berkontribusi.*
+
 ### Konsep Ummah dan Wathan
 
 Bagaimana memahami relasi antara *ummah* (komunitas Muslim global) dan *wathan* (tanah air)? Apakah keduanya saling bertentangan?
@@ -234,6 +248,23 @@ Visi ini tidak akan terwujud dengan sendirinya — ia membutuhkan generasi pemud
 Inilah generasi pembaharu yang kita impikan: bukan generasi yang mengeluh tentang masalah, tetapi generasi yang **menjadi solusi**. Bukan generasi yang mempermasalahkan perbedaan, tetapi generasi yang **merayakan keragaman sebagai rahmat**. Bukan generasi yang memilih antara Islam dan Indonesia, tetapi generasi yang membuktikan bahwa **keduanya adalah satu perjuangan**.
 
 Allah berfirman: *"Kamu adalah umat terbaik yang dilahirkan untuk manusia, menyuruh kepada yang ma'ruf, dan mencegah dari yang munkar, dan beriman kepada Allah"* (QS. Ali Imran [3]: 110). "Dilahirkan untuk manusia" — bukan hanya untuk diri sendiri, bukan hanya untuk sesama Muslim, tetapi untuk **seluruh manusia**. Inilah misi peradaban Islam. Dan Indonesia adalah salah satu panggung terbaik untuk mewujudkannya.
+
+---
+
+**Rantai Logika Tauhid: Kebangsaan sebagai Medan Ibadah**
+- Allah menciptakan manusia berbangsa-bangsa dan bersuku-suku agar saling mengenal (QS. Al-Hujurat [49]: 13), dan Dia menempatkan setiap manusia di tanah dan zaman tertentu bukan secara kebetulan →
+- Maka kelahiran kita sebagai Muslim Indonesia adalah takdir ilahi yang mengandung hikmah dan amanah — kita ditempatkan di sini untuk menjadi khalifah di bumi ini →
+- Maka membangun Indonesia yang adil, makmur, dan bermartabat bukan sekadar kewajiban kewarganegaraan — ia adalah ibadah kepada Allah yang menempatkan kita di sini →
+- Maka generasi pembaharu yang memadukan keislaman dan kebangsaan sedang menunaikan amanah ganda: amanah sebagai Muslim yang berdakwah dan amanah sebagai warga Indonesia yang membangun peradaban — dan keduanya bertemu pada satu titik: ridha Allah
+
+---
+
+> **Titik Refleksi**
+>
+> 1. Mohammad Natsir mengatakan "Islam dan kebangsaan bukan air dan minyak." Dalam kehidupanmu sehari-hari, apakah kau sudah membuktikan pernyataan ini — atau masih memperlakukan keislaman dan keindonesiaan sebagai dua hal yang terpisah?
+> 2. KH Wahid Hasyim mendirikan Kementerian Agama sebagai jembatan antara Islam dan negara. Apa "jembatan" yang bisa kau bangun di level kampus atau komunitasmu?
+> 3. Para pendiri bangsa Muslim — Hasyim Asy'ari, Natsir, Agus Salim — berkorban besar untuk Indonesia tanpa meninggalkan Islam. Apa pengorbanan terbesar yang siap kau berikan untuk bangsa ini sebagai seorang Muslim?
+> 4. Jika Indonesia menjadi model peradaban Islam abad ke-21 sebagaimana diimpikan dalam bab ini, apa kontribusi spesifikmu untuk mewujudkan visi itu? Apa satu langkah yang bisa kau ambil tahun ini?
 
 ---
 

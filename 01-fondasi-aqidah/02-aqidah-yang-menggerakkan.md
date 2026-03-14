@@ -20,6 +20,13 @@ bukanlah sekadar pengakuan lisan atau pengetahuan intelektual. Iman adalah
 diujikan, lalu dilupakan — ia kehilangan fungsi utamanya sebagai motor
 penggerak kehidupan.
 
+> **Mental Model: Hasan Al-Banna — Iman Penggerak**
+> 1. *Fahm* (Pemahaman): Pahami aqidah bukan sebagai hafalan, tapi sebagai worldview yang utuh
+> 2. *Ikhlas* (Ketulusan): Pastikan motivasi bergerak murni karena Allah, bukan karena popularitas atau tekanan sosial
+> 3. *'Amal* (Aksi): Terjemahkan setiap keyakinan menjadi program kerja nyata — iman tanpa amal adalah klaim kosong
+> 4. *Tadhiyyah* (Pengorbanan): Ukur kedalaman imanmu dari besarnya pengorbanan yang sanggup kau berikan
+> *Aplikasi: Sebelum merancang program dakwah kampus, tanyakan: apakah program ini lahir dari pemahaman aqidah yang hidup, atau sekadar mengulang tradisi tanpa ruh?*
+
 Bab ini mengajak kita mengevaluasi ulang: apakah aqidah yang kita yakini
 benar-benar menggerakkan, atau hanya menjadi arsip pengetahuan yang tersimpan
 rapi tanpa dampak? Pertanyaan ini bukan retoris. Ia adalah pertanyaan yang
@@ -236,6 +243,12 @@ Rasulullah SAW bersabda: *"Tidaklah beriman salah seorang di antara kamu
 sampai ia mencintai saudaranya seperti ia mencintai dirinya sendiri"*
 (HR. Bukhari dan Muslim).
 
+**Rantai Logika Tauhid: Dari Keyakinan ke Pergerakan**
+- Iman yang benar adalah pembenaran hati yang menghasilkan amal (QS. Al-'Ashr [103]: 1-3; HR. Bukhari: "Iman adalah yang bersemayam di hati dan dibenarkan oleh amal") →
+- Maka iman yang tidak menghasilkan amal adalah iman yang belum sempurna — ia baru di lisan, belum di hati →
+- Maka seorang aktivis dakwah yang mengaku beriman tetapi tidak bergerak, tidak peduli, tidak berkorban, sedang mengalami krisis aqidah yang serius →
+- Maka diagnosa dan perbaikan aqidah bukan urusan teologis semata — ia adalah kebutuhan operasional gerakan, karena kualitas gerakan ditentukan oleh kualitas iman penggeraknya
+
 ## Diagnosis: Apakah Aqidahmu Menggerakkan?
 
 Setelah memahami enam rukun iman sebagai enam penggerak dan lima tanda aqidah
@@ -276,12 +289,28 @@ fisik. Hati yang hidup adalah hati yang terus bergerak menuju Allah —
 melalui taubat, dzikir, tafakkur, dan amal shalih. Ketika hati berhenti
 bergerak, maka itulah tanda kematian spiritual yang harus segera diwaspadai.
 
+> **Mental Model: Imam Ghazali — Ihya al-Qalb (Menghidupkan Hati)**
+> 1. *Takhalli*: Bersihkan hati dari penyakit — riya, ujub, hasad, cinta dunia berlebihan
+> 2. *Tahalli*: Hias hati dengan sifat-sifat terpuji — ikhlas, tawadhu, syukur, sabar
+> 3. *Tajalli*: Rasakan kehadiran Allah dalam setiap aktivitas — shalat, belajar, berorganisasi
+> 4. *Muhasabah*: Evaluasi diri setiap malam — apakah aqidahku menggerakkan sesuatu hari ini?
+> *Aplikasi: Jadwalkan 10 menit muhasabah sebelum tidur. Tanyakan satu pertanyaan saja: "Apa yang aqidahku gerakkan hari ini?" Jika jawabannya kosong, itu alarm spiritual yang harus ditindaklanjuti.*
+
 Syed Muhammad Naquib al-Attas dalam *Islam and Secularism* menekankan bahwa
 tantangan terbesar umat Islam modern bukan kemiskinan atau keterbelakangan
 teknologi, melainkan *loss of adab* — hilangnya tata krama spiritual dan
 intelektual yang bersumber dari aqidah. Ketika aqidah tidak lagi menjadi
 pusat kehidupan, maka seluruh tatanan nilai menjadi kacau. Maka, menghidupkan
 kembali aqidah bukan sekadar proyek personal — ia adalah proyek peradaban.
+
+> **Titik Refleksi**
+>
+> Berhenti sejenak. Jawab pertanyaan-pertanyaan ini dengan jujur — bukan untuk orang lain, tapi antara kamu dan Allah:
+>
+> 1. Dari enam rukun iman, mana yang paling "mati" dalam hidupmu saat ini? Apa indikatornya — dan sudah berapa lama kondisi itu berlangsung tanpa kamu perbaiki?
+> 2. Hasan Al-Banna mengatakan iman harus memancar menjadi amal. Jika seseorang mengamati hidupmu selama satu minggu terakhir tanpa kamu tahu, akankah ia menyimpulkan bahwa kamu orang beriman? Mengapa?
+> 3. Al-Ghazali meninggalkan puncak karir demi memperbaiki hubungannya dengan Allah. Adakah sesuatu dalam hidupmu — jabatan, kegiatan, kebiasaan — yang tampak "baik" di luar tetapi sesungguhnya menjauhkanmu dari Allah? Beranikah kamu meninggalkannya?
+> 4. Kapan terakhir kali kamu merasakan ketenangan sejati — bukan karena semua beres, tapi karena tawakkalmu kepada Allah kokoh? Jika sudah lama, apa yang berubah?
 
 ## Refleksi & Aksi
 

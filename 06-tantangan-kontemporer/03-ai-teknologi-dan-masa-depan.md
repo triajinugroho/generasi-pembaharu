@@ -69,6 +69,13 @@ Hubungan Islam dengan teknologi bukan hubungan yang baru — dan bukan hubungan 
 
 - **Abbas ibn Firnas** (810-887 M) — perintis penerbangan yang melakukan percobaan terbang berabad-abad sebelum Wright bersaudara.
 
+> **Mental Model: Al-Khawarizmi — Algoritmika Islami**
+> 1. Mulai dari masalah nyata — Al-Khawarizmi mengembangkan aljabar untuk menyelesaikan masalah waris dan perdagangan, bukan untuk abstraksi semata
+> 2. Bangun sistem yang terstruktur dan reproducible — "algoritma" berasal dari namanya karena ia menciptakan prosedur langkah-demi-langkah yang bisa diikuti siapapun
+> 3. Integrasikan ilmu dari berbagai peradaban — Al-Khawarizmi memadukan matematika India, Yunani, dan Persia dalam kerangka baru yang lebih powerful
+> 4. Niatkan ilmu untuk kemaslahatan — teknologi tanpa tujuan moral adalah alat yang berbahaya; Al-Khawarizmi menulis atas nama Allah di pembukaan karyanya
+> *Aplikasi: Jika kau mempelajari programming atau AI, jangan sekadar menguasai skill teknis. Tanyakan: masalah nyata umat apa yang bisa kupecahkan dengan ini? Bangun solusi teknologi yang berakar pada kebutuhan komunitas Muslim — dari aplikasi tahfidz hingga platform transparansi zakat.*
+
 Fakta historis ini bukan sekadar nostalgia. Ia menunjukkan bahwa **tidak ada kontradiksi inheren antara Islam dan inovasi teknologi**. Justru sebaliknya — ketika umat Islam memegang teguh worldview tauhid, mereka terdorong untuk menjelajahi alam semesta sebagai bentuk *tadabbur* (perenungan) atas ciptaan Allah.
 
 ### Kaidah Fiqih tentang Teknologi
@@ -118,6 +125,13 @@ AI modern membutuhkan data dalam jumlah masif untuk berfungsi. Data ini sering d
 Islam sangat menjaga privasi. Allah berfirman: *"Wahai orang-orang yang beriman, janganlah kamu memasuki rumah yang bukan rumahmu sebelum meminta izin dan memberi salam kepada penghuninya"* (QS. An-Nur [24]: 27). Prinsip ini — meminta izin sebelum memasuki ruang privat — sangat relevan dengan isu data privacy di era digital.
 
 Hadis Nabi: *"Seandainya seseorang mengintip ke dalam rumahmu tanpa izinmu, lalu kamu melempar batu kecil dan mengenai matanya, maka tidak ada dosa bagimu"* (HR. Bukhari-Muslim). Islam mengambil privasi dengan sangat serius — dan Muslim yang bekerja di industri teknologi harus menjadi advokat terdepan untuk perlindungan data pengguna.
+
+> **Mental Model: Ibnu Haitham — Metode Ilmiah**
+> 1. Mulai dari observasi, bukan dari asumsi — Ibnu Haitham menolak teori emisi cahaya Ptolemeus karena tidak sesuai observasi
+> 2. Bangun hipotesis yang bisa diuji — setiap klaim harus bisa diverifikasi melalui eksperimen
+> 3. Terima hasil eksperimen meskipun bertentangan dengan otoritas yang dihormati — kebenaran ilmiah tidak mengenal senioritas
+> 4. Dokumentasikan prosedur agar orang lain bisa mereplikasi — transparansi adalah fondasi ilmu yang terpercaya
+> *Aplikasi: Terapkan metode Ibnu Haitham dalam menghadapi klaim-klaim tentang teknologi. Jangan percaya hype AI tanpa bukti. Jangan juga menolak AI tanpa memahaminya. Observasi, uji, evaluasi — lalu ambil keputusan berdasarkan bukti, bukan berdasarkan ketakutan atau euforia.*
 
 ### Deepfake dan Manipulasi Kebenaran
 
@@ -236,6 +250,24 @@ Jika kita memilih untuk menjadi konsumen pasif — hanya menggunakan teknologi y
 Tetapi jika kita memilih untuk menjadi **kreator, inovator, dan pemikir** — menguasai teknologi, membentuknya sesuai dengan nilai-nilai Islam, dan menggunakannya untuk kemaslahatan umat manusia — maka kita meneruskan warisan Al-Khawarizmi, Ibnu Haitham, dan generasi emas peradaban Islam.
 
 Pilihannya ada di tangan kita.
+
+---
+
+**Rantai Logika Tauhid: Teknologi sebagai Amanah Khilafah**
+- Allah menjadikan manusia sebagai khalifah di bumi dan mengajarkan kepadanya "nama-nama segala sesuatu" — termasuk ilmu dan teknologi (QS. Al-Baqarah [2]: 30-31) →
+- Maka menguasai teknologi adalah bagian dari menunaikan amanah khilafah, dan meninggalkan penguasaan teknologi berarti membiarkan amanah itu dipegang oleh pihak yang mungkin tidak memiliki kerangka moral yang benar →
+- Maka Muslim yang menguasai AI dan teknologi mutakhir bukan sedang "mengikuti Barat" — ia sedang merebut kembali posisi yang pernah dipegang oleh Al-Khawarizmi, Ibnu Haitham, dan generasi emas peradaban Islam →
+- Maka menjadi subjek teknologi — bukan sekadar konsumen — adalah fardhu kifayah di era ini, dan generasi pembaharu harus menjawab panggilan ini dengan membangun teknologi yang berakar pada nilai-nilai tauhid: keadilan, transparansi, dan kemaslahatan
+
+---
+
+> **Titik Refleksi**
+>
+> 1. Al-Khawarizmi menulis *Al-Jabr wa al-Muqabalah* atas motivasi menyelesaikan masalah waris umat Islam. Jika kau memiliki keterampilan teknis (programming, desain, data), masalah nyata umat apa yang bisa kau pecahkan?
+> 2. Ibnu Haitham mengoreksi teori Ptolemeus yang telah diterima selama seribu tahun — ia tidak takut menantang otoritas ketika bukti berkata lain. Apakah kau memiliki keberanian intelektual yang sama dalam menghadapi klaim-klaim tentang teknologi — baik yang terlalu optimis maupun yang terlalu pesimis?
+> 3. Berapa jam per hari kau menghabiskan waktu di media sosial dan hiburan digital? Jika waktu itu diinvestasikan untuk belajar skill teknologi, berapa banyak yang bisa kau kontribusikan untuk umat dalam setahun?
+> 4. Maqashid al-syariah menyediakan kerangka etika untuk mengevaluasi teknologi. Ambil satu teknologi yang kau gunakan sehari-hari (Instagram, TikTok, ChatGPT) dan evaluasi: apakah ia mendukung atau mengancam kelima maqashid (agama, jiwa, akal, keturunan, harta)?
+> 5. Jika peradaban Islam pernah memimpin dunia dalam sains dan teknologi selama berabad-abad, apa yang menghalangi kita untuk mengulanginya? Apakah hambatannya teologis, atau sekadar soal prioritas dan kemauan?
 
 ---
 

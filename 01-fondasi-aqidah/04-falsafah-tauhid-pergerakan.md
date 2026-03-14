@@ -128,6 +128,13 @@ tentang fiqih DAN tentang ekonomi, tentang aqidah DAN tentang sosiologi.
 Dikotomi "aktivis agama" versus "aktivis sosial" adalah dikotomi palsu yang
 harus ditolak.
 
+> **Mental Model: Al-Attas — De-Westernisasi Ilmu**
+> 1. Kenali asumsi tersembunyi: setiap teori dan konsep membawa worldview penciptanya — identifikasi asumsi sekuler, materialistik, atau Barat-sentris di balik ilmu yang kamu pelajari
+> 2. Bedakan antara ilmu universal dan muatan ideologis: hukum fisika bersifat universal, tetapi teori sosiologi sering membawa bias budaya tertentu
+> 3. Kembalikan ilmu ke kerangka tauhid: tempatkan setiap pengetahuan dalam konteks penciptaan, kekhalifahan, dan pertanggungjawaban di hadapan Allah
+> 4. Integrasikan, bukan isolasi: kuasai ilmu kontemporer dengan penuh, lalu saring melalui epistemologi Islam — bukan menolak mentah-mentah, bukan pula menelan bulat-bulat
+> *Aplikasi: Saat belajar ekonomi, sosiologi, atau psikologi di kampus, biasakan bertanya: asumsi worldview apa di balik teori ini? Apakah sesuai dengan tasawwur Islam? Bagaimana mengambil yang benar dan menolak yang menyimpang?*
+
 ## Tauhid sebagai Prinsip Pergerakan
 
 ### Tauhid al-Uluhiyyah: Kemurnian Tujuan
@@ -207,6 +214,13 @@ bukan dengan meninggalkan prinsip tauhid, melainkan dengan memahaminya
 secara lebih mendalam dan mengaplikasikannya pada tantangan-tantangan baru."
 Seruan ini tetap relevan hingga hari ini.
 
+> **Mental Model: Muhammad Iqbal — Rekonstruksi Pemikiran**
+> 1. *Khudi* (ego kreatif): Bangun diri yang otentik dan dinamis melalui hubungan hidup dengan Allah — bukan diri yang pasif menunggu takdir, bukan pula diri yang arogan tanpa Tuhan
+> 2. *Ijtihad*: Berani berpikir segar tentang masalah-masalah baru — tauhid bukan museum yang dijaga, tapi mata air yang terus mengalir
+> 3. Tolak stagnasi: Umat yang berhenti berpikir adalah umat yang sedang mati — pembaharuan pemikiran adalah kewajiban setiap generasi
+> 4. Sintesis, bukan imitasi: Pelajari pencapaian peradaban lain, tetapi bangun sintesis yang berakar pada tauhid — bukan meniru Barat, bukan pula menutup diri
+> *Aplikasi: Di halaqah atau forum kajian kampus, biasakan mendiskusikan satu masalah kontemporer (AI, krisis iklim, ekonomi digital) dari perspektif tauhid. Ini melatih kemampuan "rekonstruksi" ala Iqbal.*
+
 ### Ali Syariati: Catatan Kritis
 
 Ali Syariati, intelektual Iran, melihat tauhid sebagai filsafat revolusioner
@@ -238,6 +252,12 @@ yang berhak menghakimi secara absolut, maka tidak ada manusia atau kelompok
 yang berhak mengklaim monopoli kebenaran. Ini memiliki implikasi penting
 untuk gerakan lintas manhaj di Indonesia: keragaman pendekatan dakwah bukan
 ancaman bagi tauhid — selama prinsip-prinsip dasarnya tetap dijaga.
+
+**Rantai Logika Tauhid: Dari Worldview ke Peradaban**
+- Tauhid adalah prinsip kesatuan yang paling fundamental — kesatuan Tuhan, kesatuan penciptaan, kesatuan umat manusia, kesatuan ilmu (QS. Al-Anbiya [21]: 92; QS. Al-An'am [6]: 162) →
+- Maka worldview yang memecah-mecah realitas — memisahkan agama dari ilmu, dunia dari akhirat, spiritual dari sosial — bertentangan dengan tauhid →
+- Maka gerakan dakwah yang hanya mengurusi satu dimensi (misalnya hanya ritual, atau hanya politik) adalah gerakan yang belum utuh secara tauhidi →
+- Maka aktivis dakwah harus membangun gerakan yang integratif: menyatukan dimensi spiritual, intelektual, sosial, dan politik dalam satu visi peradaban yang bersumber dari tauhid
 
 ## Praxis: Dari Filsafat ke Aksi
 
@@ -274,6 +294,15 @@ pada akhirnya melemah dan kehilangan relevansinya. Sebaliknya, gerakan-
 gerakan yang mempertahankan kemurnian tauhid — meskipun menghadapi
 tekanan berat — tetap bertahan dan terus memberikan dampak positif
 bagi umat dan masyarakat.
+
+> **Titik Refleksi**
+>
+> Ini adalah materi yang berat. Sebelum melanjutkan ke bacaan dan aksi, berhenti dan renungkan:
+>
+> 1. Al-Attas mengatakan masalah utama umat Islam adalah *confusion* tentang ilmu. Di perkuliahanmu, apakah kamu pernah merasakan "benturan" antara apa yang diajarkan dosen dan apa yang kamu yakini sebagai kebenaran Islam? Bagaimana kamu mengatasinya — menghindari, menerima begitu saja, atau melakukan sintesis kritis?
+> 2. Iqbal menyerukan *khudi* — diri yang kreatif dan otentik. Apakah pandangan-pandanganmu tentang Islam dan dakwah benar-benar hasil pemikiranmu sendiri, atau sekadar mengulangi apa yang disampaikan murabbi/ustadz tanpa pernah kamu kaji ulang?
+> 3. Jika organisasi dakwahmu diminta menyusun "falsafah gerakan" dalam satu halaman, apakah kamu bisa menuliskannya? Apakah gerakan dakwahmu memiliki fondasi filosofis yang jelas — atau hanya bergerak berdasarkan kebiasaan dan instruksi?
+> 4. Bagaimana kamu menilai dirimu di spektrum antara dua ekstrem: terlalu terbuka terhadap pemikiran Barat (kehilangan identitas Islam) vs. terlalu tertutup (menolak semua yang datang dari luar)? Di mana posisi idealnya?
 
 ## Bacaan Wajib
 

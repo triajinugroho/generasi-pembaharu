@@ -54,6 +54,13 @@ Dunia digital memiliki dinamikanya sendiri, namun prinsip-prinsip dakwah Qurani 
 
 **Inklusif.** Dakwah digital memiliki audiens yang sangat beragam — dari yang sudah sangat paham Islam hingga yang baru pertama kali mendengar tentang Islam. Bahasa yang digunakan harus bisa diakses oleh semua kalangan, bukan hanya kalangan internal yang sudah mengerti jargon dakwah.
 
+> **Mental Model: Nouman Ali Khan — Model Konten Edukatif**
+> 1. Jadikan Al-Quran sebagai pusat konten, bukan pelengkap — NAK membuktikan bahwa tafsir Al-Quran yang disampaikan dengan bahasa modern dan relevan bisa menjangkau jutaan anak muda
+> 2. Bangun otoritas melalui kedalaman, bukan kontroversi — konsistensi memproduksi konten yang substantif menghasilkan kepercayaan jangka panjang yang lebih berharga dari viralitas sesaat
+> 3. Gunakan bahasa audiens, bukan bahasa kitab — menyampaikan ilmu yang dalam dengan bahasa yang mudah dipahami adalah seni tertinggi dalam dakwah digital
+> 4. Setiap konten harus menjawab pertanyaan "lalu apa?" (*so what?*) — hubungkan setiap pelajaran dengan kehidupan nyata penonton
+> *Aplikasi: Ketika membuat konten dakwah digital, mulailah dari ayat Al-Quran atau hadits, lalu tanyakan: apa relevansi ini untuk mahasiswa hari ini? Bagaimana ini menjawab keresahan mereka? Konten yang relevan secara personal akan jauh lebih berdampak daripada konten yang hanya "benar" secara teologis.*
+
 ### 3. Strategi Konten Dakwah
 
 Konten dakwah digital bisa dikategorikan ke dalam beberapa tipe:
@@ -116,6 +123,13 @@ Tanpa jembatan O2O ini, dakwah digital hanya menghasilkan "konsumen konten" — 
 - Buat program "challenge" yang menghubungkan online dan offline — misalnya "30 Days Quran Challenge" di mana peserta posting progress mereka online sambil mengikuti mentoring offline.
 
 Ingat: tujuan akhir dakwah digital bukan engagement rate yang tinggi — tujuannya adalah perubahan nyata dalam kehidupan orang yang kita dakwahi.
+
+> **Mental Model: Omar Suleiman — Storytelling Dakwah**
+> 1. Cerita menggerakkan hati lebih dalam dari argumen — Omar Suleiman membuktikan bahwa menceritakan kisah para sahabat dan ulama dengan emosi yang jujur bisa membuat jutaan orang menangis dan berubah
+> 2. Koneksikan kisah klasik dengan isu kontemporer — jangan hanya menceritakan sejarah, tapi tunjukkan bagaimana pelajarannya hidup di realitas hari ini (keadilan sosial, hak asasi, kesehatan mental)
+> 3. Kerentanan (*vulnerability*) adalah kekuatan, bukan kelemahan — da'i yang berani berbagi perjuangannya sendiri lebih dipercaya daripada yang selalu tampil sempurna
+> 4. Jadikan dakwah sebagai jembatan, bukan tembok — konten yang menyatukan lebih berdampak daripada konten yang memecah belah
+> *Aplikasi: Dalam setiap konten dakwah digital, sisipkan minimal satu cerita nyata — bisa dari sirah, dari pengalaman pribadi, atau dari kejadian di sekitar kampus. Cerita yang otentik dan relevan akan diingat jauh lebih lama daripada daftar perintah dan larangan.*
 
 ### 5. Literasi Media untuk Da'i
 
@@ -221,6 +235,23 @@ Dakwah digital tidak terlepas dari dimensi etika. Islam memiliki prinsip-prinsip
 **Menjaga privasi orang lain.** Jangan memposting foto atau video orang lain tanpa izin, terutama dalam konteks dakwah. Memfoto seseorang yang sedang beribadah dan mempostingnya tanpa izin — meskipun niatnya "inspiratif" — melanggar privasi. Memfoto peserta kajian tanpa izin bisa membuat mereka tidak nyaman dan enggan datang lagi. Selalu minta izin sebelum mendokumentasikan.
 
 **Hak cipta dan plagiarisme.** Jangan mengambil konten orang lain tanpa kredit. Jangan mengklaim tulisan, desain, atau ide orang lain sebagai milikmu. Ini berlaku juga untuk konten dakwah — mengambil materi kajian dari sumber tertentu harus disertai kredit yang jelas. Kejujuran adalah fondasi dakwah, termasuk di dunia digital.
+
+**Rantai Logika Tauhid: Dakwah Digital sebagai Amanah Zaman**
+- Allah berfirman: *"Dan Kami tidak mengutus seorang rasul pun, melainkan dengan bahasa kaumnya"* — QS. Ibrahim: 4 →
+- Maka setiap zaman memiliki "bahasa" yang harus dikuasai da'i — jika bahasa kaum Quraisy adalah syair dan khutbah, maka "bahasa" generasi digital adalah konten visual, video, dan media sosial →
+- Maka da'i yang menolak belajar media digital di era ini seperti da'i yang menolak belajar bahasa Arab di zaman Rasulullah — ia memutus diri dari kemampuan menyampaikan pesan Allah dengan bahasa yang dipahami kaumnya →
+- Maka menguasai media digital untuk dakwah bukan sekadar strategi — ia adalah implementasi prinsip Qurani yang fundamental, dan mengabaikannya adalah bentuk *taqshir* (kelalaian) dalam menunaikan amanah tabligh
+
+---
+
+> ### Titik Refleksi
+>
+> 1. Nouman Ali Khan membuktikan bahwa tafsir Al-Quran bisa dikemas untuk jutaan penonton online — apakah kau pernah serius memikirkan bagaimana keahlian atau pemahamanmu bisa dijadikan konten dakwah digital yang bermanfaat, atau kau masih menganggap dakwah digital "bukan bidangmu"?
+> 2. Omar Suleiman menggunakan storytelling untuk menghubungkan Islam dengan isu keadilan sosial kontemporer — apakah konten dakwah yang kau konsumsi atau produksi masih terjebak dalam format "ceramah di atas mimbar yang divideokan," atau sudah beradaptasi dengan bahasa digital?
+> 3. Nabi SAW bersabda "Sampaikan dariku walau satu ayat" — di era di mana satu postingan bisa dibaca jutaan orang, apakah kau sudah memanfaatkan potensi ini, atau justru lebih banyak menggunakan media sosialmu untuk hal-hal yang tidak bermanfaat?
+> 4. Apakah niatmu dalam dakwah digital sudah bersih — untuk Allah — atau sudah mulai terkontaminasi oleh keinginan mendapat followers, likes, dan pengakuan sebagai "content creator dakwah"?
+
+---
 
 ## Refleksi & Aksi
 

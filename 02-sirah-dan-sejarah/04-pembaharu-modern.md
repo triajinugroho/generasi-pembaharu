@@ -44,6 +44,13 @@ Tetapi kontribusinya tidak bisa dipungkiri: ia adalah alarm yang membangunkan um
 Pelajaran terbesarnya bagi aktivis dakwah kampus: kesadaran kolektif adalah langkah pertama kebangkitan.
 Sebelum bisa bergerak, umat harus disadarkan terlebih dahulu bahwa ada masalah yang harus diselesaikan.
 
+> **Mental Model: Jamaluddin Al-Afghani — Pan-Islamisme (Membangunkan Kesadaran)**
+> 1. Identifikasi masalah bersama: Al-Afghani melihat bahwa fragmentasi adalah akar kelemahan umat — ia menolak melihat masalah secara terisolasi per negara
+> 2. Bangun jaringan lintas batas: dari Afghanistan ke Mesir ke Paris ke Istanbul — dakwah tidak boleh dibatasi oleh sekat geografis atau organisasi
+> 3. Gunakan media zamanmu: jurnal *Al-Urwah al-Wutsqa* hanya terbit 18 edisi tapi dampaknya menggoncang — kualitas konten lebih penting dari kuantitas
+> 4. Politisasi kesadaran, bukan sekadar ceramah: tujuannya bukan membuat umat "tahu" tapi membuat umat "bergerak"
+> *Aplikasi: Di era digital, setiap aktivis dakwah kampus punya "Al-Urwah al-Wutsqa" di tangannya — media sosial, podcast, blog. Pertanyaannya: apakah kontenmu membangunkan kesadaran atau sekadar menambah kebisingan?*
+
 ### 2. Muhammad Abduh (1849-1905): Reformasi Pemikiran
 
 Muhammad Abduh adalah murid Al-Afghani yang memilih jalur berbeda dari gurunya.
@@ -136,6 +143,13 @@ Gerakan Ikhwanul Muslimin tidak lepas dari masalah: ketegangan antara pendekatan
 
 Hasan Al-Banna sendiri ditembak mati oleh agen pemerintah Mesir pada tahun 1949.
 Bagi aktivis dakwah kampus, Ikhwanul Muslimin menawarkan banyak pelajaran tentang organisasi dan tarbiyah, tetapi juga peringatan tentang kompleksitas hubungan antara dakwah dan politik.
+
+> **Mental Model: Hasan Al-Banna — Gerakan Terpadu**
+> 1. *Syumuliyyat al-Islam*: Islam bukan sekadar ibadah ritual — ia mencakup seluruh dimensi kehidupan. Gerakan dakwah harus komprehensif: tarbiyah, sosial, ekonomi, politik, intelektual
+> 2. Sistem kaderisasi bertingkat: usrah (kelompok kecil) sebagai unit dasar, dengan pembinaan yang intensif dan personal — kualitas kader lebih penting dari jumlah anggota
+> 3. 10 Rukun Bai'at sebagai parameter: fahm, ikhlas, amal, jihad, tadhiyyah, tha'ah, tsabat, tajarrud, ukhuwwah, tsiqah — evaluasi diri dan kader dengan 10 pilar ini
+> 4. Waspada terhadap jebakan politik: keterlibatan politik membuka peluang besar tetapi juga risiko pragmatisme yang mendistorsi tujuan tarbiyah
+> *Aplikasi: Evaluasi organisasi dakwah kampusmu dengan 10 Rukun Bai'at. Mana yang paling kuat? Mana yang paling lemah? Jadikan ini alat audit kualitas kader secara berkala.*
 
 ### 5. Abul A'la Al-Maududi (1903-1979): Dakwah dan Negara
 
