@@ -341,4 +341,12 @@ Pilihannya ada di tangan kita. Dan Allah tidak akan mengubah nasib suatu kaum hi
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Dakwah Digital dan Media](../04-strategi-dakwah/03-dakwah-digital-dan-media.md) — Pemanfaatan teknologi untuk dakwah
+- [Intelektualitas dan Wawasan](../03-pembangunan-diri/03-intelektualitas-dan-wawasan.md) — Kesiapan intelektual di era AI
+- [Falsafah Tauhid Pergerakan](../01-fondasi-aqidah/04-falsafah-tauhid-pergerakan.md) — Kerangka filosofis menghadapi teknologi
+
+---
+
 *Selanjutnya: [Islam dan Kebangsaan Indonesia](./04-islam-dan-kebangsaan-indonesia.md)*

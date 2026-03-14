@@ -404,4 +404,12 @@ Falsafah tanpa *'amal* adalah filsafat mati. Tauhid tanpa gerakan adalah klaim k
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Blueprint Nabawi](../02-sirah-dan-sejarah/01-blueprint-nabawi.md) — Implementasi falsafah tauhid dalam sirah Nabi
+- [Tauhid Sosial dan Keadilan](./03-tauhid-sosial-dan-keadilan.md) — Dimensi keadilan dari falsafah tauhid
+- [Membangun Ekosistem Dakwah](../04-strategi-dakwah/05-membangun-ekosistem-dakwah.md) — Ekosistem dakwah sebagai manifestasi falsafah
+
+---
+
 *Kembali ke: [Daftar Isi](../DAFTAR_ISI.md)*

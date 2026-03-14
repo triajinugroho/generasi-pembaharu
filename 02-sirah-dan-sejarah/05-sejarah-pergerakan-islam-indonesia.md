@@ -365,4 +365,12 @@ Evaluasi ini bukan untuk mencela, tetapi untuk memperbaiki.
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Para Pembaharu Klasik](./03-para-pembaharu-klasik.md) — Akar klasik gerakan Islam Indonesia
+- [Peta Gerakan Dakwah Indonesia](../05-titik-temu-gerakan/01-peta-gerakan-dakwah-indonesia.md) — Peta kontemporer dari gerakan yang dirintis
+- [Islam dan Kebangsaan Indonesia](../06-tantangan-kontemporer/04-islam-dan-kebangsaan-indonesia.md) — Dialektika Islam-kebangsaan dalam sejarah
+
+---
+
 *Kembali ke: [Daftar Isi](../DAFTAR_ISI.md)*

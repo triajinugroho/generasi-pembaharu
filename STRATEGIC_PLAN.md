@@ -4,9 +4,9 @@
 
 ---
 
-## STATUS PROYEK: ✅ SELESAI + TRANSFORMASI MANHAJ DAKWAH
+## STATUS PROYEK: ✅ SELESAI SEMPURNA — TRANSFORMASI MANHAJ DAKWAH + CROSS-REFERENCES
 
-Seluruh 5 phase eksekusi + transformasi retorika manhaj dakwah telah diselesaikan. Buku telah bertransformasi dari kumpulan outline menjadi **manhaj dakwah masterpiece** dengan dalil terintegrasi mendalam, retorika menggugah, dan rasa tarbiyah yang kuat.
+Seluruh 5 phase eksekusi + transformasi retorika manhaj dakwah + Batch 4 (cross-references & finishing) telah diselesaikan. Buku telah bertransformasi dari kumpulan outline menjadi **manhaj dakwah masterpiece** dengan dalil terintegrasi mendalam, retorika menggugah, rasa tarbiyah yang kuat, dan jaringan cross-reference antar-bab yang utuh.
 
 ---
 
@@ -24,6 +24,7 @@ Seluruh 5 phase eksekusi + transformasi retorika manhaj dakwah telah diselesaika
 | Atsar sahabat/salaf | ~5 | ~15 | **~250** | ~50x |
 | Syair/syi'ir Islam | 0 | 0 | **~21** | +21 |
 | Terminologi tarbiyah | Sporadis | Sedang | **Masif (600+)** | — |
+| Bacaan Terkait (cross-ref) | 0 | 0 | **32 file** | +32 |
 | Esai | 4 | 9 | **9** | +5 |
 | Lampiran | 0 | 3 | **3** | +3 |
 | Mental Model Box | 0 | ~48 | **~48** | +48 |
@@ -83,7 +84,7 @@ Seluruh 5 phase eksekusi + transformasi retorika manhaj dakwah telah diselesaika
 
 | File | Lines | Mental Model | Rantai Logika | Titik Refleksi | Refleksi & Aksi | Status |
 |------|-------|:---:|:---:|:---:|:---:|--------|
-| 01-tauhid-sebagai-pembebasan.md | 162 | ✅ | ✅ | ✅ | ⚠️ Belum | ⚠️ Di bawah target (162/250) |
+| 01-tauhid-sebagai-pembebasan.md | 359 | ✅ | ✅ | ✅ | ✅ | ✅ Lengkap + Enriched |
 | 02-aqidah-yang-menggerakkan.md | 332 | ✅ | ✅ | ✅ | ✅ | ✅ Lengkap |
 | 03-tauhid-sosial-dan-keadilan.md | 277 | ✅ | ✅ | ✅ | ✅ | ✅ Lengkap |
 | 04-falsafah-tauhid-pergerakan.md | 333 | ✅ | ✅ | ✅ | ✅ | ✅ Lengkap |
@@ -102,7 +103,7 @@ Seluruh 5 phase eksekusi + transformasi retorika manhaj dakwah telah diselesaika
 
 | File | Lines | Mental Model | Rantai Logika | Titik Refleksi | Refleksi & Aksi | Status |
 |------|-------|:---:|:---:|:---:|:---:|--------|
-| 01-muraqabah-dan-muhasabah.md | 199 | ✅ | ✅ | ✅ | ⚠️ Belum | ⚠️ Sedikit di bawah target |
+| 01-muraqabah-dan-muhasabah.md | 288 | ✅ | ✅ | ✅ | ✅ | ✅ Lengkap + Enriched |
 | 02-manajemen-ruhani-dai.md | 235 | ✅ | ✅ | ✅ | ✅ | ✅ Lengkap |
 | 03-intelektualitas-dan-wawasan.md | 231 | ✅ | ✅ | ✅ | ✅ | ✅ Lengkap |
 | 04-kepemimpinan-profetik.md | 236 | ✅ | ✅ | ✅ | ✅ | ✅ Lengkap |
@@ -194,9 +195,9 @@ Seluruh 5 phase eksekusi + transformasi retorika manhaj dakwah telah diselesaika
 
 | File | Lines | Status |
 |------|-------|--------|
-| kitab-wajib.md | 177 | ✅ Updated |
-| tokoh-inspirasi.md | 271 | ✅ Updated |
-| glosarium.md | 280 | ✅ Updated |
+| kitab-wajib.md | 187 | ✅ Updated + Enriched |
+| tokoh-inspirasi.md | 319 | ✅ Updated + Enriched |
+| glosarium.md | 307 | ✅ Updated + Enriched |
 
 ### Lampiran
 
@@ -233,13 +234,19 @@ Mental Model Box, Rantai Logika Tauhid, dan Titik Refleksi telah ditambahkan ke 
 
 ---
 
-## CATATAN PERBAIKAN MINOR (Opsional)
+### Batch 4: CROSS-REFERENCES & FINISHING ✅ SELESAI
+- "Bacaan Terkait dalam Buku Ini" ditambahkan di **32 file** bab buku (Bab 0-7)
+- Setiap file memiliki 3 cross-reference tematik ke bab/file lain yang relevan
+- Glosarium diperkaya: +8 istilah tarbiyah baru (atsar, daurah, liqo, marhalah, mubtadi, mutawassith, mutaqaddim, tanzhim, usrah)
+- Kitab Wajib diperkaya: +Risalah Ta'lim detail, +Fiqh Da'wah al-Qaradhawi, +Al-Adab al-Mufrad
+- Tokoh Inspirasi diperkaya: +Hasan al-Bashri, +Imam Syafi'i, +Ibnu Qayyim al-Jauziyah, +Muhammad Iqbal
 
-Berikut item-item minor yang bisa diperbaiki jika diinginkan:
+## CATATAN
 
-1. **01-fondasi-aqidah/01-tauhid-sebagai-pembebasan.md** — 162 baris (di bawah target 250), belum ada section "Refleksi & Aksi"
-2. **03-pembangunan-diri/01-muraqabah-dan-muhasabah.md** — 199 baris (sedikit di bawah target), belum ada section "Refleksi & Aksi"
-3. **Cross-reference "Bacaan Terkait"** — belum diimplementasi di file konten (hanya direncanakan di Phase 4A tapi belum dieksekusi)
+Semua item perbaikan minor dari audit sebelumnya telah diselesaikan:
+- ✅ **01-tauhid-sebagai-pembebasan.md** — Diperluas ke 359 baris (dari 162), section "Refleksi & Aksi" ditambahkan
+- ✅ **01-muraqabah-dan-muhasabah.md** — Diperluas ke 288 baris (dari 199), section "Refleksi & Aksi" ditambahkan
+- ✅ **Cross-reference "Bacaan Terkait"** — Diimplementasi di 32 file bab buku
 
 ---
 

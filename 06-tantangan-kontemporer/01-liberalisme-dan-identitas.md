@@ -336,4 +336,12 @@ Inilah yang kita butuhkan hari ini: generasi Muslim yang cukup terdidik untuk me
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Peta Krisis Pemuda Islam Indonesia](../00-mukadimah/02-peta-krisis-pemuda-islam-indonesia.md) — Analisis krisis identitas pemuda
+- [Aqidah yang Menggerakkan](../01-fondasi-aqidah/02-aqidah-yang-menggerakkan.md) — Aqidah sebagai jawaban krisis identitas
+- [Fiqh Dakwah Kontemporer](../04-strategi-dakwah/02-fiqh-dakwah-kontemporer.md) — Strategi dakwah menghadapi liberalisme
+
+---
+
 *Selanjutnya: [Era Post-Truth dan Media Sosial](./02-era-post-truth-dan-media-sosial.md)*

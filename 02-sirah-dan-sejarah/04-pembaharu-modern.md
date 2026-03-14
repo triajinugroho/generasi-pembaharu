@@ -362,4 +362,12 @@ Kesadaran tentang akar intelektual gerakan sendiri akan membantumu memahami keku
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Sejarah Pergerakan Islam Indonesia](./05-sejarah-pergerakan-islam-indonesia.md) — Konteks lokal gerakan pembaharuan
+- [Dakwah Struktural dan Kultural](../04-strategi-dakwah/04-dakwah-struktural-dan-kultural.md) — Pendekatan struktural yang dirintis pembaharu modern
+- [Liberalisme dan Identitas](../06-tantangan-kontemporer/01-liberalisme-dan-identitas.md) — Tantangan identitas yang dijawab para pembaharu
+
+---
+
 *Selanjutnya: [Sejarah Pergerakan Islam Indonesia](./05-sejarah-pergerakan-islam-indonesia.md)*

@@ -257,4 +257,12 @@ Jadilah orang yang haus ilmu. Bukan haus gelar, bukan haus pengakuan — tapi ha
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Kepemimpinan Profetik](./04-kepemimpinan-profetik.md) — Intelektualitas sebagai bekal kepemimpinan
+- [Fiqh Dakwah Kontemporer](../04-strategi-dakwah/02-fiqh-dakwah-kontemporer.md) — Wawasan untuk memahami konteks dakwah
+- [AI, Teknologi, dan Masa Depan](../06-tantangan-kontemporer/03-ai-teknologi-dan-masa-depan.md) — Kesiapan intelektual menghadapi era teknologi
+
+---
+
 *Selanjutnya: [Kepemimpinan Profetik](./04-kepemimpinan-profetik.md)*

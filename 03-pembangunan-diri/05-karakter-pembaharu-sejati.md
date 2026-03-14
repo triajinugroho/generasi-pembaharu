@@ -299,4 +299,12 @@ Tutuplah buku ini. Buka mushafmu. Dan mulailah perjalananmu sebagai pembaharu se
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Aqidah yang Menggerakkan](../01-fondasi-aqidah/02-aqidah-yang-menggerakkan.md) — Aqidah hidup yang membentuk karakter
+- [Manajemen Ruhani Da'i](./02-manajemen-ruhani-dai.md) — Fondasi spiritual karakter pembaharu
+- [Generasi Sahabat](../02-sirah-dan-sejarah/02-generasi-sahabat.md) — Teladan karakter dari generasi terbaik
+
+---
+
 *Kembali ke: [Daftar Isi](../DAFTAR_ISI.md)*

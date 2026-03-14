@@ -445,4 +445,12 @@ Setiap revolusi besar dimulai dari segelintir orang yang benar-benar percaya.
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Generasi Sahabat](./02-generasi-sahabat.md) — Buah dari blueprint Nabawi
+- [Kepemimpinan Profetik](../03-pembangunan-diri/04-kepemimpinan-profetik.md) — Model kepemimpinan dari sirah Nabi
+- [Prinsip Dakwah Qurani](../04-strategi-dakwah/01-prinsip-dakwah-qurani.md) — Prinsip-prinsip yang mendasari blueprint Nabawi
+
+---
+
 *Selanjutnya: [Generasi Sahabat](./02-generasi-sahabat.md)*

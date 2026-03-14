@@ -316,4 +316,12 @@ Waktu yang tepat adalah sekarang. Bekal delapan prinsip ini sudah di tanganmu. P
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Blueprint Nabawi](../02-sirah-dan-sejarah/01-blueprint-nabawi.md) — Implementasi prinsip Qurani dalam sirah Nabi
+- [Dakwah Digital dan Media](./03-dakwah-digital-dan-media.md) — Aplikasi prinsip Qurani di platform digital
+- [Fiqh Dakwah Kontemporer](./02-fiqh-dakwah-kontemporer.md) — Kontekstualisasi prinsip di era kontemporer
+
+---
+
 *Selanjutnya: [Fiqh Dakwah Kontemporer](./02-fiqh-dakwah-kontemporer.md)*

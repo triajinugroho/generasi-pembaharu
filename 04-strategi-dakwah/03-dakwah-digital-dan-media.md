@@ -298,4 +298,12 @@ Dakwah digital adalah salah satu bentuk "saling menasihati untuk kebenaran" di e
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Fiqh Dakwah Kontemporer](./02-fiqh-dakwah-kontemporer.md) — Kebijaksanaan strategi dakwah di era digital
+- [Era Post-Truth dan Media Sosial](../06-tantangan-kontemporer/02-era-post-truth-dan-media-sosial.md) — Tantangan digital yang harus dijawab
+- [AI, Teknologi, dan Masa Depan](../06-tantangan-kontemporer/03-ai-teknologi-dan-masa-depan.md) — Integrasi teknologi untuk dakwah
+
+---
+
 *Selanjutnya: [Dakwah Struktural dan Kultural](./04-dakwah-struktural-dan-kultural.md)*

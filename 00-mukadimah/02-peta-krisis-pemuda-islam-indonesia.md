@@ -168,4 +168,12 @@ Pertanyaannya sekarang: bagaimana kita menjawab? Itulah yang akan dibahas di bag
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Liberalisme dan Identitas](../06-tantangan-kontemporer/01-liberalisme-dan-identitas.md) — Analisis mendalam krisis identitas yang dihadapi pemuda
+- [Era Post-Truth dan Media Sosial](../06-tantangan-kontemporer/02-era-post-truth-dan-media-sosial.md) — Tantangan informasi yang memperparah krisis
+- [Muraqabah dan Muhasabah](../03-pembangunan-diri/01-muraqabah-dan-muhasabah.md) — Solusi rekonstruksi diri dari dalam
+
+---
+
 *Lanjut ke: [Visi Kebangkitan →](./03-visi-kebangkitan.md)*

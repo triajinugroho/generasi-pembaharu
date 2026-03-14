@@ -348,4 +348,12 @@ Imam Malik pernah ditanya empat puluh pertanyaan dan menjawab tiga puluh enam di
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Dakwah Digital dan Media](../04-strategi-dakwah/03-dakwah-digital-dan-media.md) — Strategi dakwah di ranah digital
+- [Intelektualitas dan Wawasan](../03-pembangunan-diri/03-intelektualitas-dan-wawasan.md) — Ketajaman berpikir menghadapi post-truth
+- [AI, Teknologi, dan Masa Depan](./03-ai-teknologi-dan-masa-depan.md) — Tantangan teknologi yang saling terkait
+
+---
+
 *Selanjutnya: [AI, Teknologi, dan Masa Depan](./03-ai-teknologi-dan-masa-depan.md)*

@@ -348,4 +348,12 @@ Dan perjalanan itu dimulai sekarang.
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Tauhid Sosial dan Keadilan](./03-tauhid-sosial-dan-keadilan.md) — Dimensi sosial tauhid yang membebaskan
+- [Kepemimpinan Profetik](../03-pembangunan-diri/04-kepemimpinan-profetik.md) — Model kepemimpinan berbasis tauhid
+- [Prinsip Dakwah Qurani](../04-strategi-dakwah/01-prinsip-dakwah-qurani.md) — Dakwah sebagai buah pembebasan tauhid
+
+---
+
 *Selanjutnya: [Aqidah yang Menggerakkan](./02-aqidah-yang-menggerakkan.md)*

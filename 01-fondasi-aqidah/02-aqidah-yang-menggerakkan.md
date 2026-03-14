@@ -387,4 +387,12 @@ Jika hatimu belum gemetar ketika nama Allah disebut — maka bab ini belum seles
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Karakter Pembaharu Sejati](../03-pembangunan-diri/05-karakter-pembaharu-sejati.md) — Karakter yang lahir dari aqidah hidup
+- [Fiqh Dakwah Kontemporer](../04-strategi-dakwah/02-fiqh-dakwah-kontemporer.md) — Memahami konteks dakwah dengan aqidah yang kokoh
+- [Epilog: Surat untuk Generasi Mendatang](../07-penutup/01-epilog-surat-untuk-generasi-mendatang.md) — Warisan aqidah untuk generasi selanjutnya
+
+---
+
 *Selanjutnya: [Tauhid Sosial dan Keadilan](./03-tauhid-sosial-dan-keadilan.md)*

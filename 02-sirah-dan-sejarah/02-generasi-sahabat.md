@@ -384,4 +384,12 @@ Latihan ini akan memperkuat pemahaman kolektif dan membangun ikatan kelompok.
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Para Pembaharu Klasik](./03-para-pembaharu-klasik.md) — Warisan sahabat yang dilanjutkan para pembaharu
+- [Karakter Pembaharu Sejati](../03-pembangunan-diri/05-karakter-pembaharu-sejati.md) — Karakter sahabat sebagai teladan pembaharu
+- [Blueprint Persatuan Umat](../05-titik-temu-gerakan/04-blueprint-persatuan-umat.md) — Model persatuan dari generasi sahabat
+
+---
+
 *Selanjutnya: [Para Pembaharu Klasik](./03-para-pembaharu-klasik.md)*

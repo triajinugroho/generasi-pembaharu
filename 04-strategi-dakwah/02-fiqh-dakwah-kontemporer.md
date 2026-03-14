@@ -299,4 +299,12 @@ Ingatlah pesan Al-Qaradhawi: *"Gerakan Islam membutuhkan dua sayap untuk terbang
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Prinsip Dakwah Qurani](./01-prinsip-dakwah-qurani.md) — Prinsip-prinsip dasar yang dikontekstualisasi
+- [Dakwah Struktural dan Kultural](./04-dakwah-struktural-dan-kultural.md) — Pendekatan strategis dakwah kontemporer
+- [Era Post-Truth dan Media Sosial](../06-tantangan-kontemporer/02-era-post-truth-dan-media-sosial.md) — Tantangan kontemporer bagi dakwah
+
+---
+
 *Selanjutnya: [Dakwah Digital dan Media](./03-dakwah-digital-dan-media.md)*

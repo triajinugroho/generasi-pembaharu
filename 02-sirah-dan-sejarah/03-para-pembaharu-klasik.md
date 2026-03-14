@@ -335,4 +335,12 @@ Identifikasi titik-titik lemah dan rancang langkah penguatan.
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Pembaharu Modern](./04-pembaharu-modern.md) — Estafet pembaharuan ke era modern
+- [Sejarah Pergerakan Islam Indonesia](./05-sejarah-pergerakan-islam-indonesia.md) — Pengaruh pembaharu klasik di Indonesia
+- [Falsafah Tauhid Pergerakan](../01-fondasi-aqidah/04-falsafah-tauhid-pergerakan.md) — Kesinambungan filosofis para mujaddid
+
+---
+
 *Selanjutnya: [Pembaharu Modern](./04-pembaharu-modern.md)*

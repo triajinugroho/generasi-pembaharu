@@ -158,4 +158,12 @@ Ya Allah, kami berlindung kepada-Mu dari ilmu yang tidak bermanfaat, dari hati y
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Tauhid sebagai Pembebasan](../01-fondasi-aqidah/01-tauhid-sebagai-pembebasan.md) — Fondasi tauhid yang menjadi prinsip pertama manifesto
+- [Prinsip Dakwah Qurani](../04-strategi-dakwah/01-prinsip-dakwah-qurani.md) — Prinsip-prinsip dakwah dari Al-Quran yang mendasari gerakan
+- [Peta Gerakan Dakwah Indonesia](../05-titik-temu-gerakan/01-peta-gerakan-dakwah-indonesia.md) — Konteks gerakan yang menjadi medan perjuangan pembaharu
+
+---
+
 *Lanjut ke: [Peta Krisis Pemuda Islam Indonesia →](./02-peta-krisis-pemuda-islam-indonesia.md)*

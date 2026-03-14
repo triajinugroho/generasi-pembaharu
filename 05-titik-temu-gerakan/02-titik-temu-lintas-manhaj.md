@@ -361,5 +361,13 @@ Takaful adalah cita-cita tertinggi ukhuwah Islamiyah. Ia menuntut kedewasaan spi
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Tauhid sebagai Pembebasan](../01-fondasi-aqidah/01-tauhid-sebagai-pembebasan.md) — Fondasi bersama yang mempersatukan
+- [Kolaborasi Strategis](./03-kolaborasi-strategis.md) — Dari titik temu menuju aksi kolaboratif
+- [Blueprint Persatuan Umat](./04-blueprint-persatuan-umat.md) — Cetak biru persatuan berbasis titik temu
+
+---
+
 *Selanjutnya: [Kolaborasi Strategis](./03-kolaborasi-strategis.md)*
 

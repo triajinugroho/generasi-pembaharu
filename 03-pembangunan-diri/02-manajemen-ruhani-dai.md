@@ -270,4 +270,12 @@ Mulailah hari ini. Bukan besok. Bukan setelah ujian. Bukan setelah acara besar s
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Muraqabah dan Muhasabah](./01-muraqabah-dan-muhasabah.md) — Fondasi kesadaran spiritual
+- [Kepemimpinan Profetik](./04-kepemimpinan-profetik.md) — Spiritualitas sebagai sumber kekuatan pemimpin
+- [Prinsip Dakwah Qurani](../04-strategi-dakwah/01-prinsip-dakwah-qurani.md) — Dakwah autentik dari hati yang terjaga
+
+---
+
 *Selanjutnya: [Intelektualitas dan Wawasan](./03-intelektualitas-dan-wawasan.md)*

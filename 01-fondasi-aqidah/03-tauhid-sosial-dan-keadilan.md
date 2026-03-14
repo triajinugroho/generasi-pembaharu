@@ -358,4 +358,12 @@ Ayat ini bukan sekadar narasi sejarah. Ia adalah pertanyaan yang ditujukan langs
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Falsafah Tauhid Pergerakan](./04-falsafah-tauhid-pergerakan.md) — Falsafah pergerakan berbasis tauhid sosial
+- [Dakwah Struktural dan Kultural](../04-strategi-dakwah/04-dakwah-struktural-dan-kultural.md) — Mewujudkan keadilan melalui dakwah struktural
+- [Islam dan Kebangsaan Indonesia](../06-tantangan-kontemporer/04-islam-dan-kebangsaan-indonesia.md) — Tauhid sosial dalam konteks kebangsaan
+
+---
+
 *Selanjutnya: [Falsafah Tauhid Pergerakan](./04-falsafah-tauhid-pergerakan.md)*

@@ -334,6 +334,14 @@ Allah berfirman: *"Kamu adalah umat terbaik yang dilahirkan untuk manusia, menyu
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Sejarah Pergerakan Islam Indonesia](../02-sirah-dan-sejarah/05-sejarah-pergerakan-islam-indonesia.md) — Preseden historis Islam-kebangsaan
+- [Tauhid Sosial dan Keadilan](../01-fondasi-aqidah/03-tauhid-sosial-dan-keadilan.md) — Keadilan sosial dalam konteks kebangsaan
+- [Blueprint Persatuan Umat](../05-titik-temu-gerakan/04-blueprint-persatuan-umat.md) — Persatuan umat dalam bingkai kebangsaan
+
+---
+
 *Selanjutnya: [Penutup — Epilog: Surat untuk Generasi Mendatang](../07-penutup/01-epilog-surat-untuk-generasi-mendatang.md)*
 
 *Kembali ke: [Daftar Isi](../DAFTAR_ISI.md)*

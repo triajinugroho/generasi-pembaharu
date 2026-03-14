@@ -274,4 +274,12 @@ Dan yang paling indah dari kepemimpinan profetik: ia tidak membutuhkan jabatan r
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Karakter Pembaharu Sejati](./05-karakter-pembaharu-sejati.md) — Karakter sebagai fondasi kepemimpinan
+- [Blueprint Nabawi](../02-sirah-dan-sejarah/01-blueprint-nabawi.md) — Model kepemimpinan dari sirah Nabi
+- [Membangun Ekosistem Dakwah](../04-strategi-dakwah/05-membangun-ekosistem-dakwah.md) — Kepemimpinan dalam membangun ekosistem
+
+---
+
 *Selanjutnya: [Karakter Pembaharu Sejati](./05-karakter-pembaharu-sejati.md)*

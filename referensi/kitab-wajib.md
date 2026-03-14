@@ -60,15 +60,25 @@ Manifesto kebangkitan Islam yang paling berpengaruh di abad ke-20. Kontroversial
 Panduan praktis dakwah fardiyah (person to person). Teknis, aplikatif, dan teruji di lapangan.
 **Mengapa penting:** Dakwah bukan hanya ceramah di mimbar — dakwah personal adalah tulang punggung gerakan.
 
-### Risalah Pergerakan
+### Risalah Pergerakan (termasuk Risalah Ta'lim)
 **Penulis:** Hasan Al-Banna (w. 1949)
-Kumpulan risalah pendiri Ikhwanul Muslimin tentang visi, misi, dan strategi dakwah. Visioner dan menginspirasi, perlu kontekstualisasi untuk zaman sekarang.
-**Mengapa penting:** Memahami akar pemikiran gerakan dakwah kontemporer yang paling luas pengaruhnya.
+Kumpulan risalah pendiri Ikhwanul Muslimin tentang visi, misi, dan strategi dakwah. **Risalah Ta'lim** secara khusus memuat rukun-rukun baiat dan arkanul bai'ah yang menjadi fondasi pembinaan kader — dari *al-fahm* (pemahaman) hingga *al-tsiqqah* (kepercayaan). Visioner dan menginspirasi, perlu kontekstualisasi untuk zaman sekarang.
+**Mengapa penting:** Memahami akar pemikiran gerakan dakwah kontemporer yang paling luas pengaruhnya. Risalah Ta'lim khususnya menjadi teks rujukan utama dalam sistem tarbiyah halaqah di seluruh dunia.
 
 ### Jundullah (Tentara Allah)
 **Penulis:** Said Hawwa (w. 1989)
 Panduan pembinaan karakter aktivis dakwah yang menggabungkan dimensi spiritual, intelektual, dan gerakan. Sistematis dan mendalam dalam membahas kualitas-kualitas yang harus dimiliki seorang pejuang dakwah.
 **Mengapa penting:** Memberikan cetak biru pembentukan kader dakwah yang utuh — dari kebersihan jiwa hingga kesiapan bergerak di medan nyata.
+
+### Fiqh Al-Da'wah ila Allah
+**Penulis:** Yusuf Al-Qaradhawi
+Panduan komprehensif tentang prinsip, metode, dan etika dakwah dari perspektif fiqh kontemporer. Al-Qaradhawi membahas fiqh aulawiyyat (prioritas), fiqh muwazanat (keseimbangan), dan fiqh maqashid (tujuan syariah) dalam konteks gerakan dakwah.
+**Mengapa penting:** Memberikan kerangka fiqih dakwah yang matang — bagaimana menimbang maslahah, menetapkan prioritas, dan berdakwah dengan hikmah di era kompleksitas.
+
+### Al-Adab Al-Mufrad
+**Penulis:** Imam Al-Bukhari (w. 256 H)
+Kumpulan hadits tentang adab dan akhlak yang disusun oleh pengarang Shahih Bukhari. Memuat ratusan hadits tentang hubungan sosial, silaturahmi, kasih sayang, kejujuran, dan keluhuran budi pekerti.
+**Mengapa penting:** Melengkapi dimensi akhlak dalam pembinaan da'i — bukan hanya tahu hukum, tapi juga hidup dengan adab yang Nabawi.
 
 ### Dakwah Kampus
 **Penulis:** Abu Ridha

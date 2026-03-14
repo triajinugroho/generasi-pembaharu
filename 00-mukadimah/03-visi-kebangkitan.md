@@ -129,4 +129,12 @@ Maka mari bergerak. Bukan dengan tergesa-gesa, tapi dengan ilmu. Bukan sendirian
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Falsafah Tauhid Pergerakan](../01-fondasi-aqidah/04-falsafah-tauhid-pergerakan.md) — Fondasi filosofis yang menopang visi kebangkitan
+- [Dakwah Struktural dan Kultural](../04-strategi-dakwah/04-dakwah-struktural-dan-kultural.md) — Pendekatan ganda untuk mewujudkan visi
+- [Blueprint Persatuan Umat](../05-titik-temu-gerakan/04-blueprint-persatuan-umat.md) — Cetak biru persatuan sebagai pilar kebangkitan
+
+---
+
 *Lanjut ke: [Fondasi Aqidah →](../01-fondasi-aqidah/)*

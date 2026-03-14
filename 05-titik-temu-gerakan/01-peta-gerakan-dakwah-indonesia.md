@@ -363,4 +363,12 @@ Sebagaimana dalam sebuah usrah tarbiyah ada yang kuat di tilawah, ada yang kuat 
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Manifesto Generasi Pembaharu](../00-mukadimah/01-manifesto-generasi-pembaharu.md) — Visi persatuan yang mendasari pemetaan
+- [Sejarah Pergerakan Islam Indonesia](../02-sirah-dan-sejarah/05-sejarah-pergerakan-islam-indonesia.md) — Akar sejarah gerakan-gerakan yang dipetakan
+- [Titik Temu Lintas Manhaj](./02-titik-temu-lintas-manhaj.md) — Menemukan kesamaan di balik perbedaan
+
+---
+
 *Selanjutnya: [Titik Temu Lintas Manhaj](./02-titik-temu-lintas-manhaj.md)*

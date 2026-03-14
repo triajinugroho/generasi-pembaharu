@@ -159,4 +159,12 @@ Ya Allah, terimalah dari kami. Ya Allah, jangan hinakan kami pada hari amal-amal
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Manifesto Generasi Pembaharu](../00-mukadimah/01-manifesto-generasi-pembaharu.md) — Visi awal yang menjadi warisan
+- [Falsafah Tauhid Pergerakan](../01-fondasi-aqidah/04-falsafah-tauhid-pergerakan.md) — Warisan filosofis untuk generasi selanjutnya
+- [Doa Penutup](./02-doa-penutup.md) — Penutup spiritual dari surat ini
+
+---
+
 *Selanjutnya: [Doa Penutup](./02-doa-penutup.md)*

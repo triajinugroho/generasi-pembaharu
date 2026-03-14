@@ -277,4 +277,12 @@ Mulailah malam ini.
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Manajemen Ruhani Da'i](./02-manajemen-ruhani-dai.md) — Pengelolaan spiritual sebagai kelanjutan muraqabah
+- [Karakter Pembaharu Sejati](./05-karakter-pembaharu-sejati.md) — Muhasabah sebagai fondasi karakter pembaharu
+- [Fiqh Dakwah Kontemporer](../04-strategi-dakwah/02-fiqh-dakwah-kontemporer.md) — Kebijaksanaan dakwah yang lahir dari muhasabah
+
+---
+
 *Selanjutnya: [Manajemen Ruhani Da'i](./02-manajemen-ruhani-dai.md)*

@@ -395,4 +395,12 @@ Bacalah ikrar ini dengan hati yang hadir, di hadapan Allah yang Maha Mendengar:
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Peta Gerakan Dakwah Indonesia](./01-peta-gerakan-dakwah-indonesia.md) — Realitas yang menjadi titik tolak blueprint
+- [Kolaborasi Strategis](./03-kolaborasi-strategis.md) — Mekanisme kolaborasi dalam blueprint
+- [Visi Kebangkitan](../00-mukadimah/03-visi-kebangkitan.md) — Visi besar yang menaungi blueprint persatuan
+
+---
+
 *Kembali ke: [Daftar Isi](../DAFTAR_ISI.md)*

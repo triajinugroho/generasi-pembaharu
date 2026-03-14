@@ -184,4 +184,12 @@ Maha Suci Engkau ya Allah dan segala puji bagi-Mu. Aku bersaksi bahwa tiada tuha
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Tauhid sebagai Pembebasan](../01-fondasi-aqidah/01-tauhid-sebagai-pembebasan.md) — Fondasi spiritual yang mendasari doa
+- [Muraqabah dan Muhasabah](../03-pembangunan-diri/01-muraqabah-dan-muhasabah.md) — Praktik spiritual yang melengkapi doa
+- [Epilog: Surat untuk Generasi Mendatang](./01-epilog-surat-untuk-generasi-mendatang.md) — Pesan final sebelum doa penutup
+
+---
+
 *Kembali ke: [Daftar Isi](../DAFTAR_ISI.md)*

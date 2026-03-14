@@ -302,4 +302,12 @@ Karena di hadapan Allah, yang dihitung bukan melalui jalur mana kau berdakwah, m
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Tauhid Sosial dan Keadilan](../01-fondasi-aqidah/03-tauhid-sosial-dan-keadilan.md) — Fondasi keadilan bagi dakwah struktural
+- [Membangun Ekosistem Dakwah](./05-membangun-ekosistem-dakwah.md) — Ekosistem sebagai wadah dakwah struktural-kultural
+- [Kolaborasi Strategis](../05-titik-temu-gerakan/03-kolaborasi-strategis.md) — Kolaborasi lintas gerakan untuk perubahan struktural
+
+---
+
 *Selanjutnya: [Membangun Ekosistem Dakwah](./05-membangun-ekosistem-dakwah.md)*

@@ -339,4 +339,12 @@ Dan kepada Allah-lah kita menyerahkan hasilnya. *Wallahu a'lam bi ash-shawab.*
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Dakwah Struktural dan Kultural](./04-dakwah-struktural-dan-kultural.md) — Dimensi struktural dalam ekosistem dakwah
+- [Blueprint Persatuan Umat](../05-titik-temu-gerakan/04-blueprint-persatuan-umat.md) — Persatuan sebagai fondasi ekosistem
+- [Kepemimpinan Profetik](../03-pembangunan-diri/04-kepemimpinan-profetik.md) — Kepemimpinan yang membangun ekosistem
+
+---
+
 *Kembali ke: [Daftar Isi](../DAFTAR_ISI.md)*

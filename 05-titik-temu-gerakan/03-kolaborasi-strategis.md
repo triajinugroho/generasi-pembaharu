@@ -353,4 +353,12 @@ Jika proyek kecil berhasil, tingkatkan skala dan frekuensi. Dari satu kali menja
 
 ---
 
+### 📚 Bacaan Terkait dalam Buku Ini
+
+- [Dakwah Struktural dan Kultural](../04-strategi-dakwah/04-dakwah-struktural-dan-kultural.md) — Strategi bersama untuk perubahan
+- [Membangun Ekosistem Dakwah](../04-strategi-dakwah/05-membangun-ekosistem-dakwah.md) — Ekosistem sebagai wadah kolaborasi
+- [Titik Temu Lintas Manhaj](./02-titik-temu-lintas-manhaj.md) — Prinsip-prinsip dasar kolaborasi
+
+---
+
 *Selanjutnya: [Blueprint Persatuan Umat](./04-blueprint-persatuan-umat.md)*
