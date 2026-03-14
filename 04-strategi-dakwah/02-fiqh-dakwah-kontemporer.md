@@ -235,14 +235,14 @@ Fiqh dakwah kontemporer bukan ilmu yang cukup dibaca sekali — ia harus terus d
 
 9. **Baca Karya Al-Qaradhawi** — Untuk pendalaman, baca buku-buku Al-Qaradhawi tentang fiqh dakwah: *Fi Fiqh al-Awlawiyyat*, *Al-Shahwah al-Islamiyyah bayn al-Juhud wa al-Tatharruf*, dan *Awlawiyyat al-Harakah al-Islamiyyah*. Buku-buku ini memberikan kerangka berpikir yang sangat matang tentang bagaimana menjalankan dakwah secara cerdas dan bijak. Jika memungkinkan, jadikan salah satu buku ini sebagai bahan kajian buku (*book review*) bersama pengurus inti.
 
-10. **Musyawarah Strategis** — Adakan satu sesi musyawarah khusus untuk membahas lima cabang fiqh dakwah ini secara mendalam. Libatkan tidak hanya pengurus aktif, tapi juga alumni dan penasihat yang berpengalaman. Keputusan strategis yang dihasilkan dari musyawarah ini akan menjadi panduan arah dakwah selama setahun ke depan.
+10. **Musyawarah Strategis** — Adakan satu sesi musyawarah khusus untuk membahas lima cabang fiqh dakwah ini secara mendalam. Libatkan tidak hanya pengurus aktif, tapi juga alumni dan penasihat yang berpengalaman. Keputusan strategis yang dihasilkan dari musyawarah ini akan menjadi panduan arah dakwah selama setahun ke depan. Jadikan musyawarah strategis ini sebagai tradisi tahunan yang tidak pernah dilewatkan.
 
 > *"Tidaklah seorang hamba diberi sesuatu yang lebih baik dan lebih luas dari kesabaran."*
 > — HR. Bukhari dan Muslim
 
 Fiqh dakwah kontemporer mengajarkan kita bahwa dakwah yang cerdas bukan berarti dakwah yang rumit. Ia berarti dakwah yang tepat sasaran, tepat waktu, tepat cara, dan tepat ukuran. Dengan memahami lima cabang fiqh dakwah ini — prioritas, realitas, perbedaan, tahapan, dan keseimbangan — seorang aktivis dakwah kampus memiliki perangkat intelektual yang dibutuhkan untuk menjalankan dakwah secara efektif di era kontemporer.
 
-Ingatlah pesan Al-Qaradhawi: *"Gerakan Islam membutuhkan dua sayap untuk terbang — sayap semangat dan sayap fiqh. Tanpa semangat, ia tidak bergerak. Tanpa fiqh, ia bergerak tanpa arah."* Jadilah da'i yang memiliki kedua sayap ini.
+Ingatlah pesan Al-Qaradhawi: *"Gerakan Islam membutuhkan dua sayap untuk terbang — sayap semangat dan sayap fiqh. Tanpa semangat, ia tidak bergerak. Tanpa fiqh, ia bergerak tanpa arah."* Jadilah da'i yang memiliki kedua sayap ini — semangat yang membara dan fiqh yang matang. Itulah bekal terbaik untuk menjalankan dakwah di era kontemporer ini, di kampus-kampus Indonesia, dan di mana pun Allah menempatkan kita.
 
 ---
 

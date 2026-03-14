@@ -241,7 +241,9 @@ Bab ini telah membahas dua jalur besar dakwah — struktural dan kultural — be
 
 Menjadi "umat terbaik" bukan sekadar klaim — ia adalah tanggung jawab. Dan tanggung jawab itu membutuhkan kerja nyata di kedua jalur: struktural dan kultural. Aktivis dakwah kampus yang memahami keduanya dan mampu mengintegrasikan keduanya akan menjadi agen perubahan yang jauh lebih efektif — baik selama di kampus maupun setelah lulus dan terjun ke masyarakat.
 
-Pada akhirnya, baik dakwah struktural maupun kultural memiliki tujuan yang sama: menegakkan kebaikan dan mencegah kemungkaran. Yang membedakan hanyalah jalur dan mediumnya. Pilih jalur yang paling sesuai dengan bakat dan konteksmu — lalu jalankan dengan penuh keikhlasan, hikmah, dan istiqamah. Karena di hadapan Allah, yang dihitung bukan melalui jalur mana kau berdakwah, melainkan seberapa tulus dan konsisten kau menjalankannya.
+Pada akhirnya, baik dakwah struktural maupun kultural memiliki tujuan yang sama: menegakkan kebaikan dan mencegah kemungkaran. Yang membedakan hanyalah jalur dan mediumnya. Pilih jalur yang paling sesuai dengan bakat dan konteksmu — lalu jalankan dengan penuh keikhlasan, hikmah, dan istiqamah.
+
+Karena di hadapan Allah, yang dihitung bukan melalui jalur mana kau berdakwah, melainkan seberapa tulus dan konsisten kau menjalankannya. Dan ingatlah bahwa perubahan sejati membutuhkan kerja di kedua jalur secara simultan — struktural dan kultural, bagai dua sayap burung yang memungkinkannya terbang tinggi.
 
 ---
 

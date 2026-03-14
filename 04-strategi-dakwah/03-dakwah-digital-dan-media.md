@@ -15,6 +15,8 @@ Bab ini memberikan panduan praktis bagi aktivis dakwah kampus untuk memanfaatkan
 
 Yang perlu ditekankan sejak awal: dakwah digital bukan pengganti dakwah tatap muka. Ia adalah pelengkap dan perluasan. Kekuatan halaqah, kedalaman diskusi empat mata, dan kehangatan persaudaraan nyata tidak bisa digantikan oleh layar apapun. Namun di saat yang sama, mengabaikan dunia digital berarti membiarkan jutaan mad'u potensial tanpa akses ke dakwah yang benar.
 
+Tantangan terbesar dakwah digital bukan soal teknologi — ia soal bagaimana mempertahankan substansi dan kedalaman di medium yang cenderung dangkal dan serba cepat. Bab ini akan membahas bagaimana menghadapi tantangan ini secara praktis.
+
 ### 1. Lanskap Digital Indonesia
 
 Untuk berdakwah di ranah digital, kita harus memahami medannya terlebih dahulu. Berikut gambaran lanskap digital Indonesia yang relevan untuk dakwah:
