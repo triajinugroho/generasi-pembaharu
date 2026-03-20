@@ -384,6 +384,142 @@ Omar Suleiman adalah pendakwah Amerika dan pendiri Yaqeen Institute for Islamic 
 
 ---
 
+### Tariq Ramadan (1962- M)
+
+**Intelektual Muslim Eropa dan Pemikir Reformis**
+
+Tariq Ramadan — cucu Hasan Al-Banna — menjadi salah satu suara Muslim paling berpengaruh di Eropa. Buku-bukunya seperti *Western Muslims and the Future of Islam* dan *Radical Reform* menantang Muslim di Barat untuk tidak sekadar beradaptasi, tapi berkontribusi aktif membentuk masyarakat yang mereka tinggali. Ia mempopulerkan konsep *dar al-shahada* (wilayah kesaksian) — bahwa Muslim di manapun memiliki tanggung jawab untuk menjadi saksi kebenaran, bukan sekadar minoritas yang bertahan hidup.
+
+**Kontribusi utama:** Membangun kerangka intelektual bagi Muslim yang hidup di konteks non-mayoritas. Menunjukkan bahwa fiqh kontemporer harus berinteraksi serius dengan realitas sosial, bukan hanya mengulang fatwa masa lalu.
+
+**Pelajaran bagi kita:** Konteks menentukan strategi — dakwah di kampus Jawa berbeda dari dakwah di Papua, dan keduanya membutuhkan ijtihad yang segar.
+
+---
+
+## Kontemporer: Tokoh Sosial, Politik, dan Ekonomi
+
+### Ahmad Syafii Maarif (1935-2022 M)
+
+**Cendekiawan Muslim dan Jembatan Antar-Peradaban**
+
+Buya Syafii Maarif — mantan Ketua Umum PP Muhammadiyah — adalah intelektual Muslim Indonesia yang dihormati lintas golongan. Berlatar belakang akademik dari University of Chicago, ia memadukan kedalaman ilmu Islam dengan pemahaman mendalam tentang filsafat Barat. Melalui Maarif Institute, ia memperjuangkan Islam yang moderat, toleran, dan berkebudayaan. Di saat banyak tokoh terjebak dalam polarisasi, Buya Syafii menjadi jembatan — dihormati oleh NU, Muhammadiyah, akademisi sekuler, bahkan tokoh lintas agama.
+
+**Kontribusi utama:** Buku *Islam dalam Bingkai Keindonesiaan dan Kemanusiaan* menjadi rujukan penting tentang Islam Nusantara. Maarif Institute mempromosikan dialog peradaban dan counter-radikalisme melalui pendidikan. Keberaniannya mengkritik ekstremisme dari dalam gerakan Islam.
+
+**Pelajaran bagi kita:** Kecintaan pada Islam dan kecintaan pada kemanusiaan bukan dua hal yang bertentangan — justru keduanya saling menyempurnakan.
+
+---
+
+### Recep Tayyip Erdogan (1954- M)
+
+**Pemimpin Politik Muslim di Panggung Global**
+
+Erdogan mengubah Turki dari negara yang melarang hijab di kampus menjadi kekuatan ekonomi-politik yang diperhitungkan dunia. Sebagai Walikota Istanbul (1994), Perdana Menteri (2003), dan Presiden (2014-kini), ia menunjukkan bahwa politisi berlatar belakang Islamis bisa memimpin negara modern dengan sukses. Di bawah kepemimpinannya, GDP Turki melonjak drastis, infrastruktur dimodernisasi, dan Turki menjadi suara utama dunia Muslim di forum internasional — terutama dalam membela Palestina.
+
+**Kontribusi utama:** Membuktikan bahwa identitas Islam tidak menghalangi pembangunan ekonomi dan modernisasi. Menginspirasi generasi politisi Muslim di seluruh dunia bahwa kekuasaan bisa digunakan untuk kemuliaan umat.
+
+**Catatan kritis:** Kepemimpinan Erdogan juga menuai kritik soal kebebasan pers, konsolidasi kekuasaan, dan kebijakan dalam negeri. Belajar dari Erdogan berarti juga belajar bahwa kekuasaan — sebesar apa pun — membutuhkan kontrol dan akuntabilitas.
+
+**Pelajaran bagi kita:** Visi besar membutuhkan kekuatan politik dan ekonomi. Tapi kekuasaan tanpa akuntabilitas adalah ujian yang jarang dimenangkan.
+
+---
+
+### Muhammad Yunus (1940- M)
+
+**Bankir Kaum Miskin dan Peraih Nobel Perdamaian**
+
+Muhammad Yunus — ekonom Bangladesh, Muslim — mendirikan Grameen Bank pada 1983 berdasarkan prinsip yang revolusioner: orang miskin layak mendapat pinjaman, dan mereka bisa dipercaya untuk mengembalikannya. Konsep *microfinance* yang ia ciptakan telah mengangkat jutaan keluarga dari kemiskinan di seluruh dunia. Ia dianugerahi Nobel Perdamaian 2006 karena membuktikan bahwa ekonomi bisa menjadi alat pembebasan, bukan penindasan.
+
+**Kontribusi utama:** Membuktikan bahwa model bisnis bisa dirancang untuk melayani kaum papa, bukan hanya menguntungkan yang sudah kaya. Konsep *social business* — bisnis yang mengukur keberhasilan dari dampak sosial, bukan profit — menjadi inspirasi bagi gerakan ekonomi kerakyatan di seluruh dunia, termasuk BMT di Indonesia.
+
+**Pelajaran bagi kita:** Islam memerintahkan keadilan ekonomi — dan keadilan itu membutuhkan inovasi, bukan hanya niat baik. Aktivis dakwah yang serius harus berpikir tentang model ekonomi, bukan hanya model tarbiyah.
+
+---
+
+### Dompet Dhuafa & Filantropi Islam Indonesia
+
+**Model Kemandirian Umat Melalui Filantropi Profesional**
+
+Dompet Dhuafa, didirikan oleh jurnalis Parni Hadi dan Erie Sudewo pada 1993, mengubah paradigma pengelolaan zakat di Indonesia — dari model tradisional berbasis masjid menjadi lembaga filantropi profesional berskala nasional. Dengan lebih dari 20 program strategis (pendidikan, kesehatan, ekonomi, kebencanaan), Dompet Dhuafa membuktikan bahwa zakat yang dikelola secara profesional bisa menjadi mesin transformasi sosial. Model ini kemudian diikuti oleh Rumah Zakat, Baznas, dan puluhan lembaga lainnya.
+
+**Kontribusi utama:** Membangun standar profesionalisme pengelolaan filantropi Islam di Indonesia. Program-program pemberdayaan ekonomi mustahik menunjukkan bahwa zakat bukan sekadar bantuan konsumtif, tapi investasi produktif untuk kemandirian umat.
+
+**Pelajaran bagi kita:** Niat baik tanpa manajemen profesional tidak akan menghasilkan dampak maksimal. Umat Islam Indonesia punya potensi filantropi ratusan triliun — yang dibutuhkan adalah SDM yang kompeten mengelolanya.
+
+---
+
+### Haedar Nashir (1958- M)
+
+**Pemimpin Gerakan Sosial Islam Terbesar Kedua di Dunia**
+
+Sebagai Ketua Umum PP Muhammadiyah (2015-kini), Haedar Nashir memimpin organisasi dengan lebih dari 30 juta simpatisan, ribuan sekolah, ratusan rumah sakit, dan puluhan universitas. Di bawah kepemimpinannya, Muhammadiyah terus memperkuat posisinya sebagai gerakan Islam berkemajuan — menggabungkan tajdid (pembaruan keagamaan) dengan tanfidz (pelaksanaan amal sosial). Ia konsisten menyuarakan Islam moderat dan menolak politik identitas yang memecah belah.
+
+**Kontribusi utama:** Mempertahankan Muhammadiyah sebagai kekuatan moral dan sosial yang independen dari kepentingan politik praktis. Mendorong gagasan *Islam Berkemajuan* sebagai sintesis antara keislaman, keilmuan, dan kemanusiaan.
+
+**Pelajaran bagi kita:** Organisasi besar membutuhkan pemimpin yang bisa menjaga keseimbangan antara prinsip dan pragmatisme, antara idealisme dan realisme.
+
+---
+
+### Yahya Cholil Staquf (1966- M)
+
+**Ketua Umum PBNU dan Diplomat Perdamaian**
+
+Gus Yahya — Ketua Umum PBNU — membawa NU ke panggung internasional dengan kampanye *Humanitarian Islam* yang menyerukan reformasi pemikiran Islam dari dalam. Ia berani membuka dialog tentang topik-topik sensitif: hubungan Islam dengan negara-bangsa modern, pluralisme, dan revisi terminologi keagamaan yang bisa disalahgunakan untuk kekerasan. Di dalam negeri, ia memimpin NU dengan visi memperkuat pesantren sebagai basis intelektual dan ekonomi umat.
+
+**Kontribusi utama:** Kampanye *Humanitarian Islam* di forum PBB dan G20 menunjukkan bahwa suara Islam moderat bisa diperhitungkan di level global. Mendorong NU untuk lebih aktif dalam ekonomi kreatif dan digital.
+
+**Pelajaran bagi kita:** Keberanian membuka dialog tentang hal-hal sulit — tanpa meninggalkan prinsip — adalah tanda kepemimpinan yang matang.
+
+---
+
+### Jusuf Hamka (1962- M)
+
+**Konglomerat Muslim dan Filantropis Dakwah**
+
+Jusuf Hamka — pengusaha konstruksi dan infrastruktur — menjadi contoh langka: konglomerat Muslim Indonesia yang secara terbuka menggunakan kekayaannya untuk dakwah. Ia membiayai pembangunan masjid, program tahfidz, dan dakwah di daerah terpencil. Yang membedakannya dari filantropis lain: ia terlibat langsung, bukan sekadar mentransfer dana. Ia menunjukkan model *Abdurrahman bin Auf kontemporer* — pengusaha yang menjadikan bisnisnya sebagai mesin dakwah.
+
+**Kontribusi utama:** Membuktikan bahwa bisnis besar dan dakwah bisa berjalan seiring. Menginspirasi generasi pengusaha Muslim untuk tidak memisahkan identitas keislaman dari aktivitas ekonomi mereka.
+
+**Pelajaran bagi kita:** Kemandirian ekonomi umat dimulai dari individu-individu Muslim yang berani berbisnis besar — dan berani menggunakan hasilnya untuk Allah.
+
+---
+
+### Ridwan Kamil (1971- M)
+
+**Arsitek, Pemimpin Kota, dan Da'i Digital**
+
+Ridwan Kamil — arsitek, mantan Walikota Bandung dan Gubernur Jawa Barat — membuktikan bahwa seorang Muslim bisa memimpin dengan gaya modern tanpa meninggalkan identitas keislaman. Ia memadukan keahlian profesional (arsitektur, urban planning), kepemimpinan publik, dan dakwah digital dengan cara yang natural dan tidak memaksa. Akun media sosialnya menjadi ruang dakwah kreatif yang menjangkau jutaan.
+
+**Kontribusi utama:** Menunjukkan bahwa da'i tidak harus di mimbar — pemimpin publik yang berintegritas dan visioner adalah bentuk dakwah bil-hal yang paling efektif. Membuktikan bahwa kompetensi profesional dan identitas keislaman saling menguatkan.
+
+**Pelajaran bagi kita:** Generasi pembaharu harus menguasai bidang profesional mereka dengan excellent — karena kompetensi adalah dakwah, dan hasil kerja nyata lebih meyakinkan dari seribu ceramah.
+
+---
+
+### Anis Baswedan (1969- M)
+
+**Akademisi, Menteri, dan Pemimpin Ibukota**
+
+Anies Baswedan — akademisi, mantan Rektor Universitas Paramadina, Menteri Pendidikan, dan Gubernur DKI Jakarta — menunjukkan bahwa intelektual Muslim bisa bergerak dari kampus ke birokrasi ke politik tanpa kehilangan integritas intelektualnya. Program *Indonesia Mengajar* yang ia dirikan membuktikan bahwa idealisme bisa diwujudkan dalam aksi nyata berskala nasional. Dalam politik, ia membawa gaya kepemimpinan yang berakar pada nilai-nilai keislaman dan keadilan sosial.
+
+**Kontribusi utama:** *Indonesia Mengajar* mengirim ribuan sarjana terbaik ke daerah terpencil — model gerakan sosial yang menginspirasi. Membuktikan bahwa pemuda terdidik bisa menjadi agen perubahan nyata, bukan hanya komentator di media sosial.
+
+**Pelajaran bagi kita:** Ilmu tanpa aksi adalah kemewahan yang tidak bisa kita biarkan. Pemuda Muslim yang terdidik punya hutang kepada masyarakat — dan hutang itu harus dibayar dengan kontribusi nyata.
+
+---
+
+### Sandiaga Uno (1969- M)
+
+**Pengusaha, Investor, dan Menteri Ekonomi Kreatif**
+
+Sandiaga Uno — pengusaha, investor, dan Menteri Pariwisata dan Ekonomi Kreatif — membuktikan bahwa seorang Muslim bisa menjadi pelaku ekonomi kelas dunia sambil tetap menjaga identitas dan nilai-nilai keislaman. Dari dunia private equity, ia bertransformasi menjadi tokoh publik yang memperjuangkan ekonomi kreatif dan UMKM sebagai tulang punggung kemandirian bangsa. Visinya tentang *ekonomi umat* yang berbasis digital, halal, dan berkelanjutan relevan dengan cita-cita kemandirian yang diusung oleh gerakan dakwah.
+
+**Kontribusi utama:** Mendorong ekosistem ekonomi halal dan kreatif Indonesia ke panggung global. Menunjukkan bahwa entrepreneurship Muslim bisa berskala besar tanpa mengorbankan prinsip.
+
+**Pelajaran bagi kita:** Ekonomi umat tidak akan maju dengan ceramah tentang ekonomi — tapi dengan Muslim yang benar-benar terjun membangun bisnis, menciptakan lapangan kerja, dan membuktikan bahwa nilai Islam kompatibel dengan kesuksesan ekonomi.
+
+---
+
 ## Penutup
 
 Daftar ini tidak lengkap — dan memang tidak dimaksudkan untuk lengkap. Setiap zaman melahirkan pembaharu-pembaharunya sendiri. Mungkin di antara kita hari ini ada yang sedang dipersiapkan Allah untuk peran itu.
