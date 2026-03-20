@@ -160,7 +160,7 @@ Objek dakwah, orang yang menjadi sasaran seruan dakwah. Memahami kondisi, kebutu
 Metode, pendekatan, jalan. Dalam konteks dakwah: pendekatan atau aliran pemikiran yang dianut oleh suatu kelompok dalam memahami dan mengamalkan Islam.
 
 **Marhalah** (مرحلة)
-Fase, tahapan. Dalam konteks dakwah dan tarbiyah, marhalah merujuk pada tahapan-tahapan pembinaan yang terstruktur — dari mubtadi (pemula) ke mutawassith (menengah) ke mutaqaddim (lanjutan). Juga merujuk pada fase-fase strategis gerakan dakwah: fase pembinaan (ta'rif), fase pembentukan (takwin), dan fase pelaksanaan (tanfidz).
+Fase, tahapan. Dalam konteks dakwah dan tarbiyah, marhalah merujuk pada tahapan-tahapan pembinaan yang terstruktur — dari tamhidi (persiapan) ke muayyid (pendukung) ke muntasib (anggota penuh). Juga merujuk pada fase-fase strategis gerakan dakwah: fase pembinaan (ta'rif), fase pembentukan (takwin), dan fase pelaksanaan (tanfidz).
 
 **Ma'rifatullah** (معرفة الله)
 Pengenalan mendalam terhadap Allah — mengenal nama-nama, sifat-sifat, dan perbuatan-Nya. Puncak dari ilmu dan tujuan akhir dari seluruh perjalanan spiritual.
@@ -171,8 +171,8 @@ Tujuan-tujuan syariat. Kerangka untuk memahami hikmah di balik hukum-hukum Islam
 **Maslahah** (مصلحة)
 Kemaslahatan, kebaikan umum. Salah satu pertimbangan utama dalam pengambilan keputusan hukum Islam. Fiqh muwazanat mengajarkan cara menimbang antara maslahah dan mafsadah (kerusakan) dalam setiap keputusan dakwah dan gerakan.
 
-**Mubtadi** (مبتدئ)
-Pemula, tingkat awal dalam jenjang tarbiyah. Seorang mubtadi baru memulai perjalanan pembinaan dan membutuhkan materi-materi dasar: pengenalan jati diri, dasar aqidah, teladan Rasulullah, dan adab seorang da'i.
+**Muayyid** (مؤيّد)
+Pendukung, tingkat menengah dalam jenjang tarbiyah. Seorang muayyid sudah melewati tahap persiapan dan mulai mendalami isu-isu strategis: pendalaman tauhid, sirah sebagai strategi, kepemimpinan, dakwah digital, dan analisis gerakan. Ia telah berkomitmen mendukung gerakan dakwah secara aktif.
 
 **Mujaddid** (مجدد)
 Pembaharu, orang yang memperbarui pemahaman dan pengamalan agama di zamannya. Setiap abad diharapkan melahirkan mujaddid sesuai hadits Nabi.
@@ -186,11 +186,8 @@ Fleksibilitas, kelenturan. Dalam konteks dakwah, murunah adalah kemampuan untuk 
 **Mutarabbi** (متربي)
 Orang yang sedang dibina dalam proses tarbiyah, peserta halaqah.
 
-**Mutaqaddim** (متقدم)
-Tingkat lanjutan dalam jenjang tarbiyah. Seorang mutaqaddim diharapkan mampu memahami falsafah pergerakan, merancang strategi makro, membangun institusi, dan memimpin kolaborasi lintas gerakan. Ia bukan lagi peserta — tapi calon pemimpin dakwah.
-
-**Mutawassith** (متوسط)
-Tingkat menengah dalam jenjang tarbiyah. Seorang mutawassith sudah melewati tahap dasar dan mulai mendalami isu-isu strategis: pendalaman tauhid, sirah sebagai strategi, kepemimpinan, dakwah digital, dan analisis gerakan.
+**Muntasib** (منتسب)
+Anggota penuh, tingkat lanjutan dalam jenjang tarbiyah. Seorang muntasib diharapkan mampu memahami falsafah pergerakan, merancang strategi makro, membangun institusi, dan memimpin kolaborasi lintas gerakan. Ia bukan lagi peserta — tapi calon pemimpin dakwah yang telah sepenuhnya berintegrasi dalam gerakan.
 
 ### N
 
@@ -252,6 +249,9 @@ Penjelasan dan penafsiran Al-Qur'an. Ilmu tafsir adalah ilmu yang paling mulia k
 
 **Tajdid** (تجديد)
 Pembaruan, revitalisasi. Memperbarui pemahaman dan pengamalan agama agar tetap segar dan relevan — bukan mengubah substansi, tapi menghidupkan kembali ruhnya.
+
+**Tamhidi** (تمهيدي)
+Persiapan, tingkat awal dalam jenjang tarbiyah. Seorang pada tahap tamhidi baru memulai perjalanan pembinaan dan membutuhkan materi-materi dasar: pengenalan jati diri, dasar aqidah, teladan Rasulullah, dan adab seorang da'i. Istilah ini merujuk pada fase persiapan (*i'dad*) sebelum seseorang siap terlibat aktif dalam gerakan dakwah.
 
 **Tanfidz** (تنفيذ)
 Pelaksanaan, eksekusi program. Dalam konteks dakwah kampus, tanfidz merujuk pada program-program eksternal yang memperluas dampak dakwah — menjangkau mahasiswa yang belum terjangkau dan memberikan kontribusi nyata kepada kampus dan masyarakat. Keseimbangan antara tarbiyah (pembinaan internal) dan tanfidz adalah kunci kesehatan organisasi dakwah.

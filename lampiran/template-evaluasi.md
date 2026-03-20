@@ -12,7 +12,7 @@ Evaluasi dalam tarbiyah berbeda dari evaluasi akademis. Kita tidak sedang member
 
 ## Rubrik Penilaian per Level
 
-### Level 1: Mubtadi (Pemula)
+### Level 1: Tamhidi (Persiapan)
 
 Peserta yang baru memulai perjalanan tarbiyah. Fokus pada fondasi.
 
@@ -24,7 +24,7 @@ Peserta yang baru memulai perjalanan tarbiyah. Fokus pada fondasi.
 | **Ilmu** | Membaca materi yang ditugaskan | Jarang membaca | Membaca tapi belum reflektif | Membaca, mencatat, dan mendiskusikan |
 | **Dakwah** | Kesediaan mengajak orang lain | Belum berani | Mulai mengajak teman dekat | Aktif mengajak dengan hikmah |
 
-### Level 2: Mutawassith (Menengah)
+### Level 2: Muayyid (Pendukung)
 
 Peserta yang sudah memiliki fondasi dan mulai mengembangkan kapasitas.
 
@@ -36,7 +36,7 @@ Peserta yang sudah memiliki fondasi dan mulai mengembangkan kapasitas.
 | **Ilmu** | Kemampuan mengajarkan ke orang lain | Belum mampu | Bisa menjelaskan konsep dasar | Bisa memfasilitasi diskusi sederhana |
 | **Dakwah** | Keterlibatan dalam program dakwah | Partisipan pasif | Kontributor aktif | Penggerak dan perencana |
 
-### Level 3: Mutaqaddim (Lanjutan)
+### Level 3: Muntasib (Anggota Penuh)
 
 Peserta yang siap menjadi fasilitator dan pemimpin.
 

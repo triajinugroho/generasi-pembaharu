@@ -33,7 +33,7 @@ Repo ini hadir untuk menjawab ketiganya. Secara holistik. Secara mendalam. Secar
 | Prinsip | Penjelasan |
 |---------|-----------|
 | **Lintas Manhaj** | Mengambil hikmah dari semua aliran, tanpa menyerang satu pun. Fokus pada titik temu. |
-| **Progressive** | Materi bertingkat dari dasar (mubtadi) hingga lanjutan (mutaqaddim). |
+| **Progressive** | Materi bertingkat dari dasar (tamhidi) hingga lanjutan (muntasib). |
 | **Inklusif** | Tidak partisan. Bukan milik satu organisasi. Milik umat. |
 | **Actionable** | Setiap materi berakhir dengan refleksi dan aksi nyata. |
 | **Kontekstual** | Berakar pada Al-Quran & Sunnah, membumi di realitas Indonesia. |
@@ -57,9 +57,9 @@ Repo ini hadir untuk menjawab ketiganya. Secara holistik. Secara mendalam. Secar
 
 | Level | Nama | Target |
 |-------|------|--------|
-| 1 | [Mubtadi (Pemula)](./kurikulum/level-1-mubtadi/) | Aktivis baru, 6 sesi |
-| 2 | [Mutawassith (Menengah)](./kurikulum/level-2-mutawassith/) | Pengurus aktif, 6 sesi |
-| 3 | [Mutaqaddim (Lanjutan)](./kurikulum/level-3-mutaqaddim/) | Pemimpin dakwah, 6 sesi |
+| 1 | [Tamhidi (Persiapan)](./kurikulum/level-1-tamhidi/) | Aktivis baru, 6 sesi |
+| 2 | [Muayyid (Pendukung)](./kurikulum/level-2-muayyid/) | Pengurus aktif, 6 sesi |
+| 3 | [Muntasib (Anggota Penuh)](./kurikulum/level-3-muntasib/) | Pemimpin dakwah, 6 sesi |
 
 ### Esai & Tulisan Lepas
 
@@ -87,14 +87,17 @@ Repo ini hadir untuk menjawab ketiganya. Secara holistik. Secara mendalam. Secar
 
 ## Cara Menggunakan
 
-### Sebagai Pembaca Mandiri
-Mulai dari [Mukadimah](./00-mukadimah/) dan ikuti urutan bab. Setiap file memiliki penanda level agar Anda tahu kedalaman pembahasannya.
+Repositori ini bisa digunakan oleh berbagai kalangan — dari aktivis baru hingga akademisi. Kami menyediakan **[Panduan Lengkap Cara Menggunakan](./CARA-MENGGUNAKAN.md)** dengan 5 jalur berbeda sesuai profil pembaca:
 
-### Sebagai Mentor/Murabbi
-Gunakan [Kurikulum Training](./kurikulum/) yang sudah disusun per-level dengan sesi terstruktur, diskusi, dan evaluasi.
+| Jalur | Untuk Siapa | Mulai Dari |
+|-------|-------------|------------|
+| Aktivis Baru | Baru bergabung LDK/Rohis | Mukadimah → Kurikulum Tamhidi |
+| Murabbi/Fasilitator | Menjalankan halaqah | Panduan Fasilitator → Kurikulum |
+| Ketua LDK | Merancang program dakwah | Strategi Dakwah → Titik Temu |
+| Pembaca Mandiri | Belajar sendiri | Mukadimah → ikuti urutan bab |
+| Akademisi/Peneliti | Riset gerakan dakwah | Daftar Isi → Glosarium → Referensi |
 
-### Sebagai Referensi
-Langsung navigasi ke topik yang Anda butuhkan melalui [Daftar Isi Lengkap](./DAFTAR_ISI.md).
+Baca panduan lengkapnya di **[CARA-MENGGUNAKAN.md](./CARA-MENGGUNAKAN.md)**.
 
 ## Berkontribusi
 

@@ -1,6 +1,6 @@
 # Sesi 03 — Kepemimpinan Dakwah: Servant Leadership, Syura, dan Delegasi
 
-**Level:** 2 — Mutawassith (Menengah)
+**Level:** 2 — Muayyid (Pendukung)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz/Mentor Level 2
 

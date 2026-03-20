@@ -2,7 +2,7 @@
 
 > *"Demi masa. Sesungguhnya manusia berada dalam kerugian, kecuali orang-orang yang beriman, beramal saleh, saling menasihati dalam kebenaran, dan saling menasihati dalam kesabaran."* (QS. Al-'Ashr: 1-3)
 
-> **Level**: Mubtadi (Pemula) | **Durasi**: 120 menit
+> **Level**: Tamhidi (Persiapan) | **Durasi**: 120 menit
 
 ## Tujuan Pembelajaran
 1. Peserta mereview dan mengkonsolidasikan semua pelajaran dari Level 1
@@ -177,8 +177,8 @@ Allah berfirman:
 > *"Sesungguhnya orang-orang yang berkata 'Tuhan kami adalah Allah,' kemudian mereka istiqamah, maka malaikat-malaikat akan turun kepada mereka (mengatakan): 'Janganlah kamu takut dan janganlah kamu bersedih, dan bergembiralah dengan surga yang telah dijanjikan kepadamu.'"* (QS. Fushshilat: 30)
 
 ### Penyerahan Sertifikat dan Penjelasan Level 2
-- Penyerahan sertifikat penyelesaian Level 1 (Mubtadi) — jika ada
-- Penjelasan tentang Level 2: Mutawassith — apa yang akan dipelajari, apa yang diharapkan, bagaimana marhalah selanjutnya akan membawa mereka lebih dalam
+- Penyerahan sertifikat penyelesaian Level 1 (Tamhidi) — jika ada
+- Penjelasan tentang Level 2: Muayyid — apa yang akan dipelajari, apa yang diharapkan, bagaimana marhalah selanjutnya akan membawa mereka lebih dalam
 - Ajakan untuk tidak hanya lulus, tapi **menjadi naqib** yang membina orang lain di masa depan
 
 ### Doa Bersama dan Penutup
@@ -192,7 +192,7 @@ Allah berfirman:
 
 - Peserta dimasukkan ke **grup alumni Level 1** untuk saling menguatkan
 - Jadwal **follow-up bulanan** dengan naqib — untuk memastikan komitmen tetap terjaga
-- Pendaftaran **Level 2 (Mutawassith)** dibuka
+- Pendaftaran **Level 2 (Muayyid)** dibuka
 - **Tugas berkelanjutan:** Jurnal muhasabah harian selama 30 hari — setiap malam sebelum tidur, tulis: *"Apa yang aku lakukan hari ini untuk Allah? Apa yang aku sesali? Apa yang akan aku perbaiki besok?"*
 - **Tantangan dakwah:** Ajak minimal 1 orang baru ke halaqah dalam 30 hari ke depan. Jadilah Abu Bakar bagi seseorang.
 

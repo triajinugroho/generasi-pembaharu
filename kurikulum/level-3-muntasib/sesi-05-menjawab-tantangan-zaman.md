@@ -1,6 +1,6 @@
 # Sesi 05 — Menjawab Tantangan Zaman: Liberalisme, Post-Truth, AI, dan Teknologi
 
-**Level:** 3 — Mutaqaddim (Lanjutan)
+**Level:** 3 — Muntasib (Anggota Penuh)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz Senior / Mentor Level 3
 

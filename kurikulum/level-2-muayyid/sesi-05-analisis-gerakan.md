@@ -1,6 +1,6 @@
 # Sesi 05 — Analisis Gerakan: Menelaah Gerakan Dakwah di Indonesia
 
-**Level:** 2 — Mutawassith (Menengah)
+**Level:** 2 — Muayyid (Pendukung)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz/Mentor Level 2
 

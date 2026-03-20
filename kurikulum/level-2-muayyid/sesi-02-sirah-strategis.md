@@ -1,6 +1,6 @@
 # Sesi 02 — Sirah Strategis: Membaca Keputusan Nabi ﷺ sebagai Pilihan Strategis
 
-**Level:** 2 — Mutawassith (Menengah)
+**Level:** 2 — Muayyid (Pendukung)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz/Mentor Level 2
 
