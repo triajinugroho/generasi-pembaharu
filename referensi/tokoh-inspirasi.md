@@ -484,15 +484,27 @@ Jusuf Hamka — pengusaha konstruksi dan infrastruktur — menjadi contoh langka
 
 ---
 
-### Ridwan Kamil (1971- M)
+### Hidayat Nur Wahid (1960- M)
 
-**Arsitek, Pemimpin Kota, dan Da'i Digital**
+**Ulama, Politisi, dan Pelopor Dakwah Parlemen**
 
-Ridwan Kamil — arsitek, mantan Walikota Bandung dan Gubernur Jawa Barat — membuktikan bahwa seorang Muslim bisa memimpin dengan gaya modern tanpa meninggalkan identitas keislaman. Ia memadukan keahlian profesional (arsitektur, urban planning), kepemimpinan publik, dan dakwah digital dengan cara yang natural dan tidak memaksa. Akun media sosialnya menjadi ruang dakwah kreatif yang menjangkau jutaan.
+Hidayat Nur Wahid — alumnus Universitas Islam Madinah dan doktor di Islamic University Islamabad — adalah contoh kader dakwah kampus yang berhasil menjangkau puncak politik nasional tanpa meninggalkan identitas keislamannya. Sebagai Presiden PKS (2004-2009), Ketua MPR RI (2004-2009), dan anggota DPR RI multi-periode, ia menunjukkan bahwa aktivis tarbiyah bisa menjadi negarawan. Di MPR, ia memimpin dengan gaya yang santun, inklusif, dan dihormati lintas fraksi — membuktikan bahwa akhlak Islami bisa menjadi modal politik, bukan hambatan.
 
-**Kontribusi utama:** Menunjukkan bahwa da'i tidak harus di mimbar — pemimpin publik yang berintegritas dan visioner adalah bentuk dakwah bil-hal yang paling efektif. Membuktikan bahwa kompetensi profesional dan identitas keislaman saling menguatkan.
+**Kontribusi utama:** Membuktikan bahwa kader dakwah kampus bisa memimpin lembaga negara tertinggi dengan integritas. Menjadi jembatan antara gerakan dakwah dan politik kebangsaan tanpa mengorbankan prinsip.
 
-**Pelajaran bagi kita:** Generasi pembaharu harus menguasai bidang profesional mereka dengan excellent — karena kompetensi adalah dakwah, dan hasil kerja nyata lebih meyakinkan dari seribu ceramah.
+**Pelajaran bagi kita:** Dakwah bukan hanya di masjid dan halaqah — parlemen, birokrasi, dan lembaga negara adalah medan dakwah yang membutuhkan kader-kader terbaik umat.
+
+---
+
+### Anis Matta (1968- M)
+
+**Ideolog, Penulis, dan Arsitek Gerakan Dakwah Modern**
+
+Anis Matta — mantan Presiden PKS dan intelektual gerakan dakwah — adalah salah satu pemikir paling produktif dari generasi aktivis dakwah kampus Indonesia. Buku-bukunya — *Dari Gerakan ke Negara*, *Gelombang Ketiga Indonesia*, *The Great Spirit* — menunjukkan kemampuan langka: menerjemahkan visi dakwah ke dalam bahasa strategi modern yang relevan. Ia merumuskan konsep "Partai Dakwah" yang memadukan kerja tarbiyah dengan kerja politik, dan "Gelombang Ketiga" sebagai visi Indonesia sebagai kekuatan peradaban Islam di abad ke-21.
+
+**Kontribusi utama:** Menghasilkan karya intelektual yang menghubungkan tradisi tarbiyah dengan pemikiran strategis kontemporer. Konsep-konsepnya tentang gerakan dakwah modern menjadi referensi penting bagi aktivis lintas generasi.
+
+**Pelajaran bagi kita:** Gerakan dakwah membutuhkan ideolog — orang yang bisa merumuskan visi besar dalam bahasa yang membumi dan menginspirasi aksi nyata.
 
 ---
 
