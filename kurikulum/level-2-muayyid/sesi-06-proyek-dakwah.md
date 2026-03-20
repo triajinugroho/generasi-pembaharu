@@ -1,6 +1,6 @@
 # Sesi 06 — Proyek Dakwah: Perencanaan dan Pelaksanaan Proyek Dakwah Nyata
 
-**Level:** 2 — Mutawassith (Menengah)
+**Level:** 2 — Muayyid (Pendukung)
 **Durasi:** 120 menit (sesi perencanaan) + pelaksanaan mandiri + sesi evaluasi
 **Fasilitator:** Ustadz/Mentor Level 2
 
@@ -39,7 +39,7 @@
 Tiga hadits ini menegaskan tiga prinsip proyek dakwah: (1) itqan — kerjakan dengan profesional, (2) optimisme — tanam meski kiamat di depan mata, (3) kekuatan — jadilah mukmin yang kuat dan berdampak.
 
 - Pengantar: sesi ini adalah jembatan dari teori ke aksi nyata
-- Ini adalah tugas akhir Level 2 — marhalah terakhir sebelum naik ke tingkat mutaqaddim
+- Ini adalah tugas akhir Level 2 — marhalah terakhir sebelum naik ke tingkat muntasib
 
 #### 2. Materi Inti A — Prinsip Manajemen Proyek Dakwah (20 menit)
 
@@ -211,9 +211,9 @@ Dalam konteks evaluasi proyek: jujurlah tentang hasil — jangan melebih-lebihka
   - "Apakah proyek ini membuat dakwah terasa lebih nyata, bukan sekadar teori di liqo?"
 - Penghargaan: apresiasi untuk semua tim (bukan kompetisi, tapi pengakuan)
 
-*Kalian baru saja membuktikan bahwa dakwah bukan hanya kata-kata. Dakwah adalah bangunan — batu demi batu, langkah demi langkah, proyek demi proyek. Level 2 telah mengajarkan kalian ilmu, keterampilan, dan pengalaman. Sekarang, Level 3 menunggu — marhalah mutaqaddim, di mana kalian tidak lagi belajar menjadi aktivis, tapi belajar menjadi pembaharu. Bersiaplah.*
+*Kalian baru saja membuktikan bahwa dakwah bukan hanya kata-kata. Dakwah adalah bangunan — batu demi batu, langkah demi langkah, proyek demi proyek. Level 2 telah mengajarkan kalian ilmu, keterampilan, dan pengalaman. Sekarang, Level 3 menunggu — marhalah muntasib, di mana kalian tidak lagi belajar menjadi aktivis, tapi belajar menjadi pembaharu. Bersiaplah.*
 
-- Pengumuman kesiapan untuk naik ke Level 3 (Mutaqaddim)
+- Pengumuman kesiapan untuk naik ke Level 3 (Muntasib)
 - Doa penutup Level 2
 
 ---

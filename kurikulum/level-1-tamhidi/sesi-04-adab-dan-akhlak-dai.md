@@ -2,7 +2,7 @@
 
 > *"Maka berkat rahmat Allah engkau (Muhammad) berlaku lemah lembut terhadap mereka. Seandainya engkau bersikap keras dan berhati kasar, tentulah mereka menjauhkan diri dari sekitarmu."* (QS. Ali Imran: 159)
 
-> **Level**: Mubtadi (Pemula) | **Durasi**: 120 menit
+> **Level**: Tamhidi (Persiapan) | **Durasi**: 120 menit
 
 ## Tujuan Pembelajaran
 1. Peserta memahami bahwa akhlak adalah dakwah yang paling efektif

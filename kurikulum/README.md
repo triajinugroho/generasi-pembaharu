@@ -12,7 +12,7 @@ Kurikulum ini dirancang untuk menjadi **peta perjalanan** bagi setiap aktivis da
 
 Kami membagi kurikulum ini dalam tiga tingkatan, mengikuti tradisi klasik pendidikan Islam yang telah teruji berabad-abad. Setiap level bukan sekadar penambahan informasi — ia adalah **transformasi cara berpikir, cara merasa, dan cara bertindak**.
 
-### Level 1: Mubtadi (Pemula)
+### Level 1: Tamhidi (Persiapan)
 
 **Untuk siapa?** Mahasiswa yang baru bergabung dengan aktivitas dakwah kampus, anggota baru LDK/rohis, atau siapa pun yang ingin membangun fondasi keislaman yang kokoh.
 
@@ -20,7 +20,7 @@ Kami membagi kurikulum ini dalam tiga tingkatan, mengikuti tradisi klasik pendid
 
 **Setelah menyelesaikan level ini,** peserta diharapkan memiliki identitas Muslim yang jelas, kebiasaan spiritual yang tertanam, dan kerinduan yang tulus untuk mendalami ilmu agama.
 
-### Level 2: Mutawassith (Menengah)
+### Level 2: Muayyid (Pendukung)
 
 **Untuk siapa?** Aktivis yang telah melewati fase awal, mulai memegang amanah di organisasi, dan siap mendalami ilmu serta keterampilan dakwah secara lebih serius.
 
@@ -28,7 +28,7 @@ Kami membagi kurikulum ini dalam tiga tingkatan, mengikuti tradisi klasik pendid
 
 **Setelah menyelesaikan level ini,** peserta mampu berdiskusi tentang isu-isu keislaman dengan percaya diri, mengelola halaqah kecil, dan memahami lanskap gerakan Islam di Indonesia tanpa terjebak fanatisme kelompok.
 
-### Level 3: Mutaqaddim (Lanjutan)
+### Level 3: Muntasib (Anggota Penuh)
 
 **Untuk siapa?** Kader inti yang akan menjadi pemimpin gerakan — ketua LDK, koordinator wilayah, atau siapa pun yang dipercaya memegang tanggung jawab strategis.
 
@@ -38,7 +38,7 @@ Kami membagi kurikulum ini dalam tiga tingkatan, mengikuti tradisi klasik pendid
 
 ## Tabel Progesi Kurikulum
 
-| Aspek | Level 1 — Mubtadi | Level 2 — Mutawassith | Level 3 — Mutaqaddim |
+| Aspek | Level 1 — Tamhidi | Level 2 — Muayyid | Level 3 — Muntasib |
 |---|---|---|---|
 | **Durasi** | 3-4 bulan (12 sesi) | 4-6 bulan (16 sesi) | 6-8 bulan (20 sesi) |
 | **Aqidah** | Mengenal Allah & rukun iman | Pendalaman tauhid, respons terhadap syubhat | Komparasi pemikiran, dialog peradaban |

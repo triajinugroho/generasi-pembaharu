@@ -2,7 +2,7 @@
 
 > *"Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang lebih baik."* (QS. An-Nahl: 125)
 
-> **Level**: Mubtadi (Pemula) | **Durasi**: 120 menit
+> **Level**: Tamhidi (Persiapan) | **Durasi**: 120 menit
 
 ## Tujuan Pembelajaran
 1. Peserta memahami konsep dakwah fardiyah (person-to-person) sebagai metode Rasulullah

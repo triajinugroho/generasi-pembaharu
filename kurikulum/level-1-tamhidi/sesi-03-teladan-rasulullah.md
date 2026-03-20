@@ -2,7 +2,7 @@
 
 > *"Sungguh telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu, (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari kiamat dan yang banyak mengingat Allah."* (QS. Al-Ahzab: 21)
 
-> **Level**: Mubtadi (Pemula) | **Durasi**: 120 menit
+> **Level**: Tamhidi (Persiapan) | **Durasi**: 120 menit
 
 ## Tujuan Pembelajaran
 1. Peserta memahami sirah Nabi sebagai model gerakan yang relevan untuk setiap zaman

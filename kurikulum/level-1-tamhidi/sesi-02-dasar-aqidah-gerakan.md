@@ -2,7 +2,7 @@
 
 > *"Katakanlah: 'Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah, Tuhan seluruh alam.'"* (QS. Al-An'am: 162)
 
-> **Level**: Mubtadi (Pemula) | **Durasi**: 120 menit
+> **Level**: Tamhidi (Persiapan) | **Durasi**: 120 menit
 
 ## Tujuan Pembelajaran
 1. Peserta memahami bahwa aqidah adalah fondasi gerakan, bukan sekadar hafalan

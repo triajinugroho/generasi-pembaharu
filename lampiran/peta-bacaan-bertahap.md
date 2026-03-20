@@ -10,7 +10,7 @@ Membaca tanpa arah seperti berlayar tanpa kompas. Daftar ini dirancang agar kamu
 
 ---
 
-## Level 1: Fondasi (Mubtadi)
+## Level 1: Fondasi (Tamhidi)
 
 *5 buku untuk membangun pondasi yang kokoh. Baca semua sebelum melangkah ke Level 2.*
 
@@ -36,7 +36,7 @@ Buku motivasi islami yang menguatkan hati di saat-saat sulit. Bukan pengganti il
 
 ---
 
-## Level 2: Pengembangan (Mutawassith)
+## Level 2: Pengembangan (Muayyid)
 
 *10 buku untuk memperluas wawasan dan memperdalam pemahaman. Baca minimal 7 dari 10 sebelum naik ke Level 3.*
 
@@ -82,7 +82,7 @@ Refleksi tentang menjalani Islam di tengah modernitas. Menjawab pertanyaan-perta
 
 ---
 
-## Level 3: Pendalaman (Mutaqaddim)
+## Level 3: Pendalaman (Muntasib)
 
 *15 buku untuk mereka yang siap bergulat dengan pemikiran tingkat tinggi. Ini bacaan untuk calon pemimpin, pemikir, dan pembaharu.*
 

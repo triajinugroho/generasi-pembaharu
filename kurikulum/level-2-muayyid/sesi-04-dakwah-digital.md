@@ -1,6 +1,6 @@
 # Sesi 04 — Dakwah Digital: Kreasi Konten, Strategi Media Sosial, dan Etika Online
 
-**Level:** 2 — Mutawassith (Menengah)
+**Level:** 2 — Muayyid (Pendukung)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz/Mentor Level 2 + Praktisi Konten (jika tersedia)
 

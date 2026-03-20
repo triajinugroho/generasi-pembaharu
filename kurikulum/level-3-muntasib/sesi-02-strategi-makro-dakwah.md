@@ -1,6 +1,6 @@
 # Sesi 02 — Strategi Makro Dakwah: Dakwah Struktural vs Kultural dan Perencanaan Jangka Panjang
 
-**Level:** 3 — Mutaqaddim (Lanjutan)
+**Level:** 3 — Muntasib (Anggota Penuh)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz Senior / Mentor Level 3
 

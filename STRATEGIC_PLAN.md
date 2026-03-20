@@ -144,7 +144,7 @@ Seluruh 5 phase eksekusi + transformasi retorika manhaj dakwah + Batch 4 (cross-
 | 01-epilog-surat-untuk-generasi-mendatang.md | 96 | ✅ Selesai |
 | 02-doa-penutup.md | 103 | ✅ Selesai |
 
-### Kurikulum Level 1 — Mubtadi (Pemula)
+### Kurikulum Level 1 — Tamhidi (Persiapan)
 
 | File | Lines | Mental Model | Rantai Logika | Status |
 |------|-------|:---:|:---:|--------|
@@ -155,7 +155,7 @@ Seluruh 5 phase eksekusi + transformasi retorika manhaj dakwah + Batch 4 (cross-
 | sesi-05-dasar-dakwah-fardiyah.md | 70 | ✅ | ✅ | ✅ Enriched |
 | sesi-06-evaluasi-dan-komitmen.md | 88 | ✅ | ✅ | ✅ Enriched |
 
-### Kurikulum Level 2 — Mutawassith (Menengah)
+### Kurikulum Level 2 — Muayyid (Pendukung)
 
 | File | Lines | Mental Model | Rantai Logika | Status |
 |------|-------|:---:|:---:|--------|
@@ -166,7 +166,7 @@ Seluruh 5 phase eksekusi + transformasi retorika manhaj dakwah + Batch 4 (cross-
 | sesi-05-analisis-gerakan.md | 138 | ✅ | ✅ | ✅ Enriched |
 | sesi-06-proyek-dakwah.md | 173 | ✅ | ✅ | ✅ Enriched |
 
-### Kurikulum Level 3 — Mutaqaddim (Lanjutan)
+### Kurikulum Level 3 — Muntasib (Anggota Penuh)
 
 | File | Lines | Mental Model | Rantai Logika | Status |
 |------|-------|:---:|:---:|--------|
@@ -237,7 +237,7 @@ Mental Model Box, Rantai Logika Tauhid, dan Titik Refleksi telah ditambahkan ke 
 ### Batch 4: CROSS-REFERENCES & FINISHING ✅ SELESAI
 - "Bacaan Terkait dalam Buku Ini" ditambahkan di **32 file** bab buku (Bab 0-7)
 - Setiap file memiliki 3 cross-reference tematik ke bab/file lain yang relevan
-- Glosarium diperkaya: +8 istilah tarbiyah baru (atsar, daurah, liqo, marhalah, mubtadi, mutawassith, mutaqaddim, tanzhim, usrah)
+- Glosarium diperkaya: +8 istilah tarbiyah baru (atsar, daurah, liqo, marhalah, tamhidi, muayyid, muntasib, tanzhim, usrah)
 - Kitab Wajib diperkaya: +Risalah Ta'lim detail, +Fiqh Da'wah al-Qaradhawi, +Al-Adab al-Mufrad
 - Tokoh Inspirasi diperkaya: +Hasan al-Bashri, +Imam Syafi'i, +Ibnu Qayyim al-Jauziyah, +Muhammad Iqbal
 

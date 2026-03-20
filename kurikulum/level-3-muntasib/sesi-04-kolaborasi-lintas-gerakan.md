@@ -1,6 +1,6 @@
 # Sesi 04 — Kolaborasi Lintas Gerakan: Membangun Jembatan Antar Organisasi
 
-**Level:** 3 — Mutaqaddim (Lanjutan)
+**Level:** 3 — Muntasib (Anggota Penuh)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz Senior / Mentor Level 3
 

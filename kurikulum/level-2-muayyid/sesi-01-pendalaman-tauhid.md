@@ -1,6 +1,6 @@
 # Sesi 01 — Pendalaman Tauhid: Uluhiyyah, Rububiyyah, Asma wa Sifat dan Implikasinya bagi Aktivisme
 
-**Level:** 2 — Mutawassith (Menengah)
+**Level:** 2 — Muayyid (Pendukung)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz/Mentor Level 2
 

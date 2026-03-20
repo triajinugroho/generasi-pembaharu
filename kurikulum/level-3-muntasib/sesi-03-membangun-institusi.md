@@ -1,6 +1,6 @@
 # Sesi 03 — Membangun Institusi: Dari Gerakan Informal ke Lembaga Formal
 
-**Level:** 3 — Mutaqaddim (Lanjutan)
+**Level:** 3 — Muntasib (Anggota Penuh)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz Senior / Mentor Level 3 + Praktisi Organisasi (jika tersedia)
 

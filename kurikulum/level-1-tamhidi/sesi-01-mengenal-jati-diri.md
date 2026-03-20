@@ -2,7 +2,7 @@
 
 > *"Dan (ingatlah) ketika Tuhanmu berfirman kepada para malaikat, 'Sesungguhnya Aku hendak menjadikan seorang khalifah di muka bumi.'"* (QS. Al-Baqarah: 30)
 
-**Level:** 1 — Mubtadi (Pemula)
+**Level:** 1 — Tamhidi (Persiapan)
 **Durasi:** 120 menit
 **Peserta:** Mahasiswa baru dalam lingkaran dakwah kampus
 

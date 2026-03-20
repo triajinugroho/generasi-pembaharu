@@ -1,6 +1,6 @@
 # Sesi 06 — Visi dan Aksi Pembaharu: Merumuskan Visi Personal-Kolektif dan Ikrar Komitmen
 
-**Level:** 3 — Mutaqaddim (Lanjutan)
+**Level:** 3 — Muntasib (Anggota Penuh)
 **Durasi:** 120 menit
 **Fasilitator:** Ustadz Senior / Mentor Level 3 + Seluruh Mentor
 
@@ -58,9 +58,9 @@ Empat hadits ini membentuk DNA seorang pembaharu: (1) optimis tanpa batas — ta
 ### 2. Refleksi Perjalanan (15 menit)
 
 - Kilas balik kolektif:
-  - Level 1 (Mubtadi): fondasi iman, ibadah, akhlak, dan pengenalan dakwah — marhalah ta'rif
-  - Level 2 (Mutawassith): pendalaman ilmu, kepemimpinan, keterampilan dakwah, proyek nyata — marhalah takwin
-  - Level 3 (Mutaqaddim): pemikiran strategis, pembangunan institusi, kolaborasi, menjawab tantangan zaman — marhalah tanfidz
+  - Level 1 (Tamhidi): fondasi iman, ibadah, akhlak, dan pengenalan dakwah — marhalah ta'rif
+  - Level 2 (Muayyid): pendalaman ilmu, kepemimpinan, keterampilan dakwah, proyek nyata — marhalah takwin
+  - Level 3 (Muntasib): pemikiran strategis, pembangunan institusi, kolaborasi, menjawab tantangan zaman — marhalah tanfidz
 
 **Hadits tentang Perjalanan dan Muhasabah:**
 
