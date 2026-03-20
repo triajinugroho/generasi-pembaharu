@@ -26,7 +26,7 @@ Rasulullah bersabda: *"Ketahuilah, di dalam tubuh ada segumpal daging. Jika ia b
 
 Hati — *qalb* — adalah pusat segalanya dalam tradisi Islam. Dan hati ini sedang diserang dari segala arah oleh teknologi yang bahkan tidak kita sadari dampaknya.
 
-Nabi juga bersabda: *"Fitnah-fitnah itu ditawarkan kepada hati seperti tikar yang dianyam, sehelai demi sehelai. Hati mana saja yang menyerapnya, maka akan ditandai dengan satu titik hitam. Dan hati mana saja yang menolaknya, maka akan ditandai dengan satu titik putih. Hingga menjadi dua jenis hati: hati yang putih bersih seperti batu licin — tidak ada fitnah yang bisa membahayakannya selama langit dan bumi masih ada. Dan hati yang hitam keabu-abuan seperti cangkir yang terbalik — tidak mengenal kebaikan dan tidak mengingkari kemungkaran."* (HR. Muslim).
+Nabi juga bersabda: *"Fitnah-fitnah itu ditawarkan kepada hati seperti tikar yang dianyam, sehelai demi sehelai. Hati mana saja yang menyerapnya, maka akan ditandai dengan satu titik hitam. Dan hati mana saja yang menolaknya, maka akan ditandai dengan satu titik putih. Hingga menjadi dua jenis hati: hati yang putih bersih seperti batu licin — tidak ada fitnah yang bisa membahayakannya selama langit dan bumi masih ada. Dan hati yang hitam keabu-abuan seperti cangkir yang terbalik — tidak mengenal kebaikan dan tidak mengingkari kemungkaran."* (HR. Muslim no. 144).
 
 Setiap scroll, setiap konten yang kamu konsumsi tanpa saringan, setiap jam yang terbuang dalam lautan digital — itu semua sedang menganyam titik-titik pada hatimu. Pertanyaannya: titik putih atau titik hitam?
 
@@ -141,7 +141,7 @@ Di tengah semua kebisingan digital ini, ketentraman itu masih tersedia. Tapi kam
 
 Dan izinkan aku menutup dengan tantangan yang jujur: **hitung berapa jam kamu menghabiskan waktu di layar hari ini, lalu bandingkan dengan berapa menit kamu menghabiskan waktu bersama Al-Qur'an.** Jika angka pertama mengalahkan angka kedua dengan telak — dan bagi kebanyakan dari kita, termasuk aku, jawabannya menyakitkan — maka kita tahu di mana masalahnya. Bukan di teori. Di praktik. Di kebiasaan sehari-hari yang membentuk hati kita tanpa kita sadari.
 
-Rasulullah bersabda: *"Dua nikmat yang banyak manusia tertipu di dalamnya: kesehatan dan waktu luang."* (HR. Bukhari). Di era digital, waktu luang kita tidak benar-benar luang — ia dicuri oleh algoritma yang kita biarkan masuk tanpa perlawanan. Rebut kembali waktumu. Rebut kembali hatimu. Karena siapa yang menguasai perhatianmu, menguasai hatimu — dan hanya Ada satu Dzat yang layak menguasai hati itu.
+Rasulullah bersabda: *"Dua nikmat yang banyak manusia tertipu di dalamnya: kesehatan dan waktu luang."* (HR. al-Bukhari no. 6412). Di era digital, waktu luang kita tidak benar-benar luang — ia dicuri oleh algoritma yang kita biarkan masuk tanpa perlawanan. Rebut kembali waktumu. Rebut kembali hatimu. Karena siapa yang menguasai perhatianmu, menguasai hatimu — dan hanya Ada satu Dzat yang layak menguasai hati itu.
 
 ---
 

@@ -14,7 +14,7 @@ Tapi aku menulis ini justru karena **sudah terlalu lama kita menyelesaikannya di
 
 Umar bin Khattab berkata: *"Semoga Allah merahmati orang yang menunjukkan kepadaku kelemahan-kelemahanku."* Jika Umar — pemimpin terbesar kedua dalam sejarah Islam setelah Abu Bakar — melihat kritik sebagai rahmat, mengapa kita memperlakukannya sebagai ancaman?
 
-Rasulullah shallallahu 'alaihi wasallam bersabda: *"Agama itu nasihat."* Para sahabat bertanya: "Untuk siapa, ya Rasulullah?" Beliau menjawab: *"Untuk Allah, untuk Kitab-Nya, untuk Rasul-Nya, untuk para pemimpin kaum Muslimin, dan untuk kaum Muslimin seluruhnya."* (HR. Muslim). Nasihat — bukan pujian kosong, bukan basa-basi, bukan diam ketika melihat kesalahan. Nasihat yang jujur, yang disampaikan karena cinta, yang bertujuan memperbaiki — **itulah hakikat agama ini.** Dan esai ini adalah upaya nasihat.
+Rasulullah shallallahu 'alaihi wasallam bersabda: *"Agama itu nasihat."* Para sahabat bertanya: "Untuk siapa, ya Rasulullah?" Beliau menjawab: *"Untuk Allah, untuk Kitab-Nya, untuk Rasul-Nya, untuk para pemimpin kaum Muslimin, dan untuk kaum Muslimin seluruhnya."* (HR. Muslim no. 55). Nasihat — bukan pujian kosong, bukan basa-basi, bukan diam ketika melihat kesalahan. Nasihat yang jujur, yang disampaikan karena cinta, yang bertujuan memperbaiki — **itulah hakikat agama ini.** Dan esai ini adalah upaya nasihat.
 
 ---
 
@@ -97,7 +97,7 @@ Umar bin Khattab — lagi-lagi Umar — pernah berkata: *"Hisablah dirimu sebelu
 
 Dan ada atsar dari Ali bin Abi Thalib yang sangat relevan: *"Janganlah kamu mengenal kebenaran berdasarkan orangnya. Kenalilah kebenaran, maka kamu akan mengenal siapa yang berada di atasnya."* Inilah prinsip yang harus menjadi pondasi setiap gerakan dakwah: kebenaran di atas loyalitas, prinsip di atas personalitas, wahyu di atas opini siapa pun — termasuk opini pemimpin gerakanmu sendiri.
 
-Rasulullah bersabda: *"Barangsiapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya. Jika tidak mampu, maka dengan lisannya. Jika tidak mampu, maka dengan hatinya — dan itulah selemah-lemahnya iman."* (HR. Muslim). Kemungkaran di luar gerakan, kita sudah biasa mengkritik. Tapi kemungkaran di dalam gerakan — kultus tokoh, eksploitasi kader, eksklusivisme — mengapa kita bungkam? Apakah "selemah-lemahnya iman" sudah menjadi standar kita dalam menghadapi kelemahan internal?
+Rasulullah bersabda: *"Barangsiapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya. Jika tidak mampu, maka dengan lisannya. Jika tidak mampu, maka dengan hatinya — dan itulah selemah-lemahnya iman."* (HR. Muslim no. 49). Kemungkaran di luar gerakan, kita sudah biasa mengkritik. Tapi kemungkaran di dalam gerakan — kultus tokoh, eksploitasi kader, eksklusivisme — mengapa kita bungkam? Apakah "selemah-lemahnya iman" sudah menjadi standar kita dalam menghadapi kelemahan internal?
 
 ---
 

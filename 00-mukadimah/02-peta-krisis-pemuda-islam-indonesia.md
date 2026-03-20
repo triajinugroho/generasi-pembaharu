@@ -38,12 +38,12 @@ Ini bukan khayalan. Ini adalah realitas yang kita saksikan setiap hari di kampus
 
 ### Data yang Berbicara
 
-- Survei Alvara Research Center menunjukkan bahwa sebagian signifikan generasi Z Muslim Indonesia mendapatkan pemahaman keagamaan mereka terutama dari media sosial, bukan dari ustadz, buku, atau halaqah terstruktur.
-- Riset PPIM UIN Jakarta mengungkap bahwa di kalangan mahasiswa, terdapat kecenderungan meningkat untuk memisahkan agama dari kehidupan publik — sebuah sekularisme praktis yang tumbuh tanpa disadari.
+- Survei Alvara Research Center (2020) menunjukkan bahwa sebagian signifikan generasi Z Muslim Indonesia mendapatkan pemahaman keagamaan mereka terutama dari media sosial, bukan dari ustadz, buku, atau halaqah terstruktur.
+- Riset PPIM UIN Jakarta (2017-2018, *Pelita yang Meredup*) mengungkap bahwa di kalangan mahasiswa, terdapat kecenderungan meningkat untuk memisahkan agama dari kehidupan publik — sebuah sekularisme praktis yang tumbuh tanpa disadari.
 - Penetrasi budaya pop global melalui platform streaming telah menciptakan apa yang sosiolog menyebutnya *cultural homogenization* — penyeragaman budaya — di mana identitas lokal dan religius tergerus oleh budaya konsumsi global.
-- Data BPS dan berbagai survei nasional mengungkap potret yang mengkhawatirkan: tingkat literasi membaca buku di kalangan pemuda Indonesia termasuk yang terendah di dunia. Sementara itu, rata-rata waktu layar (*screen time*) pemuda Indonesia mencapai lebih dari 8 jam per hari — sebagian besar dikonsumsi untuk hiburan, bukan pembelajaran.
-- Survei Badan Narkotika Nasional (BNN) secara konsisten menunjukkan bahwa penyalahgunaan narkoba di kalangan pelajar dan mahasiswa terus meningkat, dengan usia pengguna yang semakin muda.
-- Data Kementerian Kesehatan menunjukkan peningkatan signifikan gangguan kesehatan mental di kalangan remaja dan pemuda, termasuk kecemasan, depresi, dan kecenderungan bunuh diri — sebuah krisis kekosongan makna di tengah melimpahnya materi.
+- Data BPS (Survei Sosial Ekonomi Nasional 2023) dan berbagai survei nasional mengungkap potret yang mengkhawatirkan: tingkat literasi membaca buku di kalangan pemuda Indonesia termasuk yang terendah di dunia. Sementara itu, rata-rata waktu layar (*screen time*) pemuda Indonesia mencapai lebih dari 8 jam per hari — sebagian besar dikonsumsi untuk hiburan, bukan pembelajaran.
+- Survei Badan Narkotika Nasional (BNN, 2023) secara konsisten menunjukkan bahwa penyalahgunaan narkoba di kalangan pelajar dan mahasiswa terus meningkat, dengan usia pengguna yang semakin muda.
+- Data Kementerian Kesehatan (Riskesdas 2018 dan survei lanjutan 2023) menunjukkan peningkatan signifikan gangguan kesehatan mental di kalangan remaja dan pemuda, termasuk kecemasan, depresi, dan kecenderungan bunuh diri — sebuah krisis kekosongan makna di tengah melimpahnya materi.
 
 Rasulullah ﷺ telah memperingatkan: *"Dua nikmat yang banyak manusia tertipu dengannya: kesehatan dan waktu luang."* (HR. al-Bukhari no. 6412). Pemuda Islam Indonesia hari ini berdiri persis di titik yang digambarkan hadits ini — memiliki waktu dan kesehatan, namun tertipu oleh ilusi-ilusi yang memalingkan mereka dari tujuan hakiki penciptaan.
 

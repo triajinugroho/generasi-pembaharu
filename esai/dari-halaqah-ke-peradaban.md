@@ -52,7 +52,7 @@ Halaqah kita sangat bagus dalam membentuk pribadi Muslim yang taat. Tapi kita ku
 
 Transisi dari mahasiswa ke profesional adalah momen paling kritis — dan justru di momen itulah gerakan dakwah paling lemah. Tidak ada struktur yang jelas untuk menampung, mengarahkan, dan mengorganisir alumni. Akibatnya, energi dakwah yang sudah dibangun selama empat tahun terbuang begitu toga wisuda dilempar ke udara.
 
-Padahal Rasulullah bersabda: *"Jika seorang manusia meninggal, terputuslah amalnya kecuali dari tiga perkara: sedekah jariyah, ilmu yang bermanfaat, atau anak shalih yang mendoakannya."* (HR. Muslim). Sedekah jariyah dan ilmu yang bermanfaat — keduanya membutuhkan **institusi** untuk bisa bertahan melampaui individu. Tanpa institusi, kontribusi seseorang mati bersama pensiunnya. Dengan institusi, kontribusi itu terus mengalir bahkan setelah pendirinya berpulang ke rahmatullah.
+Padahal Rasulullah bersabda: *"Jika seorang manusia meninggal, terputuslah amalnya kecuali dari tiga perkara: sedekah jariyah, ilmu yang bermanfaat, atau anak shalih yang mendoakannya."* (HR. Muslim no. 1631). Sedekah jariyah dan ilmu yang bermanfaat — keduanya membutuhkan **institusi** untuk bisa bertahan melampaui individu. Tanpa institusi, kontribusi seseorang mati bersama pensiunnya. Dengan institusi, kontribusi itu terus mengalir bahkan setelah pendirinya berpulang ke rahmatullah.
 
 ### 3. Visi Peradaban Masih Abstrak
 

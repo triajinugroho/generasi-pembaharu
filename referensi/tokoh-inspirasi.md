@@ -292,6 +292,80 @@ Taha Abdurrahman adalah filosof Muslim kontemporer dari Maroko yang mengembangka
 
 ---
 
+## Tokoh Nusantara & Perempuan Pembaharu
+
+### Rahmah El-Yunusiah (1900-1969 M)
+
+**Pelopor Pendidikan Perempuan Muslim di Indonesia**
+
+Rahmah El-Yunusiah mendirikan Diniyyah Putri di Padang Panjang, Sumatera Barat, pada 1923 — salah satu sekolah Islam modern pertama khusus perempuan di dunia Muslim. Di era ketika sebagian besar perempuan Indonesia tidak mengenyam pendidikan formal, Rahmah membuktikan bahwa perempuan Muslim berhak dan mampu menempuh pendidikan setinggi-tingginya. Universitas Al-Azhar Kairo menganugerahinya gelar kehormatan Syaikhah — satu-satunya perempuan non-Arab yang menerimanya.
+
+**Kontribusi utama:** Membangun model pendidikan perempuan Muslim yang integratif — menggabungkan ilmu agama, sains, dan keterampilan praktis. Membuktikan bahwa pemberdayaan perempuan bukan agenda Barat, melainkan kelanjutan tradisi Islam.
+
+**Pelajaran bagi kita:** Institusi pendidikan yang dibangun dari visi yang benar bisa bertahan melampaui pendirinya — Diniyyah Putri masih beroperasi hingga hari ini.
+
+---
+
+### Ahmad Dahlan (1868-1923 M) & Nyai Ahmad Dahlan (1872-1946 M)
+
+**Pasangan Pembaharu: Pendiri Muhammadiyah dan Aisyiyah**
+
+KH Ahmad Dahlan mendirikan Muhammadiyah pada 1912 sebagai gerakan tajdid yang memadukan Islam dengan modernitas — membangun sekolah, rumah sakit, dan panti asuhan. Namun yang sering terlupakan adalah peran istrinya, Nyai Siti Walidah (Nyai Ahmad Dahlan), yang mendirikan Aisyiyah pada 1917 — organisasi perempuan Muslim terbesar di dunia. Nyai Ahmad Dahlan membuktikan bahwa perempuan bukan hanya objek dakwah, tapi subjek pergerakan.
+
+**Kontribusi utama:** Membangun ekosistem dakwah yang melibatkan laki-laki dan perempuan secara setara dalam pembangunan institusi sosial. Muhammadiyah dan Aisyiyah bersama mengelola ribuan sekolah, universitas, dan rumah sakit.
+
+**Pelajaran bagi kita:** Gerakan dakwah terkuat adalah yang memobilisasi seluruh potensi umat — laki-laki dan perempuan — bukan hanya setengahnya.
+
+---
+
+### Tjokroaminoto (1882-1934 M)
+
+**Guru Bangsa dan Bapak Pergerakan Islam Indonesia**
+
+HOS Tjokroaminoto memimpin Sarekat Islam menjadi organisasi massa terbesar di Hindia Belanda dengan lebih dari dua juta anggota. Rumahnya di Surabaya menjadi "universitas pergerakan" — tempat Soekarno, Kartosoewirjo, Musso, dan banyak tokoh lain ditempa. Ia memadukan ajaran Islam dengan perjuangan keadilan sosial, membuktikan bahwa Islam dan kepedulian terhadap rakyat kecil bukan dua hal yang terpisah.
+
+**Kontribusi utama:** Membuktikan bahwa Islam bisa menjadi ideologi pembebasan rakyat dari penjajahan dan penindasan. Buku *Islam dan Sosialisme*-nya menjadi pemikiran penting tentang keadilan ekonomi dalam perspektif Islam.
+
+**Pelajaran bagi kita:** Dakwah yang tidak menyentuh persoalan riil rakyat — kemiskinan, ketidakadilan, penindasan — adalah dakwah yang belum lengkap.
+
+---
+
+### Cut Nyak Dien (1848-1908 M)
+
+**Pejuang Perempuan Aceh yang Tak Kenal Menyerah**
+
+Cut Nyak Dien memimpin perlawanan terhadap kolonial Belanda di Aceh selama lebih dari 25 tahun — jauh lebih lama dari kebanyakan pejuang laki-laki. Bahkan setelah suaminya Teuku Umar gugur, ia terus bertempur hingga akhirnya ditangkap dalam kondisi sakit dan hampir buta. Semangat jihadnya berakar pada keimanan yang mendalam — ia bukan sekadar nasionalis, tapi mujahidah yang berperang karena Allah.
+
+**Kontribusi utama:** Menjadi simbol ketangguhan perempuan Muslim dalam perjuangan fi sabilillah. Membuktikan bahwa perempuan bisa memimpin di garis depan perlawanan.
+
+**Pelajaran bagi kita:** Istiqamah bukan urusan satu-dua tahun — Cut Nyak Dien bertahan 25 tahun dalam kondisi yang nyaris mustahil.
+
+---
+
+### KH Hasyim Asy'ari (1871-1947 M)
+
+**Pendiri Nahdlatul Ulama dan Pahlawan Resolusi Jihad**
+
+KH Hasyim Asy'ari mendirikan Nahdlatul Ulama pada 1926 sebagai wadah ulama tradisional yang menggabungkan keilmuan pesantren dengan kesadaran kebangsaan. Fatwa Resolusi Jihad yang dikeluarkannya pada November 1945 menjadi pemantik Pertempuran Surabaya — salah satu momen paling heroik dalam sejarah kemerdekaan Indonesia. Ia menunjukkan bahwa ulama bukan hanya pengajar di pesantren, tapi pemimpin yang berani mengambil keputusan strategis di saat krisis.
+
+**Kontribusi utama:** Membangun NU sebagai organisasi Islam terbesar di dunia. Kitabnya *Adab Al-Alim wal-Muta'allim* menjadi rujukan adab pendidikan Islam di pesantren.
+
+**Pelajaran bagi kita:** Tradisi dan modernitas bukan musuh — keduanya bisa berjalan bersama jika dikelola dengan hikmah.
+
+---
+
+### Rangkayo Rasuna Said (1910-1965 M)
+
+**Orator Perempuan dan Pejuang Kemerdekaan**
+
+Rasuna Said adalah satu-satunya perempuan yang bergelar Pahlawan Nasional dari kalangan aktivis pergerakan Islam. Ia aktif di Sarekat Islam dan menjadi orator ulung yang berani mengkritik kebijakan kolonial. Pada 1932, ia dipenjara karena pidato publiknya — menjadikannya salah satu perempuan pertama di Indonesia yang dipenjara karena pendapat politik. Ia membuktikan bahwa suara perempuan Muslim di ruang publik bukan anomali, tapi kelanjutan tradisi sahabiyat.
+
+**Kontribusi utama:** Menjadi teladan keberanian perempuan Muslim dalam advokasi publik dan politik. Membuktikan bahwa keterlibatan perempuan dalam perjuangan adalah kebutuhan, bukan kemewahan.
+
+**Pelajaran bagi kita:** Suara yang benar tidak boleh diam hanya karena yang mengucapkannya perempuan.
+
+---
+
 ## Kontemporer
 
 ### Nouman Ali Khan (1978- M)
