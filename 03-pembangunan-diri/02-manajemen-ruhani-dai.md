@@ -219,7 +219,57 @@ Ibnu Qayyim dalam *Madarij As-Salikin* menjelaskan bahwa khalwat memiliki tiga t
 
 Imam Ahmad bin Hanbal — yang dikenal sebagai salah satu ulama paling aktif dalam ilmu dan dakwah — memiliki kebiasaan khalwat yang dijaga ketat. Muridnya bercerita bahwa di tengah kesibukannya mengajar hadits, menulis kitab, dan menghadapi ujian politik, beliau selalu menyisihkan waktu untuk menyendiri dengan mushaf dan dzikir. Ketika diuji dengan *mihnah* (inkuisisi) oleh penguasa Abbasiyah, kekuatan ruhani dari khalwat-khalwat inilah yang menopangnya untuk tetap teguh selama bertahun-tahun penyiksaan.
 
-## 8. Tanda-tanda Ruhani yang Sehat
+## 8. Kesehatan Mental: Bukan Kelemahan Iman
+
+Ada miskonsepsi berbahaya yang perlu kita bongkar: **bahwa setiap masalah psikologis adalah masalah spiritual semata.**
+
+Seorang aktivis yang mengalami kecemasan berat bukan berarti imannya lemah. Seorang da'i yang menghadapi depresi klinis bukan berarti dzikir-nya kurang. Rasulullah ﷺ sendiri mengalami apa yang para ulama sebut sebagai *fatrah al-wahy* — masa jeda wahyu yang membuat beliau sangat sedih dan gelisah. Jika Nabi yang ma'shum saja mengalami tekanan psikologis yang berat, bagaimana mungkin kita menganggap bahwa orang beriman kebal dari gangguan mental?
+
+### Memahami Burnout Secara Utuh
+
+Burnout aktivis dakwah bukan hanya *maut al-qalb* (matinya hati) yang Ibnu Qayyim gambarkan — meskipun dimensi spiritual itu nyata. Burnout juga memiliki dimensi psikologis dan fisiologis yang sah: kelelahan emosional kronis, depersonalisasi (merasa terasing dari diri sendiri dan orang lain), dan penurunan perasaan pencapaian. Organisasi Kesehatan Dunia (WHO) telah mengakui burnout sebagai fenomena kesehatan yang membutuhkan penanganan — bukan kelemahan karakter.
+
+Tanda-tanda yang perlu diwaspadai:
+
+- **Kelelahan yang tidak hilang dengan istirahat** — bukan sekadar capek fisik, tapi perasaan hampa yang bertahan berminggu-minggu.
+- **Perubahan pola tidur atau makan** yang signifikan — insomnia berkepanjangan, atau justru tidur berlebihan.
+- **Menarik diri dari hubungan sosial** — termasuk dari halaqah dan saudara seiman yang biasanya menjadi sumber kekuatan.
+- **Pikiran negatif yang persisten** — merasa tidak berguna, merasa dakwah sia-sia, merasa tidak layak.
+- **Kecemasan berlebihan** — takut gagal yang melumpuhkan, bukan sekadar kekhawatiran wajar.
+
+### Pendekatan Integratif: Ruhani dan Profesional
+
+Islam tidak menolak pengobatan. Rasulullah ﷺ bersabda: *"Berobatlah, wahai hamba-hamba Allah. Karena sesungguhnya Allah tidak menjadikan penyakit kecuali menjadikan pula obatnya."* (HR. Abu Dawud no. 3855, Tirmidzi no. 2038). Jika kita tidak ragu menemui dokter ketika sakit fisik, mengapa kita ragu menemui konselor atau psikolog ketika sakit mental?
+
+Pendekatan yang benar adalah **integratif** — menggabungkan dimensi spiritual dan profesional:
+
+1. **Spiritual**: Dzikir, shalat, tilawah, dan taubat tetap menjadi fondasi. Hubungan dengan Allah adalah obat yang tidak tergantikan.
+2. **Psikologis**: Konseling atau terapi dengan profesional yang kompeten — idealnya yang memahami konteks keislaman.
+3. **Sosial**: Dukungan dari murabbi, saudara halaqah, dan lingkungan yang empatik — bukan yang menghakimi.
+4. **Fisiologis**: Tidur cukup, olahraga teratur, nutrisi seimbang — karena kesehatan ruhani dan kesehatan jasmani saling terkait.
+
+### Peran Murabbi dan Komunitas
+
+Seorang murabbi yang baik harus bisa membedakan antara *futur* (kelesuan spiritual yang bisa diatasi dengan nasihat dan ibadah) dan gangguan kesehatan mental yang membutuhkan rujukan profesional. Bukan tugas murabbi menjadi psikolog — tapi menjadi tugas murabbi untuk **tidak menghalangi** mutarabbi-nya mendapat pertolongan yang tepat.
+
+Komunitas dakwah yang sehat adalah komunitas yang:
+- Tidak menstigma anggota yang mengaku sedang berjuang secara mental.
+- Menyediakan informasi tentang layanan konseling yang bisa diakses (kampus biasanya menyediakannya gratis).
+- Menjaga keseimbangan beban kerja organisasi agar tidak mengorbankan kesehatan anggotanya.
+- Memahami bahwa **istirahat adalah bagian dari jihad, bukan pelarian dari jihad**.
+
+Rasulullah ﷺ bersabda: *"Sesungguhnya tubuhmu punya hak atasmu."* (HR. al-Bukhari no. 1975). Tubuh di sini mencakup kesehatan mental. Dan hak itu tidak boleh dirampas atas nama produktivitas organisasi atau "pengorbanan di jalan Allah."
+
+> **Mental Model: Pendekatan Integratif — Ruhani + Profesional**
+> 1. Jangan langsung asumsikan setiap masalah psikologis adalah masalah iman — diagnosis itu merusak dan tidak adil
+> 2. Spiritual care dan professional care bukan pilihan either/or, tapi both/and
+> 3. Tanda murabbi yang bijak: tahu kapan menasihati, tahu kapan merujuk ke ahlinya
+> 4. Komunitas yang sehat mengukur keberhasilan bukan dari seberapa sibuk anggotanya, tapi dari seberapa utuh — ruhani, mental, dan fisik
+> *Aplikasi: Jika seorang mutarabbi menunjukkan tanda-tanda burnout atau gangguan mental yang berkepanjangan, langkah pertama bukan menegur kelesuan imannya — tapi bertanya dengan empati: "Apa yang sedang kamu rasakan?" dan jika perlu, bantu ia mengakses layanan konseling kampus.*
+
+---
+
+## 9. Tanda-tanda Ruhani yang Sehat
 
 Bagaimana kau tahu bahwa manajemen ruhanimu berjalan? Berikut beberapa indikatornya — bukan untuk membuat kita sombong, tapi untuk memberikan arah:
 
@@ -253,7 +303,7 @@ Jika tanda-tanda ini belum kau rasakan, jangan berkecil hati. Teruslah berusaha.
 
 ## Refleksi & Aksi
 
-1. **Audit ruhani** — Dari 7 aspek di atas (shalat, Al-Quran, dzikir-doa, puasa-sedekah, manajemen waktu, lingkungan ruhani, dan kejujuran terhadap diri sendiri), mana yang paling lemah dalam hidupmu? Fokus perbaiki satu saja minggu ini. Jangan serakah — perbaikan yang konsisten pada satu aspek lebih berharga dari perbaikan sesaat pada tujuh aspek.
+1. **Audit ruhani** — Dari 8 aspek di atas (shalat, Al-Quran, dzikir-doa, puasa-sedekah, manajemen waktu, lingkungan ruhani, kesehatan mental, dan kejujuran terhadap diri sendiri), mana yang paling lemah dalam hidupmu? Fokus perbaiki satu saja minggu ini. Jangan serakah — perbaikan yang konsisten pada satu aspek lebih berharga dari perbaikan sesaat pada tujuh aspek.
 2. **Buat jadwal** — Tulis jadwal ruhani harianmu mengikuti framework di atas. Sesuaikan dengan ritme kuliahmu. Tempel di tempat yang terlihat — di dinding kamar, di sampul buku catatan, atau sebagai *wallpaper* ponsel. Jadwal yang tidak tertulis adalah niat yang belum menjadi rencana.
 3. **Cari partner** — Ajak satu teman untuk saling mengingatkan ibadah harian. Bukan untuk saling menghakimi, tapi untuk saling menguatkan. Kirimkan pesan singkat setiap pagi: *"Sudah tilawah?"* atau *"Sudah dzikir pagi?"* — kesederhanaan ini memiliki dampak yang luar biasa pada konsistensi.
 4. **Khalwat bulanan** — Jadwalkan satu hari dalam sebulan untuk khalwat personal. Matikan ponsel. Perbanyak ibadah. Evaluasi perjalanan ruhanimu sebulan terakhir. Tulis hasilnya di jurnal.

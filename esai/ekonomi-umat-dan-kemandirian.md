@@ -20,7 +20,7 @@ Tangan yang memberi lebih baik dari tangan yang menerima. Ini bukan sekadar nasi
 
 Dan beliau juga bersabda:
 
-*"Tidaklah seseorang memakan makanan yang lebih baik daripada makanan yang dihasilkan dari kerja tangannya sendiri. Dan sesungguhnya Nabi Dawud 'alaihissalam makan dari hasil kerja tangannya sendiri."* (HR. Bukhari).
+*"Tidaklah seseorang memakan makanan yang lebih baik daripada makanan yang dihasilkan dari kerja tangannya sendiri. Dan sesungguhnya Nabi Dawud 'alaihissalam makan dari hasil kerja tangannya sendiri."* (HR. al-Bukhari no. 2072).
 
 Bahkan seorang nabi — yang bisa saja meminta umatnya menanggung semua kebutuhannya — memilih bekerja dengan tangannya sendiri. Apa yang kita tunggu?
 
@@ -132,7 +132,7 @@ Maka jangan biarkan gerakan dakwah ini terus hidup dari proposal ke proposal, da
 
 Bangun naunganmu sendiri. Jangan selamanya berteduh di bawah pohon orang lain.
 
-Dan ingatlah sabda Nabi: *"Demi Dzat yang jiwaku berada di tangan-Nya, sungguh jika salah seorang di antara kalian mengambil tali lalu mencari kayu bakar dan memikulnya di punggungnya, itu lebih baik baginya daripada meminta kepada seseorang, baik orang itu memberinya atau menolaknya."* (HR. Bukhari). Ini bukan sekadar anjuran untuk individu — ini adalah prinsip untuk gerakan. Gerakan dakwah yang memikul "kayu bakar" usahanya sendiri lebih mulia, lebih merdeka, dan lebih bertahan daripada gerakan yang hidupnya dari proposal ke proposal. Mulailah sekarang — dari halaqah mu, dari LDK-mu, dari lingkaran terkecilmu. Satu unit usaha kecil hari ini bisa menjadi wakaf produktif yang menopang dakwah generasi setelahmu.
+Dan ingatlah sabda Nabi: *"Demi Dzat yang jiwaku berada di tangan-Nya, sungguh jika salah seorang di antara kalian mengambil tali lalu mencari kayu bakar dan memikulnya di punggungnya, itu lebih baik baginya daripada meminta kepada seseorang, baik orang itu memberinya atau menolaknya."* (HR. al-Bukhari no. 1480). Ini bukan sekadar anjuran untuk individu — ini adalah prinsip untuk gerakan. Gerakan dakwah yang memikul "kayu bakar" usahanya sendiri lebih mulia, lebih merdeka, dan lebih bertahan daripada gerakan yang hidupnya dari proposal ke proposal. Mulailah sekarang — dari halaqah mu, dari LDK-mu, dari lingkaran terkecilmu. Satu unit usaha kecil hari ini bisa menjadi wakaf produktif yang menopang dakwah generasi setelahmu.
 
 ---
 

@@ -12,7 +12,7 @@ Kita membangun tembok-tembok di antara sesama muslim lebih kokoh dari tembok yan
 
 Dan sementara kita sibuk dengan semua itu, dunia terus bergerak — tanpa kita.
 
-Rasulullah shallallahu 'alaihi wasallam bersabda: *"Janganlah kalian saling dengki, janganlah saling menipu, janganlah saling membenci, janganlah saling membelakangi, dan janganlah sebagian kalian menjual di atas jualan sebagian yang lain. Jadilah kalian hamba-hamba Allah yang bersaudara."* (HR. Muslim). Tanyakan pada dirimu: apakah cara kita berinteraksi dengan sesama aktivis dakwah — yang berbeda organisasi, berbeda manhaj — sudah sesuai dengan perintah ini? Ataukah kita justru mempraktikkan persis apa yang dilarang?
+Rasulullah shallallahu 'alaihi wasallam bersabda: *"Janganlah kalian saling dengki, janganlah saling menipu, janganlah saling membenci, janganlah saling membelakangi, dan janganlah sebagian kalian menjual di atas jualan sebagian yang lain. Jadilah kalian hamba-hamba Allah yang bersaudara."* (HR. Muslim no. 2564). Tanyakan pada dirimu: apakah cara kita berinteraksi dengan sesama aktivis dakwah — yang berbeda organisasi, berbeda manhaj — sudah sesuai dengan perintah ini? Ataukah kita justru mempraktikkan persis apa yang dilarang?
 
 ## Dakwah Milik Allah, Bukan Milik Organisasi
 
@@ -26,13 +26,13 @@ Ketika dakwah direduksi menjadi proyek partisan — di mana keberhasilan diukur 
 
 Nabi bersabda:
 
-*"Sesungguhnya Allah tidak melihat kepada bentuk tubuh dan rupa kalian, tetapi Dia melihat kepada hati dan amal kalian."* (HR. Muslim).
+*"Sesungguhnya Allah tidak melihat kepada bentuk tubuh dan rupa kalian, tetapi Dia melihat kepada hati dan amal kalian."* (HR. Muslim no. 2564).
 
 Allah tidak melihat logo organisasimu. Allah tidak melihat kartu keanggotaanmu. Allah melihat hatimu — dan apakah hatimu benar-benar ikhlas untuk-Nya, atau sudah tercemar oleh fanatisme kelompok yang membajak niat dakwahmu.
 
 Dan ada hadits yang lebih menohok lagi. Rasulullah bersabda:
 
-*"Barangsiapa berperang di bawah bendera yang tidak jelas (ummiyyah), marah karena kelompok, menyeru kepada kelompok, atau membela kelompok, lalu dia terbunuh, maka kematiannya adalah kematian jahiliyah."* (HR. Muslim).
+*"Barangsiapa berperang di bawah bendera yang tidak jelas (ummiyyah), marah karena kelompok, menyeru kepada kelompok, atau membela kelompok, lalu dia terbunuh, maka kematiannya adalah kematian jahiliyah."* (HR. Muslim no. 1848).
 
 Kematian jahiliyah. Bukan karena dia kafir, tapi karena motivasinya bukan Allah — melainkan ashabiyyah, fanatisme kelompok.
 

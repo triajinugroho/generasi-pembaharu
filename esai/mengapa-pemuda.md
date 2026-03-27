@@ -93,7 +93,7 @@ Maka wahai aktivis dakwah kampus — kamu yang menjadi murabbi di halaqah, kamu 
 
 Setiap mutarabbi yang kamu bimbing adalah investasi yang nilainya melampaui apapun yang bisa dihitung dengan angka.
 
-Rasulullah bersabda: *"Barangsiapa yang menunjukkan kepada kebaikan, maka dia mendapat pahala seperti pahala orang yang mengerjakannya."* (HR. Muslim).
+Rasulullah bersabda: *"Barangsiapa yang menunjukkan kepada kebaikan, maka dia mendapat pahala seperti pahala orang yang mengerjakannya."* (HR. Muslim no. 1893).
 
 Setiap kebaikan yang dilakukan oleh orang yang kamu bimbing — shalat yang mereka jaga, Al-Qur'an yang mereka baca, dakwah yang mereka lanjutkan — pahalanya mengalir kepadamu. Tanpa batas. Tanpa akhir. Dan ketika mutarabbimu kelak membimbing orang lain, dan orang itu membimbing orang lain lagi — rantai kebaikan itu terus menyambung, dan pahalanya terus mengalir kepadamu bahkan saat kamu sudah tidak di dunia ini. **Itulah investasi terbesar yang bisa dilakukan seorang pemuda: menanam benih tarbiyah yang buahnya dipetik oleh generasi-generasi setelahnya.**
 
