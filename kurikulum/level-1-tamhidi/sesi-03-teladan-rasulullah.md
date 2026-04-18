@@ -1,3 +1,18 @@
+---
+id: kur-l1-s3-teladan-rasulullah
+title: "Sesi 3: Teladan Rasulullah SAW"
+chapter: "kurikulum"
+order: 3
+level: tamhidi
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 5
+tags: [kurikulum, halaqah, tamhidi, sesi, teladan, rasulullah]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 3: Teladan Rasulullah SAW
 
 > *"Sungguh telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu, (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari kiamat dan yang banyak mengingat Allah."* (QS. Al-Ahzab: 21)

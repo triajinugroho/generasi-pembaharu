@@ -1,3 +1,18 @@
+---
+id: ch4-fiqh-dakwah-kontemporer
+title: Fiqh Dakwah Kontemporer
+chapter: 4
+order: 2
+level: muayyid
+personas: [ketua-ldk, murabbi, pembaca-mandiri]
+reading_time_min: 8
+tags: [dakwah, strategi, fiqh, kontemporer]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Fiqh Dakwah Kontemporer
 
 > **Level**: Intermediate

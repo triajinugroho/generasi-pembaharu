@@ -1,3 +1,18 @@
+---
+id: kur-l3-s4-kolaborasi-lintas-gerakan
+title: "Sesi 04 — Kolaborasi Lintas Gerakan: Membangun Jembatan Antar Organisasi"
+chapter: "kurikulum"
+order: 4
+level: muntasib
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 6
+tags: [kurikulum, halaqah, muntasib, sesi, kolaborasi, lintas]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 04 — Kolaborasi Lintas Gerakan: Membangun Jembatan Antar Organisasi
 
 **Level:** 3 — Muntasib (Anggota Penuh)

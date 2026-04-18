@@ -1,3 +1,20 @@
+---
+id: ch4-dakwah-digital-dan-media
+title: Dakwah Digital dan Media
+chapter: 4
+order: 3
+level: muayyid
+personas: [ketua-ldk, murabbi, pembaca-mandiri]
+reading_time_min: 8
+tags: [dakwah, strategi, digital, media]
+outcomes:
+  - "Memetakan lanskap dakwah digital dan tantangannya"
+  - "Merancang strategi konten media sosial yang berbasis manhaj"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Dakwah Digital dan Media
 
 > **Level**: Intermediate

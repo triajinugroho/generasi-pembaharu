@@ -1,3 +1,18 @@
+---
+id: esai-surat-untuk-aktivis-kampus
+title: Surat untuk Aktivis Kampus
+chapter: "esai"
+order: 99
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 3
+tags: [esai, surat, aktivis, kampus]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Surat untuk Aktivis Kampus
 
 > *"Jangan kamu bersedih, sesungguhnya Allah bersama kita."* (QS. At-Taubah: 40)

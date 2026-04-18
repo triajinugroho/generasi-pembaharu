@@ -1,3 +1,18 @@
+---
+id: 01-fondasi-aqidah-readme
+title: "Bab 1: Fondasi Aqidah"
+chapter: 1
+order: 0
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 2
+tags: [aqidah, tauhid, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Bab 1: Fondasi Aqidah
 
 > *"Sesungguhnya Ibrahim adalah seorang imam, yang patuh kepada Allah, hanif (lurus), dan sekali-kali bukanlah dia termasuk orang-orang musyrik."*

@@ -1,3 +1,18 @@
+---
+id: kur-l1-s6-evaluasi-dan-komitmen
+title: "Sesi 6: Evaluasi dan Komitmen"
+chapter: "kurikulum"
+order: 6
+level: tamhidi
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 6
+tags: [kurikulum, halaqah, tamhidi, sesi, evaluasi, komitmen]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 6: Evaluasi dan Komitmen
 
 > *"Demi masa. Sesungguhnya manusia berada dalam kerugian, kecuali orang-orang yang beriman, beramal saleh, saling menasihati dalam kebenaran, dan saling menasihati dalam kesabaran."* (QS. Al-'Ashr: 1-3)

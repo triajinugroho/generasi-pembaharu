@@ -1,3 +1,18 @@
+---
+id: ch6-islam-dan-kebangsaan-indonesia
+title: Islam dan Kebangsaan Indonesia
+chapter: 6
+order: 4
+level: muntasib
+personas: [ketua-ldk, pembaca-mandiri, peneliti]
+reading_time_min: 9
+tags: [tantangan-kontemporer, islam, kebangsaan, indonesia]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Islam dan Kebangsaan Indonesia
 
 > *"Wahai manusia, sesungguhnya Kami menciptakan kamu dari seorang laki-laki dan seorang perempuan dan menjadikan kamu berbangsa-bangsa dan bersuku-suku supaya kamu saling kenal-mengenal."*

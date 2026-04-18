@@ -1,3 +1,18 @@
+---
+id: ref-kitab-wajib
+title: Kitab Wajib Baca
+chapter: "referensi"
+order: 99
+level: lintas
+personas: [peneliti, pembaca-mandiri, murabbi]
+reading_time_min: 5
+tags: [referensi, kitab, wajib]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Kitab Wajib Baca
 
 *Daftar bacaan terkurasi untuk aktivis dakwah kampus — dari kitab klasik hingga karya kontemporer*

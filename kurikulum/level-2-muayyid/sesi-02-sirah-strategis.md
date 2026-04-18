@@ -1,3 +1,18 @@
+---
+id: kur-l2-s2-sirah-strategis
+title: "Sesi 02 — Sirah Strategis: Membaca Keputusan Nabi ﷺ sebagai Pilihan Strategis"
+chapter: "kurikulum"
+order: 2
+level: muayyid
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 5
+tags: [kurikulum, halaqah, muayyid, sesi, sirah, strategis]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 02 — Sirah Strategis: Membaca Keputusan Nabi ﷺ sebagai Pilihan Strategis
 
 **Level:** 2 — Muayyid (Pendukung)

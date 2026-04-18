@@ -1,3 +1,18 @@
+---
+id: kur-l3-s1-falsafah-pergerakan
+title: "Sesi 01 — Falsafah Pergerakan Islam: Worldview, Epistemologi, dan Praksis"
+chapter: "kurikulum"
+order: 1
+level: muntasib
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 6
+tags: [kurikulum, halaqah, muntasib, sesi, falsafah, pergerakan]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 01 — Falsafah Pergerakan Islam: Worldview, Epistemologi, dan Praksis
 
 **Level:** 3 — Muntasib (Anggota Penuh)

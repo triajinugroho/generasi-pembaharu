@@ -1,3 +1,18 @@
+---
+id: 02-sirah-dan-sejarah-readme
+title: "Bab 2: Sirah & Sejarah Pergerakan"
+chapter: 2
+order: 0
+level: muayyid
+personas: [aktivis-baru, pembaca-mandiri, murabbi, peneliti]
+reading_time_min: 1
+tags: [sirah, sejarah, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Bab 2: Sirah & Sejarah Pergerakan
 
 > *"Sungguh pada diri Rasulullah itu terdapat teladan yang baik bagimu, bagi orang yang mengharap Allah dan hari akhir, serta banyak mengingat Allah."*

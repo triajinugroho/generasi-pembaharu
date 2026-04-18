@@ -1,3 +1,18 @@
+---
+id: ch7-epilog-surat-untuk-generasi-mendatang
+title: "Epilog: Surat untuk Generasi Mendatang"
+chapter: 7
+order: 1
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri, murabbi, ketua-ldk]
+reading_time_min: 5
+tags: [penutup, epilog, surat, generasi]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Epilog: Surat untuk Generasi Mendatang
 
 > *"Dan hendaklah takut kepada Allah orang-orang yang seandainya meninggalkan di belakang mereka anak-anak yang lemah, yang mereka khawatir terhadap kesejahteraan mereka."* — QS. An-Nisa [4]: 9

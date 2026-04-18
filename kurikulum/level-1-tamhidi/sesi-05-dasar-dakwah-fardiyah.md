@@ -1,3 +1,18 @@
+---
+id: kur-l1-s5-dasar-dakwah-fardiyah
+title: "Sesi 5: Dasar Dakwah Fardiyah"
+chapter: "kurikulum"
+order: 5
+level: tamhidi
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 5
+tags: [kurikulum, halaqah, tamhidi, sesi, dasar, dakwah]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 5: Dasar Dakwah Fardiyah
 
 > *"Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang lebih baik."* (QS. An-Nahl: 125)

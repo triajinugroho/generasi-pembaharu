@@ -1,3 +1,18 @@
+---
+id: lamp-panduan-fasilitator
+title: "Panduan Fasilitator: Cara Menggunakan Kurikulum Ini"
+chapter: "lampiran"
+order: 99
+level: lintas
+personas: [murabbi]
+reading_time_min: 4
+tags: [lampiran, panduan, fasilitator]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Panduan Fasilitator: Cara Menggunakan Kurikulum Ini
 
 *Untuk para murabbi, naqib, dan siapa saja yang memfasilitasi halaqah tarbiyah*

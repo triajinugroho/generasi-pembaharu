@@ -1,3 +1,18 @@
+---
+id: 05-titik-temu-gerakan-readme
+title: "Bab 5: Titik Temu Gerakan"
+chapter: 5
+order: 0
+level: muntasib
+personas: [ketua-ldk, murabbi, peneliti]
+reading_time_min: 1
+tags: [titik-temu, gerakan, ukhuwah, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Bab 5: Titik Temu Gerakan
 
 > *"Dan berpeganglah kamu semuanya kepada tali (agama) Allah, dan janganlah kamu bercerai-berai."*

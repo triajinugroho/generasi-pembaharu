@@ -1,3 +1,18 @@
+---
+id: ch2-pembaharu-modern
+title: Pembaharu Modern
+chapter: 2
+order: 4
+level: muayyid
+personas: [aktivis-baru, pembaca-mandiri, murabbi, peneliti]
+reading_time_min: 10
+tags: [sirah, sejarah, pembaharu, modern]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Pembaharu Modern
 
 > *"Barangsiapa yang menghendaki kemuliaan, maka milik Allah-lah kemuliaan itu semuanya."*

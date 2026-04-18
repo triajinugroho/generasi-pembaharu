@@ -1,3 +1,18 @@
+---
+id: esai-ekonomi-umat-dan-kemandirian
+title: Ekonomi Umat dan Kemandirian
+chapter: "esai"
+order: 99
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 4
+tags: [esai, ekonomi, umat, kemandirian]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Ekonomi Umat dan Kemandirian
 
 *Tentang mengapa gerakan dakwah yang tidak peduli ekonomi adalah gerakan yang sedang menggali kuburnya sendiri*

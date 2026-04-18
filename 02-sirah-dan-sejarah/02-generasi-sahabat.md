@@ -1,3 +1,20 @@
+---
+id: ch2-generasi-sahabat
+title: "Generasi Sahabat: Manusia Biasa, Pencapaian Luar Biasa"
+chapter: 2
+order: 2
+level: muayyid
+personas: [aktivis-baru, pembaca-mandiri, murabbi, peneliti]
+reading_time_min: 10
+tags: [sirah, sejarah, generasi, sahabat]
+outcomes:
+  - "Mengidentifikasi karakter kunci generasi sahabat sebagai standar tarbiyah"
+  - "Menghubungkan profil sahabat dengan target tarbiyah LDK/Rohis"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Generasi Sahabat: Manusia Biasa, Pencapaian Luar Biasa
 
 > *"Muhammad itu adalah utusan Allah. Dan orang-orang yang bersama dengan dia bersikap keras terhadap orang-orang kafir, tetapi berkasih sayang sesama mereka."*

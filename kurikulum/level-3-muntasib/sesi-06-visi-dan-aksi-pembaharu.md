@@ -1,3 +1,18 @@
+---
+id: kur-l3-s6-visi-dan-aksi-pembaharu
+title: "Sesi 06 — Visi dan Aksi Pembaharu: Merumuskan Visi Personal-Kolektif dan Ikrar Komitmen"
+chapter: "kurikulum"
+order: 6
+level: muntasib
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 9
+tags: [kurikulum, halaqah, muntasib, sesi, visi, aksi]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 06 — Visi dan Aksi Pembaharu: Merumuskan Visi Personal-Kolektif dan Ikrar Komitmen
 
 **Level:** 3 — Muntasib (Anggota Penuh)

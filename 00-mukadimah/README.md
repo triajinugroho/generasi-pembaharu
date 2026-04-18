@@ -1,3 +1,18 @@
+---
+id: 00-mukadimah-readme
+title: "00 - Mukadimah: Sebelum Melangkah, Ketahui Mengapa"
+chapter: 0
+order: 0
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi, ketua-ldk]
+reading_time_min: 1
+tags: [mukadimah, manifesto, visi, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # 00 - Mukadimah: Sebelum Melangkah, Ketahui Mengapa
 
 > *"Barangsiapa yang menempuh jalan untuk mencari ilmu, maka Allah akan memudahkan baginya jalan menuju surga."*

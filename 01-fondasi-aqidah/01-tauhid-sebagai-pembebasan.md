@@ -1,3 +1,21 @@
+---
+id: ch1-tauhid-sebagai-pembebasan
+title: Tauhid sebagai Pembebasan
+chapter: 1
+order: 1
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 9
+tags: [aqidah, tauhid, pembebasan]
+outcomes:
+  - "Mengartikulasikan makna tauhid sebagai pembebasan dari tirani selain Allah"
+  - "Mengidentifikasi bentuk-bentuk penghambaan modern (materialisme, opini publik, konsumerisme)"
+  - "Menerapkan La ilaha illallah sebagai lensa pembebasan dalam keputusan harian"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Tauhid sebagai Pembebasan
 
 **Level: Foundational**

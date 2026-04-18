@@ -1,3 +1,21 @@
+---
+id: ch0-manifesto-generasi-pembaharu
+title: Manifesto Generasi Pembaharu
+chapter: 0
+order: 1
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi, ketua-ldk]
+reading_time_min: 5
+tags: [mukadimah, manifesto, visi, generasi, pembaharu]
+outcomes:
+  - "Menghayati urgensi kebangkitan generasi pembaharu di tengah krisis umat"
+  - "Mengartikulasikan panggilan pribadi menjadi bagian dari tajdid"
+  - "Membedakan semangat pembaharu dari reaksi emosional atau sekadar kritik"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Manifesto Generasi Pembaharu
 
 > *Bangunlah! Sudah terlalu lama kau tertidur,*

@@ -1,3 +1,20 @@
+---
+id: ch1-aqidah-yang-menggerakkan
+title: Aqidah yang Menggerakkan
+chapter: 1
+order: 2
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 10
+tags: [aqidah, tauhid, menggerakkan]
+outcomes:
+  - "Membedakan aqidah yang hidup dari aqidah yang sekadar dihafal"
+  - "Menghubungkan keyakinan dengan aksi sosial yang konkret"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Aqidah yang Menggerakkan
 
 > **Level**: Foundational

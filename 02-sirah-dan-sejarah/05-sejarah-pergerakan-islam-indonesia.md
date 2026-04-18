@@ -1,3 +1,18 @@
+---
+id: ch2-sejarah-pergerakan-islam-indonesia
+title: Sejarah Pergerakan Islam Indonesia
+chapter: 2
+order: 5
+level: muayyid
+personas: [aktivis-baru, pembaca-mandiri, murabbi, peneliti]
+reading_time_min: 10
+tags: [sirah, sejarah, pergerakan, islam]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sejarah Pergerakan Islam Indonesia
 
 > *"Sungguh telah berlalu sebelum kamu sunnah-sunnah Allah; maka berjalanlah kamu di muka bumi dan perhatikanlah bagaimana akibat orang-orang yang mendustakan."*

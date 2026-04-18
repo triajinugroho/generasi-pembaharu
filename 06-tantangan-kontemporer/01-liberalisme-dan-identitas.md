@@ -1,3 +1,18 @@
+---
+id: ch6-liberalisme-dan-identitas
+title: Liberalisme dan Identitas
+chapter: 6
+order: 1
+level: muntasib
+personas: [ketua-ldk, pembaca-mandiri, peneliti]
+reading_time_min: 9
+tags: [tantangan-kontemporer, liberalisme, identitas]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Liberalisme dan Identitas
 
 > *"Mereka menginginkan agar kamu menjadi kafir sebagaimana mereka telah menjadi kafir, sehingga kamu menjadi sama."*

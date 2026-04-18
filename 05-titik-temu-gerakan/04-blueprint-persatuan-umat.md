@@ -1,3 +1,18 @@
+---
+id: ch5-blueprint-persatuan-umat
+title: Blueprint Persatuan Umat
+chapter: 5
+order: 4
+level: muntasib
+personas: [ketua-ldk, murabbi, peneliti]
+reading_time_min: 11
+tags: [titik-temu, gerakan, ukhuwah, blueprint, persatuan, umat]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Blueprint Persatuan Umat
 
 > **Level**: Advanced

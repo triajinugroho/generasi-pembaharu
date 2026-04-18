@@ -1,3 +1,18 @@
+---
+id: esai-perempuan-pembaharu
+title: "Perempuan Pembaharu: Dari Khadijah hingga Kampus"
+chapter: "esai"
+order: 99
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 4
+tags: [esai, perempuan, pembaharu]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Perempuan Pembaharu: Dari Khadijah hingga Kampus
 
 *Tentang peran perempuan yang tak tergantikan dalam setiap babak kebangkitan umat*

@@ -1,3 +1,20 @@
+---
+id: ch2-blueprint-nabawi
+title: "Blueprint Nabawi: Sirah sebagai Model Gerakan"
+chapter: 2
+order: 1
+level: muayyid
+personas: [aktivis-baru, pembaca-mandiri, murabbi, peneliti]
+reading_time_min: 12
+tags: [sirah, sejarah, blueprint, nabawi]
+outcomes:
+  - "Memetakan blueprint dakwah Nabi di Mekkah dan Madinah"
+  - "Mengekstrak prinsip strategi yang relevan untuk dakwah kampus"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Blueprint Nabawi: Sirah sebagai Model Gerakan
 
 > *"Sungguh pada kisah-kisah mereka itu terdapat pelajaran bagi orang-orang yang mempunyai akal."*

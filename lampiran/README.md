@@ -1,3 +1,18 @@
+---
+id: lampiran-readme
+title: Lampiran
+chapter: "lampiran"
+order: 0
+level: lintas
+personas: [murabbi, ketua-ldk]
+reading_time_min: 1
+tags: [lampiran, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Lampiran
 
 *Perangkat praktis untuk mengamalkan isi buku ini — bukan sekadar dibaca, tapi dijalankan.*

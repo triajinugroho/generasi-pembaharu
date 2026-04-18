@@ -1,3 +1,18 @@
+---
+id: ref-tokoh-inspirasi
+title: Tokoh Inspirasi
+chapter: "referensi"
+order: 99
+level: lintas
+personas: [peneliti, pembaca-mandiri, murabbi]
+reading_time_min: 14
+tags: [referensi, tokoh, inspirasi]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Tokoh Inspirasi
 
 *Profil para pembaharu (mujaddid) dari era klasik hingga modern — mereka yang menghidupkan kembali api peradaban Islam di zamannya masing-masing*

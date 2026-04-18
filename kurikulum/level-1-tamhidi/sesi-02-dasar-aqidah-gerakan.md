@@ -1,3 +1,18 @@
+---
+id: kur-l1-s2-dasar-aqidah-gerakan
+title: "Sesi 2: Dasar Aqidah Gerakan"
+chapter: "kurikulum"
+order: 2
+level: tamhidi
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 4
+tags: [kurikulum, halaqah, tamhidi, sesi, dasar, aqidah]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 2: Dasar Aqidah Gerakan
 
 > *"Katakanlah: 'Sesungguhnya shalatku, ibadahku, hidupku, dan matiku hanyalah untuk Allah, Tuhan seluruh alam.'"* (QS. Al-An'am: 162)

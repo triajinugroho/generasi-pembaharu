@@ -1,3 +1,20 @@
+---
+id: ch1-falsafah-tauhid-pergerakan
+title: Falsafah Tauhid Pergerakan
+chapter: 1
+order: 4
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 11
+tags: [aqidah, tauhid, falsafah, pergerakan]
+outcomes:
+  - "Merumuskan falsafah pergerakan Islam berbasis tauhid"
+  - "Menggunakan tauhid sebagai poros evaluasi strategi dakwah"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Falsafah Tauhid Pergerakan
 
 > **Level**: Advanced

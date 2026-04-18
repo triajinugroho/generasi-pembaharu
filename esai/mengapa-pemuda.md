@@ -1,3 +1,18 @@
+---
+id: esai-mengapa-pemuda
+title: Mengapa Pemuda?
+chapter: "esai"
+order: 99
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 4
+tags: [esai, mengapa, pemuda]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Mengapa Pemuda?
 
 *Tentang peran sentral generasi muda dalam setiap kebangkitan peradaban Islam*

@@ -1,3 +1,18 @@
+---
+id: kur-l3-s3-membangun-institusi
+title: "Sesi 03 — Membangun Institusi: Dari Gerakan Informal ke Lembaga Formal"
+chapter: "kurikulum"
+order: 3
+level: muntasib
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 6
+tags: [kurikulum, halaqah, muntasib, sesi, membangun, institusi]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 03 — Membangun Institusi: Dari Gerakan Informal ke Lembaga Formal
 
 **Level:** 3 — Muntasib (Anggota Penuh)

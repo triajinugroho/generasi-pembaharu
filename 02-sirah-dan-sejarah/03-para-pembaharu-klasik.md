@@ -1,3 +1,18 @@
+---
+id: ch2-para-pembaharu-klasik
+title: Para Pembaharu Klasik
+chapter: 2
+order: 3
+level: muayyid
+personas: [aktivis-baru, pembaca-mandiri, murabbi, peneliti]
+reading_time_min: 9
+tags: [sirah, sejarah, para, pembaharu, klasik]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Para Pembaharu Klasik
 
 > *"Sesungguhnya Allah mengutus untuk umat ini pada setiap awal seratus tahun, orang yang memperbarui agamanya."*

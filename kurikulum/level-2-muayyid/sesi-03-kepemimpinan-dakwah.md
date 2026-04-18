@@ -1,3 +1,18 @@
+---
+id: kur-l2-s3-kepemimpinan-dakwah
+title: "Sesi 03 — Kepemimpinan Dakwah: Servant Leadership, Syura, dan Delegasi"
+chapter: "kurikulum"
+order: 3
+level: muayyid
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 6
+tags: [kurikulum, halaqah, muayyid, sesi, kepemimpinan, dakwah]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 03 — Kepemimpinan Dakwah: Servant Leadership, Syura, dan Delegasi
 
 **Level:** 2 — Muayyid (Pendukung)

@@ -1,3 +1,20 @@
+---
+id: meta-cara-menggunakan
+title: "Cara Menggunakan Repositori Ini"
+chapter: meta
+order: 0
+level: lintas
+personas: [aktivis-baru, murabbi, ketua-ldk, pembaca-mandiri, peneliti]
+reading_time_min: 8
+tags: [meta, navigasi, panduan, jalur, persona]
+outcomes:
+  - "Memilih jalur baca yang sesuai dengan profil pembaca"
+  - "Menavigasi repo berdasarkan peran dan kebutuhan"
+prerequisites: []
+related: [root-readme, jalur-readme, daftar-isi]
+last_reviewed: 2026-04-18
+---
+
 # Cara Menggunakan Repositori Ini
 
 > *"Barangsiapa menempuh jalan untuk mencari ilmu, Allah akan mudahkan baginya jalan menuju surga."* — HR. Muslim

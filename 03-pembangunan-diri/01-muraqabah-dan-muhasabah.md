@@ -1,3 +1,18 @@
+---
+id: ch3-muraqabah-dan-muhasabah
+title: "Muraqabah dan Muhasabah: Mata Hati yang Terjaga, Jiwa yang Teraudit"
+chapter: 3
+order: 1
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 8
+tags: [pembangunan-diri, tarbiyah, muraqabah, muhasabah]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Muraqabah dan Muhasabah: Mata Hati yang Terjaga, Jiwa yang Teraudit
 
 **Level: Foundational**

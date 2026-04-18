@@ -1,3 +1,18 @@
+---
+id: esai-kritik-diri-gerakan-dakwah
+title: "Kritik Diri Gerakan Dakwah: Keberanian Melihat Cermin"
+chapter: "esai"
+order: 99
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 4
+tags: [esai, kritik, diri, gerakan]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Kritik Diri Gerakan Dakwah: Keberanian Melihat Cermin
 
 *Tentang kelemahan-kelemahan internal yang jarang kita bicarakan — dan mengapa membicarakannya adalah bentuk cinta, bukan pengkhianatan*

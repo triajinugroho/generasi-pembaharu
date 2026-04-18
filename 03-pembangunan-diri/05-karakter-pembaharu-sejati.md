@@ -1,3 +1,18 @@
+---
+id: ch3-karakter-pembaharu-sejati
+title: Karakter Pembaharu Sejati
+chapter: 3
+order: 5
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 8
+tags: [pembangunan-diri, tarbiyah, karakter, pembaharu, sejati]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Karakter Pembaharu Sejati
 
 > **Level**: Advanced

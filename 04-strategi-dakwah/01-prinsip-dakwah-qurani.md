@@ -1,3 +1,20 @@
+---
+id: ch4-prinsip-dakwah-qurani
+title: Prinsip Dakwah Qurani
+chapter: 4
+order: 1
+level: muayyid
+personas: [ketua-ldk, murabbi, pembaca-mandiri]
+reading_time_min: 9
+tags: [dakwah, strategi, prinsip, qurani]
+outcomes:
+  - "Merumuskan delapan prinsip dakwah Qurani dari metodologi para nabi"
+  - "Menerapkan prinsip-prinsip tersebut pada konteks dakwah kampus"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Prinsip Dakwah Qurani
 
 > **Level**: Foundational
