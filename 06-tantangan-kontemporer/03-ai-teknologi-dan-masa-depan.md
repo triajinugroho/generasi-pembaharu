@@ -1,3 +1,18 @@
+---
+id: ch6-ai-teknologi-dan-masa-depan
+title: AI, Teknologi, dan Masa Depan
+chapter: 6
+order: 3
+level: muntasib
+personas: [ketua-ldk, pembaca-mandiri, peneliti]
+reading_time_min: 9
+tags: [tantangan-kontemporer, teknologi, masa, depan]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # AI, Teknologi, dan Masa Depan
 
 > *"Dia mengajarkan kepada manusia apa yang tidak diketahuinya."*

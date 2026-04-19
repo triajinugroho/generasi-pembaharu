@@ -1,3 +1,18 @@
+---
+id: esai-dari-halaqah-ke-peradaban
+title: "Dari Halaqah ke Peradaban: Peta Jalan yang Hilang"
+chapter: "esai"
+order: 99
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 4
+tags: [esai, halaqah, peradaban]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Dari Halaqah ke Peradaban: Peta Jalan yang Hilang
 
 *Tentang jurang besar antara pembinaan individu dan dampak peradaban — dan bagaimana kita bisa menjembataninya*

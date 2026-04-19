@@ -1,3 +1,18 @@
+---
+id: ch3-manajemen-ruhani-dai
+title: Manajemen Ruhani Da'i
+chapter: 3
+order: 2
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 9
+tags: [pembangunan-diri, tarbiyah, manajemen, ruhani, dai]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Manajemen Ruhani Da'i
 
 > **Level**: Foundational

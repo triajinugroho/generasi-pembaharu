@@ -1,3 +1,18 @@
+---
+id: ch3-intelektualitas-dan-wawasan
+title: Intelektualitas dan Wawasan
+chapter: 3
+order: 3
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 7
+tags: [pembangunan-diri, tarbiyah, intelektualitas, wawasan]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Intelektualitas dan Wawasan
 
 > **Level**: Intermediate

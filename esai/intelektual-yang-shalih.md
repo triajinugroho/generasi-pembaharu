@@ -1,3 +1,18 @@
+---
+id: esai-intelektual-yang-shalih
+title: Intelektual yang Shalih
+chapter: "esai"
+order: 99
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 4
+tags: [esai, intelektual, shalih]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Intelektual yang Shalih
 
 *Menjembatani jurang antara kecerdasan akal dan kebersihan hati*

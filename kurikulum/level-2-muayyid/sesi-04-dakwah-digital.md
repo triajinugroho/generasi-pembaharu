@@ -1,3 +1,18 @@
+---
+id: kur-l2-s4-dakwah-digital
+title: "Sesi 04 — Dakwah Digital: Kreasi Konten, Strategi Media Sosial, dan Etika Online"
+chapter: "kurikulum"
+order: 4
+level: muayyid
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 5
+tags: [kurikulum, halaqah, muayyid, sesi, dakwah, digital]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 04 — Dakwah Digital: Kreasi Konten, Strategi Media Sosial, dan Etika Online
 
 **Level:** 2 — Muayyid (Pendukung)

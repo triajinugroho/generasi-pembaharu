@@ -1,3 +1,18 @@
+---
+id: ch4-membangun-ekosistem-dakwah
+title: Membangun Ekosistem Dakwah
+chapter: 4
+order: 5
+level: muayyid
+personas: [ketua-ldk, murabbi, pembaca-mandiri]
+reading_time_min: 9
+tags: [dakwah, strategi, membangun, ekosistem]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Membangun Ekosistem Dakwah
 
 > **Level**: Advanced

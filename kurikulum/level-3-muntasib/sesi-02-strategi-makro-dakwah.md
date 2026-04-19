@@ -1,3 +1,18 @@
+---
+id: kur-l3-s2-strategi-makro-dakwah
+title: "Sesi 02 — Strategi Makro Dakwah: Dakwah Struktural vs Kultural dan Perencanaan Jangka Panjang"
+chapter: "kurikulum"
+order: 2
+level: muntasib
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 6
+tags: [kurikulum, halaqah, muntasib, sesi, strategi, makro]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 02 — Strategi Makro Dakwah: Dakwah Struktural vs Kultural dan Perencanaan Jangka Panjang
 
 **Level:** 3 — Muntasib (Anggota Penuh)

@@ -1,3 +1,18 @@
+---
+id: ch3-kepemimpinan-profetik
+title: Kepemimpinan Profetik
+chapter: 3
+order: 4
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 8
+tags: [pembangunan-diri, tarbiyah, kepemimpinan, profetik]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Kepemimpinan Profetik
 
 > **Level**: Intermediate

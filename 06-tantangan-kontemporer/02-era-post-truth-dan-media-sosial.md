@@ -1,3 +1,18 @@
+---
+id: ch6-era-post-truth-dan-media-sosial
+title: Era Post-Truth dan Media Sosial
+chapter: 6
+order: 2
+level: muntasib
+personas: [ketua-ldk, pembaca-mandiri, peneliti]
+reading_time_min: 9
+tags: [tantangan-kontemporer, era, post, truth]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Era Post-Truth dan Media Sosial
 
 > *"Wahai orang-orang yang beriman, jika datang kepadamu orang fasik membawa suatu berita, maka periksalah dengan teliti."*

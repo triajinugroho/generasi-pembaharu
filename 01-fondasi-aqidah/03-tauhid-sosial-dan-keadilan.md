@@ -1,3 +1,20 @@
+---
+id: ch1-tauhid-sosial-dan-keadilan
+title: Tauhid Sosial dan Keadilan
+chapter: 1
+order: 3
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 10
+tags: [aqidah, tauhid, sosial, keadilan]
+outcomes:
+  - "Menjelaskan implikasi sosial tauhid terhadap struktur masyarakat"
+  - "Mengkritisi ketidakadilan dari kerangka tauhid, bukan sekadar ideologi"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Tauhid Sosial dan Keadilan
 
 > **Level**: Intermediate

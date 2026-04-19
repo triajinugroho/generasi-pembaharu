@@ -1,3 +1,18 @@
+---
+id: ch5-peta-gerakan-dakwah-indonesia
+title: Peta Gerakan Dakwah Indonesia
+chapter: 5
+order: 1
+level: muntasib
+personas: [ketua-ldk, murabbi, peneliti]
+reading_time_min: 10
+tags: [titik-temu, gerakan, ukhuwah, peta, dakwah]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Peta Gerakan Dakwah Indonesia
 
 > **Level**: Foundational

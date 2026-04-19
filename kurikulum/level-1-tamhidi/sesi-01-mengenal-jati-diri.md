@@ -1,3 +1,18 @@
+---
+id: kur-l1-s1-mengenal-jati-diri
+title: "Sesi 01: Mengenal Jati Diri — Siapakah Aku?"
+chapter: "kurikulum"
+order: 1
+level: tamhidi
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 6
+tags: [kurikulum, halaqah, tamhidi, sesi, mengenal, jati]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 01: Mengenal Jati Diri — Siapakah Aku?
 
 > *"Dan (ingatlah) ketika Tuhanmu berfirman kepada para malaikat, 'Sesungguhnya Aku hendak menjadikan seorang khalifah di muka bumi.'"* (QS. Al-Baqarah: 30)

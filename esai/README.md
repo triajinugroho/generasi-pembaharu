@@ -1,3 +1,18 @@
+---
+id: esai-readme
+title: Koleksi Esai
+chapter: "esai"
+order: 0
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 1
+tags: [esai, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Koleksi Esai
 
 Bagian ini berisi esai-esai tematik yang berdiri sendiri — masing-masing mengangkat satu gagasan besar, mengolahnya dengan dalil, data, dan refleksi, lalu menyajikannya sebagai bahan renungan dan diskusi.

@@ -1,3 +1,18 @@
+---
+id: lamp-template-evaluasi
+title: Template Evaluasi Peserta dan Program
+chapter: "lampiran"
+order: 99
+level: lintas
+personas: [murabbi, ketua-ldk]
+reading_time_min: 4
+tags: [lampiran, template, evaluasi]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Template Evaluasi Peserta dan Program
 
 *Mengukur pertumbuhan bukan untuk menghakimi, tapi untuk mengarahkan — karena apa yang tidak diukur, tidak bisa diperbaiki.*

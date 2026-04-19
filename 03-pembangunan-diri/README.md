@@ -1,3 +1,18 @@
+---
+id: 03-pembangunan-diri-readme
+title: "Bab 3: Pembangunan Diri"
+chapter: 3
+order: 0
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi]
+reading_time_min: 2
+tags: [pembangunan-diri, tarbiyah, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Bab 3: Pembangunan Diri
 
 > *"Sesungguhnya Allah tidak mengubah keadaan suatu kaum sehingga mereka mengubah keadaan yang ada pada diri mereka sendiri."*

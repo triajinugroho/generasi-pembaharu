@@ -1,3 +1,18 @@
+---
+id: kur-l2-s6-proyek-dakwah
+title: "Sesi 06 — Proyek Dakwah: Perencanaan dan Pelaksanaan Proyek Dakwah Nyata"
+chapter: "kurikulum"
+order: 6
+level: muayyid
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 6
+tags: [kurikulum, halaqah, muayyid, sesi, proyek, dakwah]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 06 — Proyek Dakwah: Perencanaan dan Pelaksanaan Proyek Dakwah Nyata
 
 **Level:** 2 — Muayyid (Pendukung)

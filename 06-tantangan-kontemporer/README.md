@@ -1,3 +1,18 @@
+---
+id: 06-tantangan-kontemporer-readme
+title: "Bab 6: Tantangan Kontemporer"
+chapter: 6
+order: 0
+level: muntasib
+personas: [ketua-ldk, pembaca-mandiri, peneliti]
+reading_time_min: 1
+tags: [tantangan-kontemporer, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Bab 6: Tantangan Kontemporer
 
 > *"Demi masa. Sesungguhnya manusia benar-benar dalam kerugian, kecuali orang-orang yang beriman dan beramal shalih serta saling menasihati dalam kebenaran dan saling menasihati dalam kesabaran."*

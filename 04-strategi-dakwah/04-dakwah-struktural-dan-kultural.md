@@ -1,3 +1,18 @@
+---
+id: ch4-dakwah-struktural-dan-kultural
+title: Dakwah Struktural dan Kultural
+chapter: 4
+order: 4
+level: muayyid
+personas: [ketua-ldk, murabbi, pembaca-mandiri]
+reading_time_min: 8
+tags: [dakwah, strategi, struktural, kultural]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Dakwah Struktural dan Kultural
 
 > **Level**: Advanced

@@ -1,3 +1,18 @@
+---
+id: kur-l1-s4-adab-dan-akhlak-dai
+title: "Sesi 4: Adab dan Akhlak Da'i"
+chapter: "kurikulum"
+order: 4
+level: tamhidi
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 5
+tags: [kurikulum, halaqah, tamhidi, sesi, adab, akhlak]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 4: Adab dan Akhlak Da'i
 
 > *"Maka berkat rahmat Allah engkau (Muhammad) berlaku lemah lembut terhadap mereka. Seandainya engkau bersikap keras dan berhati kasar, tentulah mereka menjauhkan diri dari sekitarmu."* (QS. Ali Imran: 159)

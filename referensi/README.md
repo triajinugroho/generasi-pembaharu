@@ -1,3 +1,18 @@
+---
+id: referensi-readme
+title: Referensi
+chapter: "referensi"
+order: 0
+level: lintas
+personas: [peneliti, pembaca-mandiri, murabbi]
+reading_time_min: 1
+tags: [referensi, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Referensi
 
 Bagian ini berisi sumber-sumber rujukan untuk memperdalam pemahaman tentang Islam, dakwah, dan pembangunan peradaban. Disusun sebagai panduan, bukan daftar wajib — ambil yang sesuai dengan tahap dan kebutuhanmu.

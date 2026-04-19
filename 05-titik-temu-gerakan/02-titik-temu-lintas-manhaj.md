@@ -1,3 +1,18 @@
+---
+id: ch5-titik-temu-lintas-manhaj
+title: Titik Temu Lintas Manhaj
+chapter: 5
+order: 2
+level: muntasib
+personas: [ketua-ldk, murabbi, peneliti]
+reading_time_min: 10
+tags: [titik-temu, gerakan, ukhuwah, titik, temu, lintas]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Titik Temu Lintas Manhaj
 
 > **Level**: Intermediate

@@ -1,3 +1,18 @@
+---
+id: esai-spiritualitas-di-era-digital
+title: "Spiritualitas di Era Digital: Menjaga Hati di Tengah Algoritma"
+chapter: "esai"
+order: 99
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 4
+tags: [esai, spiritualitas, era, digital]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Spiritualitas di Era Digital: Menjaga Hati di Tengah Algoritma
 
 *Tentang pertempuran terbesar generasi ini — perang memperebutkan perhatian, dan bagaimana hati yang hidup bisa menang*

@@ -1,3 +1,18 @@
+---
+id: lamp-peta-bacaan-bertahap
+title: "Peta Bacaan Bertahap: Dari Pemula hingga Lanjutan"
+chapter: "lampiran"
+order: 99
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri]
+reading_time_min: 5
+tags: [lampiran, peta, bacaan, bertahap]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Peta Bacaan Bertahap: Dari Pemula hingga Lanjutan
 
 *Kurikulum bacaan terkurasi untuk membangun pondasi intelektual secara bertahap — satu level pada satu waktu.*

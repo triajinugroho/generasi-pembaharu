@@ -1,3 +1,18 @@
+---
+id: ch5-kolaborasi-strategis
+title: Kolaborasi Strategis
+chapter: 5
+order: 3
+level: muntasib
+personas: [ketua-ldk, murabbi, peneliti]
+reading_time_min: 10
+tags: [titik-temu, gerakan, ukhuwah, kolaborasi, strategis]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Kolaborasi Strategis
 
 > **Level**: Advanced

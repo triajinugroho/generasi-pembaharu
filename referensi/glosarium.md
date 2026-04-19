@@ -1,3 +1,18 @@
+---
+id: ref-glosarium
+title: Glosarium
+chapter: "referensi"
+order: 99
+level: lintas
+personas: [peneliti, pembaca-mandiri, aktivis-baru, murabbi, ketua-ldk]
+reading_time_min: 8
+tags: [referensi, glosarium]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Glosarium
 
 *Kamus istilah-istilah kunci Islam dan dakwah yang digunakan di seluruh repositori ini*

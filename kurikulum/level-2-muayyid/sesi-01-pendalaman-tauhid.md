@@ -1,3 +1,18 @@
+---
+id: kur-l2-s1-pendalaman-tauhid
+title: "Sesi 01 — Pendalaman Tauhid: Uluhiyyah, Rububiyyah, Asma wa Sifat dan Implikasinya bagi Aktivisme"
+chapter: "kurikulum"
+order: 1
+level: muayyid
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 5
+tags: [kurikulum, halaqah, muayyid, sesi, pendalaman, tauhid]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 01 — Pendalaman Tauhid: Uluhiyyah, Rububiyyah, Asma wa Sifat dan Implikasinya bagi Aktivisme
 
 **Level:** 2 — Muayyid (Pendukung)

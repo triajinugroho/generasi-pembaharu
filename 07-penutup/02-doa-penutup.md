@@ -1,3 +1,18 @@
+---
+id: ch7-doa-penutup
+title: "Doa Penutup: Ya Allah, Jadikan Kami Pembaharu"
+chapter: 7
+order: 2
+level: lintas
+personas: [aktivis-baru, pembaca-mandiri, murabbi, ketua-ldk]
+reading_time_min: 5
+tags: [penutup, epilog, doa]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Doa Penutup: Ya Allah, Jadikan Kami Pembaharu
 
 > *"Dan Tuhanmu berfirman: Berdoalah kepada-Ku, niscaya akan Kuperkenankan bagimu."* — QS. Ghafir: 60

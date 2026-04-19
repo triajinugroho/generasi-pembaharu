@@ -1,3 +1,18 @@
+---
+id: kurikulum-readme
+title: Kurikulum Generasi Pembaharu
+chapter: "kurikulum"
+order: 0
+level: lintas
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 2
+tags: [kurikulum, halaqah, lintas, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Kurikulum Generasi Pembaharu
 
 > *"Sesungguhnya Allah tidak mengubah keadaan suatu kaum sehingga mereka mengubah keadaan yang ada pada diri mereka sendiri."* (QS. Ar-Ra'd: 11)

@@ -1,3 +1,18 @@
+---
+id: 04-strategi-dakwah-readme
+title: "Bab 4: Strategi Dakwah"
+chapter: 4
+order: 0
+level: muayyid
+personas: [ketua-ldk, murabbi, pembaca-mandiri]
+reading_time_min: 1
+tags: [dakwah, strategi, README]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Bab 4: Strategi Dakwah
 
 > *"Serulah (manusia) ke jalan Tuhanmu dengan hikmah dan pengajaran yang baik, dan berdebatlah dengan mereka dengan cara yang lebih baik."*

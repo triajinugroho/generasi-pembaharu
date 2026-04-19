@@ -1,3 +1,18 @@
+---
+id: kur-l3-s5-menjawab-tantangan-zaman
+title: "Sesi 05 — Menjawab Tantangan Zaman: Liberalisme, Post-Truth, AI, dan Teknologi"
+chapter: "kurikulum"
+order: 5
+level: muntasib
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 6
+tags: [kurikulum, halaqah, muntasib, sesi, menjawab, tantangan]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 05 — Menjawab Tantangan Zaman: Liberalisme, Post-Truth, AI, dan Teknologi
 
 **Level:** 3 — Muntasib (Anggota Penuh)

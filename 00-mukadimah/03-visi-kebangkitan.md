@@ -1,3 +1,20 @@
+---
+id: ch0-visi-kebangkitan
+title: "Visi Kebangkitan: Menjadi Jawaban, Bukan Sekadar Keluhan"
+chapter: 0
+order: 3
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi, ketua-ldk]
+reading_time_min: 4
+tags: [mukadimah, manifesto, visi, kebangkitan]
+outcomes:
+  - "Merumuskan visi kebangkitan umat sebagai jawaban, bukan keluhan"
+  - "Menghubungkan visi makro dengan peran personal sebagai aktivis"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Visi Kebangkitan: Menjadi Jawaban, Bukan Sekadar Keluhan
 
 > *Fajar telah menyingsing, wahai yang tertidur,*

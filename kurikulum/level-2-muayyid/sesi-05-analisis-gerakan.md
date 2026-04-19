@@ -1,3 +1,18 @@
+---
+id: kur-l2-s5-analisis-gerakan
+title: "Sesi 05 — Analisis Gerakan: Menelaah Gerakan Dakwah di Indonesia"
+chapter: "kurikulum"
+order: 5
+level: muayyid
+personas: [murabbi, aktivis-baru, ketua-ldk]
+reading_time_min: 5
+tags: [kurikulum, halaqah, muayyid, sesi, analisis, gerakan]
+outcomes: []  # TODO: editorial review
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Sesi 05 — Analisis Gerakan: Menelaah Gerakan Dakwah di Indonesia
 
 **Level:** 2 — Muayyid (Pendukung)

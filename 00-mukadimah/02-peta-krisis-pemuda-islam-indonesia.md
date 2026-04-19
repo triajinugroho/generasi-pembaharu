@@ -1,3 +1,21 @@
+---
+id: ch0-peta-krisis-pemuda-islam-indonesia
+title: Peta Krisis Pemuda Islam Indonesia
+chapter: 0
+order: 2
+level: tamhidi
+personas: [aktivis-baru, pembaca-mandiri, murabbi, ketua-ldk]
+reading_time_min: 5
+tags: [mukadimah, manifesto, visi, peta, krisis, pemuda]
+outcomes:
+  - "Mengidentifikasi tiga krisis besar pemuda Muslim Indonesia hari ini"
+  - "Menjelaskan akar sejarah dan struktural dari tiap krisis"
+  - "Memetakan posisi diri di tengah peta krisis tersebut"
+prerequisites: []
+related: []
+last_reviewed: 2026-04-18
+---
+
 # Peta Krisis Pemuda Islam Indonesia
 
 > *"Telah tampak kerusakan di darat dan di laut disebabkan perbuatan tangan manusia, supaya Allah merasakan kepada mereka sebagian dari (akibat) perbuatan mereka, agar mereka kembali (ke jalan yang benar)."*
